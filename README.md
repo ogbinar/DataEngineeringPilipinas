@@ -1,7 +1,8 @@
-# DataEngineeringPilipinas
+# DataEngineeringPilipinas - a PyData group
 
 https://www.facebook.com/groups/dataengineeringpilipinas
+https://www.meetup.com/data-engineering-pilipinas/
 
-A community for data engineers, developers, and users of closed and open source data tools in the Philippines.  
+Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. 
 
 This will serve as repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of.
