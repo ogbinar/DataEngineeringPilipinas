@@ -1,9 +1,12 @@
 # DataEngineeringPilipinas - a PyData group
 Awesome Data Engineering Repository from the Philippines
 
-Join our growing community!
-[Data Engineering Pilipinas | Facebook Group](https://web.facebook.com/groups/dataengineeringpilipinas/)
-[Data Engineering Pilipinas | Discord Channel](https://discord.gg/Aq68MsyJ)
+Join our growing community!  
+
+[Data Engineering Pilipinas | Facebook Group](https://web.facebook.com/groups/dataengineeringpilipinas/)  
+
+[Data Engineering Pilipinas | Discord Channel](https://discord.gg/Aq68MsyJ)  
+
 [Data Engineering Philippines | Meetup ](https://www.meetup.com/data-engineering-pilipinas/)
 
 
