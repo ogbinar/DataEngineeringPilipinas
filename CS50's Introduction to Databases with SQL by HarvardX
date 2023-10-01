@@ -1,5 +1,11 @@
-From their website:
+An introduction to databases using SQL, a language for querying and manipulating data in relational databases.
 
-This is CS50’s introduction to databases using a language called SQL. Learn how to create, read, update, and delete data with relational databases, which store data in rows and columns. Learn how to model real-world entities and relationships among them using tables with appropriate types, triggers, and constraints. Learn how to normalize data to eliminate redundancies and reduce potential for errors. Learn how to join tables together using primary and foreign keys. Learn how to automate searches with views and expedite searches with indexes. Learn how to connect SQL with other languages like Python and Java. Course begins with SQLite for portability’s sake and ends with introductions to PostgreSQL and MySQL for scalability’s sake as well. Assignments inspired by real-world datasets.
+Create, read, update, and delete data with tables, triggers, and constraints, and how to model real-world entities and relationships among them.
 
-To learn more: https://cs50.harvard.edu/sql/2023/
+Normalize data to avoid redundancies and errors, how to join tables with primary and foreign keys, and how to create views and indexes to optimize searches.
+
+Starts with SQLite, a portable database engine, and ends with PostgreSQL and MySQL, scalable database systems. The course uses Python and Java to connect SQL with other languages.
+
+Inspired by real-world datasets, such as movies, houses, flights, and countries. The course is offered by HarvardX on edX.
+
+Learn more: https://cs50.harvard.edu/sql/2023/
