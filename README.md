@@ -10,6 +10,6 @@ Join our growing community!
 [Data Engineering Philippines | Meetup ](https://www.meetup.com/data-engineering-pilipinas/)
 
 
-Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open-source data tools and methods/techniques in the Philippines. 
+Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.
 
 This will serve as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of.
