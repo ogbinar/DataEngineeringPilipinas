@@ -37,9 +37,10 @@ https://github.com/microsoft/Data-Science-For-Beginners/tree/main
 **Portfolio:**
 
 📌 (AlexTheAnalyst) Create and host a Portfolio website for free using GitHub Pages:
+
 https://youtu.be/ocdwh0KYeUs?si=dm61kvq9Ehs8y3xl
 
-<br><br>
+<br>
 
 
 📌Track your Portfolio/website visitors for free using Google Analytics:
