@@ -6,13 +6,15 @@ Compilation of Free Resources that you may find helpful in your journey.
 
 📌 Internships
 
-The Sparks Foundation (1-month, remote, and unpaid internship)
+The Sparks Foundation (1-month, remote, and unpaid Data Science and Business Analytics internship)
+
 https://www.linkedin.com/company/the-sparks-foundation/
 
 <br><br>
 
 
 📌 For Roadmaps/Study guides (Python, Data Scientist, SQL, and more):
+
 https://roadmap.sh/
 
 <br><br>
@@ -28,13 +30,23 @@ Intermediate/Advanced - https://8weeksqlchallenge.com/
 
 
 📌 Data Science for Beginners by Microsoft
+
 https://github.com/microsoft/Data-Science-For-Beginners/tree/main
 
-<br><br><br>
+<br><br>
+
+
+📌 Harvard CS50’s Introduction to Programming with Python – Full University Course
+
+https://youtu.be/nLRL_NcnK-4?si=JVNWdCVQwk-_frn3
 
 
 
-**Portfolio:**
+<br><br><br><br>
+
+
+
+## **Build your Portfolio:**
 
 📌 (AlexTheAnalyst) Create and host a Portfolio website for free using GitHub Pages:
 
@@ -50,13 +62,13 @@ https://www.youtube.com/watch?v=94P3gPFR060
 https://www.youtube.com/watch?v=XPuWgkd3RCs
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 
-**Free Statistics Lessons on YouTube:**
+## **Free Statistics Lessons on YouTube:**
 
-📌CrashCourse Statistics
+📌 CrashCourse Statistics
 https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr
 
 
