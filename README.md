@@ -11,6 +11,7 @@ Join our growing community!
 
 [Data Engineering Pilipinas | Youtube ](https://www.youtube.com/@DataEngineeringPilipinas)
 
+[FREE LEARNING RESOURCES](https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/FREE_RESOURCES.md)
 
 Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.
 
