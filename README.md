@@ -6,6 +6,8 @@ Join our growing community!
 
 [Data Engineering Pilipinas | Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/) [FB Page](https://www.facebook.com/DataEngineeringPilipinas/)
 
+[Data Engineering Pilipinas | Discord Group ](https://discord.com/invite/buDgydz7J9)
+
 [Data Engineering Pilipinas | Datacamp Studygroup Discord](https://discord.gg/eKEZuXeyxt)
 
 [Data Engineering Pilipinas | Meetup ](https://www.meetup.com/data-engineering-pilipinas/)
