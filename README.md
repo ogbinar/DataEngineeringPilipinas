@@ -4,13 +4,22 @@ Awesome Data Engineering Repository from the Philippines
 
 Join our growing community!
 
-[Data Engineering Pilipinas | Facebook Group](https://web.facebook.com/groups/dataengineeringpilipinas/)
+[Data Engineering Pilipinas | Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/) [FB Page]([https://web.facebook.com/groups/dataengineeringpilipinas/](https://www.facebook.com/DataEngineeringPilipinas/))
 
 [Data Engineering Pilipinas | Datacamp Studygroup Discord](https://discord.gg/eKEZuXeyxt)
 
 [Data Engineering Pilipinas | Meetup ](https://www.meetup.com/data-engineering-pilipinas/)
 
 [Data Engineering Pilipinas | Youtube ](https://www.youtube.com/@DataEngineeringPilipinas)
+
+| FB Chat Topic & Link           | Description                        |
+|-------------------------------|------------------------------------|
+| [Data Trainings & Learning](https://m.me/ch/AbaSuNgKYyy4jonZ/) | Boost your data skills with training and bootcamps.       |
+| [Data Infra & Platforms](https://m.me/ch/Abay3-jjr3dSs6k1/) | Explore data infrastructure and platforms for efficient data management. |
+| [Data Governance & Quality](https://m.me/ch/AbaSuNgKYyy4jonZ/) | Ensure data accuracy and security with governance practices. |
+| [Data Modeling & Design](https://m.me/ch/Abay3-jjr3dSs6k1/) | Design databases and systems with effective data modeling. |
+| [Data Integration](https://m.me/ch/AbY6_iPdWbmqYB6G/) | Extract, transform, and load data for analysis and insights. |
+
 
 Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.
 
