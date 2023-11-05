@@ -4,7 +4,7 @@ Awesome Data Engineering Repository from the Philippines
 
 Join our growing community!
 
-[Data Engineering Pilipinas | Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/) [FB Page]([https://web.facebook.com/groups/dataengineeringpilipinas/](https://www.facebook.com/DataEngineeringPilipinas/))
+[Data Engineering Pilipinas | Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/) [FB Page](https://www.facebook.com/DataEngineeringPilipinas/)
 
 [Data Engineering Pilipinas | Datacamp Studygroup Discord](https://discord.gg/eKEZuXeyxt)
 
