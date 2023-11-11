@@ -29,6 +29,7 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 
 ## Contents
 
+- [Free Study Resources] (#free-study-resources)
 - [Data Storage & Databases](#data-storage--databases)
 - [Data Ingestion](#data-ingestion)
 - [Data Formats](#data-formats)
@@ -39,6 +40,10 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 - [Data Governance](#data-governance)
 - [Data Platforms](#data-platforms)
 - [Community Contents](#community-contents)
+
+## Free Study Resources
+
+[Free Study Resources] (FREE_RESOURCES.md)
 
 ## Data Storage & Databases
 
