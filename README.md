@@ -29,7 +29,8 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 
 ## Contents
 
-- [Free Study Resources] (#free-study-resources)
+- [Study Roadmap]
+- [Free Study Resources]
 - [Data Storage & Databases](#data-storage--databases)
 - [Data Ingestion](#data-ingestion)
 - [Data Formats](#data-formats)
@@ -41,9 +42,19 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 - [Data Platforms](#data-platforms)
 - [Community Contents](#community-contents)
 
-## Free Study Resources
+## Study Roadmap
 
-[Free Study Resources] (FREE_RESOURCES.md)
+### Data Engineering
+![Data Engineering](https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/DataCamp%20-%20Data%20Engineer%20Track.png)
+
+
+### Data Analyst
+![Data Analyst](https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/DataCamp%20-%20Data%20Analyst%20Associate%20%26%20Professional%20Track.png)
+
+## Free Resources
+
+- [Study Materials](https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/FREE_RESOURCES.md)
+- [Cloud Free Tier](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/resources/Cloud-Free-Tier-Comparison)
 
 ## Data Storage & Databases
 
