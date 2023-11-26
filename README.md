@@ -4,7 +4,9 @@ Awesome Data Engineering Repository from the Philippines
 
 Join our growing community!
 
-[Data Engineering Pilipinas | Facebook Group](https://web.facebook.com/groups/dataengineeringpilipinas/)
+[Data Engineering Pilipinas | Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/) [FB Page](https://www.facebook.com/DataEngineeringPilipinas/)
+
+[Data Engineering Pilipinas | Discord Group ](https://discord.com/invite/buDgydz7J9)
 
 [Data Engineering Pilipinas | Datacamp Studygroup Discord](https://discord.gg/eKEZuXeyxt)
 
@@ -12,12 +14,23 @@ Join our growing community!
 
 [Data Engineering Pilipinas | Youtube ](https://www.youtube.com/@DataEngineeringPilipinas)
 
+| FB Chat Topic & Link           | Description                        |
+|-------------------------------|------------------------------------|
+| [Data Trainings & Learning](https://m.me/ch/AbaSuNgKYyy4jonZ/) | Boost your data skills with training and bootcamps.       |
+| [Data Infra & Platforms](https://m.me/ch/Abay3-jjr3dSs6k1/) | Explore data infrastructure and platforms for efficient data management. |
+| [Data Governance & Quality](https://m.me/ch/AbaSuNgKYyy4jonZ/) | Ensure data accuracy and security with governance practices. |
+| [Data Modeling & Design](https://m.me/ch/Abay3-jjr3dSs6k1/) | Design databases and systems with effective data modeling. |
+| [Data Integration](https://m.me/ch/AbY6_iPdWbmqYB6G/) | Extract, transform, and load data for analysis and insights. |
+
+
 Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.
 
 This will serve as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of.
 
 ## Contents
 
+- [Study Roadmap]
+- [Free Study Resources]
 - [Data Storage & Databases](#data-storage--databases)
 - [Data Ingestion](#data-ingestion)
 - [Data Formats](#data-formats)
@@ -28,6 +41,20 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 - [Data Governance](#data-governance)
 - [Data Platforms](#data-platforms)
 - [Community Contents](#community-contents)
+
+## Study Roadmap
+
+### Data Engineering
+![Data Engineering](https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/DataCamp%20-%20Data%20Engineer%20Track.png)
+
+
+### Data Analyst
+![Data Analyst](https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/DataCamp%20-%20Data%20Analyst%20Associate%20%26%20Professional%20Track.png)
+
+## Free Resources
+
+- [Study Materials](https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/FREE_RESOURCES.md)
+- [Cloud Free Tier](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/resources/Cloud-Free-Tier-Comparison)
 
 ## Data Storage & Databases
 
