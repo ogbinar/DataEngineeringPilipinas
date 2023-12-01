@@ -205,6 +205,7 @@ This video provides an introduction to Data Engineering. In partnership with Stu
 **Description:**
 
 This video discusses building a career in PH Tech Startups.
+* In Partnership with Filipino Web Development Peers, Hosted by FWDP Founder, David Genesis Pedeglorio
 * Guest Speaker: Andoy Montiel, Chief Data Officer of Packworks
 
 **Link:** [https://youtu.be/pzxFTFB8f6s](https://youtu.be/pzxFTFB8f6s)
@@ -216,9 +217,7 @@ This video discusses building a career in PH Tech Startups.
 **Description:**
 
 This video discusses careers in Analytics in the Philippines.
-
-* Sherwin Pelayo
-* Doc Ligot
+* Guest Sherwin Pelayo, and hosted by Doc Ligot
  
 **Link:** [https://www.youtube.com/watch?v=_CjsYi9ivlc](https://www.youtube.com/watch?v=_CjsYi9ivlc)
 
