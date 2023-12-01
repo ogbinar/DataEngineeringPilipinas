@@ -190,6 +190,40 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 
 ## Community Contents
 
+#### Getting Started with Data Engineering
+
+**Description:**
+
+This video provides an introduction to Data Engineering. In partnership with StudevPH with guest speaker, Josh Dev
+
+**Link:** [https://www.facebook.com/studevph/videos/165090273259790](https://www.facebook.com/studevph/videos/165090273259790)
+
+---
+
+#### EP1 - Unlocking Your Future: Building a Career in PH Tech Startups
+
+**Description:**
+
+This video discusses building a career in PH Tech Startups.
+* Guest Speaker: Andoy Montiel, Chief Data Officer of Packworks
+
+**Link:** [https://youtu.be/pzxFTFB8f6s](https://youtu.be/pzxFTFB8f6s)
+
+---
+
+#### Unlocking Career Opportunities: Philippine Skills Framework for AI and Analytics
+
+**Description:**
+
+This video discusses careers in Analytics in the Philippines.
+
+* Sherwin Pelayo
+* Doc Ligot
+ 
+**Link:** [https://www.youtube.com/watch?v=_CjsYi9ivlc](https://www.youtube.com/watch?v=_CjsYi9ivlc)
+
+---
+
 ### TechSync 2023: Synchronizing Filipino Tech Communities
 
 **Description:**
@@ -200,61 +234,10 @@ A FREE online event featuring content creators and thought leaders in the tech f
 * Seiji Villafranca, Angular PH
 * David Genesis Pedeglorio & Renzo Marl Peralta, Filipino Web Development Peers
 * Josh "Josh Dev" Valdeleon, Data Engineering Pilipinas
+* Hosted by Kuya Dev and Doc Ligot
 
 **Link:** [https://www.facebook.com/watch/live/?ref=watch_permalink&v=1043806640102969](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1043806640102969)
 
----
-
-### Career Opportunities
-
-#### Unlocking Career Opportunities: Philippine Skills Framework for AI and Analytics
-
-**Platform:** YouTube
-
-**Speakers:**
-
-* Sherwin Pelayo
-* Doc Ligot
-
-**Description:**
-
-This video discusses careers in Analytics in the Philippines.
-
-**Link:** [https://www.youtube.com/watch?v=_CjsYi9ivlc](https://www.youtube.com/watch?v=_CjsYi9ivlc)
-
----
-
-#### EP1 - Unlocking Your Future: Building a Career in PH Tech Startups
-
-**Platform:** YouTube
-
-**Speakers:**
-
-* Guest Speaker: Andoy Montiel, Chief Data Officer of Packworks
-
-**Description:**
-
-This video discusses building a career in PH Tech Startups.
-
-**Link:** [https://youtu.be/pzxFTFB8f6s](https://youtu.be/pzxFTFB8f6s)
-
----
-
-#### Getting Started with Data Engineering
-
-**Platform:** Facebook
-
-**Speakers:**
-
-* Josh Dev
-
-**Description:**
-
-This video provides an introduction to Data Engineering.
-
-**Link:** [https://www.facebook.com/studevph/videos/165090273259790](https://www.facebook.com/studevph/videos/165090273259790)
-
-- In partnership with StudevPH with guest speaker, Josh Dev
 
 ### Posts from the community
 
