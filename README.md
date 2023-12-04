@@ -1,8 +1,8 @@
 # DataEngineeringPilipinas - a PyData group
 
-Awesome Data Engineering Repository from the Philippines
+### Awesome Data Engineering Repository from the Philippines
 
-Join our growing community!
+*Join our growing community!*
 
 [Data Engineering Pilipinas | Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/) [FB Page](https://www.facebook.com/DataEngineeringPilipinas/)
 
@@ -29,8 +29,8 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 
 ## Contents
 
-- [Study Roadmap]
-- [Free Study Resources]
+- [Study Roadmap](#study-roadmap)
+- [Free Study Resources](#free-resources)
 - [Data Storage & Databases](#data-storage--databases)
 - [Data Ingestion](#data-ingestion)
 - [Data Formats](#data-formats)
@@ -45,16 +45,15 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 ## Study Roadmap
 
 ### Data Engineering
-![Data Engineering](https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/DataCamp%20-%20Data%20Engineer%20Track.png)
+![Data Engineering](assets/DataCamp%20-%20Data%20Engineer%20Track.png)
 
 
 ### Data Analyst
-![Data Analyst](https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/DataCamp%20-%20Data%20Analyst%20Associate%20%26%20Professional%20Track.png)
+![Data Analyst](assets/DataCamp%20-%20Data%20Analyst%20Associate%20%26%20Professional%20Track.png)
 
 ## Free Resources
-
-- [Study Materials](https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/FREE_RESOURCES.md)
-- [Cloud Free Tier](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/resources/Cloud-Free-Tier-Comparison)
+- [FREE_RESOURCES.md](resources/FREE_RESOURCES.md) - Compilation of Free Resources that you may find helpful in your journey.
+- [Cloud Free Tier](resources/Cloud-Free-Tier-Comparison) - Contains articles comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle Cloud etc.
 
 ## Data Storage & Databases
 
