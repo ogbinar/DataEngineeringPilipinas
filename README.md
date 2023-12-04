@@ -41,6 +41,7 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 - [Data Governance](#data-governance)
 - [Data Platforms](#data-platforms)
 - [Community Contents](#community-contents)
+- [PH-based Datasets (can be used for projects)](/datasets/PH_data_sources.md)
 
 ## Study Roadmap
 
