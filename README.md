@@ -1,5 +1,7 @@
 # DataEngineeringPilipinas - a PyData group
 
+![Data Engineering Domain](https://media.licdn.com/dms/image/D5612AQG7bJ051eTZQw/article-cover_image-shrink_720_1280/0/1692040311087?e=2147483647&v=beta&t=MIy8h1O6lwGLdLb8tEZKSuanIDRnji5jteLTQwkqCyU)
+
 ### Awesome Data Engineering Repository from the Philippines
 
 *Join our growing community!*
