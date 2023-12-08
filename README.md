@@ -238,6 +238,13 @@ A FREE online event featuring content creators and thought leaders in the tech f
 
 **Link:** [https://www.facebook.com/watch/live/?ref=watch_permalink&v=1043806640102969](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1043806640102969)
 
+#### filWebDev Talks Ep. 10 ft. Myk Ogbinar of AI Network PH
+
+**Description:**
+
+This video provides an introduction a career in Data. In partnership with Filipino Web Development Peers and AI Network PH with guest speaker, Myk Ogbinar
+
+**Link:** [https://www.facebook.com/fwdpeers/videos/220432324246191](https://www.facebook.com/fwdpeers/videos/220432324246191)
 
 ### Posts from the community
 
