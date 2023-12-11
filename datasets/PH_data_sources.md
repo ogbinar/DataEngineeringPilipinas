@@ -3,6 +3,11 @@ Here are some of the available Ph data sources that can be used for different da
 - [PSGC](https://psa.gov.ph/classification/psgc) list of all barangays, municipalities, cities, provinces, regions
 - [COVID data via DOH data drop](https://drive.google.com/drive/folders/1ZPPcVU4M7T-dtRyUceb0pMAd8ickYf8o)
 - [PSA](https://openstat.psa.gov.ph/Database) has available datasets. Medyo naliligaw lang ako. Haha. (kaka-check ko lang, and it's neater than before )
+- [PSA-API](https://psa.gov.ph/content/annual-poverty-indicators-survey-apis) ANNUAL POVERTY INDICATORS SURVEY
+- [PSA-FIES](https://psa.gov.ph/statistics/income-expenditure/fies) FAMILY INCOME AND EXPENDITURE SURVEY (FIES)
+- [CMCI](https://cmci.dti.gov.ph/) CITIES AND MUNICIPALITIES COMPETITIVENESS INDEX (CMCI)
+- [BSP-Directory](https://www.bsp.gov.ph/SitePages/FinancialStability/DirBanksFIList.aspx) LIST OF BANKS AND THEIR BRANCHES
+- [UACS](https://www.uacs.gov.ph/) Unified Accounts Code Structure
 - [Open Data Philippines (beta)](https://data.gov.ph/index/home)
 - [Several Ph economic indicators here](https://data.worldbank.org/country/PH)
 - There's already a repo for this made by BNHR
