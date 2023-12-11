@@ -22,5 +22,5 @@ Here are some of the available Ph data sources that can be used for different da
 - [Land Cover by ESRI](https://livingatlas.arcgis.com/landcoverexplorer/)
 - [Marine Boundaries](https://www.marineregions.org/)
 - [Coral Reefs](https://allencoralatlas.org/atlas/#4.12/8.7755/124.8789)
-- [Economic and Social Databse](https://econdb.pids.gov.ph/tablecategories/index/3)
+- [Economic and Social Database](https://econdb.pids.gov.ph/tablecategories/index/3)
 - [Philippines - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-phl)
