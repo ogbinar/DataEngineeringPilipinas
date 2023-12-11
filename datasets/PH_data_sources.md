@@ -6,7 +6,8 @@ Here are some of the available Ph data sources that can be used for different da
 - [PSA-API](https://psa.gov.ph/content/annual-poverty-indicators-survey-apis) ANNUAL POVERTY INDICATORS SURVEY
 - [PSA-FIES](https://psa.gov.ph/statistics/income-expenditure/fies) FAMILY INCOME AND EXPENDITURE SURVEY (FIES)
 - [CMCI](https://cmci.dti.gov.ph/) CITIES AND MUNICIPALITIES COMPETITIVENESS INDEX (CMCI)
-- [BSP-Directory](https://www.bsp.gov.ph/SitePages/FinancialStability/DirBanksFIList.aspx) LIST OF BANKS AND THEIR BRANCHES
+- [BSP-HQDirectory](https://www.bsp.gov.ph/SitePages/FinancialStability/DirBanksFIList.aspx) LIST OF BANKS AND THEIR OFFICE
+- [BSP-Directory](https://www.bsp.gov.ph/SitePages/InclusiveFinance/FinancialServiceAP.aspx) LIST OF BANKS ACCESS POINTS
 - [UACS](https://www.uacs.gov.ph/) Unified Accounts Code Structure
 - [Open Data Philippines (beta)](https://data.gov.ph/index/home)
 - [Several Ph economic indicators here](https://data.worldbank.org/country/PH)
