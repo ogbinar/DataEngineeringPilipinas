@@ -1,0 +1,46 @@
+# This is the current docker-compose version, not really something you want to change until the version is bumped
+version: "3"
+services:
+
+  # This is the definition of the `postgres` service, you can name this anything
+  postgres:
+    # We are using the image from [postgres](https://hub.docker.com/_/postgres)
+    # Ideally you run 1 container with 1 database, do not try to create more than 1 database
+    # The idea of containerization is that you are only ever listening in 1 container = 1 service/1 db
+    image: postgres:alpine
+    # We want to give it a name
+    container_name: postgres-db
+    # These are `environment` variables that are injected to the container
+    environment:
+      # We are assigning this password
+      POSTGRES_PASSWORD: dePilipinas
+      # We are assigning this default user
+      POSTGRES_USER: dep
+      # Assigning a name to the database we are using
+      POSTGRES_DB: data-eng-ph
+      # The database name that you can change
+      COMPOSE_CONVERT_WINDOWS_PATHS: "1"
+    ports:
+      # This is the port we are exposing for us to communicate with our container
+      # The port number on the left is the one the local machine will connect to the container, which is determined
+      # by the one on the right
+      - "5432:5432"
+    volumes:
+      # We are mounting the local root folder of `c:\tmp` or `/tmp` into the container's PGDATA directory
+      # This will allow you to see the binary database files in your local machine
+      - "/tmp/postgres-db:/var/lib/postgresql/data"
+
+  postgres-webui:
+    image: dpage/pgadmin4
+    container_name: pgadmin-ui
+    environment:
+      # This is the user you can use to login to the UI
+      PGADMIN_DEFAULT_EMAIL: de-pilipinas@mailinator.com
+      # This is the password we are giving to the default user of the UI
+      PGADMIN_DEFAULT_PASSWORD: dePilipinasUi
+    # This option allows us to redirect the traffic back to the host machine
+    extra_hosts:
+      - host.docker.internal:host-gateway
+    ports:
+      # The pgadmin page is listening on port 80 (or http), we are going to use port 9070 to access pgadmin
+      - "9070:80"
