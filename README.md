@@ -236,6 +236,15 @@ This video provides an introduction a career in Data. In partnership with Filipi
 
 **Link:** [https://www.facebook.com/fwdpeers/videos/220432324246191](https://www.facebook.com/fwdpeers/videos/220432324246191)
 
+#### Kamustahan: A Panel Discussion on Building a Career in Tech
+
+**Description:**
+
+A podcast style session with Myk, Allan Aquino, JP Acuna, JP Lazaro, & Rod Basa, (and a special post from sir Nino from Learn with Jon), about navigating a tech career.
+
+**Link:** [https://www.youtube.com/watch?v=jcFALIHBSuQ](https://www.youtube.com/watch?v=jcFALIHBSuQ)
+
+
 ### Posts from the community
 
 - [Kyle Escosia](https://linktr.ee/klescosia) - A Data Engineer who is passionately curious in anything about data.
