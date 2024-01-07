@@ -2,9 +2,10 @@
 
 ## TOC
 1. [Create and populate table](http://htmlpreview.github.io/?https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/lessons/table_index/html/create_table.html)
-2. [TODO] How an RDBMS retrieves data
-3. [TODO] Filter by year
-4. [TODO] Group by year
+2. [How an RDBMS retrieves data](http://htmlpreview.github.io/?https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/lessons/table_index/html/how_db_works.html)
+3. [TODO] Indexed table
+4. [TODO] Filter by year
+5. [TODO] Group by year
 
 ## Server Platform
 
@@ -41,4 +42,6 @@ used by different data-end-users. This is a way to expose you to a language othe
 
 ## Disclaimers
 1. None of the code presented are production-ready. It is advisable to use error-tolerant practices such as `tryCatch()` and DB transactions when working with DBs.
+2. All queries are run only once. Ideally, each should be run at least 5 times, then the 
+mean of each run is taken. 
 
