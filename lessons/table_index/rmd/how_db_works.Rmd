@@ -1,0 +1,188 @@
+---
+title: "How SQL DB server works"
+author: "Ricardo Rodrigo Basa"
+date: "2024-01-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load_libs, include=FALSE}
+library(dplyr)
+library(DBI)
+library(glue)
+library(DT)
+```
+
+In the previous chapter, we set up our sandbox table `sample_table` with 4 columns and 50
+million rows. Now, we will execute a few queries to understand how SQL databases retrieve
+the rows we request.
+
+## Connect to the DB
+
+```{r connect_to_db}
+conn <- dbConnect(
+  RMariaDB::MariaDB(),
+  host = Sys.getenv("DB_HOST"),
+  port = 3306,
+  username = Sys.getenv("DB_USER"),
+  password = Sys.getenv("DB_PASSWORD"),
+  dbname = Sys.getenv("DB_SCHEMA")
+)
+```
+
+## Initial exploration
+
+Let's take a look at what we are dealing with. We know we have `entry_date` in the table sorted
+in ascending order.
+
+```{r date_limits}
+dbGetQuery(conn, "SELECT MIN(entry_date), MAX(entry_date) FROM sample_table")
+```
+
+## Start MySQL profiling
+
+```{r set_profiling, echo=T, results='hide'}
+dbExecute(conn, "SET @@profiling = 1")
+```
+
+## Query 1: Retrieve just the first day
+
+We know that the first day we have data for is at the top of the table.
+
+```{r query_1}
+result <- dbGetQuery(conn, "SELECT * FROM sample_table WHERE entry_date = '1973-01-01'")
+query_1_count <- result %>% nrow()
+datatable(result)
+```
+We have `{r query_1_count}` rows in our result set. We can verify that we only retrieved 
+1973-01-01, our first entry date. And we see that the primary key `id` begins at `1`.
+
+To check how long the query took, we execute the `SHOW PROFILES` command.
+
+```{r profiles_1}
+profiles <- dbGetQuery(conn, "SHOW PROFILES")
+profiles %>%
+  slice_tail(n = 3)
+```
+
+It takes around 17 seconds.
+
+*The `DBI` library performed `commit` DB commands after the query, and again, after the `SHOW
+PROFILES` command.*
+
+If you are using a GUI client to connect to your DB, it may show a time for the query to
+execute. In MySQL Workbench, this would be shown as *Duration/Fetch*. And for this query,
+MySQL Workbench shows `0.029 sec / 17.224 sec`. The sum of these is roughly the same as the 
+duration shown in the profiles result.
+
+```{r profile_1}
+this_profile <- (profiles %>% slice_tail(n = 3))[1, ]
+this_query_id <- this_profile %>% pull(Query_ID)
+
+dbGetQuery(conn, glue("SHOW PROFILE FOR QUERY {this_query_id}"))
+```
+
+The majority of the time is spent in `executing`.
+
+## Query 2: Retrieve just the last day
+
+Let's do the same for the last day we have, 2023-12-31. We know that the last day of the data
+we have is at the end of the table.
+
+```{r query_2}
+result <- dbGetQuery(conn, "SELECT * FROM sample_table WHERE entry_date = '2023-12-31'")
+query_2_count <- result %>% nrow()
+datatable(result)
+```
+
+```{r profiles_2}
+profiles <- dbGetQuery(conn, "SHOW PROFILES")
+profiles %>%
+  slice_tail(n = 3)
+```
+
+```{r profile_2}
+this_profile <- (profiles %>% slice_tail(n = 3))[1, ]
+this_query_id <- this_profile %>% pull(Query_ID)
+
+dbGetQuery(conn, glue("SHOW PROFILE FOR QUERY {this_query_id}"))
+```
+
+We get the same time. Roughly 17 seconds.
+
+Let us investigate further.
+
+## Query 3: Retrieve the first day but indicate how many rows to retrieve
+
+We know our 1973-01-01 query resulted in `r query_1_count` rows. Let's add that `LIMIT`
+to our query.
+
+```{r query_3}
+result <- dbGetQuery(conn, 
+                     glue("SELECT * FROM sample_table WHERE entry_date = '1973-01-01' 
+                          LIMIT {query_1_count}"))
+
+this_profile <- dbGetQuery(conn, "SHOW PROFILES") %>%
+  slice_tail(n = 3) %>%
+  slice_head(n = 1)
+this_query_id <- this_profile %>% pull(Query_ID)
+
+this_profile
+dbGetQuery(conn, glue("SHOW PROFILE FOR QUERY {this_query_id}"))
+```
+
+Now, our query is executed in less than 0.005 seconds.
+
+## Query 4: Retrieve the last day but indicate how many rows to retrieve
+
+We also know that the 2023-12-31 query resulted in `r query_2_count` rows. Let's do
+the same.
+
+```{r query_4}
+result <- dbGetQuery(conn, glue("SELECT * FROM sample_table WHERE entry_date = '2023-12-31'
+                                LIMIT {query_2_count}"))
+
+this_profile <- dbGetQuery(conn, "SHOW PROFILES") %>%
+  slice_tail(n = 3) %>%
+  slice_head(n = 1)
+this_query_id <- this_profile %>% pull(Query_ID)
+
+this_profile
+dbGetQuery(conn, glue("SHOW PROFILE FOR QUERY {this_query_id}"))
+```
+
+We are back to around 17 seconds.
+
+## Query 5: Retrieve first day but request for `r query_1_count + 1` rows
+
+One last test:
+
+```{r query_5}
+result <- dbGetQuery(conn, 
+                     glue("SELECT * FROM sample_table WHERE entry_date = '1973-01-01' 
+                          LIMIT {query_1_count + 1}"))
+
+this_profile <- dbGetQuery(conn, "SHOW PROFILES") %>%
+  slice_tail(n = 3) %>%
+  slice_head(n = 1)
+this_query_id <- this_profile %>% pull(Query_ID)
+
+this_profile
+dbGetQuery(conn, glue("SHOW PROFILE FOR QUERY {this_query_id}"))
+```
+
+Our query to retrieve `r query_1_count + 1` rows takes 17 seconds. 
+
+## Questions
+
+1. Can you explain why queries for the first day (Q1) and the last day (Q2) take the same amount of time?
+2. Can you explain why the query for the first day `LIMIT` `r query_1_count` (Q3) is almost instantaneous, but `LIMIT` `r query_1_count + 1` (Q5) takes a very long time?
+3. Can you explain why the query for the last day `LIMIT` `r query_2_count` (Q4) takes the same time as Q1 and Q2?
+
+```{r discconect_db, echo=T, results='hide'}
+dbExecute(conn, "SET @@profiling = 0")
+dbDisconnect(conn)
+```
