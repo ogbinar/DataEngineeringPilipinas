@@ -57,7 +57,7 @@ result <- dbGetQuery(conn, "SELECT * FROM sample_table WHERE entry_date = '1973-
 query_1_count <- result %>% nrow()
 datatable(result)
 ```
-We have `{r query_1_count}` rows in our result set. We can verify that we only retrieved 
+We have `r query_1_count` rows in our result set. We can verify that we only retrieved 
 1973-01-01, our first entry date. And we see that the primary key `id` begins at `1`.
 
 To check how long the query took, we execute the `SHOW PROFILES` command.
