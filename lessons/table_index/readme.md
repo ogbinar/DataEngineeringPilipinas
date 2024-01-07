@@ -3,7 +3,7 @@
 ## TOC
 1. [Create and populate table](http://htmlpreview.github.io/?https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/lessons/table_index/html/create_table.html)
 2. [How an RDBMS retrieves data](http://htmlpreview.github.io/?https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/lessons/table_index/html/how_db_works.html)
-3. [TODO] Indexed table
+3. [Indexed table](http://htmlpreview.github.io/?https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/lessons/table_index/html/indexed_table.html)
 4. [TODO] Filter by year
 5. [TODO] Group by year
 
