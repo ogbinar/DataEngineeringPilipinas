@@ -16,7 +16,8 @@ process from some OLTP DB. We have the following values:
 - descriptive value: You can think of this as a category code, or a branch code
 
 We will then populate our table with 50 million rows randomly generated. These will be inserted
-in date order ascending.
+in date order ascending. Why 50 million? So that we give the DB a little bit of a workout. A DB
+will not break a sweat with hundred-thousand-row tables.
 
 ## Create our sample table
 
@@ -90,7 +91,6 @@ library(fixtuRes)
 library(dplyr)
 library(tibble)
 library(DBI)
-library(dplyr)
 ```
 
 ```{r mock_smaple, echo=FALSE}
