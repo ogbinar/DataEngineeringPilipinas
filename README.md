@@ -39,7 +39,7 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 ## Data Engineering - by Sandy
 - [DataEngineerRoadmap_Notion](https://shadow-blue-572.notion.site/b880b4ef0b1445aabec127442b97c79f?v=0a45fb3e2b5946d59708797eeea16671) - Data Engineering roadmap with a variety of course options from free to paid. 
 
-## By Data Camp
+## By Nicksy via Data Camp
 
 ### Data Engineering
 ![Data Engineering](assets/DataCamp%20-%20Data%20Engineer%20Track.png)
