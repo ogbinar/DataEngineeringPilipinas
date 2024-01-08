@@ -1,0 +1,8 @@
+library(knitr)
+library(dplyr)
+library(tibble)
+library(fixtuRes)
+library(DBI)
+library(RMariaDB)
+library(glue)
+library(DT)
