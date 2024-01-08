@@ -254,6 +254,22 @@ A podcast style session with Myk, Allan Aquino, JP Acuna, JP Lazaro, & Rod Basa,
 
 **Link:** [https://www.youtube.com/watch?v=jcFALIHBSuQ](https://www.youtube.com/watch?v=jcFALIHBSuQ)
 
+#### Exclusive Interview: Sandy Lauguico's Data Engineering Transition
+
+**Description:**
+
+In this exclusive interview, join me (Doc Ligot) as we explore the inspiring journey of Sandy Lauguico, who made a remarkable shift into the world of Data Engineering. Gain valuable insights, tips, and first-hand experiences as Sandy shares her transformation story. Discover the exciting world of data and engineering with us!
+
+**Link:** [https://www.youtube.com/watch?v=8pJMFi3kIfQ](https://www.youtube.com/watch?v=8pJMFi3kIfQ)
+
+#### From Dropout to Tech Star: Aemy Obinguar's Inspirational Tale
+
+**Description:**
+
+In this exclusive interview, join me(Doc Ligot) as I delve into the remarkable journey of Aemy Obinguar, who defied the odds by dropping out of school and ultimately rising to the position of Chief Technology Officer (CTO). Discover her insights, challenges, and successes in the tech world. Don't miss this inspiring story of determination and achievement. 
+
+**Link:** [https://www.youtube.com/watch?v=GZcYyILg3kc](https://www.youtube.com/watch?v=GZcYyILg3kc)
+
 
 ### Posts from the community
 
