@@ -47,6 +47,12 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 ### Data Analyst
 ![Data Analyst](assets/DataCamp%20-%20Data%20Analyst%20Associate%20%26%20Professional%20Track.png)
 
+## Best Practices
+
+### Query Optimizations
+
+![Table Indexes](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/lessons/table_index)
+
 ## Free Resources
 - [FREE_RESOURCES.md](resources/FREE_RESOURCES.md) - Compilation of Free Resources that you may find helpful in your journey.
 - [Cloud Free Tier](resources/Cloud-Free-Tier-Comparison) - Contains articles comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle Cloud etc.
