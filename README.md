@@ -51,7 +51,7 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 
 ### Query Optimizations
 
-![Table Indexes](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/lessons/table_index)
+- [Table Indexes](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/lessons/table_index)
 
 ## Free Resources
 - [FREE_RESOURCES.md](resources/FREE_RESOURCES.md) - Compilation of Free Resources that you may find helpful in your journey.
