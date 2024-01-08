@@ -36,9 +36,13 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 
 ## Study Roadmap
 
+## Data Engineering - by Sandy
+- [DataEngineerRoadmap_Notion](https://shadow-blue-572.notion.site/b880b4ef0b1445aabec127442b97c79f?v=0a45fb3e2b5946d59708797eeea16671) - Data Engineering roadmap with a variety of course options from free to paid. 
+
+## By Data Camp
+
 ### Data Engineering
 ![Data Engineering](assets/DataCamp%20-%20Data%20Engineer%20Track.png)
-
 
 ### Data Analyst
 ![Data Analyst](assets/DataCamp%20-%20Data%20Analyst%20Associate%20%26%20Professional%20Track.png)
@@ -46,9 +50,6 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 ## Free Resources
 - [FREE_RESOURCES.md](resources/FREE_RESOURCES.md) - Compilation of Free Resources that you may find helpful in your journey.
 - [Cloud Free Tier](resources/Cloud-Free-Tier-Comparison) - Contains articles comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle Cloud etc.
-
-## Other Resources
-- [DataEngineerRoadmap_Notion](https://shadow-blue-572.notion.site/b880b4ef0b1445aabec127442b97c79f?v=0a45fb3e2b5946d59708797eeea16671) - Data Engineering roadmap with a variety of course options from free to paid. 
 
 ## Data Storage & Databases
 
