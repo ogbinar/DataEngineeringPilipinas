@@ -18,6 +18,7 @@ This will serve as a repository of notes, thoughts, ideas, plans, dreams, datase
 - [Data Engineering Pilipinas | Meetup ](https://www.meetup.com/data-engineering-pilipinas/)
 - [Data Engineering Pilipinas | Youtube ](https://www.youtube.com/@DataEngineeringPilipinas)
 - [Data Engineering Pilipinas | LinkedIn Group ](https://www.linkedin.com/company/97217550/)
+- [Data Engineering Pilipinas | Reddit ](https://www.reddit.com/r/DataEngineeringPH/)
 
 ## Contents
 
