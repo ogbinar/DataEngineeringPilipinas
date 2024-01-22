@@ -1,10 +1,18 @@
 # DataEngineeringPilipinas - a PyData group
 
+<p align="center">
+  <img align="center" width="250" height="250" src="assets/DATA%20ENGINEERING%20-1.png">
+</p>
+<p align="center">
+Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group. </p>
+
+<p align="center">
+This page serves as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of.
+</p>
+
+
 ![Data Engineering Domain](https://media.licdn.com/dms/image/D5612AQG7bJ051eTZQw/article-cover_image-shrink_720_1280/0/1692040311087?e=2147483647&v=beta&t=MIy8h1O6lwGLdLb8tEZKSuanIDRnji5jteLTQwkqCyU)
-
-![Data Engineering Pilipinas Logo](assets/DATA%20ENGINEERING%20-1.png=250x) Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.
-
-This will serve as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of.
+As the name suggests, our community focuses on all data career paths with emphasis on data engineering.
 
 ### Awesome Data Engineering Repository from the Philippines
 
