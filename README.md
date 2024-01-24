@@ -280,6 +280,13 @@ In this exclusive interview, join me(Doc Ligot) as I delve into the remarkable j
 
 **Link:** [https://www.youtube.com/watch?v=GZcYyILg3kc](https://www.youtube.com/watch?v=GZcYyILg3kc)
 
+#### A Panel Discussion on Shifting to a Career in Data | RUG-PH 120
+
+**Description:**
+
+A panel answers questions on how to shift to a career in data from practicing another profession. They discuss skills and competencies required in data-related roles, including those that were gained in the practice of other professions but are also valued by data teams. Hosted by R User's group Philippines!
+
+**Link:** [https://youtu.be/ivzmUPRqxQ8?si=c_OdyC4FvqOJv6Bq](https://youtu.be/ivzmUPRqxQ8?si=c_OdyC4FvqOJv6Bq)
 
 ### Posts from the community
 
