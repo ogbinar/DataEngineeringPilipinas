@@ -25,6 +25,6 @@ A curated collection of free resources designed to aid your journey in data engi
 - [StatQuest - Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9): Fundamental statistics concepts.
 
 ## Additional Resources
-- [Cloud Free Tier Comparison](resources/Cloud-Free-Tier-Comparison): Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.
+- [Cloud Free Tier Comparison](Cloud-Free-Tier-Comparison): Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.
 - [PH-based Datasets](../datasets/PH_data_sources.md): Datasets relevant for projects in the Philippines.
 - [Public Datasets](../datasets/Public_datasets.md): A list of datasets available for public use.
