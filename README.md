@@ -13,17 +13,18 @@ This page serves as a repository of notes, thoughts, ideas, plans, dreams, datas
 
 #### Getting Started with Data Engineering
 - <a href="data-engineering-101.md">What is Data Engineering?</a>
-- <a href="https://youtu.be/XsvrumL0ILc">An Introductory video of about Data Engineering Pilipinas (5 mins)</a>
-- Like it so far? Join our growing community! Like, follow, join our groups and pages:
-  - [Data Engineering Pilipinas | Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/)
-  - [DEP FB Page](https://www.facebook.com/DataEngineeringPilipinas/)
-  - [DEP FB Group Chats](https://m.me/cm/AbbnRPVsIMd34APj)
-  - [Data Engineering Pilipinas | Discord Group ](https://discord.com/invite/buDgydz7J9)
-  - [Data Engineering Pilipinas | Datacamp Studygroup Discord](https://discord.gg/eKEZuXeyxt)
-  - [Data Engineering Pilipinas | Meetup ](https://www.meetup.com/data-engineering-pilipinas/)
-  - [Data Engineering Pilipinas | Youtube ](https://www.youtube.com/@DataEngineeringPilipinas)
-  - [Data Engineering Pilipinas | LinkedIn Group ](https://www.linkedin.com/company/97217550/)
-  - [Data Engineering Pilipinas | Reddit ](https://www.reddit.com/r/DataEngineeringPH/)
+- <a href="https://youtu.be/XsvrumL0ILc">An Introductory video about Data Engineering Pilipinas (5 mins)</a>
+
+####  Join our growing community! Like, follow, join our groups and pages:
+- [Data Engineering Pilipinas | Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/)
+- [DEP FB Page](https://www.facebook.com/DataEngineeringPilipinas/)
+- [DEP FB Group Chats](https://m.me/cm/AbbnRPVsIMd34APj)
+- [Data Engineering Pilipinas | Discord Group ](https://discord.com/invite/buDgydz7J9)
+- [Data Engineering Pilipinas | Datacamp Studygroup Discord](https://discord.gg/eKEZuXeyxt)
+- [Data Engineering Pilipinas | Meetup ](https://www.meetup.com/data-engineering-pilipinas/)
+- [Data Engineering Pilipinas | Youtube ](https://www.youtube.com/@DataEngineeringPilipinas)
+- [Data Engineering Pilipinas | LinkedIn Group ](https://www.linkedin.com/company/97217550/)
+- [Data Engineering Pilipinas | Reddit ](https://www.reddit.com/r/DataEngineeringPH/)
 
 #### Study Roadmap for Beginners
 Embark on your journey in data engineering with our specially curated study roadmap for beginners. This guide provides a structured path for newcomers, covering foundational concepts, essential tools, and key technologies in the field. Ideal for those starting out, this roadmap is your first step towards mastering data engineering.
