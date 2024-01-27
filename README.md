@@ -55,7 +55,7 @@ Each field plays a unique role in the data ecosystem, often collaborating to tur
 
 ### Awesome Data Engineering Repository from the Philippines
 
-#### Getting Started with Data Engineering**
+#### Getting Started with Data Engineering
 - <a href="https://youtu.be/XsvrumL0ILc">What is Data Engineering Pilipinas?</a>
 - Like it so far? Join our growing community! Like, follow, join our groups and pages:
   - [Data Engineering Pilipinas | Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/)
@@ -81,9 +81,8 @@ Each field plays a unique role in the data ecosystem, often collaborating to tur
 #### Data Analyst
 ![Data Analyst](assets/DataCamp%20-%20Data%20Analyst%20Associate%20%26%20Professional%20Track.png)
 
-#### ![Community Content](community-content.md)
-
-#### ![Technical Knowledgebase](technical-knowledgebase.md)
+#### <a href="community-content.md>Community Content</a>
+#### <a href="technical-knowledgebase.md>Technical Knowledgebase</a>
 
 #### Free Resources
 - [FREE_RESOURCES.md](resources/FREE_RESOURCES.md) - Compilation of Free Resources that you may find helpful in your journey.
