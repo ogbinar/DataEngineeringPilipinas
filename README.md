@@ -1,9 +1,9 @@
 # Welcome to Data Engineering Pilipinas - a PyData group
 
 <p align="center">
-### What is Data Engineering Pilipinas?
+What is Data Engineering Pilipinas?
 
-[![What is Data Engineering Pilipinas?](ssets/DATA%20ENGINEERING%20-1.png)](https://youtu.be/XsvrumL0ILc?si=_OMxG9YDe6sC9adD)
+[![What is Data Engineering Pilipinas?](assets/DATA%20ENGINEERING%20-1.png)](https://youtu.be/XsvrumL0ILc?si=_OMxG9YDe6sC9adD)
 </p>
 
 
