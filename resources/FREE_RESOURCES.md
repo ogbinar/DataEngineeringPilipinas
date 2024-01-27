@@ -1,77 +1,36 @@
-# FREE RESOURCES
+# Free Resources
 
-Compilation of Free Resources that you may find helpful in your journey.
+This list represents a curated selection of free resources to support your growth in data engineering and analytics.
 
-<br><br>
+## Internships
+- **The Sparks Foundation**: Offers a remote, one-month internship in Data Science and Business Analytics.
+  - [Learn More and Apply](https://www.linkedin.com/company/the-sparks-foundation/)
 
-📌 Internships
+## Roadmaps and Study Guides
+- **Roadmap.sh**: Provides in-depth roadmaps and study guides for Python, Data Scientist, SQL, and more.
+  - [Explore Roadmaps](https://roadmap.sh/)
 
-The Sparks Foundation (1-month, remote, and unpaid Data Science and Business Analytics internship)
+## SQL Practice
+- **Beginner SQL Practice**: Start your SQL journey with interactive projects.
+  - [Mystery Kneights](https://mystery.knightlab.com/)
+- **Intermediate/Advanced SQL Challenges**: Take on more complex SQL challenges.
+  - [8 Week SQL Challenge](https://8weeksqlchallenge.com/)
 
-https://www.linkedin.com/company/the-sparks-foundation/
+## Data Science Tutorials
+- **Data Science for Beginners by Microsoft**: A GitHub repository with beginner-friendly data science materials.
+  - [Start Learning](https://github.com/microsoft/Data-Science-For-Beginners/tree/main)
+- **Harvard CS50's Introduction to Programming with Python**: Access a full university course on YouTube for free.
+  - [Watch the Course](https://youtu.be/nLRL_NcnK-4)
 
-<br><br>
+## Portfolio Building
+- **Create a Portfolio Website**: Learn to create and host a portfolio website using GitHub Pages with AlexTheAnalyst.
+  - [Learn How](https://youtu.be/ocdwh0KYeUs)
+- **Track Your Portfolio Visitors**: Master using Google Analytics for free to track your site visitors.
+  - [Google Analytics for Beginners](https://www.youtube.com/watch?v=94P3gPFR060)
+  - [Advanced Google Analytics](https://www.youtube.com/watch?v=XPuWgkd3RCs)
 
-
-📌 For Roadmaps/Study guides (Python, Data Scientist, SQL, and more):
-
-https://roadmap.sh/
-
-<br><br>
-
-
-📌 SQL - If you want to test your skills or build your Portfolio after taking the SQL courses on DataCamp:
-
-Beginner - https://mystery.knightlab.com/
-
-Intermediate/Advanced - https://8weeksqlchallenge.com/
-
-<br><br>
-
-
-📌 Data Science for Beginners by Microsoft
-
-https://github.com/microsoft/Data-Science-For-Beginners/tree/main
-
-<br><br>
-
-
-📌 Harvard CS50’s Introduction to Programming with Python – Full University Course
-
-https://youtu.be/nLRL_NcnK-4?si=JVNWdCVQwk-_frn3
-
-
-
-<br><br><br><br>
-
-
-
-## **Build your Portfolio:**
-
-📌 (AlexTheAnalyst) Create and host a Portfolio website for free using GitHub Pages:
-
-https://youtu.be/ocdwh0KYeUs?si=dm61kvq9Ehs8y3xl
-
-<br>
-
-
-📌Track your Portfolio/website visitors for free using Google Analytics:
-
-https://www.youtube.com/watch?v=94P3gPFR060
-
-https://www.youtube.com/watch?v=XPuWgkd3RCs
-
-
-<br><br><br><br>
-
-
-
-## **Free Statistics Lessons on YouTube:**
-
-📌 CrashCourse Statistics
-https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr
-
-
-📌 StatQuest - Statistics Fundamentals
-https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
-
+## Statistics Lessons on YouTube
+- **CrashCourse Statistics**: A comprehensive playlist for a quick understanding of statistics.
+  - [Watch Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+- **StatQuest - Statistics Fundamentals**: A YouTube series diving into statistics fundamentals.
+  - [Watch Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
