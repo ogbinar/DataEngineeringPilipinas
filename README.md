@@ -82,8 +82,4 @@ Each field plays a unique role in the data ecosystem, often collaborating to tur
 
 #### [Community Content](community-content.md)
 #### [Technical Knowledgebase](technical-knowledgebase.md)
-
-#### Free Resources
-- [FREE_RESOURCES.md](resources/FREE_RESOURCES.md) - Compilation of Free Resources that you may find helpful in your journey.
-- [Cloud Free Tier](resources/Cloud-Free-Tier-Comparison) - Contains articles comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle Cloud etc.
-- [PH-based Datasets (can be used for projects)](/datasets/PH_data_sources.md)
+#### [Free Resources](resources/FREE_RESOURCES.md)
