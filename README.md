@@ -1,4 +1,5 @@
 # Welcome to Data Engineering Pilipinas - a PyData group
+### Awesome Data Engineering Repository from the Philippines
 
 <p align="center">
 <img align="center" width="250" height="250" src="assets/DATA%20ENGINEERING%20-1.png">
@@ -52,8 +53,6 @@ This page serves as a repository of notes, thoughts, ideas, plans, dreams, datas
 - Tools: Hadoop, Spark, NoSQL databases.
 
 Each field plays a unique role in the data ecosystem, often collaborating to turn data into actionable insights. As the name suggests, our community focuses on all data career paths with emphasis on data engineering.
-
-### Awesome Data Engineering Repository from the Philippines
 
 #### Getting Started with Data Engineering
 - <a href="https://youtu.be/XsvrumL0ILc">What is Data Engineering Pilipinas?</a>
