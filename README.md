@@ -1,8 +1,12 @@
-# DataEngineeringPilipinas - a PyData group
+# Welcome to Data Engineering Pilipinas - a PyData group
 
 <p align="center">
-  <img align="center" width="250" height="250" src="assets/DATA%20ENGINEERING%20-1.png">
+### What is Data Engineering Pilipinas?
+
+[![What is Data Engineering Pilipinas?](ssets/DATA%20ENGINEERING%20-1.png)](https://youtu.be/XsvrumL0ILc?si=_OMxG9YDe6sC9adD)
 </p>
+
+
 <p align="center">
 Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group. </p>
 
@@ -12,9 +16,55 @@ This page serves as a repository of notes, thoughts, ideas, plans, dreams, datas
 
 
 ![Data Engineering Domain](https://media.licdn.com/dms/image/D5612AQG7bJ051eTZQw/article-cover_image-shrink_720_1280/0/1692040311087?e=2147483647&v=beta&t=MIy8h1O6lwGLdLb8tEZKSuanIDRnji5jteLTQwkqCyU)
-As the name suggests, our community focuses on all data career paths with emphasis on data engineering.
+
+## Data Engineering
+- **Primary Focus**: Data engineering focuses on the practical aspects of data collection, data transformation, and data storage, preparing data for analytical or operational use.
+- **Key Responsibilities**: 
+  - Building and maintaining data architecture (databases, large-scale processing systems).
+  - Developing and managing data pipelines.
+  - Ensuring data availability and usability for data scientists and analysts.
+- **Skills and Tools**: 
+  - Programming languages (Python, Java, Scala).
+  - Database languages (SQL).
+  - Tools and frameworks (Apache Hadoop, Apache Spark, ETL tools, data warehousing solutions).
+
+## Related Fields
+
+### 1. Data Analysis
+- Involves extracting insights from data.
+- Tools: Excel, SQL, R, Python, BI tools (like Tableau, Power BI).
+
+### 2. Data Science
+- Encompasses data analysis, predictive modeling, and machine learning.
+- Tools: Python, R, TensorFlow, machine learning libraries.
+
+### 3. Machine Learning Engineering
+- Focuses on building systems that learn from data.
+- Tools: Python, machine learning frameworks, cloud computing platforms.
+
+### 4. Business Intelligence (BI)
+- Analyzing data to aid business decision-making.
+- Tools: SQL, BI platforms (Tableau, Power BI, Looker).
+
+### 5. Database Administration
+- Managing and maintaining databases.
+- Tools: SQL, database management systems (MySQL, PostgreSQL).
+
+### 6. Big Data
+- Handling large and complex data sets.
+- Tools: Hadoop, Spark, NoSQL databases.
+
+Each field plays a unique role in the data ecosystem, often collaborating to turn data into actionable insights. As the name suggests, our community focuses on all data career paths with emphasis on data engineering.
 
 ### Awesome Data Engineering Repository from the Philippines
+
+### For Beginners
+- **Getting Started with Data Engineering**
+  - A dedicated section for newcomers with easy-to-understand resources.
+  - Links to introductory videos like "Getting Started with Data Engineering."
+- **Study Roadmap for Beginners**
+  - A clear and structured learning path for newbies.
+  - Includes basic courses, tutorials, and foundational knowledge.
 
 *Join our growing community!*
 
@@ -200,6 +250,18 @@ As the name suggests, our community focuses on all data career paths with emphas
 *Work in progress*
 
 ## Community Contents
+
+
+#### What is Data Engineering Pilipinas?
+
+**Description:**
+
+A 5 minute presentation on why you should join Data Engineering Pilipinas.
+
+**Link:** [https://youtu.be/XsvrumL0ILc](https://youtu.be/XsvrumL0ILc0)
+
+---
+
 
 #### Getting Started with Data Engineering
 
