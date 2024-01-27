@@ -1,5 +1,4 @@
-# Welcome to Data Engineering Pilipinas - a PyData group
-### Awesome Data Engineering Repository from the Philippines
+# Awesome Data Engineering Repository from the Philippines
 
 <p align="center">
 <img align="center" width="250" height="250" src="assets/DATA%20ENGINEERING%20-1.png">
