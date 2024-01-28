@@ -39,6 +39,9 @@ Embark on your journey in data engineering with our specially curated study road
 ### Data Analyst
 ![Data Analyst](assets/DataCamp%20-%20Data%20Analyst%20Associate%20%26%20Professional%20Track.png)
 
+### Roadmap.sh
+- [Roadmap.sh](https://roadmap.sh/): Roadmaps and study guides for Python, Data Scientist, SQL, and more.
+
 #### [Community Content](community-content.md)
 Discover a wealth of insights from our diverse community. This section features a curated selection of articles, discussions, and shared experiences from data professionals. Dive into their journey, learn from their challenges, and celebrate their achievements.
 
