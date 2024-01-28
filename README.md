@@ -48,5 +48,5 @@ Discover a wealth of insights from our diverse community. This section features 
 #### [Technical Knowledgebase](content/technical-knowledgebase.md)
 Our technical knowledge base is a comprehensive resource for data engineers and analysts. It includes detailed information on a variety of tools, platforms, and technologies essential in the field of data engineering. Whether you're a beginner or an expert, there's something here to enhance your technical prowess.
 
-#### [Free Resources](content/FREE_RESOURCES.md)
+#### [Free Resources](content/resources.md)
 Explore an extensive collection of free resources tailored for aspiring and experienced data professionals alike. This section includes links to free courses, tutorials, study guides, and practical tools designed to boost your skills and knowledge in data engineering and related fields
