@@ -49,7 +49,7 @@ Connect with Data Engineering Pilipinas on various platforms. Like, follow, and 
 - **Facebook Group**: Engage with fellow members and share insights. 
   - [Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/)
 - **Facebook Page**: Follow our page for the latest updates and events.
-  - Facebook Page](https://www.facebook.com/DataEngineeringPilipinas/)
+  - [Facebook Page](https://www.facebook.com/DataEngineeringPilipinas/)
 - **Facebook Group Chats**: Join the conversation in our group chats.
   - [Facebook Group Chats](https://m.me/cm/AbbnRPVsIMd34APj)
 
