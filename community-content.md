@@ -34,7 +34,7 @@ A panel discussion hosted by R User's Group Philippines on transitioning to a ca
 - [Unlocking Career Opportunities: Philippine Skills Framework for AI and Analytics with Sherwin Pelayo](https://www.youtube.com/watch?v=_CjsYi9ivlc)
 
 ### Gerard
-- [Discussion on Data Engineering and Analytics with Gerard](https://www.youtube.com/watch?v=_CjsYi9ivlc) *(Note: Same link as Sherwin Pelayo, please verify)*
+- [Discussion on Data Engineering and Analytics with Gerard](https://www.youtube.com/watch?v=vaptzZRVVkc) 
 
 ### Xavier Puspus
 - [Xavier Puspus talks about minting AI engineers through education](https://www.youtube.com/watch?v=YVC5DjjvGO4)
