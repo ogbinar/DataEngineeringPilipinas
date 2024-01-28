@@ -15,16 +15,6 @@ This page serves as a repository of notes, thoughts, ideas, plans, dreams, datas
 - <a href="content/data-engineering-101.md">What is Data Engineering?</a>
 - <a href="https://youtu.be/XsvrumL0ILc">An Introductory video about Data Engineering Pilipinas (5 mins)</a>
 
-####  Join our growing community! Like, follow, join our groups and pages:
-- [Data Engineering Pilipinas | Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/)
-- [DEP FB Page](https://www.facebook.com/DataEngineeringPilipinas/)
-- [DEP FB Group Chats](https://m.me/cm/AbbnRPVsIMd34APj)
-- [Data Engineering Pilipinas | Discord Group ](https://discord.com/invite/buDgydz7J9)
-- [Data Engineering Pilipinas | Meetup ](https://www.meetup.com/data-engineering-pilipinas/)
-- [Data Engineering Pilipinas | Youtube ](https://www.youtube.com/@DataEngineeringPilipinas)
-- [Data Engineering Pilipinas | LinkedIn Group ](https://www.linkedin.com/company/97217550/)
-- [Data Engineering Pilipinas | Reddit ](https://www.reddit.com/r/DataEngineeringPH/)
-
 #### Study Roadmap for Beginners
 Embark on your journey in data engineering with our specially curated study roadmap for beginners. This guide provides a structured path for newcomers, covering foundational concepts, essential tools, and key technologies in the field. Ideal for those starting out, this roadmap is your first step towards mastering data engineering.
 
@@ -50,3 +40,39 @@ Our technical knowledge base is a comprehensive resource for data engineers and 
 
 #### [Free Resources](content/resources.md)
 Explore an extensive collection of free resources tailored for aspiring and experienced data professionals alike. This section includes links to free courses, tutorials, study guides, and practical tools designed to boost your skills and knowledge in data engineering and related fields
+
+Here's a more streamlined and organized version of the community links for Data Engineering Pilipinas, formatted in GitHub Markdown:
+
+## Join Our Growing Community
+
+Connect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:
+
+### Social Media and Community Platforms
+- **Facebook Group**: Engage with fellow members and share insights. 
+  - [Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/)
+- **Facebook Page**: Follow our page for the latest updates and events.
+  - Facebook Page](https://www.facebook.com/DataEngineeringPilipinas/)
+- **Facebook Group Chats**: Join the conversation in our group chats.
+  - [Facebook Group Chats](https://m.me/cm/AbbnRPVsIMd34APj)
+
+### Collaborative Platforms
+- **Discord Group**: Collaborate and connect in real-time with our community.
+  - [Discord Group](https://discord.com/invite/buDgydz7J9)
+- **Meetup Group**: Attend meetups and connect with members offline.
+  - [Meetup Group](https://www.meetup.com/data-engineering-pilipinas/)
+
+### Professional Networks
+- **LinkedIn Group**: Network with professionals and explore career opportunities.
+  - [LinkedIn Group](https://www.linkedin.com/company/97217550/)
+
+### Online Forums and Discussions
+- **Reddit Community**: Engage in discussions and share knowledge on our subreddit.
+  - [Subreddit](https://www.reddit.com/r/DataEngineeringPH/)
+
+### Multimedia and Learning
+- **YouTube Channel**: Access tutorials, talks, and webinars.
+  - [YouTube Channel](https://www.youtube.com/@DataEngineeringPilipinas)
+
+Join us and be a part of the Data Engineering Pilipinas community!
+
+---
