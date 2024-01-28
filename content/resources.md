@@ -26,7 +26,7 @@ A curated collection of free resources designed to aid your journey in data engi
 
 ## Datasets
 
-- [Public Datasets](datasets.md): Datasets relevant for projects in the 
+- [Public Datasets](datasets.md): Datasets you can use for whatever data projects you want to try
 
 ## Cloud Resources
 - [Cloud Free Tier Comparison](Cloud-Free-Tier-Comparison): Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.
