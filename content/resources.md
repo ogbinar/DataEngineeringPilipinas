@@ -24,7 +24,9 @@ A curated collection of free resources designed to aid your journey in data engi
 ## Internships
 - [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/): A remote one-month internship in Data Science and Business Analytics.
 
-## Additional Resources
-- [PH-based Datasets](../datasets/PH_data_sources.md): Datasets relevant for projects in the Philippines.
-- [Public Datasets](../datasets/Public_datasets.md): A list of datasets available for public use.
+## Datasets
+
+- [Public Datasets](datasets.md): Datasets relevant for projects in the 
+
+## Cloud Resources
 - [Cloud Free Tier Comparison](Cloud-Free-Tier-Comparison): Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.

@@ -1,5 +1,5 @@
 
-![Data Engineering Domain](https://media.licdn.com/dms/image/D5612AQG7bJ051eTZQw/article-cover_image-shrink_720_1280/0/1692040311087?e=2147483647&v=beta&t=MIy8h1O6lwGLdLb8tEZKSuanIDRnji5jteLTQwkqCyU)
+![Data Engineering Domain](https://github.com/ogbinar/DataEngineeringPilipinas/blob/main/assets/1692040311087.png)
 
 ## Data Engineering
 - **Primary Focus**: Data engineering focuses on the practical aspects of data collection, data transformation, and data storage, preparing data for analytical or operational use.
