@@ -12,7 +12,7 @@ This page serves as a repository of notes, thoughts, ideas, plans, dreams, datas
 </p>
 
 #### Getting Started with Data Engineering
-- <a href="data-engineering-101.md">What is Data Engineering?</a>
+- <a href="content/data-engineering-101.md">What is Data Engineering?</a>
 - <a href="https://youtu.be/XsvrumL0ILc">An Introductory video about Data Engineering Pilipinas (5 mins)</a>
 
 ####  Join our growing community! Like, follow, join our groups and pages:
