@@ -41,8 +41,6 @@ Our technical knowledge base is a comprehensive resource for data engineers and 
 #### [Free Resources](content/resources.md)
 Explore an extensive collection of free resources tailored for aspiring and experienced data professionals alike. This section includes links to free courses, tutorials, study guides, and practical tools designed to boost your skills and knowledge in data engineering and related fields
 
-Here's a more streamlined and organized version of the community links for Data Engineering Pilipinas, formatted in GitHub Markdown:
-
 ## Join Our Growing Community
 
 Connect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:
