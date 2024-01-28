@@ -20,7 +20,6 @@ This page serves as a repository of notes, thoughts, ideas, plans, dreams, datas
 - [DEP FB Page](https://www.facebook.com/DataEngineeringPilipinas/)
 - [DEP FB Group Chats](https://m.me/cm/AbbnRPVsIMd34APj)
 - [Data Engineering Pilipinas | Discord Group ](https://discord.com/invite/buDgydz7J9)
-- [Data Engineering Pilipinas | Datacamp Studygroup Discord](https://discord.gg/eKEZuXeyxt)
 - [Data Engineering Pilipinas | Meetup ](https://www.meetup.com/data-engineering-pilipinas/)
 - [Data Engineering Pilipinas | Youtube ](https://www.youtube.com/@DataEngineeringPilipinas)
 - [Data Engineering Pilipinas | LinkedIn Group ](https://www.linkedin.com/company/97217550/)
