@@ -44,7 +44,7 @@ A list of global data sources and repositories for various research and projects
 - **[NOAA Data Products](https://www.ncei.noaa.gov/products)**: Datasets from the National Oceanic and Atmospheric Administration.
 - **[Climate Data](https://www.climate.gov/maps-data/all)**
 
-: Comprehensive climate datasets.
+Comprehensive climate datasets:
 - **[Unicef Data Collections](https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/)**: Data on global child welfare.
 - **[US Population Data](https://www.bls.gov/cps/tables.htm)**: Population statistics from the US Bureau of Labor Statistics.
 - **[Stanford Open Policing Project](https://openpolicing.stanford.edu/)**: Data on police traffic stops.
