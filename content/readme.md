@@ -60,13 +60,13 @@ A session by Kyle Escosia on creating a serverless data lake in AWS.
 
 - [Snowflake in the Philippines](https://medium.com/@kyle.escosia/the-rise-of-snowflake-in-the-philippines-why-its-the-hottest-thing-in-big-data-right-now-9b9d09c11e89) - Kyle Escosia's insights on Snowflake's rise in the Philippines.
 - [UPSERTS and DELETS using AWS Glue and Delta Lake](https://dev.to/awscommunity-asean/sql-based-inserts-deletes-and-upserts-in-s3-using-aws-glue-3-0-and-delta-lake-42f0) - A guide on using AWS Glue with Delta Lake for data operations.
-- [Table Indexes](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/lessons/table_index) - An educational piece on the importance and implementation of table indexes.
+- [Table Indexes](table_index/) - An educational piece on the importance and implementation of table indexes.
 
 ## Projects
 
-- [Basic ETL project](projects/pipeline_basic/readme.md)
-- [ETL Project with Azure Databricks](projects/ETL-Databricks-code\README.md) - A walkthrough of an ETL project using Azure Databricks.
-- [Containerization](projects/containerization/README.md) - An exploration of containerization in data engineering.
+- [Basic ETL project](projects/pipeline_basic/)
+- [ETL Project with Azure Databricks](projects/ETL-Databricks-code/) - A walkthrough of an ETL project using Azure Databricks.
+- [Containerization](projects/containerization/) - An exploration of containerization in data engineering.
 
 ## People and Pages
 
