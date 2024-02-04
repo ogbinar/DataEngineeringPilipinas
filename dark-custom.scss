@@ -1,0 +1,43 @@
+//
+// Dark Color System adapted to the Philippine flag colors
+//
+$dark: #121212 !default; // Dark background for the main body
+$light-gray: #c4c4c4 !default; // Light gray for text to ensure readability
+$dark-gray: #333 !default; // Darker gray for less emphasized elements
+
+// Colors from the flag for accents
+$philippine-blue: #0038a8 !default; // Royal blue for peace and justice
+$philippine-red: #ce1126 !default; // Red for valor and bravery
+$philippine-yellow: #fcd116 !default; // Yellow for the sun and stars
+
+// Navbar
+$navbar-bg: $dark-gray !default; // Darker gray for navbar background
+$navbar-fg: $philippine-yellow !default; // Yellow for contrast against dark navbar
+$navbar-hl: $philippine-red !default; // Highlight links with red
+
+// Links
+$link-color: $philippine-blue !default; // Blue for links to stand out in dark mode
+
+// Code blocks
+$code-block-bg: $dark !default; // Use the main dark color for code block backgrounds
+
+/* -- scss:mixins --*/
+
+/*-- scss:rules --*/
+// Overrides for dark mode, ensuring good contrast and readability
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:focus {
+  color: $philippine-red; // Red on hover/focus for bright contrast
+}
+
+// Tabset links in dark mode
+.nav-tabs .nav-link,
+.nav-tabs .nav-link:hover,
+.nav-tabs .nav-link:focus {
+  color: $light-gray; // Light gray for readability on dark backgrounds
+}
+
+// Ensuring blockquote text is readable in dark mode
+.blockquote {
+  color: $light-gray; // Light gray against the dark background for contrast
+}

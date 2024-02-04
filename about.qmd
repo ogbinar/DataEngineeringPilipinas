@@ -8,6 +8,8 @@ description: |
 
 Data Engineering Pilipinas, a vibrant PyData community in the Philippines, is dedicated to advancing data engineering knowledge and practices. Founded July 16, 2023, our community has rapidly grown, now boasting nearly 13,000 Facebook group members.
 
+![](images/Picture1.png)
+
 ## Our Mission
 
 We aim to democratize data engineering education, providing open access to learning materials and fostering a collaborative environment for sharing tools and skills.

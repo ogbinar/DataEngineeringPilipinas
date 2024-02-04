@@ -1,7 +1,9 @@
 project:
   type: website
   render:
-    - "!old/"
+    - ./
+
+    
 
 resources:
   - CNAME
@@ -10,7 +12,10 @@ website:
   title: "Data Engineering Pilipinas"
   site-url: https://dataengineering.ph/
   favicon: images/favicon-32x32.png
-  
+  image: images/DATA%20ENGINEERING%20-1-modified.png
+  google-analytics: "G-KKX48FVTNV"
+  cookie-consent: true 
+
   page-footer: 
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/), with theme from [vetiver](https://github.com/rstudio/vetiver.rstudio.com)"
     left: "&copy; CC-By Data Engineering Pilipinas"
@@ -33,10 +38,16 @@ website:
       href: resources.qmd
     - text: "Datasets"
       href: datasets.qmd
+    - icon: github
+      href: https://github.com/ogbinar/DataEngineeringPilipinas
+    - icon: facebook
+      href: https://www.facebook.com/groups/dataengineeringpilipinas
 
 format:
   html:
-    theme: [sandstone, custom.scss]
+    theme: 
+      light: [sandstone, custom.scss]
+      dark: [sandstone, dark-custom.scss]
     css: styles.css
     toc: true
     toc-title: Contents

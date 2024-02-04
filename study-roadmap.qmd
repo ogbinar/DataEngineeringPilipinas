@@ -13,7 +13,7 @@ description: |
 ![Data Engineering](images/DataCamp%20-%20Data%20Engineer%20Track.png)
 
 ### Data Analyst
-![Data Analyst](images/DataCamp%20-%20Data%20Analyst%20Associate%20%26%20Professional%20Track.png)
+![Data Analyst](images/DataCamp%20-%20Data%20Analyst%20Track.png)
 
 ### Roadmap.sh
 - [Roadmap.sh](https://roadmap.sh/): Roadmaps and study guides for Python, Data Scientist, SQL, and more.
