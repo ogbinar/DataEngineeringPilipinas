@@ -5,10 +5,10 @@ project:
 
 resources:
   - CNAME
-  
+
 website:
   title: "Data Engineering Pilipinas"
-  site-url: http://dataengineering.ph/
+  site-url: https://dataengineering.ph/
   favicon: images/favicon-32x32.png
   
   page-footer: 
@@ -17,10 +17,10 @@ website:
  
   navbar:
     logo: images/favicon-32x32.png
-    href: http://dataengineering.ph/
+    href: https://dataengineering.ph/
     right:
-    # - text: "Home"
-    #   href: index.html
+    - text: "Home"
+      href: index.qmd
     - text: "About"
       href: about.qmd
     - text: "Study Roadmap"
