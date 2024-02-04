@@ -1,10 +1,9 @@
 ---
 title: "Data Engineering Pilipinas"
 description: |
-  Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.
+  Welcome to the Awesome Data Engineering Repository from the Philippines!
 ---
 
-# Awesome Data Engineering Repository from the Philippines
 <p align="center">
 <img align="center" width="250" height="250" src="images/DATA%20ENGINEERING%20-1-modified.png">
 </p>
