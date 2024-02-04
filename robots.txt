@@ -1,1 +1,1 @@
-Sitemap: http://dataengineering.ph/sitemap.xml
+Sitemap: https://dataengineering.ph/sitemap.xml
