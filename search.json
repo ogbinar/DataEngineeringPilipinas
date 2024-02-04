@@ -1,0 +1,534 @@
+[
+  {
+    "objectID": "technical-knowledgebase.html",
+    "href": "technical-knowledgebase.html",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "This section provides a comprehensive overview of various technologies and tools in the field of data engineering.\n\n\n\nPostgreSQL: An open-source object-relational database system known for its reliability and robust features.\nMySQL: The most popular open-source SQL database management system, developed by Oracle Corporation.\nAmazon Relational Database System (RDS): A managed service for setting up and scaling databases in the cloud, supporting multiple database engines.\n\n\n\n\n\nAmazon Redshift: A cloud data warehouse known for its fast performance, available in both provisioned and serverless configurations.\nGoogle BigQuery: A serverless enterprise data warehouse that offers high scalability and cost-effectiveness.\n\n\n\n\n\nRedis: An open-source, in-memory key-value store known for its versatility and performance.\nAmazon DynamoDB: A fully managed, serverless NoSQL database designed for modern applications.\n\n\n\n\n\nAmazon S3: Offers scalable and secure object storage services.\nAzure Blob Storage: Ideal for storing large-scale cloud-native workloads, archives, and data lakes.\nGoogle Cloud Storage: A flexible service for storing and retrieving any amount of data.\n\n\n\n\n\nApache Kafka: A distributed event streaming platform with various implementations:\n\nConfluent’s Apache Kafka: A fully managed service with expert support.\nAmazon MSK: Amazon’s fully managed Kafka service.\n\nAWS SDK for pandas (AWS Wrangler): Extends pandas library to AWS, allowing seamless integration with AWS data services.\nAWS Kinesis: A cloud-based service for real-time data processing.\nAirbyte: An open-source data integration platform for ELT pipelines.\nPentaho Data Integration (Kettle): Includes both a core data integration engine and a graphical user interface for defining jobs and transformations.\n\n\n\n\n\nApache Avro: A serialization format ideal for streaming data pipelines.\nApache Parquet: An open-source columnar data file format.\nApache ORC: Optimized for Hadoop workloads.\n\n\n\n\n\nDelta Lake: An open-source storage framework by Databricks for building Lakehouse architecture.\nApache Iceberg: An open table format for huge analytical datasets, developed by Netflix.\nApache Hudi: A framework for managing large analytical datasets, created by Uber.\n\n\n\n\n\n\n\nApache Spark: A versatile engine for big data processing, available in various languages like Python (PySpark), Scala, Java, and R.\n\n\n\n\n\nPresto: A distributed SQL query engine for big data.\nApache Hive: Built on Hadoop, it facilitates reading, writing, and managing large datasets.\nApache Drill: An open-source SQL query engine.\nTrino: A SQL query engine designed for large data sets.\n\n\n\n\n\nAWS Elastic MapReduce (EMR): A cloud big data platform for processing large datasets.\nAWS Glue: A serverless data integration service.\n\n\n\n\n\n\nSpark Streaming: A part of Apache Spark for processing live data streams.\nSpark Structured Streaming: A stream processing engine built on Spark SQL.\nApache Flink: A framework for stateful computations over data streams.\nApache Storm: A system for processing streaming data in real-time.\n\n\n\n\nApache Druid: A high-performance real-time analytics database.\nApache Pinot: A real-time distributed OLAP datastore.\n\n\n\n\n\n\nApache Airflow: An open-source platform for managing complex computational workflows and data processing pipelines.\nMage: A modern replacement for Airflow for transforming and integrating data.\nDagster: An orchestration platform for data assets.\nPrefect: A workflow orchestration tool for data pipelines.\nKestra: An orchestrator for both scheduled and event-driven workflows.\nAWS Step Functions: Coordinates components of distributed applications.\n\n\n\n\n\n\n\nData Build Tool (dbt): A transformation workflow that follows software engineering best practices.\nSQLMesh: An open-source data transformation framework for SQL and Python.\n\n\n\n\n\n\n\n\nDataHub Project: An extensible metadata platform by LinkedIn.\nOpenMetadata: A platform for discovering, collaborating, and managing data.\nApache Atlas: An open-source metadata and governance framework.\nAmundsen: A data discovery and metadata engine by Lyft.\n\n\n\n\n\nGreat Expectations: A platform for data quality and observability.\n\n\n\n\n\n\nDatabricks: Offers a unified Data Lakehouse platform.\nSnowflake: A cloud-native data warehouse platform."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#relational-databases",
+    "href": "technical-knowledgebase.html#relational-databases",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "PostgreSQL: An open-source object-relational database system known for its reliability and robust features.\nMySQL: The most popular open-source SQL database management system, developed by Oracle Corporation.\nAmazon Relational Database System (RDS): A managed service for setting up and scaling databases in the cloud, supporting multiple database engines."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#columnar-databases",
+    "href": "technical-knowledgebase.html#columnar-databases",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "Amazon Redshift: A cloud data warehouse known for its fast performance, available in both provisioned and serverless configurations.\nGoogle BigQuery: A serverless enterprise data warehouse that offers high scalability and cost-effectiveness."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#key-value-stores",
+    "href": "technical-knowledgebase.html#key-value-stores",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "Redis: An open-source, in-memory key-value store known for its versatility and performance.\nAmazon DynamoDB: A fully managed, serverless NoSQL database designed for modern applications."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#object-storage",
+    "href": "technical-knowledgebase.html#object-storage",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "Amazon S3: Offers scalable and secure object storage services.\nAzure Blob Storage: Ideal for storing large-scale cloud-native workloads, archives, and data lakes.\nGoogle Cloud Storage: A flexible service for storing and retrieving any amount of data."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-ingestion",
+    "href": "technical-knowledgebase.html#data-ingestion",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "Apache Kafka: A distributed event streaming platform with various implementations:\n\nConfluent’s Apache Kafka: A fully managed service with expert support.\nAmazon MSK: Amazon’s fully managed Kafka service.\n\nAWS SDK for pandas (AWS Wrangler): Extends pandas library to AWS, allowing seamless integration with AWS data services.\nAWS Kinesis: A cloud-based service for real-time data processing.\nAirbyte: An open-source data integration platform for ELT pipelines.\nPentaho Data Integration (Kettle): Includes both a core data integration engine and a graphical user interface for defining jobs and transformations."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-formats",
+    "href": "technical-knowledgebase.html#data-formats",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "Apache Avro: A serialization format ideal for streaming data pipelines.\nApache Parquet: An open-source columnar data file format.\nApache ORC: Optimized for Hadoop workloads."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-storage-framework",
+    "href": "technical-knowledgebase.html#data-storage-framework",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "Delta Lake: An open-source storage framework by Databricks for building Lakehouse architecture.\nApache Iceberg: An open table format for huge analytical datasets, developed by Netflix.\nApache Hudi: A framework for managing large analytical datasets, created by Uber."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#batch-processing",
+    "href": "technical-knowledgebase.html#batch-processing",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "Apache Spark: A versatile engine for big data processing, available in various languages like Python (PySpark), Scala, Java, and R.\n\n\n\n\n\nPresto: A distributed SQL query engine for big data.\nApache Hive: Built on Hadoop, it facilitates reading, writing, and managing large datasets.\nApache Drill: An open-source SQL query engine.\nTrino: A SQL query engine designed for large data sets.\n\n\n\n\n\nAWS Elastic MapReduce (EMR): A cloud big data platform for processing large datasets.\nAWS Glue: A serverless data integration service."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#stream-processing",
+    "href": "technical-knowledgebase.html#stream-processing",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "Spark Streaming: A part of Apache Spark for processing live data streams.\nSpark Structured Streaming: A stream processing engine built on Spark SQL.\nApache Flink: A framework for stateful computations over data streams.\nApache Storm: A system for processing streaming data in real-time.\n\n\n\n\nApache Druid: A high-performance real-time analytics database.\nApache Pinot: A real-time distributed OLAP datastore."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#workflow-orchestration",
+    "href": "technical-knowledgebase.html#workflow-orchestration",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "Apache Airflow: An open-source platform for managing complex computational workflows and data processing pipelines.\nMage: A modern replacement for Airflow for transforming and integrating data.\nDagster: An orchestration platform for data assets.\nPrefect: A workflow orchestration tool for data pipelines.\nKestra: An orchestrator for both scheduled and event-driven workflows.\nAWS Step Functions: Coordinates components of distributed applications."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-transformation",
+    "href": "technical-knowledgebase.html#data-transformation",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "Data Build Tool (dbt): A transformation workflow that follows software engineering best practices.\nSQLMesh: An open-source data transformation framework for SQL and Python."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-governance",
+    "href": "technical-knowledgebase.html#data-governance",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "DataHub Project: An extensible metadata platform by LinkedIn.\nOpenMetadata: A platform for discovering, collaborating, and managing data.\nApache Atlas: An open-source metadata and governance framework.\nAmundsen: A data discovery and metadata engine by Lyft.\n\n\n\n\n\nGreat Expectations: A platform for data quality and observability."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-platforms",
+    "href": "technical-knowledgebase.html#data-platforms",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "Databricks: Offers a unified Data Lakehouse platform.\nSnowflake: A cloud-native data warehouse platform."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Free Resources",
+    "section": "",
+    "text": "A curated collection of free resources designed to aid your journey in data engineering and analytics.\n\n\n\nMystery Kneights: Beginner SQL practice through interactive projects.\n8 Week SQL Challenge: Intermediate/Advanced SQL challenges.\n\n\n\n\n\nLearnpython.org: learn the basics of Python\n\n\n\n\n\nCrashCourse Statistics: Quick statistics overview.\nStatQuest - Statistics Fundamentals: Fundamental statistics concepts.\n\n\n\n\n\nData Science for Beginners by Microsoft: Beginner-friendly data science materials on GitHub.\nHarvard CS50’s Introduction to Programming with Python: Full university course available on YouTube.\n\n\n\n\n\nCreate a Portfolio Website with AlexTheAnalyst: Tutorial on creating and hosting a portfolio using GitHub Pages.\nGoogle Analytics for Beginners and Advanced Google Analytics: Track your portfolio/website visitors.\n\n\n\n\n\nThe Sparks Foundation: A remote one-month internship in Data Science and Business Analytics.\n\n\n\n\n\nPublic Datasets: Datasets you can use for whatever data projects you want to try\n\n\n\n\n\nCloud Free Tier Comparison: Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud."
+  },
+  {
+    "objectID": "resources.html#sql-practice",
+    "href": "resources.html#sql-practice",
+    "title": "Free Resources",
+    "section": "",
+    "text": "Mystery Kneights: Beginner SQL practice through interactive projects.\n8 Week SQL Challenge: Intermediate/Advanced SQL challenges."
+  },
+  {
+    "objectID": "resources.html#learn-python",
+    "href": "resources.html#learn-python",
+    "title": "Free Resources",
+    "section": "",
+    "text": "Learnpython.org: learn the basics of Python"
+  },
+  {
+    "objectID": "resources.html#statistics-lessons-on-youtube",
+    "href": "resources.html#statistics-lessons-on-youtube",
+    "title": "Free Resources",
+    "section": "",
+    "text": "CrashCourse Statistics: Quick statistics overview.\nStatQuest - Statistics Fundamentals: Fundamental statistics concepts."
+  },
+  {
+    "objectID": "resources.html#data-science-tutorials",
+    "href": "resources.html#data-science-tutorials",
+    "title": "Free Resources",
+    "section": "",
+    "text": "Data Science for Beginners by Microsoft: Beginner-friendly data science materials on GitHub.\nHarvard CS50’s Introduction to Programming with Python: Full university course available on YouTube."
+  },
+  {
+    "objectID": "resources.html#portfolio-building",
+    "href": "resources.html#portfolio-building",
+    "title": "Free Resources",
+    "section": "",
+    "text": "Create a Portfolio Website with AlexTheAnalyst: Tutorial on creating and hosting a portfolio using GitHub Pages.\nGoogle Analytics for Beginners and Advanced Google Analytics: Track your portfolio/website visitors."
+  },
+  {
+    "objectID": "resources.html#internships",
+    "href": "resources.html#internships",
+    "title": "Free Resources",
+    "section": "",
+    "text": "The Sparks Foundation: A remote one-month internship in Data Science and Business Analytics."
+  },
+  {
+    "objectID": "resources.html#datasets",
+    "href": "resources.html#datasets",
+    "title": "Free Resources",
+    "section": "",
+    "text": "Public Datasets: Datasets you can use for whatever data projects you want to try"
+  },
+  {
+    "objectID": "resources.html#cloud-resources",
+    "href": "resources.html#cloud-resources",
+    "title": "Free Resources",
+    "section": "",
+    "text": "Cloud Free Tier Comparison: Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Engineering Pilipinas",
+    "section": "",
+    "text": "Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.\n\n\nThis page serves as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of.\n\n\n\n\nWhat is Data Engineering?\nAn Introductory video about Data Engineering Pilipinas (5 mins)\n\n\n\n\nConnect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:\n\n\n\nFacebook Group: Engage with fellow members and share insights.\n\nFacebook Group\n\nFacebook Page: Follow our page for the latest updates and events.\n\nFacebook Page\n\nFacebook Group Chats: Join the conversation in our group chats.\n\nFacebook Group Chats\n\n\n\n\n\n\nDiscord Group: Collaborate and connect in real-time with our community.\n\nDiscord Group\n\nMeetup Group: Attend meetups and connect with members offline.\n\nMeetup Group\n\n\n\n\n\n\nLinkedIn Group: Network with professionals and explore career opportunities.\n\nLinkedIn Group\n\n\n\n\n\n\nReddit Community: Engage in discussions and share knowledge on our subreddit.\n\nSubreddit\n\n\n\n\n\n\nYouTube Channel: Access tutorials, talks, and webinars.\n\nYouTube Channel\n\n\nJoin us and be a part of the Data Engineering Pilipinas community!"
+  },
+  {
+    "objectID": "index.html#join-our-growing-community",
+    "href": "index.html#join-our-growing-community",
+    "title": "Data Engineering Pilipinas",
+    "section": "",
+    "text": "Connect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:\n\n\n\nFacebook Group: Engage with fellow members and share insights.\n\nFacebook Group\n\nFacebook Page: Follow our page for the latest updates and events.\n\nFacebook Page\n\nFacebook Group Chats: Join the conversation in our group chats.\n\nFacebook Group Chats\n\n\n\n\n\n\nDiscord Group: Collaborate and connect in real-time with our community.\n\nDiscord Group\n\nMeetup Group: Attend meetups and connect with members offline.\n\nMeetup Group\n\n\n\n\n\n\nLinkedIn Group: Network with professionals and explore career opportunities.\n\nLinkedIn Group\n\n\n\n\n\n\nReddit Community: Engage in discussions and share knowledge on our subreddit.\n\nSubreddit\n\n\n\n\n\n\nYouTube Channel: Access tutorials, talks, and webinars.\n\nYouTube Channel\n\n\nJoin us and be a part of the Data Engineering Pilipinas community!"
+  },
+  {
+    "objectID": "content/table_index/rmd/indexed_table.html",
+    "href": "content/table_index/rmd/indexed_table.html",
+    "title": "Indexed table",
+    "section": "",
+    "text": "In the previous chapter, we saw that an SQL DB parses through the whole table to retrieve rows. Because it does not know where the rows that match the provided conditions are, it has to check every row. This is why it does not matter where in the table the rows are located. This is where INDEXes come in."
+  },
+  {
+    "objectID": "content/table_index/rmd/indexed_table.html#duplicate-our-table",
+    "href": "content/table_index/rmd/indexed_table.html#duplicate-our-table",
+    "title": "Indexed table",
+    "section": "Duplicate our table",
+    "text": "Duplicate our table\nWe want to keep our non-indexed table so that we can still run non-indexed queries later.\nIt takes about 15 minutes to make a copy.\nThen we add the primary key and indexes for fk_id and entry_date.\nIt takes about 20 minutes to add these indices."
+  },
+  {
+    "objectID": "content/table_index/rmd/indexed_table.html#database-connection",
+    "href": "content/table_index/rmd/indexed_table.html#database-connection",
+    "title": "Indexed table",
+    "section": "Database Connection",
+    "text": "Database Connection\nIn the background, we set up our environment, connect to the database, and turn on profiling.\nA quick check of our tables:\nOur tables are the same except for the indexes."
+  },
+  {
+    "objectID": "content/table_index/rmd/indexed_table.html#show-profile-function",
+    "href": "content/table_index/rmd/indexed_table.html#show-profile-function",
+    "title": "Indexed table",
+    "section": "Show Profile function",
+    "text": "Show Profile function\nBecause we will run profiling repeatedly, it makes sense to write it into a function."
+  },
+  {
+    "objectID": "content/table_index/rmd/indexed_table.html#query-6-run-the-first-day-query-with-the-benefit-of-an-index",
+    "href": "content/table_index/rmd/indexed_table.html#query-6-run-the-first-day-query-with-the-benefit-of-an-index",
+    "title": "Indexed table",
+    "section": "Query 6: Run the “first day” query with the benefit of an index",
+    "text": "Query 6: Run the “first day” query with the benefit of an index\nFrom 17 seconds, we are now down to below 0.007 seconds."
+  },
+  {
+    "objectID": "content/table_index/rmd/indexed_table.html#query-7-run-the-last-day-query-with-the-benefit-of-an-index",
+    "href": "content/table_index/rmd/indexed_table.html#query-7-run-the-last-day-query-with-the-benefit-of-an-index",
+    "title": "Indexed table",
+    "section": "Query 7: Run the “last day” query with the benefit of an index",
+    "text": "Query 7: Run the “last day” query with the benefit of an index\nIt is the same for our “last day” query. Below 0.007 seconds. The DB is not parsing the entire table anymore.\nBut, this is a little bit of a cheat. Remember that entry_date is already sorted. Rows with the same entry_dates are together. How much difference is there if the needles are scattered all over the table?"
+  },
+  {
+    "objectID": "content/table_index/rmd/indexed_table.html#query-8-retrieve-all-fk_id-45",
+    "href": "content/table_index/rmd/indexed_table.html#query-8-retrieve-all-fk_id-45",
+    "title": "Indexed table",
+    "section": "Query 8: Retrieve all fk_id = 45",
+    "text": "Query 8: Retrieve all fk_id = 45\nWe have a different column we can filter on. fk_id is not sorted. It is randomly distributed across the entire table. Let’s run a baseline on the non-indexed table.\nAs expected, we get about 17 seconds."
+  },
+  {
+    "objectID": "content/table_index/rmd/indexed_table.html#query-9-retrieve-all-fk_id-45-with-the-help-of-an-index",
+    "href": "content/table_index/rmd/indexed_table.html#query-9-retrieve-all-fk_id-45-with-the-help-of-an-index",
+    "title": "Indexed table",
+    "section": "Query 9: Retrieve all fk_id = 45 with the help of an index",
+    "text": "Query 9: Retrieve all fk_id = 45 with the help of an index\nThen the same query from the indexed table.\nWe have a substantial improvement from 17 seconds to less than 5 seconds."
+  },
+  {
+    "objectID": "content/table_index/rmd/indexed_table.html#questions",
+    "href": "content/table_index/rmd/indexed_table.html#questions",
+    "title": "Indexed table",
+    "section": "Questions",
+    "text": "Questions\n\nWhat if we need to filter by year? Or by year-month?"
+  },
+  {
+    "objectID": "content/table_index/rmd/create_table.html",
+    "href": "content/table_index/rmd/create_table.html",
+    "title": "Create and populate table",
+    "section": "",
+    "text": "For our sample table, we will use a simple 4-column table that is a simulated result of an ETL process from some OLTP DB. We have the following values: - date value: You can think of this as an entry date, or a purchase date - numeric value: You can think of this as quantity of items, or a monetary value - descriptive value: You can think of this as a category code, or a branch code\nWe will then populate our table with 50 million rows randomly generated. These will be inserted in date order ascending. Why 50 million? So that we give the DB a little bit of a workout. A DB will not break a sweat with hundred-thousand-row tables."
+  },
+  {
+    "objectID": "content/table_index/rmd/create_table.html#create-our-sample-table",
+    "href": "content/table_index/rmd/create_table.html#create-our-sample-table",
+    "title": "Create and populate table",
+    "section": "Create our sample table",
+    "text": "Create our sample table\nFirst, we create our table in our database with the following DDL:\nTake note that at this point, other than the primary key, we do not have any indexes defined.\n\n\n\nField\nData Type\nDescription\n\n\n\n\nid\nINT\nA simple unsigned primary key\n\n\nfk_id\nINT\nA simulated foreign key ID\n\n\narbitrary_value\nINT\nA value we can use aggregate functions on\n\n\nentry_date\nDATETIME\nA datetime value"
+  },
+  {
+    "objectID": "content/table_index/rmd/create_table.html#populate-our-table",
+    "href": "content/table_index/rmd/create_table.html#populate-our-table",
+    "title": "Create and populate table",
+    "section": "Populate our table",
+    "text": "Populate our table\n\nGenerate data\nWe will now generate data for our table. To do this we use fixtuRes. We provide a YML configuration file:\n# sample_table.yml\nsample_table:\n  columns:\n    fk_id:\n      type: integer\n      min: 1\n      max: 100\n    arbitrary_value:\n      type: integer\n      min: 0\n      max: 50\n    entry_date:\n      type: date\n      min: 1973-01-01\n      max: 2023-12-31\n  arrange: entry_date\nWe use MockDataGenerator to create our data. This will produce a table ordered by entry_date. Then we add a sequential id column to have the id in the same order as entry_date.\nThe following is a sample output if we used size = 20:\n\n\nConnect to DB\nWe now establish a connection to our MySQL database server. The RMySQL library has been deprecated in favor of the RMariaDB library.\nIt is always good practice to keep your connection credentials like usernames, passwords, API tokens in your environment variables. Never hard-coded in source code. And never commit your environment variable file to the repo.\n\n\nWrite our data to the DB\nWhile there is a function we can use to write our mock_data to the DB table (dbWriteTable(conn, \"sample_table\", mock_data)), remember that we have 50 million rows. When mock_data is written to a CSV file, it results in a 1.3 GB file. Writing this to the DB will take some time. To avoid hitting the connection time-out constraint we will write the data by batches of date.\nLet’s take a look at what we have.\nDont’ leave any DB connections open!\nNow, we have a 50 million row DB table we can play around with."
+  },
+  {
+    "objectID": "content/projects/pipeline_basic/readme.html",
+    "href": "content/projects/pipeline_basic/readme.html",
+    "title": "Data Engineering Pilipinas",
+    "section": "",
+    "text": "This is a basic ETL project"
+  },
+  {
+    "objectID": "content/projects/pipeline_basic/readme.html#basic-etl-project",
+    "href": "content/projects/pipeline_basic/readme.html#basic-etl-project",
+    "title": "Data Engineering Pilipinas",
+    "section": "",
+    "text": "This is a basic ETL project"
+  },
+  {
+    "objectID": "content/Cloud-Free-Tier-Comparison/LICENSE.html",
+    "href": "content/Cloud-Free-Tier-Comparison/LICENSE.html",
+    "title": "Data Engineering Pilipinas",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2020 Cloud Study Network.\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community Content",
+    "section": "",
+    "text": "Explore a rich collection of community-driven content, featuring insightful videos, blogs, and articles from data engineering experts. These resources offer valuable perspectives on various aspects of data engineering and analytics.\n\n\n\n\nA brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.\n\n\n\nAn introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.\n\n\n\nA discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.\n\n\n\nA video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.\n\n\n\nAn online event with key thought leaders and content creators in the Filipino tech community.\n\n\n\nA panel discussion hosted by R User’s Group Philippines on transitioning to a career in data.\n\n\n\n\n\n\n\nUnlocking the Future: Discussing Shifting into Tech with Kuya Dev\n\n\n\n\n\nUnlocking Data Engineering with Josh Valdeleon\n\n\n\n\n\nUnlocking Career Opportunities: Philippine Skills Framework for AI and Analytics with Sherwin Pelayo\n\n\n\n\n\nDiscussion on Data Engineering and Analytics with Gerard\n\n\n\n\n\nXavier Puspus talks about minting AI engineers through education\n\n\n\n\n\nDiscussing Tech and Data Careers with Noemi\n\n\n\n\n\nFrom Dropout to Tech Star: Aemy Obinguar’s Inspirational Tale\n\n\n\n\n\nExclusive Interview: Sandy Lauguico’s Data Engineering Transition\n\n\n\n\n\n\n\nKyle Escosia’s talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.\n\n\n\nA session by Kyle Escosia on creating a serverless data lake in AWS.\n\n\n\n\n\nSnowflake in the Philippines - Kyle Escosia’s insights on Snowflake’s rise in the Philippines.\nUPSERTS and DELETS using AWS Glue and Delta Lake - A guide on using AWS Glue with Delta Lake for data operations.\nTable Indexes - An educational piece on the importance and implementation of table indexes.\n\n\n\n\n\nBasic ETL project\nETL Project with Azure Databricks - A walkthrough of an ETL project using Azure Databricks.\nContainerization - An exploration of containerization in data engineering.\n\n\n\n\n\nKyle Escosia - Explore the work of Kyle Escosia, a Data Engineer with a passion for all things data."
+  },
+  {
+    "objectID": "community.html#videos-and-presentations",
+    "href": "community.html#videos-and-presentations",
+    "title": "Community Content",
+    "section": "",
+    "text": "A brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.\n\n\n\nAn introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.\n\n\n\nA discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.\n\n\n\nA video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.\n\n\n\nAn online event with key thought leaders and content creators in the Filipino tech community.\n\n\n\nA panel discussion hosted by R User’s Group Philippines on transitioning to a career in data."
+  },
+  {
+    "objectID": "community.html#doc-ligot-interviews",
+    "href": "community.html#doc-ligot-interviews",
+    "title": "Community Content",
+    "section": "",
+    "text": "Unlocking the Future: Discussing Shifting into Tech with Kuya Dev\n\n\n\n\n\nUnlocking Data Engineering with Josh Valdeleon\n\n\n\n\n\nUnlocking Career Opportunities: Philippine Skills Framework for AI and Analytics with Sherwin Pelayo\n\n\n\n\n\nDiscussion on Data Engineering and Analytics with Gerard\n\n\n\n\n\nXavier Puspus talks about minting AI engineers through education\n\n\n\n\n\nDiscussing Tech and Data Careers with Noemi\n\n\n\n\n\nFrom Dropout to Tech Star: Aemy Obinguar’s Inspirational Tale\n\n\n\n\n\nExclusive Interview: Sandy Lauguico’s Data Engineering Transition"
+  },
+  {
+    "objectID": "community.html#recorded-events-and-talks",
+    "href": "community.html#recorded-events-and-talks",
+    "title": "Community Content",
+    "section": "",
+    "text": "Kyle Escosia’s talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.\n\n\n\nA session by Kyle Escosia on creating a serverless data lake in AWS."
+  },
+  {
+    "objectID": "community.html#blogs-and-articles",
+    "href": "community.html#blogs-and-articles",
+    "title": "Community Content",
+    "section": "",
+    "text": "Snowflake in the Philippines - Kyle Escosia’s insights on Snowflake’s rise in the Philippines.\nUPSERTS and DELETS using AWS Glue and Delta Lake - A guide on using AWS Glue with Delta Lake for data operations.\nTable Indexes - An educational piece on the importance and implementation of table indexes."
+  },
+  {
+    "objectID": "community.html#projects",
+    "href": "community.html#projects",
+    "title": "Community Content",
+    "section": "",
+    "text": "Basic ETL project\nETL Project with Azure Databricks - A walkthrough of an ETL project using Azure Databricks.\nContainerization - An exploration of containerization in data engineering."
+  },
+  {
+    "objectID": "community.html#people-and-pages",
+    "href": "community.html#people-and-pages",
+    "title": "Community Content",
+    "section": "",
+    "text": "Kyle Escosia - Explore the work of Kyle Escosia, a Data Engineer with a passion for all things data."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Data Engineering Pilipinas",
+    "section": "",
+    "text": "Data Engineering Pilipinas, a vibrant PyData community in the Philippines, is dedicated to advancing data engineering knowledge and practices. Founded July 16, 2023, our community has rapidly grown, now boasting nearly 13,000 Facebook group members.\n\n\nWe aim to democratize data engineering education, providing open access to learning materials and fostering a collaborative environment for sharing tools and skills."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Data Engineering Pilipinas",
+    "section": "",
+    "text": "We aim to democratize data engineering education, providing open access to learning materials and fostering a collaborative environment for sharing tools and skills."
+  },
+  {
+    "objectID": "content/Cloud-Free-Tier-Comparison/Articles.html",
+    "href": "content/Cloud-Free-Tier-Comparison/Articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "Articles\nhttps://www.cloudmanagementinsider.com/aws-azure-google-cloud-free-tier-comparison/\nhttps://n2ws.com/blog/amazon-aws-microsoft-azure-google-cloud-free-tier-cloud-computing-service-comparison\nhttps://www.infoworld.com/article/3179785/aws-vs-azure-vs-google-cloud-which-free-tier-is-best.html"
+  },
+  {
+    "objectID": "content/data-engineering-101.html",
+    "href": "content/data-engineering-101.html",
+    "title": "Data Engineering 101",
+    "section": "",
+    "text": "Data Engineering Domain"
+  },
+  {
+    "objectID": "content/data-engineering-101.html#data-engineering",
+    "href": "content/data-engineering-101.html#data-engineering",
+    "title": "Data Engineering 101",
+    "section": "Data Engineering",
+    "text": "Data Engineering\n\nPrimary Focus: Data engineering focuses on the practical aspects of data collection, data transformation, and data storage, preparing data for analytical or operational use.\nKey Responsibilities:\n\nBuilding and maintaining data architecture (databases, large-scale processing systems).\nDeveloping and managing data pipelines.\nEnsuring data availability and usability for data scientists and analysts.\n\nSkills and Tools:\n\nProgramming languages (Python, Java, Scala).\nDatabase languages (SQL).\nTools and frameworks (Apache Hadoop, Apache Spark, ETL tools, data warehousing solutions)."
+  },
+  {
+    "objectID": "content/data-engineering-101.html#related-fields",
+    "href": "content/data-engineering-101.html#related-fields",
+    "title": "Data Engineering 101",
+    "section": "Related Fields",
+    "text": "Related Fields\n\n1. Data Analysis\n\nInvolves extracting insights from data.\nTools: Excel, SQL, R, Python, BI tools (like Tableau, Power BI).\n\n\n\n2. Data Science\n\nEncompasses data analysis, predictive modeling, and machine learning.\nTools: Python, R, TensorFlow, machine learning libraries.\n\n\n\n3. Machine Learning Engineering\n\nFocuses on building systems that learn from data.\nTools: Python, machine learning frameworks, cloud computing platforms.\n\n\n\n4. Business Intelligence (BI)\n\nAnalyzing data to aid business decision-making.\nTools: SQL, BI platforms (Tableau, Power BI, Looker).\n\n\n\n5. Database Administration\n\nManaging and maintaining databases.\nTools: SQL, database management systems (MySQL, PostgreSQL).\n\n\n\n6. Big Data\n\nHandling large and complex data sets.\nTools: Hadoop, Spark, NoSQL databases.\n\nEach field plays a unique role in the data ecosystem, often collaborating to turn data into actionable insights. As the name suggests, our community focuses on all data career paths with emphasis on data engineering."
+  },
+  {
+    "objectID": "content/table_index/readme.html",
+    "href": "content/table_index/readme.html",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "Create and populate table\nHow an RDBMS retrieves data\nIndexed table\n[TODO] Filter by year\n[TODO] Group by year\n\n\n\n\n\nUnraid 6.11.5\nDocker 20.10.21\ni7-4770S 4C/8T\n16GB DDR3\n500GB Crucial MX500 SSD\nOther hardware exist but are not used in this demonstration\n\n\n\n\nThe RDBMS used for this demonstration is MySQL 8.1.0. It is running as a Docker container on top of an Unraid 6.11.5 server. The container instance is running un-constrained. It has full access to the CPU and memory resources. The MySQL data files reside on the SSD. Only the MySQL container will be running during the query executions.\nThe principles and (relative) results will be largely the same when other RDBMS are used. The syntax may be different, however.\n\n\nQuickest RDBMS for me to set up and tear down.\n\n\n\n\nThe raw source documents are written in R Markdown using R 4.3.2. R Markdown is similar in structure and function to a .ipynb Python notebook you may be familiar with.\n\n\nAs data engineers, you will have to support a variety of languages/environments/platforms used by different data-end-users. This is a way to expose you to a language other than Python.\n\n\n\n\n\nNone of the code presented are production-ready. It is advisable to use error-tolerant practices such as tryCatch() and DB transactions when working with DBs.\nAll queries are run only once. Ideally, each should be run at least 5 times, then the mean of each run is taken."
+  },
+  {
+    "objectID": "content/table_index/readme.html#toc",
+    "href": "content/table_index/readme.html#toc",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "Create and populate table\nHow an RDBMS retrieves data\nIndexed table\n[TODO] Filter by year\n[TODO] Group by year"
+  },
+  {
+    "objectID": "content/table_index/readme.html#server-platform",
+    "href": "content/table_index/readme.html#server-platform",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "Unraid 6.11.5\nDocker 20.10.21\ni7-4770S 4C/8T\n16GB DDR3\n500GB Crucial MX500 SSD\nOther hardware exist but are not used in this demonstration"
+  },
+  {
+    "objectID": "content/table_index/readme.html#mysql-rdbms",
+    "href": "content/table_index/readme.html#mysql-rdbms",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "The RDBMS used for this demonstration is MySQL 8.1.0. It is running as a Docker container on top of an Unraid 6.11.5 server. The container instance is running un-constrained. It has full access to the CPU and memory resources. The MySQL data files reside on the SSD. Only the MySQL container will be running during the query executions.\nThe principles and (relative) results will be largely the same when other RDBMS are used. The syntax may be different, however.\n\n\nQuickest RDBMS for me to set up and tear down."
+  },
+  {
+    "objectID": "content/table_index/readme.html#r-markdown",
+    "href": "content/table_index/readme.html#r-markdown",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "The raw source documents are written in R Markdown using R 4.3.2. R Markdown is similar in structure and function to a .ipynb Python notebook you may be familiar with.\n\n\nAs data engineers, you will have to support a variety of languages/environments/platforms used by different data-end-users. This is a way to expose you to a language other than Python."
+  },
+  {
+    "objectID": "content/table_index/readme.html#disclaimers",
+    "href": "content/table_index/readme.html#disclaimers",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "None of the code presented are production-ready. It is advisable to use error-tolerant practices such as tryCatch() and DB transactions when working with DBs.\nAll queries are run only once. Ideally, each should be run at least 5 times, then the mean of each run is taken."
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html",
+    "href": "content/table_index/rmd/how_db_works.html",
+    "title": "How SQL DB server works",
+    "section": "",
+    "text": "In the previous chapter, we set up our sandbox table sample_table with 4 columns and 50 million rows. Now, we will execute a few queries to understand how SQL databases retrieve the rows we request."
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html#connect-to-the-db",
+    "href": "content/table_index/rmd/how_db_works.html#connect-to-the-db",
+    "title": "How SQL DB server works",
+    "section": "Connect to the DB",
+    "text": "Connect to the DB"
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html#initial-exploration",
+    "href": "content/table_index/rmd/how_db_works.html#initial-exploration",
+    "title": "How SQL DB server works",
+    "section": "Initial exploration",
+    "text": "Initial exploration\nLet’s take a look at what we are dealing with. We know we have entry_date in the table sorted in ascending order."
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html#start-mysql-profiling",
+    "href": "content/table_index/rmd/how_db_works.html#start-mysql-profiling",
+    "title": "How SQL DB server works",
+    "section": "Start MySQL profiling",
+    "text": "Start MySQL profiling"
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html#query-1-retrieve-just-the-first-day",
+    "href": "content/table_index/rmd/how_db_works.html#query-1-retrieve-just-the-first-day",
+    "title": "How SQL DB server works",
+    "section": "Query 1: Retrieve just the first day",
+    "text": "Query 1: Retrieve just the first day\nWe know that the first day we have data for is at the top of the table.\nIt takes around 17 seconds.\nThe DBI library performed commit DB commands after the query, and again, after the SHOW PROFILES command.\nIf you are using a GUI client to connect to your DB, it may show a time for the query to execute. In MySQL Workbench, this would be shown as Duration/Fetch. And for this query, MySQL Workbench shows 0.029 sec / 17.224 sec. The sum of these is roughly the same as the duration shown in the profiles result.\nThe majority of the time is spent in executing."
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html#query-2-retrieve-just-the-last-day",
+    "href": "content/table_index/rmd/how_db_works.html#query-2-retrieve-just-the-last-day",
+    "title": "How SQL DB server works",
+    "section": "Query 2: Retrieve just the last day",
+    "text": "Query 2: Retrieve just the last day\nLet’s do the same for the last day we have, 2023-12-31. We know that the last day of the data we have is at the end of the table."
+  },
+  {
+    "objectID": "datasets.html",
+    "href": "datasets.html",
+    "title": "Open Data Sources",
+    "section": "",
+    "text": "A collection of Philippine data sources for various data projects:\n\n\n\nPhilippine Standard Geographic Code (PSGC): Comprehensive list of barangays, municipalities, cities, provinces, regions.\nCOVID Data via DOH Data Drop: Data provided by the Department of Health.\nPhilippine Statistics Authority (PSA): Access to various datasets.\nPSA Annual Poverty Indicators Survey (API): Annual poverty-related data.\nPSA Family Income and Expenditure Survey (FIES): Data on family income and expenses.\nCities and Municipalities Competitiveness Index (CMCI): Data on city and municipal competitiveness.\nBSP Banks Directory: List of banks and their offices.\nBSP Financial Service Access Points: Directory of bank access points.\nUnified Accounts Code Structure (UACS): Government accounting standard.\nOpen Data Philippines (beta): Various government datasets.\nWorld Bank Philippines Data: Economic indicators and more.\nAwesome Data Philippines by BNHR: Curated list of PH data resources.\n\n\n\n\n\nHydroSheds Data: Hydrological data and maps.\nEarthquake Data: Global seismic activity data.\nHazard Data: World environment situation room data.\nNatural Resources Data: Data on natural resources.\nTyphoon Data: Information on typhoons.\nClimate Data: Climate data from NOAA.\nLand Cover by ESRI: Global land cover data.\nMarine Boundaries: Information on marine regions.\nCoral Reefs: Coral reef data.\nPhilippines - Subnational Administrative Boundaries: Administrative boundaries data.\n\n\n\n\n\nEconomic and Social Database: Database from PIDS."
+  },
+  {
+    "objectID": "datasets.html#philippine-data-sources",
+    "href": "datasets.html#philippine-data-sources",
+    "title": "Open Data Sources",
+    "section": "",
+    "text": "A collection of Philippine data sources for various data projects:\n\n\n\nPhilippine Standard Geographic Code (PSGC): Comprehensive list of barangays, municipalities, cities, provinces, regions.\nCOVID Data via DOH Data Drop: Data provided by the Department of Health.\nPhilippine Statistics Authority (PSA): Access to various datasets.\nPSA Annual Poverty Indicators Survey (API): Annual poverty-related data.\nPSA Family Income and Expenditure Survey (FIES): Data on family income and expenses.\nCities and Municipalities Competitiveness Index (CMCI): Data on city and municipal competitiveness.\nBSP Banks Directory: List of banks and their offices.\nBSP Financial Service Access Points: Directory of bank access points.\nUnified Accounts Code Structure (UACS): Government accounting standard.\nOpen Data Philippines (beta): Various government datasets.\nWorld Bank Philippines Data: Economic indicators and more.\nAwesome Data Philippines by BNHR: Curated list of PH data resources.\n\n\n\n\n\nHydroSheds Data: Hydrological data and maps.\nEarthquake Data: Global seismic activity data.\nHazard Data: World environment situation room data.\nNatural Resources Data: Data on natural resources.\nTyphoon Data: Information on typhoons.\nClimate Data: Climate data from NOAA.\nLand Cover by ESRI: Global land cover data.\nMarine Boundaries: Information on marine regions.\nCoral Reefs: Coral reef data.\nPhilippines - Subnational Administrative Boundaries: Administrative boundaries data.\n\n\n\n\n\nEconomic and Social Database: Database from PIDS."
+  },
+  {
+    "objectID": "datasets.html#global-data-sources-repositories",
+    "href": "datasets.html#global-data-sources-repositories",
+    "title": "Open Data Sources",
+    "section": "Global Data Sources & Repositories",
+    "text": "Global Data Sources & Repositories\nA list of global data sources and repositories for various research and projects:\n\nGoogle Datasets: Explore datasets provided by Google Cloud.\nGoogle Research Datasets: A tool for discovering datasets for research.\nBigQuery Public Datasets: A collection of public datasets available in Google BigQuery.\nWorld Health Organization Collections: Global health data from WHO.\nHealthcare Images: Public datasets of healthcare images.\nGenome Datasets: Data from the International Genome project.\nNOAA Data Products: Datasets from the National Oceanic and Atmospheric Administration.\nClimate Data\n\nComprehensive climate datasets: - Unicef Data Collections: Data on global child welfare. - US Population Data: Population statistics from the US Bureau of Labor Statistics. - Stanford Open Policing Project: Data on police traffic stops. - Scikit-Learn Datasets: Datasets available in the Scikit-Learn library. - PyTorch Datasets: Datasets available in PyTorch. - Huggingface Datasets: A hub for various ML datasets. - Wikipedia ML Research Datasets: A list of datasets for machine learning research."
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Community Contents",
+    "section": "",
+    "text": "Explore a rich collection of community-driven content, featuring insightful videos, blogs, and articles from data engineering experts. These resources offer valuable perspectives on various aspects of data engineering and analytics.\n\n\n\n\nA brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.\n\n\n\nAn introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.\n\n\n\nA discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.\n\n\n\nA video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.\n\n\n\nAn online event with key thought leaders and content creators in the Filipino tech community.\n\n\n\nA panel discussion hosted by R User’s Group Philippines on transitioning to a career in data.\n\n\n\n\n\n\n\nUnlocking the Future: Discussing Shifting into Tech with Kuya Dev\n\n\n\n\n\nUnlocking Data Engineering with Josh Valdeleon\n\n\n\n\n\nUnlocking Career Opportunities: Philippine Skills Framework for AI and Analytics with Sherwin Pelayo\n\n\n\n\n\nDiscussion on Data Engineering and Analytics with Gerard\n\n\n\n\n\nXavier Puspus talks about minting AI engineers through education\n\n\n\n\n\nDiscussing Tech and Data Careers with Noemi\n\n\n\n\n\nFrom Dropout to Tech Star: Aemy Obinguar’s Inspirational Tale\n\n\n\n\n\nExclusive Interview: Sandy Lauguico’s Data Engineering Transition\n\n\n\n\n\n\n\nKyle Escosia’s talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.\n\n\n\nA session by Kyle Escosia on creating a serverless data lake in AWS.\n\n\n\n\n\nSnowflake in the Philippines - Kyle Escosia’s insights on Snowflake’s rise in the Philippines.\nUPSERTS and DELETS using AWS Glue and Delta Lake - A guide on using AWS Glue with Delta Lake for data operations.\nTable Indexes - An educational piece on the importance and implementation of table indexes.\n\n\n\n\n\nBasic ETL project\nETL Project with Azure Databricks - A walkthrough of an ETL project using Azure Databricks.\nContainerization - An exploration of containerization in data engineering.\n\n\n\n\n\nKyle Escosia - Explore the work of Kyle Escosia, a Data Engineer with a passion for all things data."
+  },
+  {
+    "objectID": "readme.html#videos-and-presentations",
+    "href": "readme.html#videos-and-presentations",
+    "title": "Community Contents",
+    "section": "",
+    "text": "A brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.\n\n\n\nAn introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.\n\n\n\nA discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.\n\n\n\nA video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.\n\n\n\nAn online event with key thought leaders and content creators in the Filipino tech community.\n\n\n\nA panel discussion hosted by R User’s Group Philippines on transitioning to a career in data."
+  },
+  {
+    "objectID": "readme.html#doc-ligot-interviews",
+    "href": "readme.html#doc-ligot-interviews",
+    "title": "Community Contents",
+    "section": "",
+    "text": "Unlocking the Future: Discussing Shifting into Tech with Kuya Dev\n\n\n\n\n\nUnlocking Data Engineering with Josh Valdeleon\n\n\n\n\n\nUnlocking Career Opportunities: Philippine Skills Framework for AI and Analytics with Sherwin Pelayo\n\n\n\n\n\nDiscussion on Data Engineering and Analytics with Gerard\n\n\n\n\n\nXavier Puspus talks about minting AI engineers through education\n\n\n\n\n\nDiscussing Tech and Data Careers with Noemi\n\n\n\n\n\nFrom Dropout to Tech Star: Aemy Obinguar’s Inspirational Tale\n\n\n\n\n\nExclusive Interview: Sandy Lauguico’s Data Engineering Transition"
+  },
+  {
+    "objectID": "readme.html#recorded-events-and-talks",
+    "href": "readme.html#recorded-events-and-talks",
+    "title": "Community Contents",
+    "section": "",
+    "text": "Kyle Escosia’s talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.\n\n\n\nA session by Kyle Escosia on creating a serverless data lake in AWS."
+  },
+  {
+    "objectID": "readme.html#blogs-and-articles",
+    "href": "readme.html#blogs-and-articles",
+    "title": "Community Contents",
+    "section": "",
+    "text": "Snowflake in the Philippines - Kyle Escosia’s insights on Snowflake’s rise in the Philippines.\nUPSERTS and DELETS using AWS Glue and Delta Lake - A guide on using AWS Glue with Delta Lake for data operations.\nTable Indexes - An educational piece on the importance and implementation of table indexes."
+  },
+  {
+    "objectID": "readme.html#projects",
+    "href": "readme.html#projects",
+    "title": "Community Contents",
+    "section": "",
+    "text": "Basic ETL project\nETL Project with Azure Databricks - A walkthrough of an ETL project using Azure Databricks.\nContainerization - An exploration of containerization in data engineering."
+  },
+  {
+    "objectID": "readme.html#people-and-pages",
+    "href": "readme.html#people-and-pages",
+    "title": "Community Contents",
+    "section": "",
+    "text": "Kyle Escosia - Explore the work of Kyle Escosia, a Data Engineer with a passion for all things data."
+  },
+  {
+    "objectID": "study-roadmap.html",
+    "href": "study-roadmap.html",
+    "title": "Study Roadmap",
+    "section": "",
+    "text": "Study Roadmap for Beginners\nEmbark on your journey in data engineering with our specially curated study roadmap for beginners. This guide provides a structured path for newcomers, covering foundational concepts, essential tools, and key technologies in the field. Ideal for those starting out, this roadmap is your first step towards mastering data engineering.\n\nData Engineering - by Sandy\n\nDataEngineerRoadmap_Notion - Data Engineering roadmap with a variety of course options from free to paid.\n\n\n\nBy Nicksy via Data Camp\n\n\n\nData Engineering\n\n\n\nData Engineering\n\n\n\n\nData Analyst\n\n\n\nData Analyst\n\n\n\n\nRoadmap.sh\n\nRoadmap.sh: Roadmaps and study guides for Python, Data Scientist, SQL, and more."
+  }
+]
