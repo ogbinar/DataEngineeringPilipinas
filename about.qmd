@@ -1,0 +1,47 @@
+---
+title: "About Data Engineering Pilipinas"
+description: |
+  Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.
+---
+
+## Empowering Data Enthusiasts
+
+Data Engineering Pilipinas, a vibrant PyData community in the Philippines, is dedicated to advancing data engineering knowledge and practices. Founded July 16, 2023, our community has rapidly grown, now boasting nearly 13,000 Facebook group members.
+
+## Our Mission
+
+We aim to democratize data engineering education, providing open access to learning materials and fostering a collaborative environment for sharing tools and skills.
+
+## Community Guidelines
+
+Our community thrives on respect, collaboration, and shared learning. Here are the guidelines we follow to ensure a positive and productive environment for all members.
+
+1. **Be Respectful**
+   Treat all members with courtesy and respect, avoiding offensive language or personal attacks.
+
+2. **Share Knowledge**
+   Encourage the sharing of valuable insights, best practices, and resources related to data engineering.
+
+3. **No Trolling or Harassment**
+   Engage constructively. Trolling or harassment of other members or administrators is not tolerated.
+
+4. **Avoid Plagiarism**
+   Always attribute credit to the original source when sharing content or ideas.
+
+5. **Be Mindful of Privacy**
+   Do not share personal information or sensitive data in our discussions.
+
+6. **Minimal Self-Promotion**
+   Keep self-promotion or spamming of personal content or products to a minimum, especially if not related to data engineering.
+
+7. **Stay On Topic**
+   Ensure discussions are relevant to data engineering, its technologies, and related fields.
+
+8. **No Illegal Activities**
+   Do not engage in or promote discussions about activities that violate laws or ethical standards.
+
+9. **Limit Recruitment Posts**
+   Job postings and collaboration requests are welcome but keep them moderate and relevant to data engineering roles or opportunities. Use appropriate hashtags like #hiring, #project, and #opportunity.
+
+10. **Keep it Professional**
+    Maintain a professional tone in all interactions and adhere to Facebook's guidelines and policies at all times.

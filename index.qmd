@@ -1,0 +1,55 @@
+---
+title: "Data Engineering Pilipinas"
+description: |
+  Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.
+---
+
+# Awesome Data Engineering Repository from the Philippines
+<p align="center">
+<img align="center" width="250" height="250" src="images/DATA%20ENGINEERING%20-1-modified.png">
+</p>
+
+<p align="center">
+Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a <a href="https://pydata.org/">PyData group</a>.</p>
+
+<p align="center">
+This page serves as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of.
+</p>
+
+#### Getting Started with Data Engineering
+- <a href="content/data-engineering-101.qmd">What is Data Engineering?</a>
+- <a href="https://youtu.be/XsvrumL0ILc">An Introductory video about Data Engineering Pilipinas (5 mins)</a>
+
+## Join Our Growing Community
+
+Connect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:
+
+### Social Media and Community Platforms
+- **Facebook Group**: Engage with fellow members and share insights. 
+  - [Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/)
+- **Facebook Page**: Follow our page for the latest updates and events.
+  - [Facebook Page](https://www.facebook.com/DataEngineeringPilipinas/)
+- **Facebook Group Chats**: Join the conversation in our group chats.
+  - [Facebook Group Chats](https://m.me/cm/AbbnRPVsIMd34APj)
+
+### Collaborative Platforms
+- **Discord Group**: Collaborate and connect in real-time with our community.
+  - [Discord Group](https://discord.com/invite/buDgydz7J9)
+- **Meetup Group**: Attend meetups and connect with members offline.
+  - [Meetup Group](https://www.meetup.com/data-engineering-pilipinas/)
+
+### Professional Networks
+- **LinkedIn Group**: Network with professionals and explore career opportunities.
+  - [LinkedIn Group](https://www.linkedin.com/company/97217550/)
+
+### Online Forums and Discussions
+- **Reddit Community**: Engage in discussions and share knowledge on our subreddit.
+  - [Subreddit](https://www.reddit.com/r/DataEngineeringPH/)
+
+### Multimedia and Learning
+- **YouTube Channel**: Access tutorials, talks, and webinars.
+  - [YouTube Channel](https://www.youtube.com/@DataEngineeringPilipinas)
+
+Join us and be a part of the Data Engineering Pilipinas community!
+
+---

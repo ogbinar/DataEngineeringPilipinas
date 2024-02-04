@@ -3,10 +3,6 @@ title: "How SQL DB server works"
 author: "Ricardo Rodrigo Basa"
 date: "2024-01-07"
 output: html_document
-execute: 
-  eval: false
-  enabled: false
-  include: false
 ---
 
 ```{r setup, include=FALSE}
@@ -60,7 +56,7 @@ We know that the first day we have data for is at the top of the table.
 result <- dbGetQuery(conn, "SELECT * FROM sample_table WHERE entry_date = '1973-01-01'")
 query_1_count <- result %>% nrow()
 datatable(result)
-```{r chunk, eval=FALSE}
+```
 We have `r query_1_count` rows in our result set. We can verify that we only retrieved 
 1973-01-01, our first entry date. And we see that the primary key `id` begins at `1`.
 
@@ -108,12 +104,12 @@ profiles %>%
   slice_tail(n = 3)
 ```
 
-```{r profile_2} 
+```{r profile_2}
 this_profile <- (profiles %>% slice_tail(n = 3))[1, ]
 this_query_id <- this_profile %>% pull(Query_ID)
 
 dbGetQuery(conn, glue("SHOW PROFILE FOR QUERY {this_query_id}"))
-```{r chunk1, eval=FALSE}
+```
 
 We get the same time. Roughly 17 seconds.
 
@@ -136,7 +132,7 @@ this_query_id <- this_profile %>% pull(Query_ID)
 
 this_profile
 dbGetQuery(conn, glue("SHOW PROFILE FOR QUERY {this_query_id}"))
-```{r chunk2, eval=FALSE}
+```
 
 Now, our query is executed in less than 0.005 seconds.
 
@@ -156,7 +152,7 @@ this_query_id <- this_profile %>% pull(Query_ID)
 
 this_profile
 dbGetQuery(conn, glue("SHOW PROFILE FOR QUERY {this_query_id}"))
-```{r chunk3, eval=FALSE}
+```
 
 We are back to around 17 seconds.
 
@@ -176,7 +172,7 @@ this_query_id <- this_profile %>% pull(Query_ID)
 
 this_profile
 dbGetQuery(conn, glue("SHOW PROFILE FOR QUERY {this_query_id}"))
-```{r chunk4, eval=FALSE}
+```
 
 Our query to retrieve `r query_1_count + 1` rows takes 17 seconds. 
 

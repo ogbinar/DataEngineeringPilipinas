@@ -3,10 +3,6 @@ title: "Indexed table"
 author: "Ricardo Rodrigo Basa"
 date: "2024-01-07"
 output: html_document
-execute: 
-  eval: false
-  enabled: false
-  include: false
 ---
 
 ```{r setup, include=FALSE}

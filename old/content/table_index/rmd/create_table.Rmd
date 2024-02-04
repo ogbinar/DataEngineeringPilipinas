@@ -3,10 +3,6 @@ title: "Create and populate table"
 output: html_document
 author: "Ricardo Rodrigo Basa"
 date: "2024-01-07"
-execute: 
-  eval: false
-  enabled: false
-  include: false
 ---
 
 ```{r setup, include=FALSE}
@@ -95,10 +91,9 @@ library(fixtuRes)
 library(dplyr)
 library(tibble)
 library(DBI)
-``` 
+```
 
-```{r mock_smaple, error = TRUE}
- 
+```{r mock_smaple, echo=FALSE}
 mock_data_generator <- fixtuRes::MockDataGenerator$new("sample_table.yml")
 mock_data <- mock_data_generator$get_data("sample_table", size = 20)
 mock_data <- mock_data %>%

@@ -1,0 +1,77 @@
+---
+title: "Community Content"
+description: |
+    Explore a rich collection of community-driven content, featuring insightful videos, blogs, and articles from data engineering experts. These resources offer valuable perspectives on various aspects of data engineering and analytics.
+---
+
+ 
+
+## Videos and Presentations
+
+### [What is Data Engineering Pilipinas?](https://youtu.be/XsvrumL0ILc)
+A brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.
+
+### [Getting Started with Data Engineering](https://www.facebook.com/studevph/videos/165090273259790)
+An introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.
+
+### [Building a Career in PH Tech Startups](https://youtu.be/pzxFTFB8f6s)
+A discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.
+
+### [Philippine Skills Framework for AI and Analytics](https://www.youtube.com/watch?v=_CjsYi9ivlc)
+A video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.
+
+### [TechSync 2023: Synchronizing Filipino Tech Communities](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1043806640102969)
+An online event with key thought leaders and content creators in the Filipino tech community.
+
+### [Shifting to a Career in Data | RUG-PH 120](https://youtu.be/ivzmUPRqxQ8?si=c_OdyC4FvqOJv6Bq)
+A panel discussion hosted by R User's Group Philippines on transitioning to a career in data.
+
+## Doc Ligot Interviews
+
+### Kuya Dev
+- [Unlocking the Future: Discussing Shifting into Tech with Kuya Dev](https://www.youtube.com/watch?v=QlM6wjRwVZA)
+
+### Josh V.
+- [Unlocking Data Engineering with Josh Valdeleon](https://www.youtube.com/watch?v=w9dtGJz4N-g)
+
+### Sherwin Pelayo
+- [Unlocking Career Opportunities: Philippine Skills Framework for AI and Analytics with Sherwin Pelayo](https://www.youtube.com/watch?v=_CjsYi9ivlc)
+
+### Gerard
+- [Discussion on Data Engineering and Analytics with Gerard](https://www.youtube.com/watch?v=vaptzZRVVkc) 
+
+### Xavier Puspus
+- [Xavier Puspus talks about minting AI engineers through education](https://www.youtube.com/watch?v=YVC5DjjvGO4)
+
+### Noemi
+- [Discussing Tech and Data Careers with Noemi](https://www.youtube.com/watch?v=FqmFvP9N6Gw)
+
+### Aemy Obinguar
+- [From Dropout to Tech Star: Aemy Obinguar's Inspirational Tale](https://www.youtube.com/watch?v=GZcYyILg3kc)
+
+### Sandy Lauguico
+- [Exclusive Interview: Sandy Lauguico's Data Engineering Transition](https://www.youtube.com/watch?v=8pJMFi3kIfQ)
+
+## Recorded Events and Talks
+
+### [Introduction to Big Data and Analytics](https://www.facebook.com/watch/live/?ref=search&v=2388014311349277)
+Kyle Escosia's talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.
+
+### [Building a Serverless Data Lake in AWS](https://www.facebook.com/watch/live/?ref=watch_permalink&v=684903669389073)
+A session by Kyle Escosia on creating a serverless data lake in AWS.
+
+## Blogs and Articles
+
+- [Snowflake in the Philippines](https://medium.com/@kyle.escosia/the-rise-of-snowflake-in-the-philippines-why-its-the-hottest-thing-in-big-data-right-now-9b9d09c11e89) - Kyle Escosia's insights on Snowflake's rise in the Philippines.
+- [UPSERTS and DELETS using AWS Glue and Delta Lake](https://dev.to/awscommunity-asean/sql-based-inserts-deletes-and-upserts-in-s3-using-aws-glue-3-0-and-delta-lake-42f0) - A guide on using AWS Glue with Delta Lake for data operations.
+- [Table Indexes](table_index/) - An educational piece on the importance and implementation of table indexes.
+
+## Projects
+
+- [Basic ETL project](projects/pipeline_basic/)
+- [ETL Project with Azure Databricks](projects/ETL-Databricks-code/) - A walkthrough of an ETL project using Azure Databricks.
+- [Containerization](projects/containerization/) - An exploration of containerization in data engineering.
+
+## People and Pages
+
+- [Kyle Escosia](https://linktr.ee/klescosia) - Explore the work of Kyle Escosia, a Data Engineer with a passion for all things data.

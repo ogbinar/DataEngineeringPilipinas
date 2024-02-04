@@ -1,0 +1,41 @@
+project:
+  type: website
+  render:
+    - "!old/"
+
+website:
+  title: "Data Engineering Pilipinas"
+  site-url: http://dataengineering.ph/
+  favicon: images/favicon-32x32.png
+  
+  page-footer: 
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/), with theme from [vetiver](https://github.com/rstudio/vetiver.rstudio.com)"
+    left: "&copy; CC-By Data Engineering Pilipinas"
+ 
+  navbar:
+    logo: images/favicon-32x32.png
+    href: http://dataengineering.ph/
+    right:
+    # - text: "Home"
+    #   href: index.html
+    - text: "About"
+      href: about.qmd
+    - text: "Study Roadmap"
+      href: study-roadmap.qmd
+    - text: "Community"
+      href: community.qmd    
+    - text: "Knowledgebase"
+      href: technical-knowledgebase.qmd
+    - text: "Resources"
+      href: resources.qmd
+    - text: "Datasets"
+      href: datasets.qmd
+
+format:
+  html:
+    theme: [sandstone, custom.scss]
+    css: styles.css
+    toc: true
+    toc-title: Contents
+    toc-location: left
+

@@ -1,0 +1,19 @@
+---
+title: "Study Roadmap for Beginners"
+description: |
+    Embark on your journey in data engineering with our specially curated study roadmap for beginners. This guide provides a structured path for newcomers, covering foundational concepts, essential tools, and key technologies in the field. Ideal for those starting out, this roadmap is your first step towards mastering data engineering.
+---
+
+##### Data Engineering - by Sandy
+- [DataEngineerRoadmap_Notion](https://shadow-blue-572.notion.site/b880b4ef0b1445aabec127442b97c79f?v=0a45fb3e2b5946d59708797eeea16671) - Data Engineering roadmap with a variety of course options from free to paid.
+
+##### By Nicksy via Data Camp
+
+### Data Engineering
+![Data Engineering](images/DataCamp%20-%20Data%20Engineer%20Track.png)
+
+### Data Analyst
+![Data Analyst](images/DataCamp%20-%20Data%20Analyst%20Associate%20%26%20Professional%20Track.png)
+
+### Roadmap.sh
+- [Roadmap.sh](https://roadmap.sh/): Roadmaps and study guides for Python, Data Scientist, SQL, and more.

@@ -1,76 +1,70 @@
-# Awesome Data Engineering Repository from the Philippines
+# NASA-Openscapes.github.io
 
-<p align="center">
-<img align="center" width="250" height="250" src="assets/DATA%20ENGINEERING%20-1.png">
-</p>
+Landing page for NASA-Openscapes  
+# Contribution Guidelines for Data Engineering Pilipinas Quarto Website
 
-<p align="center">
-Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a <a href="https://pydata.org/">PyData group</a>.</p>
+Welcome to the Data Engineering Pilipinas Quarto website project! We're excited to have you contribute to our growing repository of data engineering resources. To ensure a smooth contribution process for everyone, please follow these guidelines.
 
-<p align="center">
-This page serves as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of.
-</p>
+## Getting Started
 
-#### Getting Started with Data Engineering
-- <a href="content/data-engineering-101.md">What is Data Engineering?</a>
-- <a href="https://youtu.be/XsvrumL0ILc">An Introductory video about Data Engineering Pilipinas (5 mins)</a>
+1. **Fork the Repository**: Start by forking the main repository to your GitHub account. This creates your own copy of the project where you can make changes.
 
-#### Study Roadmap for Beginners
-Embark on your journey in data engineering with our specially curated study roadmap for beginners. This guide provides a structured path for newcomers, covering foundational concepts, essential tools, and key technologies in the field. Ideal for those starting out, this roadmap is your first step towards mastering data engineering.
+2. **Clone Your Fork**: Clone your forked repository to your local machine using Git. This allows you to work on the files locally.
 
-##### Data Engineering - by Sandy
-- [DataEngineerRoadmap_Notion](https://shadow-blue-572.notion.site/b880b4ef0b1445aabec127442b97c79f?v=0a45fb3e2b5946d59708797eeea16671) - Data Engineering roadmap with a variety of course options from free to paid.
+    ```
+    git clone https://github.com/yourusername/DataEngineeringPilipinas.git
+    ```
 
-##### By Nicksy via Data Camp
+3. **Set Upstream Remote**: Add the original repository as an upstream remote to your local clone. This helps you to keep your fork up to date.
 
-### Data Engineering
-![Data Engineering](assets/DataCamp%20-%20Data%20Engineer%20Track.png)
+    ```
+    git remote add upstream https://github.com/ogbinar/DataEngineeringPilipinas.git
+    ```
 
-### Data Analyst
-![Data Analyst](assets/DataCamp%20-%20Data%20Analyst%20Associate%20%26%20Professional%20Track.png)
+## Making Changes
 
-### Roadmap.sh
-- [Roadmap.sh](https://roadmap.sh/): Roadmaps and study guides for Python, Data Scientist, SQL, and more.
+1. **Create a New Branch**: Always work on a new branch for your changes. This keeps your contributions organized and separate from the main branch.
 
-#### [Community Content](content/)
-Discover a wealth of insights from our diverse community. This section features a curated selection of articles, discussions, and shared experiences from data professionals. Dive into their journey, learn from their challenges, and celebrate their achievements.
+    ```
+    git checkout -b feature/your-new-feature-name
+    ```
 
-#### [Technical Knowledgebase](content/technical-knowledgebase.md)
-Our technical knowledge base is a comprehensive resource for data engineers and analysts. It includes detailed information on a variety of tools, platforms, and technologies essential in the field of data engineering. Whether you're a beginner or an expert, there's something here to enhance your technical prowess.
+2. **Add Your Content**: Make your changes or additions to the project. If you're adding new content, ensure it's placed in the correct directory and follows the Quarto formatting guidelines.
 
-#### [Free Resources](content/resources.md)
-Explore an extensive collection of free resources tailored for aspiring and experienced data professionals alike. This section includes links to free courses, tutorials, study guides, and practical tools designed to boost your skills and knowledge in data engineering and related fields
+3. **Commit Your Changes**: After making your changes, commit them to your branch. Use clear and concise commit messages to describe your updates.
 
-## Join Our Growing Community
+    ```
+    git add .
+    git commit -m "Add a brief description of your changes"
+    ```
 
-Connect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:
+4. **Keep Your Fork Updated**: Regularly sync your fork's main branch with the upstream repository to keep it up to date. This reduces potential merge conflicts.
 
-### Social Media and Community Platforms
-- **Facebook Group**: Engage with fellow members and share insights. 
-  - [Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/)
-- **Facebook Page**: Follow our page for the latest updates and events.
-  - [Facebook Page](https://www.facebook.com/DataEngineeringPilipinas/)
-- **Facebook Group Chats**: Join the conversation in our group chats.
-  - [Facebook Group Chats](https://m.me/cm/AbbnRPVsIMd34APj)
+    ```
+    git fetch upstream
+    git checkout main
+    git merge upstream/main
+    git push origin main
+    ```
 
-### Collaborative Platforms
-- **Discord Group**: Collaborate and connect in real-time with our community.
-  - [Discord Group](https://discord.com/invite/buDgydz7J9)
-- **Meetup Group**: Attend meetups and connect with members offline.
-  - [Meetup Group](https://www.meetup.com/data-engineering-pilipinas/)
+## Submitting Contributions
 
-### Professional Networks
-- **LinkedIn Group**: Network with professionals and explore career opportunities.
-  - [LinkedIn Group](https://www.linkedin.com/company/97217550/)
+1. **Push Your Changes**: Push your changes to your fork on GitHub.
 
-### Online Forums and Discussions
-- **Reddit Community**: Engage in discussions and share knowledge on our subreddit.
-  - [Subreddit](https://www.reddit.com/r/DataEngineeringPH/)
+    ```
+    git push origin feature/your-new-feature-name
+    ```
 
-### Multimedia and Learning
-- **YouTube Channel**: Access tutorials, talks, and webinars.
-  - [YouTube Channel](https://www.youtube.com/@DataEngineeringPilipinas)
+2. **Create a Pull Request (PR)**: Go to the original Data Engineering Pilipinas repository on GitHub and create a new pull request. Base your PR on your feature branch and target the main branch of the upstream repository.
 
-Join us and be a part of the Data Engineering Pilipinas community!
+3. **Describe Your Contribution**: Provide a clear and detailed description of your pull request. Include the purpose of your changes and any other relevant information.
 
----
+4. **Review and Collaboration**: Once your PR is submitted, the project maintainers will review your contributions. Be open to feedback and ready to make additional changes if requested.
+
+## Guidelines
+
+- **Quality**: Ensure your contributions are of high quality, with no spelling or grammatical errors.
+- **Relevance**: Content should be relevant to data engineering and beneficial to the community.
+- **Respect**: Respect the structure and formatting of the existing project. Follow Quarto and Markdown formatting standards.
+
+Thank you for contributing to the Data Engineering Pilipinas Quarto website. Your efforts help make our community a richer and more informative space for data engineering professionals in the Philippines and beyond!
