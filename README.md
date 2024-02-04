@@ -1,6 +1,6 @@
-# NASA-Openscapes.github.io
+# dataengineering.ph
 
-Landing page for NASA-Openscapes  
+Landing page for dataengineering.ph
 # Contribution Guidelines for Data Engineering Pilipinas Quarto Website
 
 Welcome to the Data Engineering Pilipinas Quarto website project! We're excited to have you contribute to our growing repository of data engineering resources. To ensure a smooth contribution process for everyone, please follow these guidelines.
