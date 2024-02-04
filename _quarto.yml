@@ -3,6 +3,9 @@ project:
   render:
     - "!old/"
 
+resources:
+  - CNAME
+  
 website:
   title: "Data Engineering Pilipinas"
   site-url: http://dataengineering.ph/
