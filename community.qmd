@@ -69,6 +69,7 @@ A session by Kyle Escosia on creating a serverless data lake in AWS.
 ## Projects
 
 - [Basic ETL project](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/pipeline_basic)
+- [ETL Sales](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-SALES)
 - [ETL Project with Azure Databricks](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-Databricks-code) - A walkthrough of an ETL project using Azure Databricks.
 - [Containerization](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/containerization) - An exploration of containerization in data engineering.
 
