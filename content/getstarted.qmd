@@ -1,0 +1,43 @@
+---
+title: "Getting Started"
+description: |
+  Welcome to your one-stop shop for data engineering resources! This page compiles information on commonly used libraries and tools, offering quick references for your convenience. Explore the resources below for efficient learning and exploration.
+---
+
+## SQL
+
+### MySQL
+![MySQL](https://images.datacamp.com/image/upload/v1698139537/My_SQL_Cheat_Sheet_f2d0d7da20.png "MySQL Cheatsheet")
+[Full Preview](https://images.datacamp.com/image/upload/v1698139537/My_SQL_Cheat_Sheet_f2d0d7da20.png)
+
+Learn MySQL at [Datacamp](https://www.datacamp.com/courses/introduction-to-sql).
+
+### PostgreSQL
+![PostgreSQL](https://www.postgresqltutorial.com/wp-content/uploads/2017/02/PostgreSQL-Cheat-Sheet.png "PostgreSQL Cheatsheet")
+[Full Preview](https://www.postgresqltutorial.com/wp-content/uploads/2017/02/PostgreSQL-Cheat-Sheet.png)
+
+Check out this beginner [guide](https://www.datacamp.com/tutorial/beginners-introduction-postgresql) to get started.
+
+## Cloud
+
+### Choosing your Google Cloud Storage
+![Google Cloud](https://jayendrapatil.com/wp-content/uploads/2019/01/Google-Cloud-Storage-Options-Flowchart.png)
+[Full Preview](https://jayendrapatil.com/wp-content/uploads/2019/01/Google-Cloud-Storage-Options-Flowchart.png)
+
+Learn Data Engineering in Google Cloud with [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/16).
+
+### AWS Data Engineering Roadmap
+
+Look at Nditah Samweld's Data Engineering journey with AWS.
+![AWS](https://miro.medium.com/v2/resize:fit:828/format:webp/1*XFCIeZBboDN9HGQOzwq-MA.png)
+[See blog post](https://nditah.medium.com/my-aws-data-engineering-roadmap-46d2b7a6802a)
+
+Check out this newly added [AWS Data Engineer - Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/) certification.
+
+### Life of an Azure Data Engineer
+
+Get a glance of Vishnu's everyday task of being a Data Engineer using Azure Cloud.
+![Azure](../images/dataengineerazure.png)
+[See LinkedIn post](https://www.linkedin.com/pulse/life-azure-data-engineer-madhuvishnu-vemula/)
+
+Learn Data Engineering in Azure for free with [Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/?roles=data-engineer).
