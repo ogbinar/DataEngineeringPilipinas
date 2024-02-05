@@ -1,3 +1,6 @@
+ 
+
+
 //
 // Dark Color System adapted to the Philippine flag colors
 //
@@ -41,3 +44,12 @@ $code-block-bg: $dark !default; // Use the main dark color for code block backgr
 .blockquote {
   color: $light-gray; // Light gray against the dark background for contrast
 }
+
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: #181818;
+$body-color: white;
+$link-color: #75AADB;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
