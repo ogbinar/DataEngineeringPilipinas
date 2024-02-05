@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Ricardo Rodrigo Basa">
-<meta name="dcterms.date" content="2024-01-07">
 
-<title>Data Engineering Pilipinas - How SQL DB server works</title>
+<title>Data Engineering Pilipinas</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -184,11 +182,12 @@ cookieconsent.run({
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#connect-to-the-db" id="toc-connect-to-the-db" class="nav-link active" data-scroll-target="#connect-to-the-db">Connect to the DB</a></li>
-  <li><a href="#initial-exploration" id="toc-initial-exploration" class="nav-link" data-scroll-target="#initial-exploration">Initial exploration</a></li>
-  <li><a href="#start-mysql-profiling" id="toc-start-mysql-profiling" class="nav-link" data-scroll-target="#start-mysql-profiling">Start MySQL profiling</a></li>
-  <li><a href="#query-1-retrieve-just-the-first-day" id="toc-query-1-retrieve-just-the-first-day" class="nav-link" data-scroll-target="#query-1-retrieve-just-the-first-day">Query 1: Retrieve just the first day</a></li>
-  <li><a href="#query-2-retrieve-just-the-last-day" id="toc-query-2-retrieve-just-the-last-day" class="nav-link" data-scroll-target="#query-2-retrieve-just-the-last-day">Query 2: Retrieve just the last day</a></li>
+  <li><a href="#etl-package-data-integration-from-csv-excel-and-postgresql-to-a-single-database" id="toc-etl-package-data-integration-from-csv-excel-and-postgresql-to-a-single-database" class="nav-link active" data-scroll-target="#etl-package-data-integration-from-csv-excel-and-postgresql-to-a-single-database">ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database</a>
+  <ul class="collapse">
+  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#features" id="toc-features" class="nav-link" data-scroll-target="#features">Features</a></li>
+  <li><a href="#usage" id="toc-usage" class="nav-link" data-scroll-target="#usage">Usage</a></li>
+  </ul></li>
   </ul>
 </nav>
 </nav>
@@ -199,61 +198,50 @@ cookieconsent.run({
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">How SQL DB server works</h1>
+
+
+
+<section id="etl-package-data-integration-from-csv-excel-and-postgresql-to-a-single-database" class="level1">
+<h1>ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database</h1>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>This project is an Extract, Transform, Load (ETL) package designed to merge data from various sources, including CSV files, Excel spreadsheets, and a PostgreSQL database, into a single destination database. The ETL process involves cleaning, transforming, and loading data to facilitate efficient analysis and reporting.</p>
+</section>
+<section id="features" class="level2">
+<h2 class="anchored" data-anchor-id="features">Features</h2>
+<ul>
+<li>Extracts data from CSV files, Excel spreadsheets, and a PostgreSQL database.</li>
+<li>Applies customizable transformations to clean and format the data.</li>
+<li>Loads the transformed data into a single destination database.</li>
+</ul>
+</section>
+<section id="usage" class="level2">
+<h2 class="anchored" data-anchor-id="usage">Usage</h2>
+<p>Run the ETL pipeline: python PIPELINE_EXEC.py</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://github.com/Crocsover/ETL-PIPELINES/assets/139344602/8c0c3cf8-cfa3-4585-99f8-4ae8df45cc9b.png" class="img-fluid figure-img"></p>
+<figcaption>420171277_408831038167542_8129673976330505678_n</figcaption>
+</figure>
 </div>
+<p>data set from link : <a href="https://github.com/imjbmkz/JDLS000-Developing-ETL-pipelines-using-SQL-Server-Integration-Services-SSIS/tree/main/data_sources">DATA_SOURCE</a></p>
+<p>I separate csv files into different file sources to demonstrate extracting from different file sources.</p>
+<p>please see below:</p>
+<p><img width="617" alt="raw_sales_excel" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/9de91798-5181-419b-a094-362ad195dd04"></p>
+<ul>
+<li>january to april sales as excel (Sales_January_April_2019)</li>
+</ul>
+<p><img width="613" alt="raw_sales_csv" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/3a4b46d2-7951-4bea-8828-bac0d2a5121c"></p>
+<ul>
+<li>may to august sales as csv(sales_csv folder)</li>
+</ul>
+<p><img width="625" alt="raw_sales_database" src="https://github.com/Crocsover/Data-Engineer/assets/139344602/b13800ef-f415-4966-b1be-9da8cb9507e9"></p>
+<ul>
+<li>september to december as database (sales_db)</li>
+</ul>
 
 
-
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Ricardo Rodrigo Basa </p>
-          </div>
-  </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">January 7, 2024</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>In the previous chapter, we set up our sandbox table <code>sample_table</code> with 4 columns and 50 million rows. Now, we will execute a few queries to understand how SQL databases retrieve the rows we request.</p>
-<section id="connect-to-the-db" class="level2">
-<h2 class="anchored" data-anchor-id="connect-to-the-db">Connect to the DB</h2>
 </section>
-<section id="initial-exploration" class="level2">
-<h2 class="anchored" data-anchor-id="initial-exploration">Initial exploration</h2>
-<p>Let’s take a look at what we are dealing with. We know we have <code>entry_date</code> in the table sorted in ascending order.</p>
-</section>
-<section id="start-mysql-profiling" class="level2">
-<h2 class="anchored" data-anchor-id="start-mysql-profiling">Start MySQL profiling</h2>
-</section>
-<section id="query-1-retrieve-just-the-first-day" class="level2">
-<h2 class="anchored" data-anchor-id="query-1-retrieve-just-the-first-day">Query 1: Retrieve just the first day</h2>
-<p>We know that the first day we have data for is at the top of the table.</p>
-<p>It takes around 17 seconds.</p>
-<p><em>The <code>DBI</code> library performed <code>commit</code> DB commands after the query, and again, after the <code>SHOW PROFILES</code> command.</em></p>
-<p>If you are using a GUI client to connect to your DB, it may show a time for the query to execute. In MySQL Workbench, this would be shown as <em>Duration/Fetch</em>. And for this query, MySQL Workbench shows <code>0.029 sec / 17.224 sec</code>. The sum of these is roughly the same as the duration shown in the profiles result.</p>
-<p>The majority of the time is spent in <code>executing</code>.</p>
-</section>
-<section id="query-2-retrieve-just-the-last-day" class="level2">
-<h2 class="anchored" data-anchor-id="query-2-retrieve-just-the-last-day">Query 2: Retrieve just the last day</h2>
-<p>Let’s do the same for the last day we have, 2023-12-31. We know that the last day of the data we have is at the end of the table.</p>
-
-
 </section>
 
 </main> <!-- /main -->

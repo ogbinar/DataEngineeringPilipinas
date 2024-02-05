@@ -158,14 +158,14 @@
     "href": "index.html",
     "title": "Data Engineering Pilipinas",
     "section": "",
-    "text": "Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.\n\n\nThis page serves as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of.\n\n\n\n\nWhat is Data Engineering?\nAn Introductory video about Data Engineering Pilipinas (5 mins)\n\n\n\n\nConnect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:\n\n\n\nFacebook Group: Engage with fellow members and share insights.\n\nFacebook Group\n\nFacebook Page: Follow our page for the latest updates and events.\n\nFacebook Page\n\nFacebook Group Chats: Join the conversation in our group chats.\n\nFacebook Group Chats\n\n\n\n\n\n\nDiscord Group: Collaborate and connect in real-time with our community.\n\nDiscord Group\n\nMeetup Group: Attend meetups and connect with members offline.\n\nMeetup Group\n\n\n\n\n\n\nLinkedIn Group: Network with professionals and explore career opportunities.\n\nLinkedIn Group\n\n\n\n\n\n\nReddit Community: Engage in discussions and share knowledge on our subreddit.\n\nSubreddit\n\n\n\n\n\n\nYouTube Channel: Access tutorials, talks, and webinars.\n\nYouTube Channel\n\n\nJoin us and be a part of the Data Engineering Pilipinas community!"
+    "text": "Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.\nThis page serves as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of."
   },
   {
     "objectID": "index.html#join-our-growing-community",
     "href": "index.html#join-our-growing-community",
     "title": "Data Engineering Pilipinas",
-    "section": "",
-    "text": "Connect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:\n\n\n\nFacebook Group: Engage with fellow members and share insights.\n\nFacebook Group\n\nFacebook Page: Follow our page for the latest updates and events.\n\nFacebook Page\n\nFacebook Group Chats: Join the conversation in our group chats.\n\nFacebook Group Chats\n\n\n\n\n\n\nDiscord Group: Collaborate and connect in real-time with our community.\n\nDiscord Group\n\nMeetup Group: Attend meetups and connect with members offline.\n\nMeetup Group\n\n\n\n\n\n\nLinkedIn Group: Network with professionals and explore career opportunities.\n\nLinkedIn Group\n\n\n\n\n\n\nReddit Community: Engage in discussions and share knowledge on our subreddit.\n\nSubreddit\n\n\n\n\n\n\nYouTube Channel: Access tutorials, talks, and webinars.\n\nYouTube Channel\n\n\nJoin us and be a part of the Data Engineering Pilipinas community!"
+    "section": "Join Our Growing Community",
+    "text": "Join Our Growing Community\nConnect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:\n\nSocial Media and Community Platforms\n\nFacebook Group: Engage with fellow members and share insights.\n\nFacebook Group\n\nFacebook Page: Follow our page for the latest updates and events.\n\nFacebook Page\n\nFacebook Group Chats: Join the conversation in our group chats.\n\nFacebook Group Chats\n\n\n\n\nCollaborative Platforms\n\nDiscord Group: Collaborate and connect in real-time with our community.\n\nDiscord Group\n\nMeetup Group: Attend meetups and connect with members offline.\n\nMeetup Group\n\n\n\n\nProfessional Networks\n\nLinkedIn Group: Network with professionals and explore career opportunities.\n\nLinkedIn Group\n\n\n\n\nOnline Forums and Discussions\n\nReddit Community: Engage in discussions and share knowledge on our subreddit.\n\nSubreddit\n\n\n\n\nMultimedia and Learning\n\nYouTube Channel: Access tutorials, talks, and webinars.\n\nYouTube Channel\n\n\nJoin us and be a part of the Data Engineering Pilipinas community!"
   },
   {
     "objectID": "content/table_index/rmd/indexed_table.html",
@@ -266,11 +266,60 @@
     "text": "This is a basic ETL project"
   },
   {
-    "objectID": "content/Cloud-Free-Tier-Comparison/LICENSE.html",
-    "href": "content/Cloud-Free-Tier-Comparison/LICENSE.html",
-    "title": "Data Engineering Pilipinas",
+    "objectID": "content/data-engineering-101.html",
+    "href": "content/data-engineering-101.html",
+    "title": "Data Engineering 101",
     "section": "",
-    "text": "MIT License\nCopyright (c) 2020 Cloud Study Network.\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    "text": "Data Engineering Domain"
+  },
+  {
+    "objectID": "content/data-engineering-101.html#data-engineering",
+    "href": "content/data-engineering-101.html#data-engineering",
+    "title": "Data Engineering 101",
+    "section": "Data Engineering",
+    "text": "Data Engineering\n\nPrimary Focus: Data engineering focuses on the practical aspects of data collection, data transformation, and data storage, preparing data for analytical or operational use.\nKey Responsibilities:\n\nBuilding and maintaining data architecture (databases, large-scale processing systems).\nDeveloping and managing data pipelines.\nEnsuring data availability and usability for data scientists and analysts.\n\nSkills and Tools:\n\nProgramming languages (Python, Java, Scala).\nDatabase languages (SQL).\nTools and frameworks (Apache Hadoop, Apache Spark, ETL tools, data warehousing solutions)."
+  },
+  {
+    "objectID": "content/data-engineering-101.html#related-fields",
+    "href": "content/data-engineering-101.html#related-fields",
+    "title": "Data Engineering 101",
+    "section": "Related Fields",
+    "text": "Related Fields\n\n1. Data Analysis\n\nInvolves extracting insights from data.\nTools: Excel, SQL, R, Python, BI tools (like Tableau, Power BI).\n\n\n\n2. Data Science\n\nEncompasses data analysis, predictive modeling, and machine learning.\nTools: Python, R, TensorFlow, machine learning libraries.\n\n\n\n3. Machine Learning Engineering\n\nFocuses on building systems that learn from data.\nTools: Python, machine learning frameworks, cloud computing platforms.\n\n\n\n4. Business Intelligence (BI)\n\nAnalyzing data to aid business decision-making.\nTools: SQL, BI platforms (Tableau, Power BI, Looker).\n\n\n\n5. Database Administration\n\nManaging and maintaining databases.\nTools: SQL, database management systems (MySQL, PostgreSQL).\n\n\n\n6. Big Data\n\nHandling large and complex data sets.\nTools: Hadoop, Spark, NoSQL databases.\n\nEach field plays a unique role in the data ecosystem, often collaborating to turn data into actionable insights. As the name suggests, our community focuses on all data career paths with emphasis on data engineering."
+  },
+  {
+    "objectID": "content/Cloud-Free-Tier-Comparison/Articles.html",
+    "href": "content/Cloud-Free-Tier-Comparison/Articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "Articles\nhttps://www.cloudmanagementinsider.com/aws-azure-google-cloud-free-tier-comparison/\nhttps://n2ws.com/blog/amazon-aws-microsoft-azure-google-cloud-free-tier-cloud-computing-service-comparison\nhttps://www.infoworld.com/article/3179785/aws-vs-azure-vs-google-cloud-which-free-tier-is-best.html"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Data Engineering Pilipinas",
+    "section": "",
+    "text": "Data Engineering Pilipinas, a vibrant PyData community in the Philippines, is dedicated to advancing data engineering knowledge and practices. Founded July 16, 2023, our community has rapidly grown, now boasting nearly 13,000 Facebook group members."
+  },
+  {
+    "objectID": "about.html#empowering-data-enthusiasts",
+    "href": "about.html#empowering-data-enthusiasts",
+    "title": "About Data Engineering Pilipinas",
+    "section": "",
+    "text": "Data Engineering Pilipinas, a vibrant PyData community in the Philippines, is dedicated to advancing data engineering knowledge and practices. Founded July 16, 2023, our community has rapidly grown, now boasting nearly 13,000 Facebook group members."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Data Engineering Pilipinas",
+    "section": "Our Mission",
+    "text": "Our Mission\nWe aim to democratize data engineering education, providing open access to learning materials and fostering a collaborative environment for sharing tools and skills."
+  },
+  {
+    "objectID": "about.html#community-guidelines",
+    "href": "about.html#community-guidelines",
+    "title": "About Data Engineering Pilipinas",
+    "section": "Community Guidelines",
+    "text": "Community Guidelines\nOur community thrives on respect, collaboration, and shared learning. Here are the guidelines we follow to ensure a positive and productive environment for all members.\n\nBe Respectful Treat all members with courtesy and respect, avoiding offensive language or personal attacks.\nShare Knowledge Encourage the sharing of valuable insights, best practices, and resources related to data engineering.\nNo Trolling or Harassment Engage constructively. Trolling or harassment of other members or administrators is not tolerated.\nAvoid Plagiarism Always attribute credit to the original source when sharing content or ideas.\nBe Mindful of Privacy Do not share personal information or sensitive data in our discussions.\nMinimal Self-Promotion Keep self-promotion or spamming of personal content or products to a minimum, especially if not related to data engineering.\nStay On Topic Ensure discussions are relevant to data engineering, its technologies, and related fields.\nNo Illegal Activities Do not engage in or promote discussions about activities that violate laws or ethical standards.\nLimit Recruitment Posts Job postings and collaboration requests are welcome but keep them moderate and relevant to data engineering roles or opportunities. Use appropriate hashtags like #hiring, #project, and #opportunity.\nKeep it Professional Maintain a professional tone in all interactions and adhere to Facebook’s guidelines and policies at all times."
   },
   {
     "objectID": "community.html",
@@ -312,7 +361,7 @@
     "href": "community.html#projects",
     "title": "Community Content",
     "section": "Projects",
-    "text": "Projects\n\nBasic ETL project\nETL Project with Azure Databricks - A walkthrough of an ETL project using Azure Databricks.\nContainerization - An exploration of containerization in data engineering."
+    "text": "Projects\n\nBasic ETL project\nETL Sales\nETL Project with Azure Databricks - A walkthrough of an ETL project using Azure Databricks.\nContainerization - An exploration of containerization in data engineering."
   },
   {
     "objectID": "community.html#people-and-pages",
@@ -322,60 +371,39 @@
     "text": "People and Pages\n\nKyle Escosia - Explore the work of Kyle Escosia, a Data Engineer with a passion for all things data."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Data Engineering Pilipinas",
+    "objectID": "content/Cloud-Free-Tier-Comparison/LICENSE.html",
+    "href": "content/Cloud-Free-Tier-Comparison/LICENSE.html",
+    "title": "Data Engineering Pilipinas",
     "section": "",
-    "text": "Data Engineering Pilipinas, a vibrant PyData community in the Philippines, is dedicated to advancing data engineering knowledge and practices. Founded July 16, 2023, our community has rapidly grown, now boasting nearly 13,000 Facebook group members."
+    "text": "MIT License\nCopyright (c) 2020 Cloud Study Network.\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
-    "objectID": "about.html#empowering-data-enthusiasts",
-    "href": "about.html#empowering-data-enthusiasts",
-    "title": "About Data Engineering Pilipinas",
+    "objectID": "content/projects/ETL-SALES/readme.html",
+    "href": "content/projects/ETL-SALES/readme.html",
+    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
     "section": "",
-    "text": "Data Engineering Pilipinas, a vibrant PyData community in the Philippines, is dedicated to advancing data engineering knowledge and practices. Founded July 16, 2023, our community has rapidly grown, now boasting nearly 13,000 Facebook group members."
+    "text": "This project is an Extract, Transform, Load (ETL) package designed to merge data from various sources, including CSV files, Excel spreadsheets, and a PostgreSQL database, into a single destination database. The ETL process involves cleaning, transforming, and loading data to facilitate efficient analysis and reporting.\n\n\n\n\nExtracts data from CSV files, Excel spreadsheets, and a PostgreSQL database.\nApplies customizable transformations to clean and format the data.\nLoads the transformed data into a single destination database.\n\n\n\n\nRun the ETL pipeline: python PIPELINE_EXEC.py\n\n\n\n420171277_408831038167542_8129673976330505678_n\n\n\ndata set from link : DATA_SOURCE\nI separate csv files into different file sources to demonstrate extracting from different file sources.\nplease see below:\n\n\njanuary to april sales as excel (Sales_January_April_2019)\n\n\n\nmay to august sales as csv(sales_csv folder)\n\n\n\nseptember to december as database (sales_db)"
   },
   {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
-    "title": "About Data Engineering Pilipinas",
-    "section": "Our Mission",
-    "text": "Our Mission\nWe aim to democratize data engineering education, providing open access to learning materials and fostering a collaborative environment for sharing tools and skills."
-  },
-  {
-    "objectID": "about.html#community-guidelines",
-    "href": "about.html#community-guidelines",
-    "title": "About Data Engineering Pilipinas",
-    "section": "Community Guidelines",
-    "text": "Community Guidelines\nOur community thrives on respect, collaboration, and shared learning. Here are the guidelines we follow to ensure a positive and productive environment for all members.\n\nBe Respectful Treat all members with courtesy and respect, avoiding offensive language or personal attacks.\nShare Knowledge Encourage the sharing of valuable insights, best practices, and resources related to data engineering.\nNo Trolling or Harassment Engage constructively. Trolling or harassment of other members or administrators is not tolerated.\nAvoid Plagiarism Always attribute credit to the original source when sharing content or ideas.\nBe Mindful of Privacy Do not share personal information or sensitive data in our discussions.\nMinimal Self-Promotion Keep self-promotion or spamming of personal content or products to a minimum, especially if not related to data engineering.\nStay On Topic Ensure discussions are relevant to data engineering, its technologies, and related fields.\nNo Illegal Activities Do not engage in or promote discussions about activities that violate laws or ethical standards.\nLimit Recruitment Posts Job postings and collaboration requests are welcome but keep them moderate and relevant to data engineering roles or opportunities. Use appropriate hashtags like #hiring, #project, and #opportunity.\nKeep it Professional Maintain a professional tone in all interactions and adhere to Facebook’s guidelines and policies at all times."
-  },
-  {
-    "objectID": "content/Cloud-Free-Tier-Comparison/Articles.html",
-    "href": "content/Cloud-Free-Tier-Comparison/Articles.html",
-    "title": "Articles",
+    "objectID": "content/projects/ETL-SALES/readme.html#overview",
+    "href": "content/projects/ETL-SALES/readme.html#overview",
+    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
     "section": "",
-    "text": "Articles\nhttps://www.cloudmanagementinsider.com/aws-azure-google-cloud-free-tier-comparison/\nhttps://n2ws.com/blog/amazon-aws-microsoft-azure-google-cloud-free-tier-cloud-computing-service-comparison\nhttps://www.infoworld.com/article/3179785/aws-vs-azure-vs-google-cloud-which-free-tier-is-best.html"
+    "text": "This project is an Extract, Transform, Load (ETL) package designed to merge data from various sources, including CSV files, Excel spreadsheets, and a PostgreSQL database, into a single destination database. The ETL process involves cleaning, transforming, and loading data to facilitate efficient analysis and reporting."
   },
   {
-    "objectID": "content/data-engineering-101.html",
-    "href": "content/data-engineering-101.html",
-    "title": "Data Engineering 101",
+    "objectID": "content/projects/ETL-SALES/readme.html#features",
+    "href": "content/projects/ETL-SALES/readme.html#features",
+    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
     "section": "",
-    "text": "Data Engineering Domain"
+    "text": "Extracts data from CSV files, Excel spreadsheets, and a PostgreSQL database.\nApplies customizable transformations to clean and format the data.\nLoads the transformed data into a single destination database."
   },
   {
-    "objectID": "content/data-engineering-101.html#data-engineering",
-    "href": "content/data-engineering-101.html#data-engineering",
-    "title": "Data Engineering 101",
-    "section": "Data Engineering",
-    "text": "Data Engineering\n\nPrimary Focus: Data engineering focuses on the practical aspects of data collection, data transformation, and data storage, preparing data for analytical or operational use.\nKey Responsibilities:\n\nBuilding and maintaining data architecture (databases, large-scale processing systems).\nDeveloping and managing data pipelines.\nEnsuring data availability and usability for data scientists and analysts.\n\nSkills and Tools:\n\nProgramming languages (Python, Java, Scala).\nDatabase languages (SQL).\nTools and frameworks (Apache Hadoop, Apache Spark, ETL tools, data warehousing solutions)."
-  },
-  {
-    "objectID": "content/data-engineering-101.html#related-fields",
-    "href": "content/data-engineering-101.html#related-fields",
-    "title": "Data Engineering 101",
-    "section": "Related Fields",
-    "text": "Related Fields\n\n1. Data Analysis\n\nInvolves extracting insights from data.\nTools: Excel, SQL, R, Python, BI tools (like Tableau, Power BI).\n\n\n\n2. Data Science\n\nEncompasses data analysis, predictive modeling, and machine learning.\nTools: Python, R, TensorFlow, machine learning libraries.\n\n\n\n3. Machine Learning Engineering\n\nFocuses on building systems that learn from data.\nTools: Python, machine learning frameworks, cloud computing platforms.\n\n\n\n4. Business Intelligence (BI)\n\nAnalyzing data to aid business decision-making.\nTools: SQL, BI platforms (Tableau, Power BI, Looker).\n\n\n\n5. Database Administration\n\nManaging and maintaining databases.\nTools: SQL, database management systems (MySQL, PostgreSQL).\n\n\n\n6. Big Data\n\nHandling large and complex data sets.\nTools: Hadoop, Spark, NoSQL databases.\n\nEach field plays a unique role in the data ecosystem, often collaborating to turn data into actionable insights. As the name suggests, our community focuses on all data career paths with emphasis on data engineering."
+    "objectID": "content/projects/ETL-SALES/readme.html#usage",
+    "href": "content/projects/ETL-SALES/readme.html#usage",
+    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
+    "section": "",
+    "text": "Run the ETL pipeline: python PIPELINE_EXEC.py\n\n\n\n420171277_408831038167542_8129673976330505678_n\n\n\ndata set from link : DATA_SOURCE\nI separate csv files into different file sources to demonstrate extracting from different file sources.\nplease see below:\n\n\njanuary to april sales as excel (Sales_January_April_2019)\n\n\n\nmay to august sales as csv(sales_csv folder)\n\n\n\nseptember to december as database (sales_db)"
   },
   {
     "objectID": "content/table_index/readme.html",
