@@ -42,7 +42,9 @@ website:
       href: https://github.com/ogbinar/DataEngineeringPilipinas
     - icon: facebook
       href: https://www.facebook.com/groups/dataengineeringpilipinas
-
+    - icon: discord
+      href: https://discord.com/invite/buDgydz7J9
+      
 format:
   html:
     theme: 
