@@ -102,14 +102,21 @@
     "href": "resources.html",
     "title": "Free Resources",
     "section": "",
-    "text": "Mystery Kneights: Beginner SQL practice through interactive projects.\n8 Week SQL Challenge: Intermediate/Advanced SQL challenges."
+    "text": "IBM Data Engineering Basics for Everyone on edX\nGoogle Cloud Data Engineering Path\nMeta Database Engineer Professional Certificate on Coursera\nBig Data Specialization by UC San Diego on Coursera\nData Engineering Zoomcamp on GitHub"
+  },
+  {
+    "objectID": "resources.html#data-engineering-training",
+    "href": "resources.html#data-engineering-training",
+    "title": "Free Resources",
+    "section": "",
+    "text": "IBM Data Engineering Basics for Everyone on edX\nGoogle Cloud Data Engineering Path\nMeta Database Engineer Professional Certificate on Coursera\nBig Data Specialization by UC San Diego on Coursera\nData Engineering Zoomcamp on GitHub"
   },
   {
     "objectID": "resources.html#sql-practice",
     "href": "resources.html#sql-practice",
     "title": "Free Resources",
-    "section": "",
-    "text": "Mystery Kneights: Beginner SQL practice through interactive projects.\n8 Week SQL Challenge: Intermediate/Advanced SQL challenges."
+    "section": "SQL Practice",
+    "text": "SQL Practice\n\nMystery Kneights: Beginner SQL practice through interactive projects.\n8 Week SQL Challenge: Intermediate/Advanced SQL challenges."
   },
   {
     "objectID": "resources.html#learn-python",
@@ -144,7 +151,42 @@
     "href": "resources.html#internships",
     "title": "Free Resources",
     "section": "Internships",
-    "text": "Internships\n\nThe Sparks Foundation: A remote one-month internship in Data Science and Business Analytics.\n\nOnline Learning Platforms:\n\nDataquest: https://www.datacamp.com\nDatacamp: https://www.dataquest.io\nCodecademy: https://www.codecademy.com\nSoloLearn: https://www.sololearn.com\nW3Schools: https://www.w3schools.com\nKhan Academy: https://www.khanacademy.org\nCoursera: https://www.coursera.org\nedX: https://www.edx.org\nfreeCodeCamp: https://www.freecodecamp.org\nUdacity: https://www.udacity.com\nThe Odin Project: https://www.theodinproject.com\nMozilla Developer Network (MDN): https://developer.mozilla.org\nKaggle: https://www.kaggle.com\n\nCloud Resources:\n\nAWS Training and Certification: https://aws.amazon.com/training/\nGoogle Cloud Training: https://cloud.google.com/training\nMicrosoft Learn: https://docs.microsoft.com/en-us/learn/\nCloud Free Tier Comparison: Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.\n\nOther Resources:\n\nGitHub: https://github.com\nPLURALSIGHT: https://www.pluralsight.com/\nhackerRank: https://www.hackerrank.com/\nWorld Quant: https://www.worldquant.com/\nOpen Books: https://open.umn.edu/opentextbooks"
+    "text": "Internships\n\nThe Sparks Foundation: A remote one-month internship in Data Science and Business Analytics.\n\nCertainly! Here are the provided links organized by themes in Markdown:"
+  },
+  {
+    "objectID": "resources.html#online-learning-platforms",
+    "href": "resources.html#online-learning-platforms",
+    "title": "Free Resources",
+    "section": "Online Learning Platforms:",
+    "text": "Online Learning Platforms:\n\nDataquest\nDatacamp\nCodecademy\nSoloLearn\nW3Schools\nKhan Academy\nCoursera\nedX\nfreeCodeCamp\nUdacity\nThe Odin Project\nMozilla Developer Network (MDN)\nKaggle"
+  },
+  {
+    "objectID": "resources.html#data-science-courses",
+    "href": "resources.html#data-science-courses",
+    "title": "Free Resources",
+    "section": "Data Science Courses:",
+    "text": "Data Science Courses:\n\nThe Open Source Data Science Masters\nData Science Essentials- Microsoft\nHarvard CS109 Data Science\nData Science Fundamentals – IBM\nIntroduction to Data Science by Jeff Hammerbacher at UC, Berkeley\nIntroduction to Data Science @coursera\nLearning from Data – California Institute of Technology\nIntroduction to Data Science @UofWashington\nBecome a Data Scientist - Dataquest\nData Science Course @ColumbiaUni notes by @mathbabe\nAn Introduction to Data Science at Syracuse University (pdf)\nApplied Data Science: An Introduction @SyracuseUni\nData Science and Analytics at UCBerkeley\nProcess Mining: Data Science in Action @TUEindhoven\nLearning from Data at California Institute of Technology\nStatistical Thinking and Data Analysis @MIT\nData Analysis and Statistical Inference @DukeUni\nIntroduction to Data Wrangling at the School of Data\nLeaRning Path on R – Step by Step Guide to Learn Data Science on R\nMaking Sense of Data @Google\nOpen intro to Statistics\nIntroduction to Data Mining @MIT\nMining Massive Datasets @Stanford\nPattern Discovery in Data Mining @UoIllinois\nPython for Data Science\nData Science: R Basics - Harvard University"
+  },
+  {
+    "objectID": "resources.html#additional-data-science-resources",
+    "href": "resources.html#additional-data-science-resources",
+    "title": "Free Resources",
+    "section": "Additional Data Science Resources:",
+    "text": "Additional Data Science Resources:\n\nCognitive Class: Interactive learning platform for data science and AI.\nJovian: Platform for sharing and collaborating on Jupyter notebooks for data science.\nDataPen: A platform for interactive data science and machine learning tutorials.\nData Analytics Educational Resources: A collection of resources for learning data analytics.\nExecutive Levels Data Software Training: Training programs for various data software tools.\nSQLZOO: Interactive SQL tutorial for learning through practice."
+  },
+  {
+    "objectID": "resources.html#cloud-resources",
+    "href": "resources.html#cloud-resources",
+    "title": "Free Resources",
+    "section": "Cloud Resources:",
+    "text": "Cloud Resources:\n\nAWS Training and Certification: https://aws.amazon.com/training/\nGoogle Cloud Training: https://cloud.google.com/training\nMicrosoft Learn: https://docs.microsoft.com/en-us/learn/\nCloud Free Tier Comparison: Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud."
+  },
+  {
+    "objectID": "resources.html#other-resources",
+    "href": "resources.html#other-resources",
+    "title": "Free Resources",
+    "section": "Other Resources:",
+    "text": "Other Resources:\n\nGitHub: https://github.com\nPLURALSIGHT: https://www.pluralsight.com/\nhackerRank: https://www.hackerrank.com/\nWorld Quant: https://www.worldquant.com/\nOpen Books: https://open.umn.edu/opentextbooks"
   },
   {
     "objectID": "index.html",
