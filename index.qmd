@@ -15,40 +15,24 @@ Data Engineering Pilipinas is a community for data engineers, data analysts, dat
 This page serves as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of.
 </p>
 
-#### Getting Started with Data Engineering
-- <a href="content/data-engineering-101.qmd">What is Data Engineering?</a>
-- <a href="https://youtu.be/XsvrumL0ILc">An Introductory video about Data Engineering Pilipinas (5 mins)</a>
+## Getting Started with Data Engineering
+{{< video https://youtu.be/XsvrumL0ILc >}}
+ 
+<a href="content/data-engineering-101.qmd">Read more about Data Engineering 101</a>
 
 ## Join Our Growing Community
 
 Connect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:
-
-### Social Media and Community Platforms
-- **Facebook Group**: Engage with fellow members and share insights. 
-  - [Facebook Group](https://facebook.com/groups/dataengineeringpilipinas/)
-- **Facebook Page**: Follow our page for the latest updates and events.
-  - [Facebook Page](https://www.facebook.com/DataEngineeringPilipinas/)
-- **Facebook Group Chats**: Join the conversation in our group chats.
-  - [Facebook Group Chats](https://m.me/cm/AbbnRPVsIMd34APj)
-
-### Collaborative Platforms
-- **Discord Group**: Collaborate and connect in real-time with our community.
-  - [Discord Group](https://discord.com/invite/buDgydz7J9)
-- **Meetup Group**: Attend meetups and connect with members offline.
-  - [Meetup Group](https://www.meetup.com/data-engineering-pilipinas/)
-
-### Professional Networks
-- **LinkedIn Group**: Network with professionals and explore career opportunities.
-  - [LinkedIn Group](https://www.linkedin.com/company/97217550/)
-
-### Online Forums and Discussions
-- **Reddit Community**: Engage in discussions and share knowledge on our subreddit.
-  - [Subreddit](https://www.reddit.com/r/DataEngineeringPH/)
-
-### Multimedia and Learning
-- **YouTube Channel**: Access tutorials, talks, and webinars.
-  - [YouTube Channel](https://www.youtube.com/@DataEngineeringPilipinas)
-
-Join us and be a part of the Data Engineering Pilipinas community!
-
+ 
+<center>
+[{{< fa brands facebook size=2xl >}}](https://facebook.com/groups/dataengineeringpilipinas/)
+[{{< fa brands facebook-f size=2xl >}}](https://www.facebook.com/DataEngineeringPilipinas/)
+[{{< fa brands facebook-messenger size=2xl >}}](https://m.me/cm/AbbnRPVsIMd34APj)
+[{{< fa brands discord size=2xl >}}](https://discord.com/invite/buDgydz7J9)
+[{{< fa brands meetup size=2xl >}}](https://www.meetup.com/data-engineering-pilipinas/)
+[{{< fa brands linkedin size=2xl >}}](https://www.linkedin.com/company/97217550/)
+[{{< fa brands reddit size=2xl >}}](https://www.reddit.com/r/DataEngineeringPH/)
+[{{< fa brands youtube size=2xl >}}](https://www.youtube.com/@DataEngineeringPilipinas)
+</center>
+ 
 ---

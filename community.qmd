@@ -8,57 +8,50 @@ description: |
 
 ## Videos and Presentations
 
-### [What is Data Engineering Pilipinas?](https://youtu.be/XsvrumL0ILc)
+{{< video https://youtu.be/XsvrumL0ILc title="What is Data Engineering Pilipinas?" >}}
 A brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.
 
-### [Getting Started with Data Engineering](https://www.facebook.com/studevph/videos/165090273259790)
+[![Getting Started with Data Engineering](images/video-placeholder.png){width=100%}](https://www.facebook.com/studevph/videos/165090273259790)
 An introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.
 
-### [Building a Career in PH Tech Startups](https://youtu.be/pzxFTFB8f6s)
+{{< video https://youtu.be/pzxFTFB8f6s title="Building a Career in PH Tech Startups" >}}
 A discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.
 
-### [Philippine Skills Framework for AI and Analytics](https://www.youtube.com/watch?v=_CjsYi9ivlc)
+{{< video https://www.youtube.com/watch?v=_CjsYi9ivlc title="Philippine Skills Framework for AI and Analytics" >}}
 A video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.
 
-### [TechSync 2023: Synchronizing Filipino Tech Communities](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1043806640102969)
+[![TechSync 2023: Synchronizing Filipino Tech Communities](images/video-placeholder.png){width=100%}](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1043806640102969)
 An online event with key thought leaders and content creators in the Filipino tech community.
 
-### [Shifting to a Career in Data | RUG-PH 120](https://youtu.be/ivzmUPRqxQ8?si=c_OdyC4FvqOJv6Bq)
+{{< video https://youtu.be/ivzmUPRqxQ8?si=c_OdyC4FvqOJv6Bq title="Shifting to a Career in Data | RUG-PH 120" >}}
 A panel discussion hosted by R User's Group Philippines on transitioning to a career in data.
 
 ## Doc Ligot Interviews
 
 ### Kuya Dev
-- [Unlocking the Future: Discussing Shifting into Tech with Kuya Dev](https://www.youtube.com/watch?v=QlM6wjRwVZA)
-
+{{< video https://www.youtube.com/watch?v=QlM6wjRwVZA title="Unlocking the Future: Discussing Shifting into Tech with Kuya Dev" >}}
 ### Josh V.
-- [Unlocking Data Engineering with Josh Valdeleon](https://www.youtube.com/watch?v=w9dtGJz4N-g)
-
+{{< video https://www.youtube.com/watch?v=w9dtGJz4N-g title="Unlocking Data Engineering with Josh Valdeleon" >}}
 ### Sherwin Pelayo
-- [Unlocking Career Opportunities: Philippine Skills Framework for AI and Analytics with Sherwin Pelayo](https://www.youtube.com/watch?v=_CjsYi9ivlc)
-
+{{< video https://www.youtube.com/watch?v=_CjsYi9ivlc title="Unlocking Career Opportunities: Philippine Skills Framework for AI and Analytics with Sherwin Pelayo" >}}
 ### Gerard
-- [Discussion on Data Engineering and Analytics with Gerard](https://www.youtube.com/watch?v=vaptzZRVVkc) 
-
+{{< video https://www.youtube.com/watch?v=vaptzZRVVkc title="Discussion on Data Engineering and Analytics with Gerard" >}}
 ### Xavier Puspus
-- [Xavier Puspus talks about minting AI engineers through education](https://www.youtube.com/watch?v=YVC5DjjvGO4)
-
+{{< video https://www.youtube.com/watch?v=YVC5DjjvGO4 title="Xavier Puspus talks about minting AI engineers through education" >}}
 ### Noemi
-- [Discussing Tech and Data Careers with Noemi](https://www.youtube.com/watch?v=FqmFvP9N6Gw)
-
+{{< video https://www.youtube.com/watch?v=FqmFvP9N6Gw title="Discussing Tech and Data Careers with Noemi" >}}
 ### Aemy Obinguar
-- [From Dropout to Tech Star: Aemy Obinguar's Inspirational Tale](https://www.youtube.com/watch?v=GZcYyILg3kc)
-
+{{< video https://www.youtube.com/watch?v=GZcYyILg3kc title="From Dropout to Tech Star: Aemy Obinguar's Inspirational Tale" >}}
 ### Sandy Lauguico
-- [Exclusive Interview: Sandy Lauguico's Data Engineering Transition](https://www.youtube.com/watch?v=8pJMFi3kIfQ)
-
+{{< video https://www.youtube.com/watch?v=8pJMFi3kIfQ title="Exclusive Interview: Sandy Lauguico's Data Engineering Transition" >}}
 ## Recorded Events and Talks
 
-### [Introduction to Big Data and Analytics](https://www.facebook.com/watch/live/?ref=search&v=2388014311349277)
+[![Introduction to Big Data and Analytics](images/video-placeholder.png){width=100%}](https://www.facebook.com/watch/live/?ref=search&v=2388014311349277)
 Kyle Escosia's talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.
 
-### [Building a Serverless Data Lake in AWS](https://www.facebook.com/watch/live/?ref=watch_permalink&v=684903669389073)
+[![Building a Serverless Data Lake in AWS](images/video-placeholder.png){width=100%}](https://www.facebook.com/watch/live/?ref=watch_permalink&v=684903669389073)
 A session by Kyle Escosia on creating a serverless data lake in AWS.
+
 
 ## Blogs and Articles
 

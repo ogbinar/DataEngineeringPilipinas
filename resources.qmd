@@ -1,9 +1,16 @@
 ---
 title: "Free Resources"
 description: |
-    A curated collection of free resources designed to aid your journey in data engineering and analytics.
+    A collection of free resources designed to aid your journey in data engineering and analytics.
 ---
 
+## Data Engineering Training
+
+- [IBM Data Engineering Basics for Everyone on edX](https://www.edx.org/learn/data-engineering/ibm-data-engineering-basics-for-everyone)
+- [Google Cloud Data Engineering Path](https://www.cloudskillsboost.google/paths/16)
+- [Meta Database Engineer Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/meta-database-engineer)
+- [Big Data Specialization by UC San Diego on Coursera](https://www.coursera.org/specializations/big-data)
+- [Data Engineering Zoomcamp on GitHub](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 ## SQL Practice
 - [Mystery Kneights](https://mystery.knightlab.com/): Beginner SQL practice through interactive projects.
@@ -27,5 +34,108 @@ description: |
 ## Internships
 - [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/): A remote one-month internship in Data Science and Business Analytics.
 
+## Online Learning Platforms
+- [Dataquest](https://www.datacamp.com)
+- [Datacamp](https://www.dataquest.io)
+- [Codecademy](https://www.codecademy.com)
+- [SoloLearn](https://www.sololearn.com)
+- [W3Schools](https://www.w3schools.com)
+- [Khan Academy](https://www.khanacademy.org)
+- [Coursera](https://www.coursera.org)
+- [edX](https://www.edx.org)
+- [freeCodeCamp](https://www.freecodecamp.org)
+- [Udacity](https://www.udacity.com)
+- [The Odin Project](https://www.theodinproject.com)
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org)
+- [Kaggle](https://www.kaggle.com)
+
+## Data Science Courses
+- [The Open Source Data Science Masters](http://datasciencemasters.org/)
+- [Data Science Essentials- Microsoft](https://www.edx.org/course/data-science-essentials)
+- [Harvard CS109 Data Science](http://cs109.github.io/2015/)
+- [Data Science Fundamentals – IBM](https://cognitiveclass.ai/learn/data-science/)
+- [Introduction to Data Science by Jeff Hammerbacher at UC, Berkeley](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwi3o8mFsv7iAhURKKwKHSwcDioQFjAAegQIARAC&url=https%3A%2F%2Fbcourses.berkeley.edu%2Fcourses%2F1377158%2Ffiles%2F60058588%2Fdownload%3Fverifier%3DYO4WZaBmrQ8gIzvvOBcbVwFr0GQ9DEKab1AFSe5v%26wrap%3D1&usg=AOvVaw2qEGjVVDPNlzFkBaBXWLg2)
+- [Introduction to Data Science @coursera](https://www.coursera.org/course/datasci)
+- [Learning from Data – California Institute of Technology](http://work.caltech.edu/telecourse)
+- [Introduction to Data Science @UofWashington](https://www.coursera.org/course/datasci)
+- [Become a Data Scientist - Dataquest](https://www.dataquest.io/home)
+- [Data Science Course @ColumbiaUni notes by @mathbabe](http://ocw.mit.edu/courses/sloan-school-of-management/15-075j-statistical-thinking-and-data-analysis-fall-2011/index.htm)
+- [An Introduction to Data Science at Syracuse University (pdf)](https://www.class-central.com/mooc/1806/coursesites-applied-data-science-an-introduction)
+- [Applied Data Science: An Introduction @SyracuseUni](https://www.class-central.com/mooc/1806/coursesites-applied-data-science-an-introduction)
+- [Data Science and Analytics at UCBerkeley](http://work.caltech.edu/telecourse)
+- [Process Mining: Data Science in Action @TUEindhoven](https://www.coursera.org/course/procmin)
+- [Learning from Data at California Institute of Technology](http://work.caltech.edu/telecourse)
+- [Statistical Thinking and Data Analysis @MIT](https://www.coursera.org/course/statistics)
+- [Data Analysis and Statistical Inference @DukeUni](https://www.coursera.org/course/statistics)
+- [Introduction to Data Wrangling at the School of Data](http://schoolofdata.org/)
+- [LeaRning Path on R – Step by Step Guide to Learn Data Science on R](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/)
+- [Making Sense of Data @Google](https://datasense.withgoogle.com/course)
+- [Open intro to Statistics](https://www.openintro.org/stat/?stat_book=os)
+- [Introduction to Data Mining @MIT](http://ocw.mit.edu/courses/sloan-school-of-management/15-062-data-mining-spring-2003/lecture-notes/)
+- [Mining Massive Datasets @Stanford](https://www.coursera.org/course/mmds)
+- [Pattern Discovery in Data Mining @UoIllinois](https://www.coursera.org/course/patterndiscovery)
+- [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science/)
+- [Data Science: R Basics - Harvard University](https://online-learning.harvard.edu/course/data-science-r-basics)
+
+## Additional Data Science Resources
+- [Cognitive Class](https://cognitiveclass.ai/learn): Interactive learning platform for data science and AI.
+- [Jovian](https://jovian.com/): Platform for sharing and collaborating on Jupyter notebooks for data science.
+- [DataPen](https://www.datapen.io/?ref=stats_red): A platform for interactive data science and machine learning tutorials.
+- [Data Analytics Educational Resources](https://datastoryteller.gumroad.com/p/data-analytics-educational-resources): A collection of resources for learning data analytics.
+- [Executive Levels Data Software Training](https://www.executivelevels.com/data-software-training/): Training programs for various data software tools.
+- [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial): Interactive SQL tutorial for learning through practice.
+
 ## Cloud Resources
-- [Cloud Free Tier Comparison](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/Cloud-Free-Tier-Comparison): Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.
+
+* AWS Training and Certification: [https://aws.amazon.com/training/](https://aws.amazon.com/training/)
+* Google Cloud Training: [https://cloud.google.com/training](https://cloud.google.com/training)
+* Microsoft Learn: [https://docs.microsoft.com/en-us/learn/](https://docs.microsoft.com/en-us/learn/)
+* [Cloud Free Tier Comparison](content/Cloud-Free-Tier-Comparison): Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.
+
+## Other Resources
+
+* GitHub: [https://github.com](https://github.com)
+* PLURALSIGHT: [https://www.pluralsight.com/](https://www.pluralsight.com/)
+* hackerRank: [https://www.hackerrank.com/](https://www.hackerrank.com/)
+* World Quant: [https://www.worldquant.com/](https://www.worldquant.com/)
+* Open Books: [https://open.umn.edu/opentextbooks](https://open.umn.edu/opentextbooks)
+
+## Formal Education
+
+### Master's Programs in Data Science and Related Fields in the Philippines
+
+#### University of the Philippines (UP)
+- **Master's in Data Science and Engineering**:
+  - [UPD Department of Statistics](http://www.stat.upd.edu.ph/academics)
+  - [UPD College of Science](https://sites.google.com/science.upd.edu.ph/upd-data-science/)
+  - [UPD College of Engineering](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/)
+
+#### Technological Institute of the Philippines (TIP)
+- **Professional Science Master's Degree in Data Science**:
+  - [TIP Graduate Programs](https://www.tip.edu.ph/what-we-offer/graduate-programs/tip-manila/professional-science-masters-psm-degrees/professional-science-masters-degree-in-data-science/)
+
+#### De La Salle University (DLSU)
+- **Master's in Data Science**:
+  - [DLSU Data Science Institute](https://altdsi.dlsu.edu.ph/programs/masters)
+
+#### Batangas State University
+- **Master of Science in Artificial Intelligence**:
+  - [MSAI Program](https://batstate-u.edu.ph/wp-content/uploads/2021/06/Master-of-Science-in-Artificial-Intelligence-MSAI.pdf)
+
+#### Mapua University
+- **Master in Business Analytics**:
+  - [Mapua Institute of Technology](http://it.mapua.edu.ph/content/master-business-analytics)
+
+#### Ateneo de Manila University (ADMU)
+- **Master of Science in Data Science**:
+  - [ADMU Global](https://global.ateneo.edu/designingtomorrow/data-science/master-science-data-science)
+
+#### Asian Institute of Management (AIM)
+- **Master of Science in Data Science**:
+  - [AIM MSc in Data Science](https://asite.aim.edu/programs/master-of-science-in-data-science/)
+
+#### University of Asia and the Pacific (UA&P)
+- **Master in Applied Business Analytics**:
+  - [UA&P Graduate Programs](https://uap.asia/graduate-programs/applied-business-analytics)
+
+This list provides a variety of options for advanced education in data science and related fields across the Philippines. Each program offers a unique focus, from artificial intelligence to business analytics, catering to diverse interests and career paths in the burgeoning field of data science.
