@@ -343,25 +343,11 @@
     "text": "Articles\nhttps://www.cloudmanagementinsider.com/aws-azure-google-cloud-free-tier-comparison/\nhttps://n2ws.com/blog/amazon-aws-microsoft-azure-google-cloud-free-tier-cloud-computing-service-comparison\nhttps://www.infoworld.com/article/3179785/aws-vs-azure-vs-google-cloud-which-free-tier-is-best.html"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Data Engineering Pilipinas",
-    "section": "",
-    "text": "Data Engineering Pilipinas, a vibrant PyData community in the Philippines, is dedicated to advancing data engineering knowledge and practices. Founded July 16, 2023, our community has rapidly grown, now boasting nearly 13,000 Facebook group members."
-  },
-  {
-    "objectID": "about.html#empowering-data-enthusiasts",
-    "href": "about.html#empowering-data-enthusiasts",
-    "title": "About Data Engineering Pilipinas",
-    "section": "",
-    "text": "Data Engineering Pilipinas, a vibrant PyData community in the Philippines, is dedicated to advancing data engineering knowledge and practices. Founded July 16, 2023, our community has rapidly grown, now boasting nearly 13,000 Facebook group members."
-  },
-  {
     "objectID": "about.html#our-mission",
     "href": "about.html#our-mission",
     "title": "About Data Engineering Pilipinas",
     "section": "Our Mission",
-    "text": "Our Mission\nWe aim to democratize data engineering education, providing open access to learning materials and fostering a collaborative environment for sharing tools and skills.\nData Engineering Pilipinas provides a forum for the data and data engineering community of users and developers of data tools to share ideas and learn from each other. Data Engineering Pilipinas promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. Data Engineering Pilipinas communities approach data engineering and data science using many languages, including (but not limited to) Python, R, and SQL.\nWe aim to be an accessible, community-driven conference, with novice to advanced level presentations. Data Engineering Pilipinas tutorials and talks bring attendees the latest project features along with cutting-edge use cases."
+    "text": "Our Mission\nData Engineering Pilipinas is dedicated to democratizing data engineering education by offering open access to learning materials and promoting a collaborative environment for the exchange of tools and skills.\nThe community serves as a forum for both users and developers of data tools, facilitating the sharing of ideas and experiences. Data Engineering Pilipinas encourages discussions on best practices, innovative approaches, and emerging technologies in data management, processing, analytics, and visualization. It embraces a wide range of programming languages including Python, R, and SQL, reflecting the diverse methods used within data engineering and data science.\nWith a commitment to being an accessible, community-driven platform, Data Engineering Pilipinas caters to all levels of expertise, from novice to advanced practitioners. The conferences, tutorials, and talks provided by Data Engineering Pilipinas offer attendees insights into the latest project features as well as cutting-edge use cases."
   },
   {
     "objectID": "about.html#code-of-conduct-based-from-pydata",
