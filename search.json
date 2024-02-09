@@ -112,18 +112,39 @@
     "text": "IBM Data Engineering Basics for Everyone on edX\nGoogle Cloud Data Engineering Path\nMeta Database Engineer Professional Certificate on Coursera\nBig Data Specialization by UC San Diego on Coursera\nData Engineering Zoomcamp on GitHub"
   },
   {
-    "objectID": "resources.html#sql-practice",
-    "href": "resources.html#sql-practice",
+    "objectID": "resources.html#sql-tutorials-and-courses",
+    "href": "resources.html#sql-tutorials-and-courses",
     "title": "Free Resources",
-    "section": "SQL Practice",
-    "text": "SQL Practice\n\nMystery Kneights: Beginner SQL practice through interactive projects.\n8 Week SQL Challenge: Intermediate/Advanced SQL challenges."
+    "section": "SQL Tutorials and Courses",
+    "text": "SQL Tutorials and Courses\n\nW3 Schools SQL Tutorial - A comprehensive tutorial for SQL beginners.\nSQLBolt - Practice with real-world datasets and challenging SQL problems to deepen your skills."
+  },
+  {
+    "objectID": "resources.html#interactive-sql-learning-games",
+    "href": "resources.html#interactive-sql-learning-games",
+    "title": "Free Resources",
+    "section": "Interactive SQL Learning Games",
+    "text": "Interactive SQL Learning Games\n\nSQL Murder Mystery - Solve a captivating murder case using your SQL skills in this immersive game-like environment. Suitable for beginners.\nSQL Island - Navigate through an adventure on SQL Island to learn SQL commands. Remember to change the language to English via the hamburger icon.\nSchemaVerse - A space-based strategy game where you use SQL commands to control your fleet and conquer the universe.\nLost at SQL: The SQL Learning Game - Enhance your SQL skills through this engaging learning game."
+  },
+  {
+    "objectID": "resources.html#sql-practice-and-challenges",
+    "href": "resources.html#sql-practice-and-challenges",
+    "title": "Free Resources",
+    "section": "SQL Practice and Challenges",
+    "text": "SQL Practice and Challenges\n\n8 Week SQL Challenge - Intermediate/Advanced SQL challenges through interactive projects.\nHackerRank SQL Challenges - Test your mettle against others in coding challenges that push your SQL boundaries. Suitable for Intermediate-Advanced learners.\nCodewars SQL Kata - Hone your understanding with kata-style SQL exercises, practicing diverse concepts.\nSQLZoo - Practice with a wide range of exercises at different difficulty levels, mastering SQL fundamentals."
   },
   {
     "objectID": "resources.html#learn-python",
     "href": "resources.html#learn-python",
     "title": "Free Resources",
     "section": "Learn Python",
-    "text": "Learn Python\n\nLearnpython.org: learn the basics of Python"
+    "text": "Learn Python\nPython is a versatile and powerful programming language that’s great for beginners and professionals alike. Here are some resources to get started or enhance your Python skills:\n\nPython Official Getting Started Guide - Official Python documentation and guide on getting started with Python.\nLearnpython.org - A free interactive Python tutorial for people who want to learn Python, starting from the basics.\nOpenClassrooms - Learn Programming with Python - A course designed to introduce you to programming using Python.\nPrinciples of Computation with Python - Carnegie Mellon University - An open & free course by CMU focusing on computational principles using Python.\nCodecademy Python Course - Interactive Python programming courses for all levels.\nMIT OpenCourseWare - Introduction to Computer Science and Programming in Python - A course by MIT that introduces the fundamental ideas of computing using Python.\nHarvard University - Python Programming - Various Python programming courses offered by Harvard University.\nfreeCodeCamp - Learn Python - A collection of free Python courses for beginners to help learn Python programming.\nGoogle Cloud - Python on Google Cloud - Learn how to use Python with Google Cloud services for building and deploying applications."
+  },
+  {
+    "objectID": "resources.html#learn-r",
+    "href": "resources.html#learn-r",
+    "title": "Free Resources",
+    "section": "Learn R",
+    "text": "Learn R\nR is a programming language and environment commonly used for statistical computing and graphics. The following resources provide comprehensive guides, tutorials, and courses for beginners to advanced users interested in learning R:\n\nCodecademy - Learn R - An interactive platform offering a course designed to get you started with R programming.\nW3Schools R Tutorial - Provides a quick and easy understanding of R, covering basics to advanced topics.\nRStudio Education - Learn R - Beginner resources compiled by RStudio, aiming to make learning R easier and more effective.\nProgramiz - Learn R Programming - Offers R tutorials for beginners to learn R programming online.\nCodecademy - R Catalog - Discover more R courses offered by Codecademy to deepen your understanding and skills.\nSwirl - Learn R, in R - A platform that offers interactive R programming lessons directly within the R console.\nHands-On Programming with R - Teaches how to perform data analysis with R through practical examples, covering basics to more advanced topics."
   },
   {
     "objectID": "resources.html#statistics-lessons-on-youtube",
@@ -137,7 +158,7 @@
     "href": "resources.html#data-science-tutorials",
     "title": "Free Resources",
     "section": "Data Science Tutorials",
-    "text": "Data Science Tutorials\n\nData Science for Beginners by Microsoft: Beginner-friendly data science materials on GitHub.\nHarvard CS50’s Introduction to Programming with Python: Full university course available on YouTube."
+    "text": "Data Science Tutorials\n\nData Science for Beginners by Microsoft: Beginner-friendly data science materials on GitHub.\nHarvard CS50’s Introduction to Programming with Python: Full university course available on YouTube.\nR for Data Science - This online book provides an introduction to R specifically for data science, covering data visualization, transformation, and modeling."
   },
   {
     "objectID": "resources.html#portfolio-building",
