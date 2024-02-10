@@ -161,6 +161,13 @@
     "text": "Data Science Tutorials\n\nData Science for Beginners by Microsoft: Beginner-friendly data science materials on GitHub.\nHarvard CS50’s Introduction to Programming with Python: Full university course available on YouTube.\nR for Data Science - This online book provides an introduction to R specifically for data science, covering data visualization, transformation, and modeling."
   },
   {
+    "objectID": "resources.html#web-scraping-with-python",
+    "href": "resources.html#web-scraping-with-python",
+    "title": "Free Resources",
+    "section": "Web Scraping with Python",
+    "text": "Web Scraping with Python\nWeb scraping is a method used to extract data from websites. Python offers several libraries and tools for web scraping. Here are some essential resources to get started or enhance your web scraping skills:\n\nBeautiful Soup Documentation - Official documentation for Beautiful Soup, a Python library designed for quick turnaround projects like screen-scraping.\nPython Requests Library - Official documentation for Requests, a simple HTTP library for Python, used to send HTTP requests easily.\nAutomate the Boring Stuff with Python - A book that teaches Python programming with practical examples, including a chapter on web scraping.\nScrape Quotes - A practice website designed for scraping quotes from famous authors.\nScrape This Site - A website that offers lessons and challenges for web scraping practices.\nfreeCodeCamp Web Scraping Python Tutorial - A comprehensive guide on how to scrape data from a website using Python.\nGeeksforGeeks Python Web Scraping Tutorial - Offers a tutorial on web scraping using Python, covering basics to advanced topics.\nBeautiful Soup Web Scraper Python - Real Python - A tutorial that explains how to use Beautiful Soup for web scraping effectively.\nPython Web Scraping: A Practical Introduction - Real Python - Provides a practical introduction to web scraping using Python, including setting up your environment and parsing HTML."
+  },
+  {
     "objectID": "resources.html#portfolio-building",
     "href": "resources.html#portfolio-building",
     "title": "Free Resources",
