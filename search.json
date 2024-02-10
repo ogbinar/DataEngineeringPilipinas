@@ -168,18 +168,60 @@
     "text": "Web Scraping with Python\nWeb scraping is a method used to extract data from websites. Python offers several libraries and tools for web scraping. Here are some essential resources to get started or enhance your web scraping skills:\n\nBeautiful Soup Documentation - Official documentation for Beautiful Soup, a Python library designed for quick turnaround projects like screen-scraping.\nPython Requests Library - Official documentation for Requests, a simple HTTP library for Python, used to send HTTP requests easily.\nAutomate the Boring Stuff with Python - A book that teaches Python programming with practical examples, including a chapter on web scraping.\nScrape Quotes - A practice website designed for scraping quotes from famous authors.\nScrape This Site - A website that offers lessons and challenges for web scraping practices.\nfreeCodeCamp Web Scraping Python Tutorial - A comprehensive guide on how to scrape data from a website using Python.\nGeeksforGeeks Python Web Scraping Tutorial - Offers a tutorial on web scraping using Python, covering basics to advanced topics.\nBeautiful Soup Web Scraper Python - Real Python - A tutorial that explains how to use Beautiful Soup for web scraping effectively.\nPython Web Scraping: A Practical Introduction - Real Python - Provides a practical introduction to web scraping using Python, including setting up your environment and parsing HTML."
   },
   {
-    "objectID": "resources.html#portfolio-building",
-    "href": "resources.html#portfolio-building",
+    "objectID": "resources.html#portfolio-building-resources",
+    "href": "resources.html#portfolio-building-resources",
     "title": "Free Resources",
-    "section": "Portfolio Building",
-    "text": "Portfolio Building\n\nCreate a Portfolio Website with AlexTheAnalyst: Tutorial on creating and hosting a portfolio using GitHub Pages.\nGoogle Analytics for Beginners and Advanced Google Analytics: Track your portfolio/website visitors."
+    "section": "Portfolio Building Resources",
+    "text": "Portfolio Building Resources\nBuilding a professional portfolio is crucial for showcasing your skills and projects to potential employers or clients. Here are some valuable resources to help you create and enhance your portfolio:\n\nCreate a Portfolio Website with AlexTheAnalyst - A comprehensive tutorial on creating and hosting a portfolio using GitHub Pages. Perfect for beginners looking to establish an online presence.\nGoogle Analytics Tutorials:\n\nGoogle Analytics for Beginners - Learn how to track your portfolio or website visitors, understand your audience, and improve your site based on analytics data.\nAdvanced Google Analytics - Dive deeper into Google Analytics to leverage more complex tracking and analysis techniques for your site.\n\nYouTube Playlist on Data Engineering Projects - A curated list of video tutorials and project ideas for aspiring data engineers, covering various tools and technologies.\nData Engineer Portfolio Project Ideas - Provides a range of project ideas and guidance on building a portfolio that stands out for data engineering roles.\nData Engineering Projects for Beginners - Simplilearn - Offers tutorials and project ideas for beginners in data engineering, helping you to start building your portfolio with practical experience.\n\nCertainly! Here’s a thematic categorization of the data science courses, including links in markdown format for easy access:"
   },
   {
-    "objectID": "resources.html#internships",
-    "href": "resources.html#internships",
+    "objectID": "resources.html#foundational-data-science-courses",
+    "href": "resources.html#foundational-data-science-courses",
     "title": "Free Resources",
-    "section": "Internships",
-    "text": "Internships\n\nThe Sparks Foundation: A remote one-month internship in Data Science and Business Analytics."
+    "section": "Foundational Data Science Courses",
+    "text": "Foundational Data Science Courses\n\nThe Open Source Data Science Masters - A comprehensive curriculum for self-study in data science.\nData Science Essentials- Microsoft - Foundation course on edX covering essential data science concepts.\nHarvard CS109 Data Science - In-depth course covering data science methodologies and Python.\nData Science Fundamentals – IBM - Covers fundamentals of data science through hands-on practice on the Cognitive Class platform."
+  },
+  {
+    "objectID": "resources.html#introduction-to-data-science",
+    "href": "resources.html#introduction-to-data-science",
+    "title": "Free Resources",
+    "section": "Introduction to Data Science",
+    "text": "Introduction to Data Science\n\nIntroduction to Data Science by Jeff Hammerbacher at UC, Berkeley - Lectures and materials on the introduction to data science.\nIntroduction to Data Science @Coursera - Offers a broad introduction to data science through Coursera.\nIntroduction to Data Science @UofWashington - Another Coursera course providing foundational knowledge in data science."
+  },
+  {
+    "objectID": "resources.html#specialized-topics-in-data-science",
+    "href": "resources.html#specialized-topics-in-data-science",
+    "title": "Free Resources",
+    "section": "Specialized Topics in Data Science",
+    "text": "Specialized Topics in Data Science\n\nLearning from Data – California Institute of Technology & UCBerkeley - Focus on machine learning and data analysis.\nProcess Mining: Data Science in Action @TUEindhoven - Specialized course on process mining techniques.\nPattern Discovery in Data Mining @UoIllinois - Course on discovering patterns in datasets.\nIntroduction to Data Mining @MIT - Lecture notes and materials on data mining concepts.\nMining Massive Datasets @Stanford - Advanced course on dealing with massive datasets."
+  },
+  {
+    "objectID": "resources.html#statistical-analysis-and-data-wrangling",
+    "href": "resources.html#statistical-analysis-and-data-wrangling",
+    "title": "Free Resources",
+    "section": "Statistical Analysis and Data Wrangling",
+    "text": "Statistical Analysis and Data Wrangling\n\nStatistical Thinking and Data Analysis @MIT & DukeUni - Courses focused on statistical thinking and data analysis techniques.\nOpen intro to Statistics - Provides a solid introduction to statistics.\nIntroduction to Data Wrangling at the School of Data - Focuses on data cleaning and preparation techniques."
+  },
+  {
+    "objectID": "resources.html#programming-for-data-science",
+    "href": "resources.html#programming-for-data-science",
+    "title": "Free Resources",
+    "section": "Programming for Data Science",
+    "text": "Programming for Data Science\n\nPython for Data Science - Course by Cognitive Class on using Python for data science tasks.\nData Science: R Basics - Harvard University - Introduction to using R for data science."
+  },
+  {
+    "objectID": "resources.html#online-learning-platforms-and-resources",
+    "href": "resources.html#online-learning-platforms-and-resources",
+    "title": "Free Resources",
+    "section": "Online Learning Platforms and Resources",
+    "text": "Online Learning Platforms and Resources\n\nCognitive Class - Interactive platform offering courses on data science and AI.\nJovian - For sharing and collaborating on Jupyter notebooks.\nDataPen - Interactive tutorials on data science and machine learning.\nData Analytics Educational Resources - Collection of learning materials for data analytics.\nExecutive Levels Data Software Training - Offers training on various data software tools.\nSQLZOO"
+  },
+  {
+    "objectID": "resources.html#training-and-internships",
+    "href": "resources.html#training-and-internships",
+    "title": "Free Resources",
+    "section": "Training and Internships",
+    "text": "Training and Internships\n\nThe Sparks Foundation: A remote one-month internship in Data Science and Business Analytics.\nFor The Women Foundation: FTW is a nonprofit organization providing free data science and technology training for women"
   },
   {
     "objectID": "resources.html#online-learning-platforms",
@@ -189,32 +231,11 @@
     "text": "Online Learning Platforms\n\nDataquest\nDatacamp\nCodecademy\nSoloLearn\nW3Schools\nKhan Academy\nCoursera\nedX\nfreeCodeCamp\nUdacity\nThe Odin Project\nMozilla Developer Network (MDN)\nKaggle"
   },
   {
-    "objectID": "resources.html#data-science-courses",
-    "href": "resources.html#data-science-courses",
-    "title": "Free Resources",
-    "section": "Data Science Courses",
-    "text": "Data Science Courses\n\nThe Open Source Data Science Masters\nData Science Essentials- Microsoft\nHarvard CS109 Data Science\nData Science Fundamentals – IBM\nIntroduction to Data Science by Jeff Hammerbacher at UC, Berkeley\nIntroduction to Data Science @coursera\nLearning from Data – California Institute of Technology\nIntroduction to Data Science @UofWashington\nBecome a Data Scientist - Dataquest\nData Science Course @ColumbiaUni notes by @mathbabe\nAn Introduction to Data Science at Syracuse University (pdf)\nApplied Data Science: An Introduction @SyracuseUni\nData Science and Analytics at UCBerkeley\nProcess Mining: Data Science in Action @TUEindhoven\nLearning from Data at California Institute of Technology\nStatistical Thinking and Data Analysis @MIT\nData Analysis and Statistical Inference @DukeUni\nIntroduction to Data Wrangling at the School of Data\nLeaRning Path on R – Step by Step Guide to Learn Data Science on R\nMaking Sense of Data @Google\nOpen intro to Statistics\nIntroduction to Data Mining @MIT\nMining Massive Datasets @Stanford\nPattern Discovery in Data Mining @UoIllinois\nPython for Data Science\nData Science: R Basics - Harvard University"
-  },
-  {
-    "objectID": "resources.html#additional-data-science-resources",
-    "href": "resources.html#additional-data-science-resources",
-    "title": "Free Resources",
-    "section": "Additional Data Science Resources",
-    "text": "Additional Data Science Resources\n\nCognitive Class: Interactive learning platform for data science and AI.\nJovian: Platform for sharing and collaborating on Jupyter notebooks for data science.\nDataPen: A platform for interactive data science and machine learning tutorials.\nData Analytics Educational Resources: A collection of resources for learning data analytics.\nExecutive Levels Data Software Training: Training programs for various data software tools.\nSQLZOO: Interactive SQL tutorial for learning through practice."
-  },
-  {
     "objectID": "resources.html#cloud-resources",
     "href": "resources.html#cloud-resources",
     "title": "Free Resources",
     "section": "Cloud Resources",
     "text": "Cloud Resources\n\nAWS Training and Certification: https://aws.amazon.com/training/\nGoogle Cloud Training: https://cloud.google.com/training\nMicrosoft Learn: https://docs.microsoft.com/en-us/learn/\nCloud Free Tier Comparison: Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud."
-  },
-  {
-    "objectID": "resources.html#other-resources",
-    "href": "resources.html#other-resources",
-    "title": "Free Resources",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nGitHub: https://github.com\nPLURALSIGHT: https://www.pluralsight.com/\nhackerRank: https://www.hackerrank.com/\nWorld Quant: https://www.worldquant.com/\nOpen Books: https://open.umn.edu/opentextbooks"
   },
   {
     "objectID": "resources.html#formal-education",
