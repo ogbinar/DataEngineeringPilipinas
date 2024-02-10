@@ -172,7 +172,7 @@
     "href": "resources.html#portfolio-building-resources",
     "title": "Free Resources",
     "section": "Portfolio Building Resources",
-    "text": "Portfolio Building Resources\nBuilding a professional portfolio is crucial for showcasing your skills and projects to potential employers or clients. Here are some valuable resources to help you create and enhance your portfolio:\n\nCreate a Portfolio Website with AlexTheAnalyst - A comprehensive tutorial on creating and hosting a portfolio using GitHub Pages. Perfect for beginners looking to establish an online presence.\nGoogle Analytics Tutorials:\n\nGoogle Analytics for Beginners - Learn how to track your portfolio or website visitors, understand your audience, and improve your site based on analytics data.\nAdvanced Google Analytics - Dive deeper into Google Analytics to leverage more complex tracking and analysis techniques for your site.\n\nYouTube Playlist on Data Engineering Projects - A curated list of video tutorials and project ideas for aspiring data engineers, covering various tools and technologies.\nData Engineer Portfolio Project Ideas - Provides a range of project ideas and guidance on building a portfolio that stands out for data engineering roles.\nData Engineering Projects for Beginners - Simplilearn - Offers tutorials and project ideas for beginners in data engineering, helping you to start building your portfolio with practical experience.\n\nCertainly! Here’s a thematic categorization of the data science courses, including links in markdown format for easy access:"
+    "text": "Portfolio Building Resources\nBuilding a professional portfolio is crucial for showcasing your skills and projects to potential employers or clients. Here are some valuable resources to help you create and enhance your portfolio:\n\nCreate a Portfolio Website with AlexTheAnalyst - A comprehensive tutorial on creating and hosting a portfolio using GitHub Pages. Perfect for beginners looking to establish an online presence.\nGoogle Analytics Tutorials:\n\nGoogle Analytics for Beginners - Learn how to track your portfolio or website visitors, understand your audience, and improve your site based on analytics data.\nAdvanced Google Analytics - Dive deeper into Google Analytics to leverage more complex tracking and analysis techniques for your site.\n\nYouTube Playlist on Data Engineering Projects - A curated list of video tutorials and project ideas for aspiring data engineers, covering various tools and technologies.\nData Engineer Portfolio Project Ideas - Provides a range of project ideas and guidance on building a portfolio that stands out for data engineering roles.\nData Engineering Projects for Beginners - Simplilearn - Offers tutorials and project ideas for beginners in data engineering, helping you to start building your portfolio with practical experience."
   },
   {
     "objectID": "resources.html#foundational-data-science-courses",
@@ -186,7 +186,7 @@
     "href": "resources.html#introduction-to-data-science",
     "title": "Free Resources",
     "section": "Introduction to Data Science",
-    "text": "Introduction to Data Science\n\nIntroduction to Data Science by Jeff Hammerbacher at UC, Berkeley - Lectures and materials on the introduction to data science.\nIntroduction to Data Science @Coursera - Offers a broad introduction to data science through Coursera.\nIntroduction to Data Science @UofWashington - Another Coursera course providing foundational knowledge in data science."
+    "text": "Introduction to Data Science\n\nIntroduction to Data Science by Jeff Hammerbacher at UC, Berkeley - Lectures and materials on the introduction to data science.\nIntroduction to Data Science @coursera - Offers a broad introduction to data science through Coursera.\nIntroduction to Data Science @UofWashington - Another Coursera course providing foundational knowledge in data science."
   },
   {
     "objectID": "resources.html#specialized-topics-in-data-science",
@@ -214,7 +214,14 @@
     "href": "resources.html#online-learning-platforms-and-resources",
     "title": "Free Resources",
     "section": "Online Learning Platforms and Resources",
-    "text": "Online Learning Platforms and Resources\n\nCognitive Class - Interactive platform offering courses on data science and AI.\nJovian - For sharing and collaborating on Jupyter notebooks.\nDataPen - Interactive tutorials on data science and machine learning.\nData Analytics Educational Resources - Collection of learning materials for data analytics.\nExecutive Levels Data Software Training - Offers training on various data software tools.\nSQLZOO"
+    "text": "Online Learning Platforms and Resources\n\nCognitive Class - Interactive platform offering courses on data science and AI.\nJovian - For sharing and collaborating on Jupyter notebooks.\nDataPen - Interactive tutorials on data science and machine learning.\nData Analytics Educational Resources - Collection of learning materials for data analytics.\nExecutive Levels Data Software Training - Offers training on various data software tools.\nSQLZOO - Interactive SQL tutorials for hands-on learning."
+  },
+  {
+    "objectID": "resources.html#additional-learning-resources",
+    "href": "resources.html#additional-learning-resources",
+    "title": "Free Resources",
+    "section": "Additional Learning Resources",
+    "text": "Additional Learning Resources\n\nGitHub - Platform for code sharing and collaboration.\nPLURALSIGHT\nOffers video courses on a wide range of tech topics, including data science.\nhackerRank - Platform for practicing coding and data science skills.\nWorld Quant - Provides resources for quantitative analysis.\nOpen Books - Free access to educational textbooks, including topics on data science and statistics."
   },
   {
     "objectID": "resources.html#training-and-internships",
@@ -235,7 +242,7 @@
     "href": "resources.html#cloud-resources",
     "title": "Free Resources",
     "section": "Cloud Resources",
-    "text": "Cloud Resources\n\nAWS Training and Certification: https://aws.amazon.com/training/\nGoogle Cloud Training: https://cloud.google.com/training\nMicrosoft Learn: https://docs.microsoft.com/en-us/learn/\nCloud Free Tier Comparison: Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud."
+    "text": "Cloud Resources\n\nAWS Training and Certification: https://aws.amazon.com/training/\nGoogle Cloud Training: https://cloud.google.com/training\nMicrosoft Learn: https://docs.microsoft.com/en-us/learn/\nCloud Free Tier Comparison Cloud Free Tier Comparison: Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud."
   },
   {
     "objectID": "resources.html#formal-education",
