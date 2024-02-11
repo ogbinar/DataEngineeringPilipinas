@@ -385,18 +385,67 @@
     "text": "Data Engineering Domain"
   },
   {
-    "objectID": "content/data-engineering-101.html#data-engineering",
-    "href": "content/data-engineering-101.html#data-engineering",
+    "objectID": "content/data-engineering-101.html#what-is-data-engineering",
+    "href": "content/data-engineering-101.html#what-is-data-engineering",
     "title": "Data Engineering 101",
-    "section": "Data Engineering",
-    "text": "Data Engineering\n\nPrimary Focus: Data engineering focuses on the practical aspects of data collection, data transformation, and data storage, preparing data for analytical or operational use.\nKey Responsibilities:\n\nBuilding and maintaining data architecture (databases, large-scale processing systems).\nDeveloping and managing data pipelines.\nEnsuring data availability and usability for data scientists and analysts.\n\nSkills and Tools:\n\nProgramming languages (Python, Java, Scala).\nDatabase languages (SQL).\nTools and frameworks (Apache Hadoop, Apache Spark, ETL tools, data warehousing solutions)."
+    "section": "What is Data Engineering?",
+    "text": "What is Data Engineering?\n\nPrimary Focus: Data engineering prepares data for analytical or operational use, emphasizing the practical application of data collection, transformation, and storage."
   },
   {
-    "objectID": "content/data-engineering-101.html#related-fields",
-    "href": "content/data-engineering-101.html#related-fields",
+    "objectID": "content/data-engineering-101.html#roles-and-responsibilities",
+    "href": "content/data-engineering-101.html#roles-and-responsibilities",
     "title": "Data Engineering 101",
-    "section": "Related Fields",
-    "text": "Related Fields\n\n1. Data Analysis\n\nInvolves extracting insights from data.\nTools: Excel, SQL, R, Python, BI tools (like Tableau, Power BI).\n\n\n\n2. Data Science\n\nEncompasses data analysis, predictive modeling, and machine learning.\nTools: Python, R, TensorFlow, machine learning libraries.\n\n\n\n3. Machine Learning Engineering\n\nFocuses on building systems that learn from data.\nTools: Python, machine learning frameworks, cloud computing platforms.\n\n\n\n4. Business Intelligence (BI)\n\nAnalyzing data to aid business decision-making.\nTools: SQL, BI platforms (Tableau, Power BI, Looker).\n\n\n\n5. Database Administration\n\nManaging and maintaining databases.\nTools: SQL, database management systems (MySQL, PostgreSQL).\n\n\n\n6. Big Data\n\nHandling large and complex data sets.\nTools: Hadoop, Spark, NoSQL databases.\n\nEach field plays a unique role in the data ecosystem, often collaborating to turn data into actionable insights. As the name suggests, our community focuses on all data career paths with emphasis on data engineering."
+    "section": "Roles and Responsibilities",
+    "text": "Roles and Responsibilities\nAs a data engineer, you will be responsible for:\n\nBuilding and maintaining the infrastructure for data generation, collection, and distribution.\nDeveloping robust and scalable data pipelines that transform and transport data across systems.\nEnsuring data is readily available and in a usable format for analysts and data scientists to perform their tasks."
+  },
+  {
+    "objectID": "content/data-engineering-101.html#skills-and-tools-for-data-engineering",
+    "href": "content/data-engineering-101.html#skills-and-tools-for-data-engineering",
+    "title": "Data Engineering 101",
+    "section": "Skills and Tools for Data Engineering",
+    "text": "Skills and Tools for Data Engineering\nTo thrive in data engineering, you will need to develop skills in:\n\nProgramming: Become proficient in languages like Python, Java, or Scala.\nData Management: Learn to manipulate databases using SQL.\nData Processing Frameworks: Gain expertise in tools such as Apache Hadoop and Apache Spark.\nData Storage and Warehousing: Understand how to implement and manage large-scale data storage solutions."
+  },
+  {
+    "objectID": "content/data-engineering-101.html#related-disciplines",
+    "href": "content/data-engineering-101.html#related-disciplines",
+    "title": "Data Engineering 101",
+    "section": "Related Disciplines",
+    "text": "Related Disciplines\nData engineering intersects with several related fields:\n\nData Analysis\n\nDescription: Extracting insights and making sense of data.\nTools: Familiarize yourself with Excel, SQL, and BI tools like Tableau and Power BI.\n\n\n\nData Science\n\nDescription: Going beyond analysis to predict future trends and behaviors using data.\nTools: Learn Python, R, and machine learning libraries to build predictive models.\n\n\n\nMachine Learning Engineering\n\nDescription: Specializing in algorithms that can learn from and make decisions based on data.\nTools: Master Python and frameworks like TensorFlow.\n\n\n\nBusiness Intelligence (BI)\n\nDescription: Transforming data into actionable intelligence for business decisions.\nTools: Use SQL and BI platforms like Tableau, Power BI, or Looker.\n\n\n\nDatabase Administration\n\nDescription: Focusing on the technical management of database systems.\nTools: Understand database management systems like MySQL and PostgreSQL.\n\n\n\nBig Data\n\nDescription: Working with exceptionally large or complex data sets that require specialized approaches.\nTools: Learn to work with Hadoop, Spark, and NoSQL databases."
+  },
+  {
+    "objectID": "content/data-engineering-101.html#the-data-engineering-lifecycle",
+    "href": "content/data-engineering-101.html#the-data-engineering-lifecycle",
+    "title": "Data Engineering 101",
+    "section": "The Data Engineering Lifecycle",
+    "text": "The Data Engineering Lifecycle\nUnderstanding the Data Engineering Lifecycle is crucial for managing data effectively:\n\nGeneration: Where and how data is produced.\nIngestion: Moving data to a place where it can be used.\nTransformation: Converting data to a useful format.\nServing: Making data accessible for use.\nStorage: Keeping data safe and retrievable."
+  },
+  {
+    "objectID": "content/data-engineering-101.html#outcomes-of-the-data-engineering-process",
+    "href": "content/data-engineering-101.html#outcomes-of-the-data-engineering-process",
+    "title": "Data Engineering 101",
+    "section": "Outcomes of the Data Engineering Process",
+    "text": "Outcomes of the Data Engineering Process\nThe end goal of data engineering can be one of the following:\n\nAnalytics: Deriving insights that inform business strategies.\nMachine Learning: Training models to predict and act upon data.\nReverse ETL: Integrating processed data back into operational systems."
+  },
+  {
+    "objectID": "content/data-engineering-101.html#supporting-practices-in-data-engineering",
+    "href": "content/data-engineering-101.html#supporting-practices-in-data-engineering",
+    "title": "Data Engineering 101",
+    "section": "Supporting Practices in Data Engineering",
+    "text": "Supporting Practices in Data Engineering\nThese are the undercurrents that ensure the data flows smoothly throughout the lifecycle:\n\nSecurity: Protecting data integrity and privacy.\nData Management: Ensuring that data is organized and maintained properly.\nDataOps: Streamlining the collaboration between teams working with data.\nData Architecture: Creating the blueprint for data collection and usage.\nOrchestration: Automating processes and workflows.\nSoftware Engineering: Developing the applications that handle data.\n\nBecoming a data engineer means you’ll be at the intersection of data, technology, and business, ensuring that data is a valuable asset that can be leveraged to its full potential."
+  },
+  {
+    "objectID": "content/data-engineering-101.html#alternative-careers",
+    "href": "content/data-engineering-101.html#alternative-careers",
+    "title": "Data Engineering 101",
+    "section": "Alternative Careers",
+    "text": "Alternative Careers\n\nData Analyst: Analyzes data to help inform business decisions.\nMachine Learning Engineer: Creates algorithms to predict patterns and behaviors.\nDatabase Administrator: Manages and maintains database systems.\nBusiness Intelligence Analyst: Converts data into actionable business insights.\nData Architect: Designs and manages data solutions.\nData Science Generalist: Handles various data-related tasks in smaller companies.\nSystems Analyst: Improves IT systems through data analysis.\nProduct Manager: Integrates data insights into product strategy.\nOperations Analyst: Optimizes business operations using data.\nQuantitative Analyst: Applies data to financial analysis and risk assessment."
+  },
+  {
+    "objectID": "content/data-engineering-101.html#advantages-of-data-engineering-skills-beyond-data-roles",
+    "href": "content/data-engineering-101.html#advantages-of-data-engineering-skills-beyond-data-roles",
+    "title": "Data Engineering 101",
+    "section": "Advantages of Data Engineering Skills Beyond Data Roles",
+    "text": "Advantages of Data Engineering Skills Beyond Data Roles\n\nEnhanced Problem-Solving: Develops structured approaches to solving complex issues.\nLogical Thinking: Fosters a logical mindset beneficial for strategic decision-making.\nTechnical Skills: Provides technical acumen applicable in many modern tech roles.\nData Literacy: Equips with the ability to understand and use data effectively.\nProject Management: Aligns with managing projects, resources, and workflows.\nEffective Communication: Improves the ability to communicate complex ideas clearly.\nAdaptability: Prepares for quick adaptation to industry changes.\nAutomation Knowledge: Offers insights into streamlining and automating processes.\nInterdisciplinary Collaboration: Encourages working across various teams and departments.\n\nLearning data engineering skills can significantly enhance your analytical and technical capabilities, useful in a wide array of professions, not limited to traditional data-centric roles."
   },
   {
     "objectID": "content/Cloud-Free-Tier-Comparison/Articles.html",
