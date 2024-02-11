@@ -16,4 +16,10 @@ description: |
 ![Data Analyst](images/DataCamp%20-%20Data%20Analyst%20Track.png)
 
 ### Roadmap.sh
-- [Roadmap.sh](https://roadmap.sh/): Roadmaps and study guides for Python, Data Scientist, SQL, and more.
+- [SQL Roadmap](https://roadmap.sh/sql) - A guide for becoming proficient in SQL.
+- [PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql-dba) - A roadmap for those aspiring to become PostgreSQL Database Administrators.
+- [Python Roadmap](https://roadmap.sh/python) - A detailed path for learning Python programming.
+- [Backend Development Roadmap](https://roadmap.sh/backend) - A guide for becoming a Backend Developer.
+- [AI & Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist) - A comprehensive path for aspiring AI and Data Scientists.
+
+### <a href="content/data-engineering-101.qmd">Read more about Data Engineering 101</a>
