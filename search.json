@@ -403,7 +403,7 @@
     "href": "content/data-engineering-101.html#skills-and-tools-for-data-engineering",
     "title": "Data Engineering 101",
     "section": "Skills and Tools for Data Engineering",
-    "text": "Skills and Tools for Data Engineering\nTo thrive in data engineering, you will need to develop skills in:\n\nProgramming: Become proficient in languages like Python, Java, or Scala.\nData Management: Learn to manipulate databases using SQL.\nData Processing Frameworks: Gain expertise in tools such as Apache Hadoop and Apache Spark.\nData Storage and Warehousing: Understand how to implement and manage large-scale data storage solutions."
+    "text": "Skills and Tools for Data Engineering\nTo thrive in data engineering, you will need to develop skills in:\n\nProgramming: Become proficient in languages like Python, Java, or Scala.\nData Management & Governance: Learn to manipulate databases using SQL.\nData Processing Frameworks: Gain expertise in tools such as Apache Hadoop and Apache Spark.\nData Storage and Warehousing: Understand how to implement and manage large-scale data storage solutions."
   },
   {
     "objectID": "content/data-engineering-101.html#related-disciplines",
