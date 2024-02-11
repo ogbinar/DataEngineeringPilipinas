@@ -158,14 +158,14 @@
     "href": "resources.html#data-science-tutorials",
     "title": "Free Resources",
     "section": "Data Science Tutorials",
-    "text": "Data Science Tutorials\n\nData Science for Beginners by Microsoft: Beginner-friendly data science materials on GitHub.\nHarvard CS50’s Introduction to Programming with Python: Full university course available on YouTube.\nR for Data Science - This online book provides an introduction to R specifically for data science, covering data visualization, transformation, and modeling."
+    "text": "Data Science Tutorials\n\nData Science for Beginners by Microsoft: Beginner-friendly data science materials on GitHub.\nHarvard CS50’s Introduction to Programming with Python: Full university course available on YouTube."
   },
   {
     "objectID": "resources.html#web-scraping-with-python",
     "href": "resources.html#web-scraping-with-python",
     "title": "Free Resources",
     "section": "Web Scraping with Python",
-    "text": "Web Scraping with Python\nWeb scraping is a method used to extract data from websites. Python offers several libraries and tools for web scraping. Here are some essential resources to get started or enhance your web scraping skills:\n\nBeautiful Soup Documentation - Official documentation for Beautiful Soup, a Python library designed for quick turnaround projects like screen-scraping.\nPython Requests Library - Official documentation for Requests, a simple HTTP library for Python, used to send HTTP requests easily.\nAutomate the Boring Stuff with Python - A book that teaches Python programming with practical examples, including a chapter on web scraping.\nScrape Quotes - A practice website designed for scraping quotes from famous authors.\nScrape This Site - A website that offers lessons and challenges for web scraping practices.\nfreeCodeCamp Web Scraping Python Tutorial - A comprehensive guide on how to scrape data from a website using Python.\nGeeksforGeeks Python Web Scraping Tutorial - Offers a tutorial on web scraping using Python, covering basics to advanced topics.\nBeautiful Soup Web Scraper Python - Real Python - A tutorial that explains how to use Beautiful Soup for web scraping effectively.\nPython Web Scraping: A Practical Introduction - Real Python - Provides a practical introduction to web scraping using Python, including setting up your environment and parsing HTML."
+    "text": "Web Scraping with Python\nWeb scraping is a method used to extract data from websites. Python offers several libraries and tools for web scraping. Here are some essential resources to get started or enhance your web scraping skills:\n\nBeautiful Soup Documentation - Official documentation for Beautiful Soup, a Python library designed for quick turnaround projects like screen-scraping.\nPython Requests Library - Official documentation for Requests, a simple HTTP library for Python, used to send HTTP requests easily.\nScrape Quotes - A practice website designed for scraping quotes from famous authors.\nScrape This Site - A website that offers lessons and challenges for web scraping practices.\nfreeCodeCamp Web Scraping Python Tutorial - A comprehensive guide on how to scrape data from a website using Python.\nGeeksforGeeks Python Web Scraping Tutorial - Offers a tutorial on web scraping using Python, covering basics to advanced topics.\nBeautiful Soup Web Scraper Python - Real Python - A tutorial that explains how to use Beautiful Soup for web scraping effectively.\nPython Web Scraping: A Practical Introduction - Real Python - Provides a practical introduction to web scraping using Python, including setting up your environment and parsing HTML."
   },
   {
     "objectID": "resources.html#portfolio-building-resources",
@@ -200,7 +200,7 @@
     "href": "resources.html#statistical-analysis-and-data-wrangling",
     "title": "Free Resources",
     "section": "Statistical Analysis and Data Wrangling",
-    "text": "Statistical Analysis and Data Wrangling\n\nStatistical Thinking and Data Analysis @MIT & DukeUni - Courses focused on statistical thinking and data analysis techniques.\nOpen intro to Statistics - Provides a solid introduction to statistics.\nIntroduction to Data Wrangling at the School of Data - Focuses on data cleaning and preparation techniques."
+    "text": "Statistical Analysis and Data Wrangling\n\nStatistical Thinking and Data Analysis @MIT & DukeUni - Courses focused on statistical thinking and data analysis techniques.\nOpen intro to Statistics - Provides a solid introduction to statistics.\nRegression Analysis - Learn approaches for analyzing multivariate data sets, emphasizing analysis of variance, linear regression, and logistic regression.\nIntroduction to Data Wrangling at the School of Data - Focuses on data cleaning and preparation techniques."
   },
   {
     "objectID": "resources.html#programming-for-data-science",
@@ -221,7 +221,7 @@
     "href": "resources.html#additional-learning-resources",
     "title": "Free Resources",
     "section": "Additional Learning Resources",
-    "text": "Additional Learning Resources\n\nGitHub - Platform for code sharing and collaboration.\nPLURALSIGHT - Offers video courses on a wide range of tech topics, including data science.\nhackerRank - Platform for practicing coding and data science skills.\nWorld Quant - Provides resources for quantitative analysis.\nOpen Books - Free access to educational textbooks, including topics on data science and statistics."
+    "text": "Additional Learning Resources\n\nGitHub - Platform for code sharing and collaboration.\nPLURALSIGHT - Offers video courses on a wide range of tech topics, including data science.\nhackerRank - Platform for practicing coding and data science skills.\nWorld Quant - Provides resources for quantitative analysis.\nReal World Data Science Use Cases - A showcase for data science in action"
   },
   {
     "objectID": "resources.html#training-and-internships",
@@ -249,7 +249,14 @@
     "href": "resources.html#open-courseware",
     "title": "Free Resources",
     "section": "Open Courseware",
-    "text": "Open Courseware\n\nData Analysis with R\nData Engineering Zoomcamp\nThe Open Source Data Science Masters\nFast.ai Courses\nGIS Programming Roadmap on GitHub"
+    "text": "Open Courseware\n\nData Analysis with R\nData Engineering Zoomcamp\nData Science in a Box w/ R\nThe Open Source Data Science Masters\nFast.ai Courses\nGIS Programming Roadmap on GitHub"
+  },
+  {
+    "objectID": "resources.html#open-books",
+    "href": "resources.html#open-books",
+    "title": "Free Resources",
+    "section": "Open Books",
+    "text": "Open Books\n\nData Science and R Programming\n\nR for Data Science - Learn data science with R.\nData Science: R Basics - Foundation of data science in R.\nR Graphics Cookbook - Data visualization with ggplot2 in R.\nGeocomputation with R - Spatial data analysis with R.\nExploratory Data Analysis with R - Techniques for EDA using R.\nThe Art of Data Science - The process of data analysis.\nR for Data Science (Second Edition) - Updated guide for data science with R.\nR Packages - Creating R packages.\n\n\n\nPython Programming\n\nPython for Everybody - Introduction to programming using Python.\nModern Polars - Using Polars library in Python for data manipulation.\n\n\n\nVisualization and Web Scraping\n\nData Visualization: A Practical Introduction - Introduction to data visualization.\nWeb Scraping with R - Techniques for web scraping using R.\nInteractive Data Visualization - Learning interactive data visualization.\n\n\n\nAdvanced Topics and Specialized Areas\n\nTelling Stories with Data - Narrative techniques in data communication.\nSpatial Data Science - Spatial data analysis.\nHands-On Programming with R - Practical programming with R.\nPython Geospatial Analysis - Geospatial analysis with Python.\nTime Series Analysis with R - Time series analysis techniques.\nCookbook for R Polars - Using Polars package in R for data frames.\nNFL Analytics with R - Analyzing NFL data with R.\nData Management in R - Strategies for data management with R.\nmlr3book - Machine learning in R with mlr3.\nPython for Geocomputation - Geocomputational analysis with Python.\nRaps with R - Music and analysis with R.\n\n\n\nMiscellaneous\n\nOpen Books by Open UMN - Free educational textbooks, including data science and statistics.\nPandas for Everyone - Comprehensive guide to using Pandas for data analysis."
   },
   {
     "objectID": "resources.html#formal-education",
