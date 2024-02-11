@@ -487,28 +487,21 @@
     "href": "community.html",
     "title": "Community Content",
     "section": "",
-    "text": "A brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.\n An introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.\n\nA discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.\n\nA video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.\n An online event with key thought leaders and content creators in the Filipino tech community.\n\nA panel discussion hosted by R User’s Group Philippines on transitioning to a career in data."
+    "text": "A brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.\n An introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.\n\nA discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.\n\nA video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.\n An online event with key thought leaders and content creators in the Filipino tech community.\n\nA panel discussion hosted by R User’s Group Philippines on transitioning to a career in data.\n Kyle Escosia’s talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.\n A session by Kyle Escosia on creating a serverless data lake in AWS.\n\nThe “Kwentuhan Meetup” is an online event for members of the Data Engineering Pilipinas group, hosted on Discord."
   },
   {
     "objectID": "community.html#videos-and-presentations",
     "href": "community.html#videos-and-presentations",
     "title": "Community Content",
     "section": "",
-    "text": "A brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.\n An introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.\n\nA discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.\n\nA video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.\n An online event with key thought leaders and content creators in the Filipino tech community.\n\nA panel discussion hosted by R User’s Group Philippines on transitioning to a career in data."
+    "text": "A brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.\n An introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.\n\nA discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.\n\nA video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.\n An online event with key thought leaders and content creators in the Filipino tech community.\n\nA panel discussion hosted by R User’s Group Philippines on transitioning to a career in data.\n Kyle Escosia’s talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.\n A session by Kyle Escosia on creating a serverless data lake in AWS.\n\nThe “Kwentuhan Meetup” is an online event for members of the Data Engineering Pilipinas group, hosted on Discord."
   },
   {
     "objectID": "community.html#doc-ligot-interviews",
     "href": "community.html#doc-ligot-interviews",
     "title": "Community Content",
     "section": "Doc Ligot Interviews",
-    "text": "Doc Ligot Interviews\n\nKuya Dev\n\n\n\nJosh V.\n\n\n\nSherwin Pelayo\n\n\n\nGerard\n\n\n\nXavier Puspus\n\n\n\nNoemi\n\n\n\nAemy Obinguar\n\n\n\nSandy Lauguico"
-  },
-  {
-    "objectID": "community.html#recorded-events-and-talks",
-    "href": "community.html#recorded-events-and-talks",
-    "title": "Community Content",
-    "section": "Recorded Events and Talks",
-    "text": "Recorded Events and Talks\n Kyle Escosia’s talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.\n A session by Kyle Escosia on creating a serverless data lake in AWS."
+    "text": "Doc Ligot Interviews\n\nKuya Dev\n\n\n\nJosh V.\n\n\n\nSherwin Pelayo\n\n\n\nGerard\n\n\n\nXavier Puspus\n\n\n\nNoemi\n\n\n\nAemy Obinguar\n\n\n\nSandy Lauguico\n\n\n\nNeil Bacon’s Transition: Discover how Leoneil Bacon moved from Biology to Data.\n\n\n\nTrisha Nicdao’s Journey: Insights into Trisha’s shift from ESG to Data Analytics, touching on sustainability and GenZ perspectives.\n\n\n\nAngel Felismino’s Career Path: From Computer Science to leading in tech talent acquisition.\n\n\n\nEmmanuel Irog-Irog’s Innovations: Discussing RAG and LLMs with a focus on recent projects.\n\n\n\nJerel John Velarde’s Vision: Using data for enhancing democracy in AI startups."
   },
   {
     "objectID": "community.html#blogs-and-articles",
@@ -529,7 +522,7 @@
     "href": "community.html#people-and-pages",
     "title": "Community Content",
     "section": "People and Pages",
-    "text": "People and Pages\n\nKyle Escosia - Explore the work of Kyle Escosia, a Data Engineer with a passion for all things data."
+    "text": "People and Pages\n\nDoc Ligot\nSherwin Pelayo\nKyle Escosia\nSandy C. Lauguico\nJosh Dev\nKuya Dev\nDev Stuff with JP\nAlex Gamboa"
   },
   {
     "objectID": "content/Cloud-Free-Tier-Comparison/LICENSE.html",
