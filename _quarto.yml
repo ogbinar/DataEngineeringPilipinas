@@ -35,7 +35,11 @@ website:
     - text: "Knowledgebase"
       href: technical-knowledgebase.qmd
     - text: "Resources"
-      href: resources.qmd
+      menu:
+        - text: "Free Resources"
+          href: resources.qmd
+        - text: "Getting Started"
+          href: content/getstarted.qmd
     - text: "Datasets"
       href: datasets.qmd
     - icon: github
