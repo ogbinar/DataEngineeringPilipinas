@@ -4,7 +4,39 @@ description: |
     Explore a rich collection of community-driven content, featuring insightful videos, blogs, and articles from data engineering experts. These resources offer valuable perspectives on various aspects of data engineering and analytics.
 ---
 
- 
+## People and Pages
+
+As a community, we want to support our homegrown content creators and experts. Please check them out as they champion data advocacy:
+
+- [Doc Ligot](https://docligot.com/)
+- [Sherwin Pelayo](https://www.linkedin.com/in/sherwinpelayo/)
+- [Kyle Escosia](https://linktr.ee/klescosia)
+- [Sandy C. Lauguico](https://www.facebook.com/sandy.c.lauguico)
+- [Josh Dev](https://www.facebook.com/profile.php?id=100087019650476)
+- [Kuya Dev](https://www.facebook.com/KuyaDevDotCom)
+- [Dev Stuff with JP](https://www.facebook.com/devstuffwithjp)
+- [Power BI Pilipinas](https://www.facebook.com/powerbipilipinas)
+- [Alex Gamboa](https://www.facebook.com/alexgamboa34/)
+- [Aemyn Obinguar](https://www.facebook.com/aemyn.obinguar)
+- [Furtim Dev](https://www.facebook.com/furtimdev)
+- [Prof. Bob S.](https://www.youtube.com/@thetechedhelpphil4499)
+- [Danielle Meer](https://www.linkedin.com/in/danielle-meer-7b7891209)
+- [Atcha Abe](https://www.facebook.com/athenaaliafe)
+- [The Agile Geek](https://theagilegeek.bio.link/)
+
+## Blogs and Articles
+
+- [Snowflake in the Philippines](https://medium.com/@kyle.escosia/the-rise-of-snowflake-in-the-philippines-why-its-the-hottest-thing-in-big-data-right-now-9b9d09c11e89) - Kyle Escosia's insights on Snowflake's rise in the Philippines.
+- [UPSERTS and DELETS using AWS Glue and Delta Lake](https://dev.to/awscommunity-asean/sql-based-inserts-deletes-and-upserts-in-s3-using-aws-glue-3-0-and-delta-lake-42f0) - A guide on using AWS Glue with Delta Lake for data operations.
+- [Table Indexes](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/table_index) - An educational piece on the importance and implementation of table indexes.
+
+## Projects
+
+- [Basic ETL project](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/pipeline_basic)
+- [ETL Sales](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-SALES)
+- [ETL Project with Azure Databricks](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-Databricks-code) - A walkthrough of an ETL project using Azure Databricks.
+- [Containerization](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/containerization) - An exploration of containerization in data engineering.
+
 
 ## Videos and Presentations
 
@@ -70,26 +102,3 @@ The "Kwentuhan Meetup" is an online event for members of the Data Engineering Pi
 {{< video https://www.youtube.com/watch?v=O1JXjUYwWc8 title="Jerel John Velarde's Mission in AI Startups for Democracy" >}}
 
 
-## Blogs and Articles
-
-- [Snowflake in the Philippines](https://medium.com/@kyle.escosia/the-rise-of-snowflake-in-the-philippines-why-its-the-hottest-thing-in-big-data-right-now-9b9d09c11e89) - Kyle Escosia's insights on Snowflake's rise in the Philippines.
-- [UPSERTS and DELETS using AWS Glue and Delta Lake](https://dev.to/awscommunity-asean/sql-based-inserts-deletes-and-upserts-in-s3-using-aws-glue-3-0-and-delta-lake-42f0) - A guide on using AWS Glue with Delta Lake for data operations.
-- [Table Indexes](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/table_index) - An educational piece on the importance and implementation of table indexes.
-
-## Projects
-
-- [Basic ETL project](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/pipeline_basic)
-- [ETL Sales](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-SALES)
-- [ETL Project with Azure Databricks](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-Databricks-code) - A walkthrough of an ETL project using Azure Databricks.
-- [Containerization](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/containerization) - An exploration of containerization in data engineering.
-
-## People and Pages
-
-- [Doc Ligot](https://docligot.com/)
-- [Sherwin Pelayo](https://www.linkedin.com/in/sherwinpelayo/)
-- [Kyle Escosia](https://linktr.ee/klescosia)
-- [Sandy C. Lauguico](https://www.facebook.com/sandy.c.lauguico)
-- [Josh Dev](https://www.facebook.com/profile.php?id=100087019650476)
-- [Kuya Dev](https://www.facebook.com/KuyaDevDotCom)
-- [Dev Stuff with JP](https://www.facebook.com/devstuffwithjp)
-- [Alex Gamboa](https://www.facebook.com/alexgamboa34/)

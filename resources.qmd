@@ -127,6 +127,11 @@ Building a professional portfolio is crucial for showcasing your skills and proj
 - [Open intro to Statistics](https://www.openintro.org/stat/?stat_book=os) - Provides a solid introduction to statistics.
 - [Regression Analysis](https://sta210-s22.github.io/website/course-overview.html) - Learn approaches for analyzing multivariate data sets, emphasizing analysis of variance, linear regression, and logistic regression.
 - [Introduction to Data Wrangling at the School of Data](http://schoolofdata.org/) - Focuses on data cleaning and preparation techniques.
+- [Elements of Statistical Learning by Hastie, Tibshirani, and Friedman](https://hastie.su.domains/ElemStatLearn/)
+- [Pattern Recognition and Machine Learning by Bishop](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+- [Mathematics for Machine Learning by Deisenroth, Faisal, Soon Ong](https://mml-book.github.io/)
+- [Machine Learning: a Probabilistic Perspective by Murphy](https://probml.github.io/pml-book/book0.html)
+- [Probabilistic Machine Learning: An Introduction by Murphy](https://probml.github.io/pml-book/book1.html)
 
 ## Programming for Data Science
 - [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science/) - Course by Cognitive Class on using Python for data science tasks.
@@ -141,11 +146,13 @@ Building a professional portfolio is crucial for showcasing your skills and proj
 - [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial) - Interactive SQL tutorials for hands-on learning.
 
 ## Additional Learning Resources
+- [Learn Git Branching](https://learngitbranching.js.org/) - Learn about Git
 - [GitHub](https://github.com) - Platform for code sharing and collaboration.
 - [PLURALSIGHT](https://www.pluralsight.com/) - Offers video courses on a wide range of tech topics, including data science.
 - [hackerRank](https://www.hackerrank.com/) - Platform for practicing coding and data science skills.
 - [World Quant](https://www.worldquant.com/) - Provides resources for quantitative analysis.
 - [Real World Data Science Use Cases](https://realworlddatascience.net/) - A showcase for data science in action
+- [SeattleDataGuy’s Newsletter](https://seattledataguy.substack.com/) - Learn About End-To-End Data Flows (Data Engineering, MLOps, and Data Science) 
 
 ## Training and Internships
 - [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/): A remote one-month internship in Data Science and Business Analytics.
@@ -169,10 +176,10 @@ providing free data science and technology training for women
 
 ## Cloud Resources
 
-* AWS Training and Certification: [https://aws.amazon.com/training/](https://aws.amazon.com/training/)
-* Google Cloud Training: [https://cloud.google.com/training](https://cloud.google.com/training)
-* Microsoft Learn: [https://docs.microsoft.com/en-us/learn/](https://docs.microsoft.com/en-us/learn/)
-* Cloud Free Tier Comparison [Cloud Free Tier Comparison](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/Cloud-Free-Tier-Comparison): Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.
+- [AWS Training and Certification](https://aws.amazon.com/training/): Training and certification resources for Amazon Web Services.
+- [Google Cloud Training](https://cloud.google.com/training): Training resources for Google Cloud Platform.
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/): Learning resources for Microsoft technologies, including Azure.
+- [Cloud Free Tier Comparison](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/Cloud-Free-Tier-Comparison): Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.
 
 ## Open Courseware
 - [Data Analysis with R](https://andrewproctor.github.io/rcourse/)
@@ -180,6 +187,7 @@ providing free data science and technology training for women
 - [Data Science in a Box w/ R](https://datasciencebox.org/)
 - [The Open Source Data Science Masters](https://datasciencemasters.org/)
 - [Fast.ai Courses](https://course.fast.ai/)
+- [Dive into Deep Learning](https://d2l.ai/index.html)
 - [GIS Programming Roadmap on GitHub](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md)
 
 ## Open Books

@@ -24,16 +24,18 @@ website:
     logo: images/favicon-32x32.png
     href: https://dataengineering.ph/
     right:
-    - text: "Home"
-      href: index.qmd
+#    - text: "Home"
+#      href: index.qmd
     - text: "About"
       href: about.qmd
     - text: "Study Roadmap"
       href: study-roadmap.qmd
     - text: "Community"
-      href: community.qmd    
+      href: community.qmd   
+    - text: "Partnerships"
+      href: partners.qmd 
     - text: "Knowledgebase"
-      href: technical-knowledgebase.qmd
+      href: https://github.com/igorbarinov/awesome-data-engineering
     - text: "Resources"
       href: resources.qmd
     - text: "Datasets"

@@ -46,24 +46,23 @@ Explore various Philippine data sources for diverse data projects:
 - [Google Research Datasets](https://datasetsearch.research.google.com/): Find datasets for research projects.
 - [BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data): Access a variety of public datasets through Google BigQuery.
 
-
 ### Specific Data Areas
 
-* **World Health Organization (WHO) Collections:** Global health data: [https://www.who.int/data/collections](https://www.who.int/data/collections)
-* **Healthcare Images:** Public datasets of healthcare images: [https://cloud.google.com/healthcare-api/docs/resources/public-datasets/idc](https://cloud.google.com/healthcare-api/docs/resources/public-datasets/idc)
-* **Genome Datasets:** Data from the International Genome project: [https://www.internationalgenome.org/data](https://www.internationalgenome.org/data)
-* **NOAA Data Products:** Datasets from the National Oceanic and Atmospheric Administration: [https://www.ncei.noaa.gov/products](https://www.ncei.noaa.gov/products)
-* **Climate Data:** Comprehensive climate datasets: [https://www.climate.gov/maps-data/all](https://www.climate.gov/maps-data/all)
+- [World Health Organization (WHO) Collections](https://www.who.int/data/collections): Global health data.
+- [Healthcare Images](https://cloud.google.com/healthcare-api/docs/resources/public-datasets/idc): Public datasets of healthcare images.
+- [Genome Datasets](https://www.internationalgenome.org/data): Data from the International Genome project.
+- [NOAA Data Products](https://www.ncei.noaa.gov/products): Datasets from the National Oceanic and Atmospheric Administration.
+- [Climate Data](https://www.climate.gov/maps-data/all): Comprehensive climate datasets.
 
 ### Additional Resources
 
-* **Unicef Data Collections:** Data on global child welfare: [https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/](https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/)
-* **US Population Data:** Population statistics from the US Bureau of Labor Statistics: [https://www.bls.gov/cps/tables.htm](https://www.bls.gov/cps/tables.htm)
-* **Stanford Open Policing Project:** Data on police traffic stops: [https://openpolicing.stanford.edu/](https://openpolicing.stanford.edu/)
-* **Scikit-Learn Datasets:** Datasets available in the Scikit-Learn library: [https://scikit-learn.org/stable/datasets/toy_dataset.html](https://scikit-learn.org/stable/datasets/toy_dataset.html)
-* **PyTorch Datasets:** Datasets available in PyTorch: [https://pytorch.org/vision/stable/datasets.html](https://pytorch.org/vision/stable/datasets.html)
-* **Huggingface Datasets:** A hub for various ML datasets: [https://huggingface.co/datasets](https://huggingface.co/datasets)
-* **Wikipedia ML Research Datasets:** A list of datasets for machine learning research: [https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
+- [Unicef Data Collections](https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/): Data on global child welfare.
+- [US Population Data](https://www.bls.gov/cps/tables.htm): Population statistics from the US Bureau of Labor Statistics.
+- [Stanford Open Policing Project](https://openpolicing.stanford.edu/): Data on police traffic stops.
+- [Scikit-Learn Datasets](https://scikit-learn.org/stable/datasets/toy_dataset.html): Datasets available in the Scikit-Learn library.
+- [PyTorch Datasets](https://pytorch.org/vision/stable/datasets.html): Datasets available in PyTorch.
+- [Huggingface Datasets](https://huggingface.co/datasets): A hub for various ML datasets.
+- [Wikipedia ML Research Datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research): A list of datasets for machine learning research.
 
 ### Specific Data Areas
 
@@ -83,3 +82,7 @@ Explore various Philippine data sources for diverse data projects:
 - [Huggingface Datasets](https://huggingface.co/datasets): A platform offering various ML datasets.
 - [Wikipedia ML Research Datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research): A comprehensive list of datasets for machine learning research.
 - [OECD](https://data.oecd.org/)
+- [Datahub](https://awesomedataengineering.com/): A free and open CKAN instance for hosting and sharing datasets.
+- [Kaggle](https://www.kaggle.com/): A platform for data science competitions, and hosting, publishing, and analyzing data.
+- [data.world](https://data.world/): Described as a "social network for data people," allows users to host and share data.
+- [Academic Torrents](http://academictorrents.com/): A BitTorrent-based platform for the academic community to download and share large datasets for free.
