@@ -102,14 +102,14 @@
     "href": "resources.html",
     "title": "Free Resources",
     "section": "",
-    "text": "IBM Data Engineering Basics for Everyone on edX\nGoogle Cloud Data Engineering Path\nMeta Database Engineer Professional Certificate on Coursera\nBig Data Specialization by UC San Diego on Coursera\nData Engineering Zoomcamp on GitHub"
+    "text": "IBM Data Engineering Basics for Everyone on edX - An introductory course to data engineering principles offered by IBM on edX.\nGoogle Cloud Data Engineering Path - A learning path designed to master data engineering on the Google Cloud Platform.\nMeta Database Engineer Professional Certificate on Coursera - A professional certification program by Meta on Coursera, focusing on database engineering.\nBig Data Specialization by UC San Diego on Coursera - A series of courses by UC San Diego on Coursera, covering big data analysis techniques and tools.\nData Engineering Zoomcamp on GitHub - A free, self-paced data engineering bootcamp hosted on GitHub, covering a range of tools and practices."
   },
   {
     "objectID": "resources.html#data-engineering-training",
     "href": "resources.html#data-engineering-training",
     "title": "Free Resources",
     "section": "",
-    "text": "IBM Data Engineering Basics for Everyone on edX\nGoogle Cloud Data Engineering Path\nMeta Database Engineer Professional Certificate on Coursera\nBig Data Specialization by UC San Diego on Coursera\nData Engineering Zoomcamp on GitHub"
+    "text": "IBM Data Engineering Basics for Everyone on edX - An introductory course to data engineering principles offered by IBM on edX.\nGoogle Cloud Data Engineering Path - A learning path designed to master data engineering on the Google Cloud Platform.\nMeta Database Engineer Professional Certificate on Coursera - A professional certification program by Meta on Coursera, focusing on database engineering.\nBig Data Specialization by UC San Diego on Coursera - A series of courses by UC San Diego on Coursera, covering big data analysis techniques and tools.\nData Engineering Zoomcamp on GitHub - A free, self-paced data engineering bootcamp hosted on GitHub, covering a range of tools and practices."
   },
   {
     "objectID": "resources.html#sql-tutorials-and-courses",
@@ -123,7 +123,7 @@
     "href": "resources.html#interactive-sql-learning-games",
     "title": "Free Resources",
     "section": "Interactive SQL Learning Games",
-    "text": "Interactive SQL Learning Games\n\nSQL Murder Mystery - Solve a captivating murder case using your SQL skills in this immersive game-like environment. Suitable for beginners.\nSQL Island - Navigate through an adventure on SQL Island to learn SQL commands. Remember to change the language to English via the hamburger icon.\nSchemaVerse - A space-based strategy game where you use SQL commands to control your fleet and conquer the universe.\nLost at SQL: The SQL Learning Game - Enhance your SQL skills through this engaging learning game."
+    "text": "Interactive SQL Learning Games\n\nSQL Murder Mystery - Solve a captivating murder case using your SQL skills in this immersive game-like environment. Suitable for beginners.\nSQL Island - Navigate through an adventure on SQL Island to learn SQL commands. Remember to change the language to English via the hamburger icon.\nSchemaVerse - A space-based strategy game where you use SQL commands to control your fleet and conquer the universe.\nLost at SQL - The SQL Learning Game - Enhance your SQL skills through this engaging learning game."
   },
   {
     "objectID": "resources.html#sql-practice-and-challenges",
@@ -158,21 +158,21 @@
     "href": "resources.html#statistics-lessons-on-youtube",
     "title": "Free Resources",
     "section": "Statistics Lessons on YouTube",
-    "text": "Statistics Lessons on YouTube\n\nCrashCourse Statistics: Quick statistics overview.\nStatQuest - Statistics Fundamentals: Fundamental statistics concepts."
+    "text": "Statistics Lessons on YouTube\n\nCrashCourse Statistics - Quick statistics overview.\nStatQuest - Statistics Fundamentals - Fundamental statistics concepts."
   },
   {
     "objectID": "resources.html#data-science-tutorials",
     "href": "resources.html#data-science-tutorials",
     "title": "Free Resources",
     "section": "Data Science Tutorials",
-    "text": "Data Science Tutorials\n\nData Science for Beginners by Microsoft: Beginner-friendly data science materials on GitHub.\nHarvard CS50’s Introduction to Programming with Python: Full university course available on YouTube."
+    "text": "Data Science Tutorials\n\nData Science for Beginners by Microsoft - Beginner-friendly data science materials on GitHub.\nHarvard CS50’s Introduction to Programming with Python - Full university course available on YouTube."
   },
   {
     "objectID": "resources.html#web-scraping-with-python",
     "href": "resources.html#web-scraping-with-python",
     "title": "Free Resources",
     "section": "Web Scraping with Python",
-    "text": "Web Scraping with Python\nWeb scraping is a method used to extract data from websites. Python offers several libraries and tools for web scraping. Here are some essential resources to get started or enhance your web scraping skills:\n\nBeautiful Soup Documentation - Official documentation for Beautiful Soup, a Python library designed for quick turnaround projects like screen-scraping.\nPython Requests Library - Official documentation for Requests, a simple HTTP library for Python, used to send HTTP requests easily.\nScrape Quotes - A practice website designed for scraping quotes from famous authors.\nScrape This Site - A website that offers lessons and challenges for web scraping practices.\nfreeCodeCamp Web Scraping Python Tutorial - A comprehensive guide on how to scrape data from a website using Python.\nGeeksforGeeks Python Web Scraping Tutorial - Offers a tutorial on web scraping using Python, covering basics to advanced topics.\nBeautiful Soup Web Scraper Python - Real Python - A tutorial that explains how to use Beautiful Soup for web scraping effectively.\nPython Web Scraping: A Practical Introduction - Real Python - Provides a practical introduction to web scraping using Python, including setting up your environment and parsing HTML."
+    "text": "Web Scraping with Python\nWeb scraping is a method used to extract data from websites. Python offers several libraries and tools for web scraping. Here are some essential resources to get started or enhance your web scraping skills:\n\nBeautiful Soup Documentation - Official documentation for Beautiful Soup, a Python library designed for quick turnaround projects like screen-scraping.\nPython Requests Library - Official documentation for Requests, a simple HTTP library for Python, used to send HTTP requests easily.\nScrape Quotes - A practice website designed for scraping quotes from famous authors.\nScrape This Site - A website that offers lessons and challenges for web scraping practices.\nfreeCodeCamp Web Scraping Python Tutorial - A comprehensive guide on how to scrape data from a website using Python.\nGeeksforGeeks Python Web Scraping Tutorial - Offers a tutorial on web scraping using Python, covering basics to advanced topics.\nBeautiful Soup Web Scraper Python - Real Python - A tutorial that explains how to use Beautiful Soup for web scraping effectively.\nPython Web Scraping - A Practical Introduction - Real Python - Provides a practical introduction to web scraping using Python, including setting up your environment and parsing HTML."
   },
   {
     "objectID": "resources.html#portfolio-building-resources",
@@ -200,21 +200,21 @@
     "href": "resources.html#specialized-topics-in-data-science",
     "title": "Free Resources",
     "section": "Specialized Topics in Data Science",
-    "text": "Specialized Topics in Data Science\n\nLearning from Data – California Institute of Technology & UCBerkeley - Focus on machine learning and data analysis.\nProcess Mining: Data Science in Action @TUEindhoven - Specialized course on process mining techniques.\nPattern Discovery in Data Mining @UoIllinois - Course on discovering patterns in datasets.\nIntroduction to Data Mining @MIT - Lecture notes and materials on data mining concepts.\nMining Massive Datasets @Stanford - Advanced course on dealing with massive datasets."
+    "text": "Specialized Topics in Data Science\n\nLearning from Data – California Institute of Technology & UCBerkeley - Focus on machine learning and data analysis.\nProcess Mining - Data Science in Action @TUEindhoven - Specialized course on process mining techniques.\nPattern Discovery in Data Mining @UoIllinois - Course on discovering patterns in datasets.\nIntroduction to Data Mining @MIT - Lecture notes and materials on data mining concepts.\nMining Massive Datasets @Stanford - Advanced course on dealing with massive datasets."
   },
   {
     "objectID": "resources.html#statistical-analysis-and-data-wrangling",
     "href": "resources.html#statistical-analysis-and-data-wrangling",
     "title": "Free Resources",
     "section": "Statistical Analysis and Data Wrangling",
-    "text": "Statistical Analysis and Data Wrangling\n\nStatistical Thinking and Data Analysis @MIT & DukeUni - Courses focused on statistical thinking and data analysis techniques.\nOpen intro to Statistics - Provides a solid introduction to statistics.\nRegression Analysis - Learn approaches for analyzing multivariate data sets, emphasizing analysis of variance, linear regression, and logistic regression.\nIntroduction to Data Wrangling at the School of Data - Focuses on data cleaning and preparation techniques.\nElements of Statistical Learning by Hastie, Tibshirani, and Friedman\nPattern Recognition and Machine Learning by Bishop\nMathematics for Machine Learning by Deisenroth, Faisal, Soon Ong\nMachine Learning: a Probabilistic Perspective by Murphy\nProbabilistic Machine Learning: An Introduction by Murphy"
+    "text": "Statistical Analysis and Data Wrangling\n\nStatistical Thinking and Data Analysis @MIT & DukeUni - Courses focused on statistical thinking and data analysis techniques.\nOpen intro to Statistics - Provides a solid introduction to statistics.\nRegression Analysis - Learn approaches for analyzing multivariate data sets, emphasizing analysis of variance, linear regression, and logistic regression.\nIntroduction to Data Wrangling at the School of Data - Focuses on data cleaning and preparation techniques.\nElements of Statistical Learning by Hastie, Tibshirani, and Friedman\nPattern Recognition and Machine Learning by Bishop\nMathematics for Machine Learning by Deisenroth, Faisal, Soon Ong\nMachine Learning - a Probabilistic Perspective by Murphy\nProbabilistic Machine Learning - An Introduction by Murphy"
   },
   {
     "objectID": "resources.html#programming-for-data-science",
     "href": "resources.html#programming-for-data-science",
     "title": "Free Resources",
     "section": "Programming for Data Science",
-    "text": "Programming for Data Science\n\nPython for Data Science - Course by Cognitive Class on using Python for data science tasks.\nData Science: R Basics - Harvard University - Introduction to using R for data science."
+    "text": "Programming for Data Science\n\nPython for Data Science - Course by Cognitive Class on using Python for data science tasks.\nData Science - R Basics - Harvard University - Introduction to using R for data science."
   },
   {
     "objectID": "resources.html#online-learning-platforms-and-resources",
@@ -235,35 +235,35 @@
     "href": "resources.html#training-and-internships",
     "title": "Free Resources",
     "section": "Training and Internships",
-    "text": "Training and Internships\n\nThe Sparks Foundation: A remote one-month internship in Data Science and Business Analytics.\nFor The Women Foundation: FTW is a nonprofit organization providing free data science and technology training for women"
+    "text": "Training and Internships\n\nThe Sparks Foundation - A remote one-month internship in Data Science and Business Analytics.\nFor The Women Foundation - FTW is a nonprofit organization providing free data science and technology training for women"
   },
   {
     "objectID": "resources.html#online-learning-platforms",
     "href": "resources.html#online-learning-platforms",
     "title": "Free Resources",
     "section": "Online Learning Platforms",
-    "text": "Online Learning Platforms\n\nDataquest\nDatacamp\nCodecademy\nSoloLearn\nW3Schools\nKhan Academy\nCoursera\nedX\nfreeCodeCamp\nUdacity\nThe Odin Project\nMozilla Developer Network (MDN)\nKaggle"
+    "text": "Online Learning Platforms\n\nDataquest - An interactive learning platform focusing on data science and analytics skills.\nDatacamp - Offers hands-on courses on data science, Python, R, and SQL among others.\nCodecademy - Provides interactive programming courses across many different technology areas.\nSoloLearn - A mobile-first platform offering courses on a wide array of programming languages.\nW3Schools - A comprehensive resource for learning web development technologies and languages.\nKhan Academy - Free online courses in various subjects, including computer programming.\nCoursera - Online courses, specializations, and degrees from universities and educational institutions.\nedX - Access to online university-level courses in a wide range of disciplines.\nfreeCodeCamp - An open-source community providing free coding bootcamp and certifications.\nUdacity - Specializes in technology courses that offer Nanodegrees and certifications.\nThe Odin Project - A free coding curriculum that provides a complete path to web development.\nMozilla Developer Network (MDN) - Documentation and learning resources for web developers by Mozilla.\nKaggle - A platform for predictive modelling and analytics competitions and datasets."
   },
   {
     "objectID": "resources.html#cloud-resources",
     "href": "resources.html#cloud-resources",
     "title": "Free Resources",
     "section": "Cloud Resources",
-    "text": "Cloud Resources\n\nAWS Training and Certification: Training and certification resources for Amazon Web Services.\nGoogle Cloud Training: Training resources for Google Cloud Platform.\nMicrosoft Learn: Learning resources for Microsoft technologies, including Azure.\nCloud Free Tier Comparison: Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud."
+    "text": "Cloud Resources\n\nAWS Training and Certification - Training and certification resources for Amazon Web Services.\nGoogle Cloud Training - Training resources for Google Cloud Platform.\nMicrosoft Learn - Learning resources for Microsoft technologies, including Azure.\nCloud Free Tier Comparison - Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud."
   },
   {
     "objectID": "resources.html#open-courseware",
     "href": "resources.html#open-courseware",
     "title": "Free Resources",
     "section": "Open Courseware",
-    "text": "Open Courseware\n\nData Analysis with R\nData Engineering Zoomcamp\nData Science in a Box w/ R\nThe Open Source Data Science Masters\nFast.ai Courses\nDive into Deep Learning\nGIS Programming Roadmap on GitHub"
+    "text": "Open Courseware\n\nData Analysis with R - Comprehensive R course for data analysis.\nData Engineering Zoomcamp - Free, self-paced online course on data engineering.\nData Science in a Box w/ R - Curriculum for teaching and learning data science using R.\nThe Open Source Data Science Masters - Curriculum for a self-taught education in data science.\nFast.ai Courses - Practical deep learning for coders, taught by fast.ai.\nDive into Deep Learning - An interactive deep learning book with code, math, and discussions.\nGIS Programming Roadmap on GitHub - A roadmap for learning GIS programming."
   },
   {
     "objectID": "resources.html#open-books",
     "href": "resources.html#open-books",
     "title": "Free Resources",
     "section": "Open Books",
-    "text": "Open Books\n\nData Science and R Programming\n\nR for Data Science - Learn data science with R.\nData Science: R Basics - Foundation of data science in R.\nR Graphics Cookbook - Data visualization with ggplot2 in R.\nGeocomputation with R - Spatial data analysis with R.\nExploratory Data Analysis with R - Techniques for EDA using R.\nThe Art of Data Science - The process of data analysis.\nR for Data Science (Second Edition) - Updated guide for data science with R.\nR Packages - Creating R packages.\n\n\n\nPython Programming\n\nPython for Everybody - Introduction to programming using Python.\nModern Polars - Using Polars library in Python for data manipulation.\n\n\n\nVisualization and Web Scraping\n\nData Visualization: A Practical Introduction - Introduction to data visualization.\nWeb Scraping with R - Techniques for web scraping using R.\nInteractive Data Visualization - Learning interactive data visualization.\n\n\n\nAdvanced Topics and Specialized Areas\n\nTelling Stories with Data - Narrative techniques in data communication.\nSpatial Data Science - Spatial data analysis.\nHands-On Programming with R - Practical programming with R.\nPython Geospatial Analysis - Geospatial analysis with Python.\nTime Series Analysis with R - Time series analysis techniques.\nCookbook for R Polars - Using Polars package in R for data frames.\nNFL Analytics with R - Analyzing NFL data with R.\nData Management in R - Strategies for data management with R.\nmlr3book - Machine learning in R with mlr3.\nPython for Geocomputation - Geocomputational analysis with Python.\nRaps with R - Music and analysis with R.\n\n\n\nMiscellaneous\n\nOpen Books by Open UMN - Free educational textbooks, including data science and statistics.\nPandas for Everyone - Comprehensive guide to using Pandas for data analysis.\nSaylor Academy - Free and open online courses for people everywhere.\nGoalkicker - Programming Notes for Professionals - Free programming books on various topics.\nPython Programming Tutorials - Comprehensive resource for learning Python.\nScratch - Imagine, Program, Share - Create stories, games, and animations.\nWaggle Dance - An interactive Python tutorial.\nInvent with Python - Books for learning Python with a focus on making things.\nOpen Source Society University - Computer Science - Path to a free self-taught education in Computer Science.\nLearn Python the Hard Way - Free eBook Download - A book for learning Python programming.\nData Analysis with Python - Spring 2020 - University of Helsinki’s course on Python for data analysis.\nExercism - Code practice and mentorship for everyone.\nGit and GitHub Tutorial for Beginners - Introduction to Git and GitHub.\nRStudio - Books - Resources for learning R programming."
+    "text": "Open Books\n\nData Science and R Programming\n\nR for Data Science - Learn data science with R.\nData Science - R Basics - Foundation of data science in R.\nR Graphics Cookbook - Data visualization with ggplot2 in R.\nGeocomputation with R - Spatial data analysis with R.\nExploratory Data Analysis with R - Techniques for EDA using R.\nThe Art of Data Science - The process of data analysis.\nR for Data Science (Second Edition) - Updated guide for data science with R.\nR Packages - Creating R packages.\n\n\n\nPython Programming\n\nPython for Everybody - Introduction to programming using Python.\nModern Polars - Using Polars library in Python for data manipulation.\n\n\n\nVisualization and Web Scraping\n\nData Visualization - A Practical Introduction - Introduction to data visualization.\nWeb Scraping with R - Techniques for web scraping using R.\nInteractive Data Visualization - Learning interactive data visualization.\n\n\n\nAdvanced Topics and Specialized Areas\n\nTelling Stories with Data - Narrative techniques in data communication.\nSpatial Data Science - Spatial data analysis.\nHands-On Programming with R - Practical programming with R.\nPython Geospatial Analysis - Geospatial analysis with Python.\nTime Series Analysis with R - Time series analysis techniques.\nCookbook for R Polars - Using Polars package in R for data frames.\nNFL Analytics with R - Analyzing NFL data with R.\nData Management in R - Strategies for data management with R.\nmlr3book - Machine learning in R with mlr3.\nPython for Geocomputation - Geocomputational analysis with Python.\nRaps with R - Music and analysis with R.\n\n\n\nMiscellaneous\n\nOpen Books by Open UMN - Free educational textbooks, including data science and statistics.\nPandas for Everyone - Comprehensive guide to using Pandas for data analysis.\nSaylor Academy - Free and open online courses for people everywhere.\nGoalkicker - Programming Notes for Professionals - Free programming books on various topics.\nPython Programming Tutorials - Comprehensive resource for learning Python.\nScratch - Imagine, Program, Share - Create stories, games, and animations.\nWaggle Dance - An interactive Python tutorial.\nInvent with Python - Books for learning Python with a focus on making things.\nOpen Source Society University - Computer Science - Path to a free self-taught education in Computer Science.\nLearn Python the Hard Way - Free eBook Download - A book for learning Python programming.\nData Analysis with Python - Spring 2020 - University of Helsinki’s course on Python for data analysis.\nExercism - Code practice and mentorship for everyone.\nGit and GitHub Tutorial for Beginners - Introduction to Git and GitHub.\nRStudio - Books - Resources for learning R programming."
   },
   {
     "objectID": "resources.html#formal-education",
