@@ -23,3 +23,8 @@ description: |
 - [AI & Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist) - A comprehensive path for aspiring AI and Data Scientists.
 
 ### <a href="content/data-engineering-101.qmd">Read more about Data Engineering 101</a>
+
+## What does a career in data look like? 
+Below is an on-going project to propose a professional skills framework for data, analytics, and AI careers in the Philippines.
+
+- [Proposed Professional Skills Framework ANALYTICS & ARTIFICIAL INTELLIGENCE](https://psf-aai.vercel.app/)
