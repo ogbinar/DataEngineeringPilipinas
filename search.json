@@ -116,7 +116,7 @@
     "href": "resources.html#data-engineering-books",
     "title": "Free Resources",
     "section": "Data Engineering Books",
-    "text": "Data Engineering Books\n\nThe Data Engineering Cookbook - A comprehensive guide for data engineering practices.\nDatabase Technology Overview - An overview of database technology fundamentals.\nErwin in Database Design - Insights into using Erwin for database design."
+    "text": "Data Engineering Books\n\nFundamentals of Data Engineering - A guide by Redpanda to the basics of data engineering, covering essential concepts and practices.\nDatabase Technology Overview - An overview of database technology fundamentals.\nErwin in Database Design - Insights into using Erwin for database design.\nModern Data Engineering Playbook - ThoughtWorks presents strategies for modern data engineering, focusing on scalable, efficient solutions.\nThe Data Engineering Cookbook - A comprehensive guide for data engineering practices.\nData Engineering Design Patterns (DEDP) - An exploration of convergent evolution in data engineering, emphasizing design patterns for data systems."
   },
   {
     "objectID": "resources.html#sql-tutorials-and-courses",
