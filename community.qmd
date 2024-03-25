@@ -31,7 +31,7 @@ As a community, we want to support our homegrown content creators and experts. P
 - [Table Indexes](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/table_index) - An educational piece on the importance and implementation of table indexes.
 
 ## Projects
-
+- [BUILDING YOUR FIRSTEND-TO-END DATA PORTFOLIO by Josh Dev](https://www.youtube.com/playlist?list=PLtomnyC4qhTwqcZ3DzBhewMNjM_4rHqnO) - Gagawa tayo ng end-to-end data project that involves data pipeline, dashboard, and machine learning pipeline to experience every main data role: data engineer, data analyst, and data scientist. 
 - [Basic ETL project](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/pipeline_basic)
 - [ETL Sales](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-SALES)
 - [ETL Project with Azure Databricks](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-Databricks-code) - A walkthrough of an ETL project using Azure Databricks.

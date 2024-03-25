@@ -11,6 +11,14 @@ description: |
 - [Big Data Specialization by UC San Diego on Coursera](https://www.coursera.org/specializations/big-data) - A series of courses by UC San Diego on Coursera, covering big data analysis techniques and tools.
 - [Data Engineering Zoomcamp on GitHub](https://github.com/DataTalksClub/data-engineering-zoomcamp) - A free, self-paced data engineering bootcamp hosted on GitHub, covering a range of tools and practices.
 
+## Data Engineering Books
+- [Fundamentals of Data Engineering](https://redpanda.com/guides/fundamentals-of-data-engineering) - A guide by Redpanda to the basics of data engineering, covering essential concepts and practices.
+- [Database Technology Overview](https://halvorsen.blog/documents/technology/database/database.php) - An overview of database technology fundamentals.
+- [Erwin in Database Design](https://halvorsen.blog/documents/technology/database/erwin.php) - Insights into using Erwin for database design.
+- [Modern Data Engineering Playbook](https://www.thoughtworks.com/en-cl/what-we-do/data-and-ai/modern-data-engineering-playbook) - ThoughtWorks presents strategies for modern data engineering, focusing on scalable, efficient solutions.
+- [The Data Engineering Cookbook](https://github.com/project303/The-Data-Engineering-Cookbook-) - A comprehensive guide for data engineering practices.
+- [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/about-this-book.html) - An exploration of convergent evolution in data engineering, emphasizing design patterns for data systems.
+
 ## SQL Tutorials and Courses
 - [W3 Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp) - A comprehensive tutorial for SQL beginners.
 - [SQLBolt](https://www.sqlbolt.com/) - Practice with real-world datasets and challenging SQL problems to deepen your skills.
@@ -90,6 +98,7 @@ Web scraping is a method used to extract data from websites. Python offers sever
 - [GeeksforGeeks Python Web Scraping Tutorial](https://www.geeksforgeeks.org/python-web-scraping-tutorial/) - Offers a tutorial on web scraping using Python, covering basics to advanced topics.
 - [Beautiful Soup Web Scraper Python - Real Python](https://realpython.com/beautiful-soup-web-scraper-python/) - A tutorial that explains how to use Beautiful Soup for web scraping effectively.
 - [Python Web Scraping - A Practical Introduction - Real Python](https://realpython.com/python-web-scraping-practical-introduction/) - Provides a practical introduction to web scraping using Python, including setting up your environment and parsing HTML.
+- [Fullstack Python](https://www.fullstackpython.com/) - Provides free tutorials and guides on how to do both front end and back end in Python.
 
 ## Portfolio Building Resources
 
@@ -200,10 +209,14 @@ providing free data science and technology training for women
 - [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/) - The process of data analysis.
 - [R for Data Science (Second Edition)](https://r4ds.hadley.nz/) - Updated guide for data science with R.
 - [R Packages](https://r-pkgs.org/) - Creating R packages.
+- [R datasciencebook](https://datasciencebook.ca/) - R datasciencebook.
+
 
 ### Python Programming
 - [Python for Everybody](https://books.trinket.io/pfe/index.html) - Introduction to programming using Python.
 - [Modern Polars](https://kevinheavey.github.io/modern-polars/) - Using Polars library in Python for data manipulation.
+- [Python datasciencebook](https://python.datasciencebook.ca/) - Python datasciencebook.
+
 
 ### Visualization and Web Scraping
 - [Data Visualization - A Practical Introduction](https://socviz.co/index.html?#preface) - Introduction to data visualization.

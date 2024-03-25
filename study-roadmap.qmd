@@ -1,19 +1,11 @@
 ---
 title: "Study Roadmap for Beginners"
 description: |
-    Embark on your journey in data engineering with our specially curated study roadmap for beginners. This guide provides a structured path for newcomers, covering foundational concepts, essential tools, and key technologies in the field. Ideal for those starting out, this roadmap is your first step towards mastering data engineering.
+    Embark on your journey in data engineering with our specially curated study roadmap for beginners. The following are different guides written by people to help learners out. They  provide a structured path for newcomers, covering foundational concepts, essential tools, and key technologies in the field. Ideal for those starting out, these roadmaps are your first step towards mastering data engineering and other data roles. Good luck!
 ---
 
-##### Data Engineering - by Sandy
+### Data Engineering - by Sandy
 - [DataEngineerRoadmap_Notion](https://shadow-blue-572.notion.site/b880b4ef0b1445aabec127442b97c79f?v=0a45fb3e2b5946d59708797eeea16671) - Data Engineering roadmap with a variety of course options from free to paid.
-
-##### By Nicksy via Data Camp
-
-### Data Engineering
-![Data Engineering](images/DataCamp%20-%20Data%20Engineer%20Track.png)
-
-### Data Analyst
-![Data Analyst](images/DataCamp%20-%20Data%20Analyst%20Track.png)
 
 ### Roadmap.sh
 - [SQL Roadmap](https://roadmap.sh/sql) - A guide for becoming proficient in SQL.
@@ -21,6 +13,90 @@ description: |
 - [Python Roadmap](https://roadmap.sh/python) - A detailed path for learning Python programming.
 - [Backend Development Roadmap](https://roadmap.sh/backend) - A guide for becoming a Backend Developer.
 - [AI & Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist) - A comprehensive path for aspiring AI and Data Scientists.
+
+### I.AM.AI Roadmaps
+- [Fundamentals Roadmap](https://i.am.ai/roadmap/#fundamentals) - A guide for understanding the fundamentals necessary in AI and machine learning.
+- [Data Science Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - A comprehensive guide to becoming a Data Scientist.
+- [Machine Learning Roadmap](https://i.am.ai/roadmap/#machine-learning-roadmap) - A detailed pathway for learning Machine Learning.
+- [Deep Learning Roadmap](https://i.am.ai/roadmap/#deep-learning-roadmap) - A structured guide for mastering Deep Learning.
+- [Data Engineer Roadmap](https://i.am.ai/roadmap/#data-engineer-roadmap) - A roadmap for becoming a Data Engineer.
+- [Big Data Engineer Roadmap](https://i.am.ai/roadmap/#big-data-engineer-roadmap) - A guide for those looking to specialize in Big Data Engineering.
+
+### Surfalytics Roadmap
+- [Ultimate Data Analytics Career Roadmap](https://blog.surfalytics.com/p/ultimate-data-analytics-career-roadmap) - From Data Analyst to Data Engineer as Individual Contributed (IC)
+
+### Data Camp Roadmaps By Nicksy 
+These are specific courses from Data Camp curated by Nicksy.
+
+#### Data Engineering
+![Data Engineering](images/DataCamp%20-%20Data%20Engineer%20Track.png)
+
+- **Foundational Data Engineering Skills**
+  - Understanding Data Engineering (Beginner)
+  - Introduction to Data Visualization (Beginner)
+  - Understanding Cloud Computing (Beginner)
+  - Introduction to Git (Beginner)
+  - Introduction to Shell (Beginner)
+  - Project: Designing a Bank Marketing Database (Project)
+
+- **SQL Data Management**
+  - Introduction to SQL (Beginner)
+  - Intermediate SQL (Intermediate)
+  - Joining Data in SQL (Intermediate)
+  - Introduction to Relational Databases in SQL (Intermediate)
+  - Database Design (Advanced)
+  - Streamlined Data Ingestion with pandas (Intermediate)
+
+- **Python Programming and Data Handling**
+  - Introduction to Python (Beginner)
+  - Intermediate Python (Intermediate)
+  - Introduction to Importing Data in Python (Intermediate)
+  - Data Manipulation with pandas (Intermediate)
+  - Joining Data with pandas (Intermediate)
+  - Python Data Science Toolbox (Part 1) (Intermediate)
+  - Python Data Science Toolbox (Part 2) (Intermediate)
+  - Software Engineering Principles in Python (Intermediate)
+  - Cleaning Data in Python (Intermediate)
+  - Data Types for Data Science in Python (Intermediate)
+  - Writing Efficient Python Code (Advanced)
+
+#### Data Analyst
+![Data Analyst](images/DataCamp%20-%20Data%20Analyst%20Track.png)
+
+- **Data Analyst in SQL Path**
+  - Introduction to SQL (Beginner)
+  - Intermediate SQL (Intermediate)
+  - Joining Data in SQL (Intermediate)
+  - Data Manipulation in SQL (Intermediate)
+  - PostgreSQL Summary Stats and Window Functions (Advanced)
+  - Functions for Manipulating Data in PostgreSQL (Advanced)
+  - Data-Driven Decision Making in SQL (Advanced)
+  - Exploratory Data Analysis in SQL (Advanced)
+  - Project: When Was the Golden Age of Video Games? (Project)
+
+- **Data Analyst in Python Path**
+  - Introduction to Python (Beginner)
+  - Intermediate Python (Intermediate)
+  - Data Manipulation with pandas (Intermediate)
+  - Introduction to Data Science in Python (Intermediate)
+  - Introduction to Data Visualization with Seaborn (Intermediate)
+  - Introduction to Statistics in Python (Intermediate)
+  - Joining Data with pandas (Intermediate)
+  - Sampling in Python (Advanced)
+  - Hypothesis Testing in Python (Advanced)
+  - Exploratory Data Analysis in Python (Advanced)
+
+- **Data Analyst in R Path**
+  - Introduction to R (Beginner)
+  - Intermediate R (Intermediate)
+  - Introduction to the Tidyverse (Intermediate)
+  - Data Manipulation with dplyr (Intermediate)
+  - Introduction to Data Visualization with ggplot2 (Intermediate)
+  - Introduction to Statistics in R (Intermediate)
+  - Joining Data with dplyr (Intermediate)
+  - Sampling in R (Advanced)
+  - Hypothesis Testing in R (Advanced)
+  - Exploratory Data Analysis in R (Advanced)
 
 ### <a href="content/data-engineering-101.qmd">Read more about Data Engineering 101</a>
 

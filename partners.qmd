@@ -13,8 +13,9 @@ description: |
 - [Practical AI Philippines Meetup](https://www.meetup.com/practical-ai-philippines/) - A Meetup group for practical AI discussions.
 - [Eudoxyz](https://discord.gg/XX7stU5u) - Eudoxyz is an online community dedicated to cater professionals and aspirants in their respective journey. 
 - [Tech Career Shifter](https://www.facebook.com/groups/techcareershifter) - A community for those looking to shift their careers into tech.
-- [FWD Peers](https://www.facebook.com/groups/fwdpeers) - A group for forward-thinking individuals in various fields.
+- [Filipino Web Development Peers](https://www.facebook.com/groups/fwdpeers) - A group for forward-thinking individuals in various fields.
 - [Student Developers Philippines](https://www.facebook.com/groups/studevph/) - A space for student developers in the Philippines to collaborate and share knowledge.
 - [DataSense Analytics Group](https://www.facebook.com/groups/dataanalyticsph) - World-class training and development programs developed by top teachers and industry practitioners. 
 - [The SYNTAX Org](https://www.facebook.com/syntax.stimalolos) - Community for explorers of the tech's multiverse. Always #TowardsExcellence
 - [Java User Group Philippines](https://linktr.ee/jugph) - Java User Group Philippines - A community for Java developers, students and enthusiasts in the Philippines to connect, share, and grow.
+- [Open Source Software PH](https://www.facebook.com/ossph.org) - Open Source Software Philippines or OSSPH is a developer-led initiative to grow the community of developers building open source software across the Philippines
