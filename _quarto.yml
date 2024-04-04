@@ -37,7 +37,11 @@ website:
     - text: "Knowledgebase"
       href: https://github.com/igorbarinov/awesome-data-engineering
     - text: "Resources"
-      href: resources.qmd
+      menu:
+        - text: "Free Resources"
+          href: resources.qmd
+        - text: "Getting Started"
+          href: content/getstarted.qmd
     - text: "Datasets"
       href: datasets.qmd
     - icon: github
