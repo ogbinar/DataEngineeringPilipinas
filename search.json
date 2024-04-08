@@ -445,7 +445,7 @@
     "href": "community.html#blogs-and-articles",
     "title": "Community Content",
     "section": "Blogs and Articles",
-    "text": "Blogs and Articles\n\nSnowflake in the Philippines - Kyle Escosia’s insights on Snowflake’s rise in the Philippines.\nUPSERTS and DELETS using AWS Glue and Delta Lake - A guide on using AWS Glue with Delta Lake for data operations.\nTable Indexes - An educational piece on the importance and implementation of table indexes."
+    "text": "Blogs and Articles\n\nSnowflake in the Philippines - Kyle Escosia’s insights on Snowflake’s rise in the Philippines.\nUPSERTS and DELETS using AWS Glue and Delta Lake - A guide on using AWS Glue with Delta Lake for data operations.\nTable Indexes - An educational piece on the importance and implementation of table indexes.\nData Manipulation with Pandas Library Data Manipulation with Pandas Library by Bryan Castillo"
   },
   {
     "objectID": "community.html#projects",
