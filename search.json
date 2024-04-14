@@ -452,28 +452,28 @@
     "href": "community.html",
     "title": "Community Content",
     "section": "",
-    "text": "As a community, we want to support our homegrown content creators and experts. Please check them out as they champion data advocacy:\n\nDoc Ligot\nSherwin Pelayo\nKyle Escosia\nSandy C. Lauguico\nJosh Dev\nKuya Dev\nDev Stuff with JP\nPower BI Pilipinas\nAlex Gamboa\nAemyn Obinguar\nFurtim Dev\nProf. Bob S.\nDanielle Meer\nAtcha Abe\nThe Agile Geek"
+    "text": "As a community, we want to support our homegrown content creators and experts. Please check them out as they champion data advocacy:\n\n\n\nDoc Ligot - Prompt responsible adoption of artificial intelligence\nSherwin Pelayo - Strategic national initiatives to nurture a robust analytics and AI ecosystem\nKyle Escosia - Passionately curious about data\nSandy C. Lauguico - Data Science, Engineering, and AI; Documenting journey to time-money-location freedom and intentional life\nAemyn Obinguar - Fractional Gen AI Engineer\n\n\n\n\n\nJosh Dev - Tech-related content\nKuya Dev - Tech Career Advice Podcast\nDev Stuff with JP - Software Development content in Filipino\nProf. Bob S. - Programming techniques via video\nDanielle Meer - Competitive programmer, Esports scholar, Machine Learning Engineer\nAtcha Abe - Learn, Grow, and Empower\nThe Agile Geek - Educational resources, Tech tools, and Beyond\nAlex Gamboa - Data Analyst, BI Developer, Pythonista, and ConTech Creator\nFurtim Dev - Full-stack Developer | Talks about Web Development, Technology, and everything in between\n\n\n\n\n\nPower BI Pilipinas - Official page of the Power BI Pilipinas Community\nWokeTech - Microsoft Applications and Web Development\nBotnie Data - Aspiring Data Engineer\nDAX Jutsu - Elevated Power BI skills"
   },
   {
     "objectID": "community.html#people-and-pages",
     "href": "community.html#people-and-pages",
     "title": "Community Content",
     "section": "",
-    "text": "As a community, we want to support our homegrown content creators and experts. Please check them out as they champion data advocacy:\n\nDoc Ligot\nSherwin Pelayo\nKyle Escosia\nSandy C. Lauguico\nJosh Dev\nKuya Dev\nDev Stuff with JP\nPower BI Pilipinas\nAlex Gamboa\nAemyn Obinguar\nFurtim Dev\nProf. Bob S.\nDanielle Meer\nAtcha Abe\nThe Agile Geek"
+    "text": "As a community, we want to support our homegrown content creators and experts. Please check them out as they champion data advocacy:\n\n\n\nDoc Ligot - Prompt responsible adoption of artificial intelligence\nSherwin Pelayo - Strategic national initiatives to nurture a robust analytics and AI ecosystem\nKyle Escosia - Passionately curious about data\nSandy C. Lauguico - Data Science, Engineering, and AI; Documenting journey to time-money-location freedom and intentional life\nAemyn Obinguar - Fractional Gen AI Engineer\n\n\n\n\n\nJosh Dev - Tech-related content\nKuya Dev - Tech Career Advice Podcast\nDev Stuff with JP - Software Development content in Filipino\nProf. Bob S. - Programming techniques via video\nDanielle Meer - Competitive programmer, Esports scholar, Machine Learning Engineer\nAtcha Abe - Learn, Grow, and Empower\nThe Agile Geek - Educational resources, Tech tools, and Beyond\nAlex Gamboa - Data Analyst, BI Developer, Pythonista, and ConTech Creator\nFurtim Dev - Full-stack Developer | Talks about Web Development, Technology, and everything in between\n\n\n\n\n\nPower BI Pilipinas - Official page of the Power BI Pilipinas Community\nWokeTech - Microsoft Applications and Web Development\nBotnie Data - Aspiring Data Engineer\nDAX Jutsu - Elevated Power BI skills"
   },
   {
-    "objectID": "community.html#blogs-and-articles",
-    "href": "community.html#blogs-and-articles",
+    "objectID": "community.html#articles",
+    "href": "community.html#articles",
     "title": "Community Content",
-    "section": "Blogs and Articles",
-    "text": "Blogs and Articles\n\nSnowflake in the Philippines - Kyle Escosia’s insights on Snowflake’s rise in the Philippines.\nUPSERTS and DELETS using AWS Glue and Delta Lake - A guide on using AWS Glue with Delta Lake for data operations.\nTable Indexes - An educational piece on the importance and implementation of table indexes.\nData Manipulation with Pandas Library Data Manipulation with Pandas Library by Bryan Castillo"
+    "section": "Articles",
+    "text": "Articles\nHere are some blogs and intructionals created by our community members. Let’s continue to grow this!\n\nBig Data and Cloud\n\nSnowflake in the Philippines - Insights on Snowflake’s rise in the Philippines\nUPSERTS and DELETS using AWS Glue and Delta Lake - Guide on using AWS Glue with Delta Lake for data operations\n\n\n\nData Engineering\n\nTable Indexes - Importance and implementation of table indexes\nData Manipulation with Pandas Library - Data manipulation with Pandas Library\nContainerization - Exploration of containerization in data engineering"
   },
   {
     "objectID": "community.html#projects",
     "href": "community.html#projects",
     "title": "Community Content",
     "section": "Projects",
-    "text": "Projects\n\nBUILDING YOUR FIRSTEND-TO-END DATA PORTFOLIO by Josh Dev - Gagawa tayo ng end-to-end data project that involves data pipeline, dashboard, and machine learning pipeline to experience every main data role: data engineer, data analyst, and data scientist.\nBasic ETL project\nETL Sales\nETL Project with Azure Databricks - A walkthrough of an ETL project using Azure Databricks.\nContainerization - An exploration of containerization in data engineering."
+    "text": "Projects\nPortfolio development is a critical part of career path in tech. Projects help not only validate but show case as well the learnings and capabilities of the talent. Here are a few contributions from the community.\n\nEnd-to-End Data Projects\n\nBUILDING YOUR FIRSTEND-TO-END DATA PORTFOLIO by Josh Dev - Data pipeline, dashboard, and machine learning pipeline\n\n\n\nData Challenges\n\nExcel Challenges playlist by WokeTech - Different Excel challenges\nData Challenges Megapost by Power BI Pilipinas - 11 Data Challenges from different websites\n\n\n\nETL Projects\n\nBasic ETL project - Basic ETL project\nETL Sales - ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database\nETL Project with Azure Databricks - ETL project using Azure Databricks"
   },
   {
     "objectID": "community.html#videos-and-presentations",
