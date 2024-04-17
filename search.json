@@ -161,20 +161,6 @@
     "text": "Learn R\nR is a programming language and environment commonly used for statistical computing and graphics. The following resources provide comprehensive guides, tutorials, and courses for beginners to advanced users interested in learning R:\n\nCodecademy - Learn R - An interactive platform offering a course designed to get you started with R programming.\nW3Schools R Tutorial - Provides a quick and easy understanding of R, covering basics to advanced topics.\nRStudio Education - Learn R - Beginner resources compiled by RStudio, aiming to make learning R easier and more effective.\nProgramiz - Learn R Programming - Offers R tutorials for beginners to learn R programming online.\nCodecademy - R Catalog - Discover more R courses offered by Codecademy to deepen your understanding and skills.\nSwirl - Learn R, in R - A platform that offers interactive R programming lessons directly within the R console.\nHands-On Programming with R - Teaches how to perform data analysis with R through practical examples, covering basics to more advanced topics."
   },
   {
-    "objectID": "resources.html#statistics-lessons-on-youtube",
-    "href": "resources.html#statistics-lessons-on-youtube",
-    "title": "Free Resources",
-    "section": "Statistics Lessons on YouTube",
-    "text": "Statistics Lessons on YouTube\n\nCrashCourse Statistics - Quick statistics overview.\nStatQuest - Statistics Fundamentals - Fundamental statistics concepts."
-  },
-  {
-    "objectID": "resources.html#data-science-tutorials",
-    "href": "resources.html#data-science-tutorials",
-    "title": "Free Resources",
-    "section": "Data Science Tutorials",
-    "text": "Data Science Tutorials\n\nData Science for Beginners by Microsoft - Beginner-friendly data science materials on GitHub.\nHarvard CS50’s Introduction to Programming with Python - Full university course available on YouTube."
-  },
-  {
     "objectID": "resources.html#web-scraping-with-python",
     "href": "resources.html#web-scraping-with-python",
     "title": "Free Resources",
@@ -186,7 +172,7 @@
     "href": "resources.html#portfolio-building-resources",
     "title": "Free Resources",
     "section": "Portfolio Building Resources",
-    "text": "Portfolio Building Resources\nBuilding a professional portfolio is crucial for showcasing your skills and projects to potential employers or clients. Here are some valuable resources to help you create and enhance your portfolio:\n\nCreate a Portfolio Website with AlexTheAnalyst - A comprehensive tutorial on creating and hosting a portfolio using GitHub Pages. Perfect for beginners looking to establish an online presence.\nGoogle Analytics Tutorials:\n\nGoogle Analytics for Beginners - Learn how to track your portfolio or website visitors, understand your audience, and improve your site based on analytics data.\nAdvanced Google Analytics - Dive deeper into Google Analytics to leverage more complex tracking and analysis techniques for your site.\n\nYouTube Playlist on Data Engineering Projects - A curated list of video tutorials and project ideas for aspiring data engineers, covering various tools and technologies.\nData Engineer Portfolio Project Ideas - Provides a range of project ideas and guidance on building a portfolio that stands out for data engineering roles.\nData Engineering Projects for Beginners - Simplilearn - Offers tutorials and project ideas for beginners in data engineering, helping you to start building your portfolio with practical experience."
+    "text": "Portfolio Building Resources\nBuilding a professional portfolio is crucial for showcasing your skills and projects to potential employers or clients. Here are some valuable resources to help you create and enhance your portfolio:\n\nData Engineer Portfolio Project Ideas - Provides a range of project ideas and guidance on building a portfolio that stands out for data engineering roles.\nData Engineering Projects for Beginners - Simplilearn - Offers tutorials and project ideas for beginners in data engineering, helping you to start building your portfolio with practical experience."
   },
   {
     "objectID": "resources.html#foundational-data-science-courses",
@@ -229,6 +215,13 @@
     "title": "Free Resources",
     "section": "Online Learning Platforms and Resources",
     "text": "Online Learning Platforms and Resources\n\nCognitive Class - Interactive platform offering courses on data science and AI.\nJovian - For sharing and collaborating on Jupyter notebooks.\nDataPen - Interactive tutorials on data science and machine learning.\nData Analytics Educational Resources - Collection of learning materials for data analytics.\nExecutive Levels Data Software Training - Offers training on various data software tools.\nSQLZOO - Interactive SQL tutorials for hands-on learning."
+  },
+  {
+    "objectID": "resources.html#youtube-learning-playlists",
+    "href": "resources.html#youtube-learning-playlists",
+    "title": "Free Resources",
+    "section": "YouTube Learning Playlists",
+    "text": "YouTube Learning Playlists\nHere are a few playlists most of which are contributions by Jenil.\n\nStatistics and Data Analysis\n\nCrashCourse Statistics - Quick statistics overview.\nStatQuest - Statistics Fundamentals - Fundamental statistics concepts.\nStatistics Course for Data Science - Statistics tutorials tailored for data science.\n\n\n\nData Visualization and Business Intelligence\n\nTableau Dashboard - Tutorials on creating dashboards using Tableau.\nPower BI - Training sessions on using Power BI for data analysis and visualization.\n\n\n\nProfessional Development and Storytelling\n\nPresentation and Storytelling - Improve your presentation skills and learn the art of storytelling.\nCreate a Portfolio Website with AlexTheAnalyst - A comprehensive tutorial on creating and hosting a portfolio using GitHub Pages.\n\n\n\nData Science Comprehensive Courses\n\nData Analyst Bootcamp by Alex - Comprehensive bootcamp for becoming a data analyst.\nData Science for Beginners by Microsoft - Beginner-friendly data science materials hosted on GitHub.\nHarvard CS50’s Introduction to Programming with Python - Full university course on programming with Python.\n\n\n\nGoogle Analytics\n\nGoogle Analytics for Beginners - Learn how to track your portfolio or website visitors.\nAdvanced Google Analytics - Dive deeper into Google Analytics for complex tracking and analysis.\n\n\n\nData Engineering\n\nYouTube Playlist on Data Engineering Projects - A curated list of video tutorials and project ideas for aspiring data engineers.\n\n\n\nMiscellaneous\n\nMS Fabric - Explore Microsoft’s design framework."
   },
   {
     "objectID": "resources.html#additional-learning-resources",
