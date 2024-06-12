@@ -448,102 +448,221 @@
     "text": "Want More Certifications?\nThe original list can be found here."
   },
   {
-    "objectID": "content/table_index/rmd/indexed_table.html",
-    "href": "content/table_index/rmd/indexed_table.html",
-    "title": "Indexed table",
-    "section": "",
-    "text": "In the previous chapter, we saw that an SQL DB parses through the whole table to retrieve rows. Because it does not know where the rows that match the provided conditions are, it has to check every row. This is why it does not matter where in the table the rows are located. This is where INDEXes come in."
-  },
-  {
-    "objectID": "content/table_index/rmd/indexed_table.html#duplicate-our-table",
-    "href": "content/table_index/rmd/indexed_table.html#duplicate-our-table",
-    "title": "Indexed table",
-    "section": "Duplicate our table",
-    "text": "Duplicate our table\nWe want to keep our non-indexed table so that we can still run non-indexed queries later.\nIt takes about 15 minutes to make a copy.\nThen we add the primary key and indexes for fk_id and entry_date.\nIt takes about 20 minutes to add these indices."
-  },
-  {
-    "objectID": "content/table_index/rmd/indexed_table.html#database-connection",
-    "href": "content/table_index/rmd/indexed_table.html#database-connection",
-    "title": "Indexed table",
-    "section": "Database Connection",
-    "text": "Database Connection\nIn the background, we set up our environment, connect to the database, and turn on profiling.\nA quick check of our tables:\nOur tables are the same except for the indexes."
-  },
-  {
-    "objectID": "content/table_index/rmd/indexed_table.html#show-profile-function",
-    "href": "content/table_index/rmd/indexed_table.html#show-profile-function",
-    "title": "Indexed table",
-    "section": "Show Profile function",
-    "text": "Show Profile function\nBecause we will run profiling repeatedly, it makes sense to write it into a function."
-  },
-  {
-    "objectID": "content/table_index/rmd/indexed_table.html#query-6-run-the-first-day-query-with-the-benefit-of-an-index",
-    "href": "content/table_index/rmd/indexed_table.html#query-6-run-the-first-day-query-with-the-benefit-of-an-index",
-    "title": "Indexed table",
-    "section": "Query 6: Run the “first day” query with the benefit of an index",
-    "text": "Query 6: Run the “first day” query with the benefit of an index\nFrom 17 seconds, we are now down to below 0.007 seconds."
-  },
-  {
-    "objectID": "content/table_index/rmd/indexed_table.html#query-7-run-the-last-day-query-with-the-benefit-of-an-index",
-    "href": "content/table_index/rmd/indexed_table.html#query-7-run-the-last-day-query-with-the-benefit-of-an-index",
-    "title": "Indexed table",
-    "section": "Query 7: Run the “last day” query with the benefit of an index",
-    "text": "Query 7: Run the “last day” query with the benefit of an index\nIt is the same for our “last day” query. Below 0.007 seconds. The DB is not parsing the entire table anymore.\nBut, this is a little bit of a cheat. Remember that entry_date is already sorted. Rows with the same entry_dates are together. How much difference is there if the needles are scattered all over the table?"
-  },
-  {
-    "objectID": "content/table_index/rmd/indexed_table.html#query-8-retrieve-all-fk_id-45",
-    "href": "content/table_index/rmd/indexed_table.html#query-8-retrieve-all-fk_id-45",
-    "title": "Indexed table",
-    "section": "Query 8: Retrieve all fk_id = 45",
-    "text": "Query 8: Retrieve all fk_id = 45\nWe have a different column we can filter on. fk_id is not sorted. It is randomly distributed across the entire table. Let’s run a baseline on the non-indexed table.\nAs expected, we get about 17 seconds."
-  },
-  {
-    "objectID": "content/table_index/rmd/indexed_table.html#query-9-retrieve-all-fk_id-45-with-the-help-of-an-index",
-    "href": "content/table_index/rmd/indexed_table.html#query-9-retrieve-all-fk_id-45-with-the-help-of-an-index",
-    "title": "Indexed table",
-    "section": "Query 9: Retrieve all fk_id = 45 with the help of an index",
-    "text": "Query 9: Retrieve all fk_id = 45 with the help of an index\nThen the same query from the indexed table.\nWe have a substantial improvement from 17 seconds to less than 5 seconds."
-  },
-  {
-    "objectID": "content/table_index/rmd/indexed_table.html#questions",
-    "href": "content/table_index/rmd/indexed_table.html#questions",
-    "title": "Indexed table",
-    "section": "Questions",
-    "text": "Questions\n\nWhat if we need to filter by year? Or by year-month?"
-  },
-  {
-    "objectID": "content/table_index/rmd/create_table.html",
-    "href": "content/table_index/rmd/create_table.html",
-    "title": "Create and populate table",
-    "section": "",
-    "text": "For our sample table, we will use a simple 4-column table that is a simulated result of an ETL process from some OLTP DB. We have the following values: - date value: You can think of this as an entry date, or a purchase date - numeric value: You can think of this as quantity of items, or a monetary value - descriptive value: You can think of this as a category code, or a branch code\nWe will then populate our table with 50 million rows randomly generated. These will be inserted in date order ascending. Why 50 million? So that we give the DB a little bit of a workout. A DB will not break a sweat with hundred-thousand-row tables."
-  },
-  {
-    "objectID": "content/table_index/rmd/create_table.html#create-our-sample-table",
-    "href": "content/table_index/rmd/create_table.html#create-our-sample-table",
-    "title": "Create and populate table",
-    "section": "Create our sample table",
-    "text": "Create our sample table\nFirst, we create our table in our database with the following DDL:\nTake note that at this point, other than the primary key, we do not have any indexes defined.\n\n\n\nField\nData Type\nDescription\n\n\n\n\nid\nINT\nA simple unsigned primary key\n\n\nfk_id\nINT\nA simulated foreign key ID\n\n\narbitrary_value\nINT\nA value we can use aggregate functions on\n\n\nentry_date\nDATETIME\nA datetime value"
-  },
-  {
-    "objectID": "content/table_index/rmd/create_table.html#populate-our-table",
-    "href": "content/table_index/rmd/create_table.html#populate-our-table",
-    "title": "Create and populate table",
-    "section": "Populate our table",
-    "text": "Populate our table\n\nGenerate data\nWe will now generate data for our table. To do this we use fixtuRes. We provide a YML configuration file:\n# sample_table.yml\nsample_table:\n  columns:\n    fk_id:\n      type: integer\n      min: 1\n      max: 100\n    arbitrary_value:\n      type: integer\n      min: 0\n      max: 50\n    entry_date:\n      type: date\n      min: 1973-01-01\n      max: 2023-12-31\n  arrange: entry_date\nWe use MockDataGenerator to create our data. This will produce a table ordered by entry_date. Then we add a sequential id column to have the id in the same order as entry_date.\nThe following is a sample output if we used size = 20:\n\n\nConnect to DB\nWe now establish a connection to our MySQL database server. The RMySQL library has been deprecated in favor of the RMariaDB library.\nIt is always good practice to keep your connection credentials like usernames, passwords, API tokens in your environment variables. Never hard-coded in source code. And never commit your environment variable file to the repo.\n\n\nWrite our data to the DB\nWhile there is a function we can use to write our mock_data to the DB table (dbWriteTable(conn, \"sample_table\", mock_data)), remember that we have 50 million rows. When mock_data is written to a CSV file, it results in a 1.3 GB file. Writing this to the DB will take some time. To avoid hitting the connection time-out constraint we will write the data by batches of date.\nLet’s take a look at what we have.\nDont’ leave any DB connections open!\nNow, we have a 50 million row DB table we can play around with."
-  },
-  {
-    "objectID": "content/projects/pipeline_basic/readme.html",
-    "href": "content/projects/pipeline_basic/readme.html",
+    "objectID": "datacamp-donates.html",
+    "href": "datacamp-donates.html",
     "title": "Data Engineering Pilipinas",
     "section": "",
-    "text": "This is a basic ETL project"
+    "text": "title: “DataCamp Donates Application Process” description: | Data Engineering Pilipinas is an official DataCamp Donates Partner. Members of the community can avail of FREE DataCamp Access thru a scholarship application process."
   },
   {
-    "objectID": "content/projects/pipeline_basic/readme.html#basic-etl-project",
-    "href": "content/projects/pipeline_basic/readme.html#basic-etl-project",
+    "objectID": "datacamp-donates.html#scholarship-applications-now-open",
+    "href": "datacamp-donates.html#scholarship-applications-now-open",
+    "title": "Data Engineering Pilipinas",
+    "section": "Scholarship Applications Now Open!",
+    "text": "Scholarship Applications Now Open!\nWe’re thrilled to announce that Data Engineering Pilipinas is now a proud partner of DataCamp Donates! Thanks to this partnership, we’re offering exclusive scholarships for free premium access to DataCamp’s top-tier data science courses and resources.\n\nWhat to Expect:\n\nPremium Access: Unlock top-tier data science courses from DataCamp.\nLearning Journey: Enhance your skills and advance your career with cutting-edge content.\nCommunity Support: Join a network of like-minded learners and grow together.\n\n\n\nImportant Dates:\n\nApplication Deadline: July 12, 2024\n\n\n\nRules and Expectations:\n\nMonthly Assignments: 4,000 XP (roughly 3 hours of learning per month)\nUse Hashtags: Tag @DataCamp and use #dcdonates in your posts to keep the community updated.\nEngage with Content: Actively participate in the courses and engage with other learners.\nShare Success Stories: We’d love to hear and share your success stories! Let us know how the courses are helping you grow.\n\n\n\nWhat You Need to Do:\n\nApply Now: Submit your application for the scholarship.\nEngage: Plan to actively participate and complete courses.\nFinish Monthly Assignment: 4,000 XP, failed to do so will have your access revoked.\n\nWe’re excited to support your learning journey and can’t wait to see the incredible progress you make. Apply today and take the first step towards mastering data science!\n#DataCampDonates #Scholarship #DataEngineering #DataAnalysis #DataScience #ApplyNow #dcdonates\n\n\nStart Your Application\nAPPLY NOW"
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html",
+    "href": "content/table_index/rmd/how_db_works.html",
+    "title": "How SQL DB server works",
+    "section": "",
+    "text": "In the previous chapter, we set up our sandbox table sample_table with 4 columns and 50 million rows. Now, we will execute a few queries to understand how SQL databases retrieve the rows we request."
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html#connect-to-the-db",
+    "href": "content/table_index/rmd/how_db_works.html#connect-to-the-db",
+    "title": "How SQL DB server works",
+    "section": "Connect to the DB",
+    "text": "Connect to the DB"
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html#initial-exploration",
+    "href": "content/table_index/rmd/how_db_works.html#initial-exploration",
+    "title": "How SQL DB server works",
+    "section": "Initial exploration",
+    "text": "Initial exploration\nLet’s take a look at what we are dealing with. We know we have entry_date in the table sorted in ascending order."
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html#start-mysql-profiling",
+    "href": "content/table_index/rmd/how_db_works.html#start-mysql-profiling",
+    "title": "How SQL DB server works",
+    "section": "Start MySQL profiling",
+    "text": "Start MySQL profiling"
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html#query-1-retrieve-just-the-first-day",
+    "href": "content/table_index/rmd/how_db_works.html#query-1-retrieve-just-the-first-day",
+    "title": "How SQL DB server works",
+    "section": "Query 1: Retrieve just the first day",
+    "text": "Query 1: Retrieve just the first day\nWe know that the first day we have data for is at the top of the table.\nIt takes around 17 seconds.\nThe DBI library performed commit DB commands after the query, and again, after the SHOW PROFILES command.\nIf you are using a GUI client to connect to your DB, it may show a time for the query to execute. In MySQL Workbench, this would be shown as Duration/Fetch. And for this query, MySQL Workbench shows 0.029 sec / 17.224 sec. The sum of these is roughly the same as the duration shown in the profiles result.\nThe majority of the time is spent in executing."
+  },
+  {
+    "objectID": "content/table_index/rmd/how_db_works.html#query-2-retrieve-just-the-last-day",
+    "href": "content/table_index/rmd/how_db_works.html#query-2-retrieve-just-the-last-day",
+    "title": "How SQL DB server works",
+    "section": "Query 2: Retrieve just the last day",
+    "text": "Query 2: Retrieve just the last day\nLet’s do the same for the last day we have, 2023-12-31. We know that the last day of the data we have is at the end of the table."
+  },
+  {
+    "objectID": "content/table_index/readme.html",
+    "href": "content/table_index/readme.html",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "Create and populate table\nHow an RDBMS retrieves data\nIndexed table\n[TODO] Filter by year\n[TODO] Group by year\n\n\n\n\n\nUnraid 6.11.5\nDocker 20.10.21\ni7-4770S 4C/8T\n16GB DDR3\n500GB Crucial MX500 SSD\nOther hardware exist but are not used in this demonstration\n\n\n\n\nThe RDBMS used for this demonstration is MySQL 8.1.0. It is running as a Docker container on top of an Unraid 6.11.5 server. The container instance is running un-constrained. It has full access to the CPU and memory resources. The MySQL data files reside on the SSD. Only the MySQL container will be running during the query executions.\nThe principles and (relative) results will be largely the same when other RDBMS are used. The syntax may be different, however.\n\n\nQuickest RDBMS for me to set up and tear down.\n\n\n\n\nThe raw source documents are written in R Markdown using R 4.3.2. R Markdown is similar in structure and function to a .ipynb Python notebook you may be familiar with.\n\n\nAs data engineers, you will have to support a variety of languages/environments/platforms used by different data-end-users. This is a way to expose you to a language other than Python.\n\n\n\n\n\nNone of the code presented are production-ready. It is advisable to use error-tolerant practices such as tryCatch() and DB transactions when working with DBs.\nAll queries are run only once. Ideally, each should be run at least 5 times, then the mean of each run is taken."
+  },
+  {
+    "objectID": "content/table_index/readme.html#toc",
+    "href": "content/table_index/readme.html#toc",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "Create and populate table\nHow an RDBMS retrieves data\nIndexed table\n[TODO] Filter by year\n[TODO] Group by year"
+  },
+  {
+    "objectID": "content/table_index/readme.html#server-platform",
+    "href": "content/table_index/readme.html#server-platform",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "Unraid 6.11.5\nDocker 20.10.21\ni7-4770S 4C/8T\n16GB DDR3\n500GB Crucial MX500 SSD\nOther hardware exist but are not used in this demonstration"
+  },
+  {
+    "objectID": "content/table_index/readme.html#mysql-rdbms",
+    "href": "content/table_index/readme.html#mysql-rdbms",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "The RDBMS used for this demonstration is MySQL 8.1.0. It is running as a Docker container on top of an Unraid 6.11.5 server. The container instance is running un-constrained. It has full access to the CPU and memory resources. The MySQL data files reside on the SSD. Only the MySQL container will be running during the query executions.\nThe principles and (relative) results will be largely the same when other RDBMS are used. The syntax may be different, however.\n\n\nQuickest RDBMS for me to set up and tear down."
+  },
+  {
+    "objectID": "content/table_index/readme.html#r-markdown",
+    "href": "content/table_index/readme.html#r-markdown",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "The raw source documents are written in R Markdown using R 4.3.2. R Markdown is similar in structure and function to a .ipynb Python notebook you may be familiar with.\n\n\nAs data engineers, you will have to support a variety of languages/environments/platforms used by different data-end-users. This is a way to expose you to a language other than Python."
+  },
+  {
+    "objectID": "content/table_index/readme.html#disclaimers",
+    "href": "content/table_index/readme.html#disclaimers",
+    "title": "Table Indexes",
+    "section": "",
+    "text": "None of the code presented are production-ready. It is advisable to use error-tolerant practices such as tryCatch() and DB transactions when working with DBs.\nAll queries are run only once. Ideally, each should be run at least 5 times, then the mean of each run is taken."
+  },
+  {
+    "objectID": "content/projects/ETL-SALES/readme.html",
+    "href": "content/projects/ETL-SALES/readme.html",
+    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
+    "section": "",
+    "text": "This project is an Extract, Transform, Load (ETL) package designed to merge data from various sources, including CSV files, Excel spreadsheets, and a PostgreSQL database, into a single destination database. The ETL process involves cleaning, transforming, and loading data to facilitate efficient analysis and reporting.\n\n\n\n\nExtracts data from CSV files, Excel spreadsheets, and a PostgreSQL database.\nApplies customizable transformations to clean and format the data.\nLoads the transformed data into a single destination database.\n\n\n\n\nRun the ETL pipeline: python PIPELINE_EXEC.py\n\n\n\n420171277_408831038167542_8129673976330505678_n\n\n\ndata set from link : DATA_SOURCE\nI separate csv files into different file sources to demonstrate extracting from different file sources.\nplease see below:\n\n\njanuary to april sales as excel (Sales_January_April_2019)\n\n\n\nmay to august sales as csv(sales_csv folder)\n\n\n\nseptember to december as database (sales_db)"
+  },
+  {
+    "objectID": "content/projects/ETL-SALES/readme.html#overview",
+    "href": "content/projects/ETL-SALES/readme.html#overview",
+    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
+    "section": "",
+    "text": "This project is an Extract, Transform, Load (ETL) package designed to merge data from various sources, including CSV files, Excel spreadsheets, and a PostgreSQL database, into a single destination database. The ETL process involves cleaning, transforming, and loading data to facilitate efficient analysis and reporting."
+  },
+  {
+    "objectID": "content/projects/ETL-SALES/readme.html#features",
+    "href": "content/projects/ETL-SALES/readme.html#features",
+    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
+    "section": "",
+    "text": "Extracts data from CSV files, Excel spreadsheets, and a PostgreSQL database.\nApplies customizable transformations to clean and format the data.\nLoads the transformed data into a single destination database."
+  },
+  {
+    "objectID": "content/projects/ETL-SALES/readme.html#usage",
+    "href": "content/projects/ETL-SALES/readme.html#usage",
+    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
+    "section": "",
+    "text": "Run the ETL pipeline: python PIPELINE_EXEC.py\n\n\n\n420171277_408831038167542_8129673976330505678_n\n\n\ndata set from link : DATA_SOURCE\nI separate csv files into different file sources to demonstrate extracting from different file sources.\nplease see below:\n\n\njanuary to april sales as excel (Sales_January_April_2019)\n\n\n\nmay to august sales as csv(sales_csv folder)\n\n\n\nseptember to december as database (sales_db)"
+  },
+  {
+    "objectID": "content/Cloud-Free-Tier-Comparison/LICENSE.html",
+    "href": "content/Cloud-Free-Tier-Comparison/LICENSE.html",
     "title": "Data Engineering Pilipinas",
     "section": "",
-    "text": "This is a basic ETL project"
+    "text": "MIT License\nCopyright (c) 2020 Cloud Study Network.\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community Content",
+    "section": "",
+    "text": "As a community, we want to support our homegrown content creators and experts. Please check them out as they champion data advocacy:\n\n\n\nDoc Ligot - Prompt responsible adoption of artificial intelligence\nSherwin Pelayo - Strategic national initiatives to nurture a robust analytics and AI ecosystem\nKyle Escosia - Passionately curious about data\nSandy C. Lauguico - Data Science, Engineering, and AI; Documenting journey to time-money-location freedom and intentional life\nAemyn Obinguar - Fractional Gen AI Engineer\nPower BI Pilipinas - Official page of the Power BI Pilipinas Community\n\n\n\n\n\nJosh Dev - Tech-related content\nKuya Dev - Tech Career Advice Podcast\nDev Stuff with JP - Software Development content in Filipino\nProf. Bob S. - Programming techniques via video\nDanielle Meer - Competitive programmer, Esports scholar, Machine Learning Engineer\nAtcha Abe - Learn, Grow, and Empower\nThe Agile Geek - Educational resources, Tech tools, and Beyond\nAlex Gamboa - Data Analyst, BI Developer, Pythonista, and ConTech Creator\nFurtim Dev - Full-stack Developer | Talks about Web Development, Technology, and everything in between\nWokeTech - Microsoft Applications and Web Development\nBotnie Data - Aspiring Data Engineer\nDAX Jutsu - Elevated Power BI skills"
+  },
+  {
+    "objectID": "community.html#people-and-pages",
+    "href": "community.html#people-and-pages",
+    "title": "Community Content",
+    "section": "",
+    "text": "As a community, we want to support our homegrown content creators and experts. Please check them out as they champion data advocacy:\n\n\n\nDoc Ligot - Prompt responsible adoption of artificial intelligence\nSherwin Pelayo - Strategic national initiatives to nurture a robust analytics and AI ecosystem\nKyle Escosia - Passionately curious about data\nSandy C. Lauguico - Data Science, Engineering, and AI; Documenting journey to time-money-location freedom and intentional life\nAemyn Obinguar - Fractional Gen AI Engineer\nPower BI Pilipinas - Official page of the Power BI Pilipinas Community\n\n\n\n\n\nJosh Dev - Tech-related content\nKuya Dev - Tech Career Advice Podcast\nDev Stuff with JP - Software Development content in Filipino\nProf. Bob S. - Programming techniques via video\nDanielle Meer - Competitive programmer, Esports scholar, Machine Learning Engineer\nAtcha Abe - Learn, Grow, and Empower\nThe Agile Geek - Educational resources, Tech tools, and Beyond\nAlex Gamboa - Data Analyst, BI Developer, Pythonista, and ConTech Creator\nFurtim Dev - Full-stack Developer | Talks about Web Development, Technology, and everything in between\nWokeTech - Microsoft Applications and Web Development\nBotnie Data - Aspiring Data Engineer\nDAX Jutsu - Elevated Power BI skills"
+  },
+  {
+    "objectID": "community.html#articles",
+    "href": "community.html#articles",
+    "title": "Community Content",
+    "section": "Articles",
+    "text": "Articles\nHere are some blogs and intructionals created by our community members. Let’s continue to grow this!\n\nBig Data and Cloud\n\nSnowflake in the Philippines - Insights on Snowflake’s rise in the Philippines\nUPSERTS and DELETS using AWS Glue and Delta Lake - Guide on using AWS Glue with Delta Lake for data operations\n\n\n\nData Engineering\n\nTable Indexes - Importance and implementation of table indexes\nData Manipulation with Pandas Library - Data manipulation with Pandas Library\nContainerization - Exploration of containerization in data engineering"
+  },
+  {
+    "objectID": "community.html#projects",
+    "href": "community.html#projects",
+    "title": "Community Content",
+    "section": "Projects",
+    "text": "Projects\nPortfolio development is a critical part of career path in tech. Projects help not only validate but show case as well the learnings and capabilities of the talent. Here are a few contributions from the community.\n\nEnd-to-End Data Projects\n\nBUILDING YOUR FIRSTEND-TO-END DATA PORTFOLIO by Josh Dev - Data pipeline, dashboard, and machine learning pipeline\n\n\n\nData Challenges\n\nExcel Challenges playlist by WokeTech - Different Excel challenges\nData Challenges Megapost by Power BI Pilipinas - 11 Data Challenges from different websites\n\n\n\nETL Projects\n\nBasic ETL project - Basic ETL project\nETL Sales - ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database\nETL Project with Azure Databricks - ETL project using Azure Databricks"
+  },
+  {
+    "objectID": "community.html#videos-and-presentations",
+    "href": "community.html#videos-and-presentations",
+    "title": "Community Content",
+    "section": "Videos and Presentations",
+    "text": "Videos and Presentations\n\nA brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.\n An introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.\n\nA discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.\n\nA video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.\n An online event with key thought leaders and content creators in the Filipino tech community.\n\nA panel discussion hosted by R User’s Group Philippines on transitioning to a career in data.\n Kyle Escosia’s talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.\n A session by Kyle Escosia on creating a serverless data lake in AWS.\n\nThe “Kwentuhan Meetup” is an online event for members of the Data Engineering Pilipinas group, hosted on Discord.\n\nHow I Got Into Data Science WITHOUT a Computer Science Degree | Tips on Working in Tech Philippines\n\nA PL-300 training session for the Power BI Pilipinas community."
+  },
+  {
+    "objectID": "community.html#doc-ligot-interviews",
+    "href": "community.html#doc-ligot-interviews",
+    "title": "Community Content",
+    "section": "Doc Ligot Interviews",
+    "text": "Doc Ligot Interviews\n\nKuya Dev\n\n\n\nJosh V.\n\n\n\nSherwin Pelayo\n\n\n\nGerard\n\n\n\nXavier Puspus\n\n\n\nNoemi\n\n\n\nAemy Obinguar\n\n\n\nSandy Lauguico\n\n\n\nNeil Bacon’s Transition: Discover how Leoneil Bacon moved from Biology to Data.\n\n\n\nTrisha Nicdao’s Journey: Insights into Trisha’s shift from ESG to Data Analytics, touching on sustainability and GenZ perspectives.\n\n\n\nAngel Felismino’s Career Path: From Computer Science to leading in tech talent acquisition.\n\n\n\nEmmanuel Irog-Irog’s Innovations: Discussing RAG and LLMs with a focus on recent projects.\n\n\n\nJerel John Velarde’s Vision: Using data for enhancing democracy in AI startups."
+  },
+  {
+    "objectID": "community.html#mentoring-program-2024",
+    "href": "community.html#mentoring-program-2024",
+    "title": "Community Content",
+    "section": "Mentoring Program 2024",
+    "text": "Mentoring Program 2024\n\nObjective\nTo create a network of mentors and mentees within the DE Pilipinas community, focusing on personalized advice and skill development in data engineering.\n\n\nThree Easy Steps\n\n\nSign Up & Share: Fill out a quick form to tell us about your skills, interests, and what you’re looking for—whether you want to mentor, learn, or both!\nPick Your Match: Browse profiles to find your perfect mentor or mentee. Start the conversation to see if you click, and set up a call to seal the deal.\nLearn & Grow Together: Dive into your mentorship journey, set goals, and check in regularly. Your feedback helps us make the experience even better for everyone.\n\n\n\nData Collection\n\nUtilize forms to collect information from potential mentors and mentees, including areas of expertise or interest, preferred contact methods, and availability.\nInformation to be updated regularly to ensure it reflects current details.\nParticipants must give consent for their information to be shared for pairing purposes.\nMentors register here.\nMentees register here.\n\n\n\nPairing Mechanism\n\nSelf-Initiated Pairing: Mentors and mentees can select their pairs based on the information provided in the forms.\nBoth mentors and mentees are urged to initiate contact, ideally outlining why they believe a partnership would be beneficial and providing relevant information to help the other party determine if there’s a mentor-mentee fit.\nOnce both parties initially agree to the pairing, they are encouraged to conduct a needs assessment call to confirm compatibility before officially commencing the program.\nA mentor can have multiple mentees, but a mentee can have one mentor at a time. One can be both a mentor and a mentee.\nTo find a mentor and/or a mentee, click here.\n\n\n\nMentor Commitment\n\nOur program places a strong emphasis on supporting our mentors. We believe that by taking good care of our experts, they in turn will be better equipped to nurture their mentees.\nMentors can specify the number of mentees they are willing to take on and their preferred mentoring strategy: some mentors may prefer a hands-on approach, actively guiding mentees through specific technical stacks. Others may opt for a more advisory role, providing strategic guidance and holding regular check-ins. This allows for a personalized mentorship experience that caters to the unique learning styles and objectives of each mentee.\nOptions for mentor involvement levels help prevent burnout and ensure a productive mentoring relationship.\n\n\n\nMentee Engagement\n\nMentees can identify their career stage and the type of help they need, allowing mentors to select mentees based on their expertise and interest areas.\nMentees play an active role in this mentorship program. They are expected to demonstrate a strong desire for learning and growth, as the value of the mentorship relationship is directly proportional to their commitment and engagement. Mentees are encouraged to take the initiative in following up, setting up meetings, and driving their learning journey. A balanced approach is expected, one that involves proactive engagement from the mentees while ensuring that the mentor’s time is respected.\n\n\n\nFeedback and Improvement\n\nRegular follow-ups and feedback collection from both mentors and mentees to assess the effectiveness of the mentorship and make necessary adjustments.\nConsider running polls within the group for additional feedback and suggestions.\n\n\n\nFAQs\nCan I participate if I’m not from the Philippines?\nYes.\nIs the mentoring program free?\nYes.\nIs there a certification or recognition at the end of the program?\nNone. [maybe in the future recognition for mentors, for mentees, the mentoring is the benefit :D]\nCan the mentor-mentee match be changed?\nYes, as long as both parties are both informed."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Data Engineering Pilipinas",
+    "section": "Our Mission",
+    "text": "Our Mission\nData Engineering Pilipinas is dedicated to democratizing data engineering education by offering open access to learning materials and promoting a collaborative environment for the exchange of tools and skills.\nThe community serves as a forum for both users and developers of data tools, facilitating the sharing of ideas and experiences. Data Engineering Pilipinas encourages discussions on best practices, innovative approaches, and emerging technologies in data management, processing, analytics, and visualization. It embraces a wide range of programming languages including Python, R, and SQL, reflecting the diverse methods used within data engineering and data science.\nWith a commitment to being an accessible, community-driven platform, Data Engineering Pilipinas caters to all levels of expertise, from novice to advanced practitioners. The conferences, tutorials, and talks provided by Data Engineering Pilipinas offer attendees insights into the latest project features as well as cutting-edge use cases."
+  },
+  {
+    "objectID": "about.html#code-of-conduct-based-from-pydata",
+    "href": "about.html#code-of-conduct-based-from-pydata",
+    "title": "About Data Engineering Pilipinas",
+    "section": "Code of Conduct (Based from PyData)",
+    "text": "Code of Conduct (Based from PyData)\nBe kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes and language are not appropriate for Data Engineering Pilipinas.\nAll communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate.\nData Engineering Pilipinas is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, gender identity, and expression, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.\nThank you for helping make this a welcoming, friendly community for all."
+  },
+  {
+    "objectID": "about.html#official-community-guidelines",
+    "href": "about.html#official-community-guidelines",
+    "title": "About Data Engineering Pilipinas",
+    "section": "Official Community Guidelines",
+    "text": "Official Community Guidelines\nOur community thrives on respect, collaboration, and shared learning. Here are the guidelines we follow to ensure a positive and productive environment for all members.\n\nBe Respectful Treat all members with courtesy and respect, avoiding offensive language or personal attacks.\nShare Knowledge Encourage the sharing of valuable insights, best practices, and resources related to data engineering.\nNo Trolling or Harassment Engage constructively. Trolling or harassment of other members or administrators is not tolerated.\nAvoid Plagiarism Always attribute credit to the original source when sharing content or ideas.\nBe Mindful of Privacy Do not share personal information or sensitive data in our discussions.\nMinimal Self-Promotion Keep self-promotion or spamming of personal content or products to a minimum, especially if not related to data engineering.\nStay On Topic Ensure discussions are relevant to data engineering, its technologies, and related fields.\nNo Illegal Activities Do not engage in or promote discussions about activities that violate laws or ethical standards.\nLimit Recruitment Posts Job postings and collaboration requests are welcome but keep them moderate and relevant to data engineering roles or opportunities. Use appropriate hashtags like #hiring, #project, and #opportunity.\nKeep it Professional Maintain a professional tone in all interactions and adhere to Facebook’s guidelines and policies at all times."
+  },
+  {
+    "objectID": "about.html#diversity-inclusion-based-from-pydata",
+    "href": "about.html#diversity-inclusion-based-from-pydata",
+    "title": "About Data Engineering Pilipinas",
+    "section": "Diversity & Inclusion (Based from PyData)",
+    "text": "Diversity & Inclusion (Based from PyData)\nData Engineering Pilipinas welcomes and encourages participation in our community by people of all backgrounds and identities. We are committed to promoting and sustaining a culture that values mutual respect, tolerance, and learning, and we work together as a community to help each other live out these values."
+  },
+  {
+    "objectID": "content/Cloud-Free-Tier-Comparison/Articles.html",
+    "href": "content/Cloud-Free-Tier-Comparison/Articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "Articles\nhttps://www.cloudmanagementinsider.com/aws-azure-google-cloud-free-tier-comparison/\nhttps://n2ws.com/blog/amazon-aws-microsoft-azure-google-cloud-free-tier-cloud-computing-service-comparison\nhttps://www.infoworld.com/article/3179785/aws-vs-azure-vs-google-cloud-which-free-tier-is-best.html"
   },
   {
     "objectID": "content/data-engineering-101.html",
@@ -616,207 +735,102 @@
     "text": "Advantages of Data Engineering Skills Beyond Data Roles\n\nEnhanced Problem-Solving: Develops structured approaches to solving complex issues.\nLogical Thinking: Fosters a logical mindset beneficial for strategic decision-making.\nTechnical Skills: Provides technical acumen applicable in many modern tech roles.\nData Literacy: Equips with the ability to understand and use data effectively.\nProject Management: Aligns with managing projects, resources, and workflows.\nEffective Communication: Improves the ability to communicate complex ideas clearly.\nAdaptability: Prepares for quick adaptation to industry changes.\nAutomation Knowledge: Offers insights into streamlining and automating processes.\nInterdisciplinary Collaboration: Encourages working across various teams and departments.\n\nLearning data engineering skills can significantly enhance your analytical and technical capabilities, useful in a wide array of professions, not limited to traditional data-centric roles."
   },
   {
-    "objectID": "content/Cloud-Free-Tier-Comparison/Articles.html",
-    "href": "content/Cloud-Free-Tier-Comparison/Articles.html",
-    "title": "Articles",
-    "section": "",
-    "text": "Articles\nhttps://www.cloudmanagementinsider.com/aws-azure-google-cloud-free-tier-comparison/\nhttps://n2ws.com/blog/amazon-aws-microsoft-azure-google-cloud-free-tier-cloud-computing-service-comparison\nhttps://www.infoworld.com/article/3179785/aws-vs-azure-vs-google-cloud-which-free-tier-is-best.html"
-  },
-  {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
-    "title": "About Data Engineering Pilipinas",
-    "section": "Our Mission",
-    "text": "Our Mission\nData Engineering Pilipinas is dedicated to democratizing data engineering education by offering open access to learning materials and promoting a collaborative environment for the exchange of tools and skills.\nThe community serves as a forum for both users and developers of data tools, facilitating the sharing of ideas and experiences. Data Engineering Pilipinas encourages discussions on best practices, innovative approaches, and emerging technologies in data management, processing, analytics, and visualization. It embraces a wide range of programming languages including Python, R, and SQL, reflecting the diverse methods used within data engineering and data science.\nWith a commitment to being an accessible, community-driven platform, Data Engineering Pilipinas caters to all levels of expertise, from novice to advanced practitioners. The conferences, tutorials, and talks provided by Data Engineering Pilipinas offer attendees insights into the latest project features as well as cutting-edge use cases."
-  },
-  {
-    "objectID": "about.html#code-of-conduct-based-from-pydata",
-    "href": "about.html#code-of-conduct-based-from-pydata",
-    "title": "About Data Engineering Pilipinas",
-    "section": "Code of Conduct (Based from PyData)",
-    "text": "Code of Conduct (Based from PyData)\nBe kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes and language are not appropriate for Data Engineering Pilipinas.\nAll communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate.\nData Engineering Pilipinas is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, gender identity, and expression, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.\nThank you for helping make this a welcoming, friendly community for all."
-  },
-  {
-    "objectID": "about.html#official-community-guidelines",
-    "href": "about.html#official-community-guidelines",
-    "title": "About Data Engineering Pilipinas",
-    "section": "Official Community Guidelines",
-    "text": "Official Community Guidelines\nOur community thrives on respect, collaboration, and shared learning. Here are the guidelines we follow to ensure a positive and productive environment for all members.\n\nBe Respectful Treat all members with courtesy and respect, avoiding offensive language or personal attacks.\nShare Knowledge Encourage the sharing of valuable insights, best practices, and resources related to data engineering.\nNo Trolling or Harassment Engage constructively. Trolling or harassment of other members or administrators is not tolerated.\nAvoid Plagiarism Always attribute credit to the original source when sharing content or ideas.\nBe Mindful of Privacy Do not share personal information or sensitive data in our discussions.\nMinimal Self-Promotion Keep self-promotion or spamming of personal content or products to a minimum, especially if not related to data engineering.\nStay On Topic Ensure discussions are relevant to data engineering, its technologies, and related fields.\nNo Illegal Activities Do not engage in or promote discussions about activities that violate laws or ethical standards.\nLimit Recruitment Posts Job postings and collaboration requests are welcome but keep them moderate and relevant to data engineering roles or opportunities. Use appropriate hashtags like #hiring, #project, and #opportunity.\nKeep it Professional Maintain a professional tone in all interactions and adhere to Facebook’s guidelines and policies at all times."
-  },
-  {
-    "objectID": "about.html#diversity-inclusion-based-from-pydata",
-    "href": "about.html#diversity-inclusion-based-from-pydata",
-    "title": "About Data Engineering Pilipinas",
-    "section": "Diversity & Inclusion (Based from PyData)",
-    "text": "Diversity & Inclusion (Based from PyData)\nData Engineering Pilipinas welcomes and encourages participation in our community by people of all backgrounds and identities. We are committed to promoting and sustaining a culture that values mutual respect, tolerance, and learning, and we work together as a community to help each other live out these values."
-  },
-  {
-    "objectID": "community.html",
-    "href": "community.html",
-    "title": "Community Content",
-    "section": "",
-    "text": "As a community, we want to support our homegrown content creators and experts. Please check them out as they champion data advocacy:\n\n\n\nDoc Ligot - Prompt responsible adoption of artificial intelligence\nSherwin Pelayo - Strategic national initiatives to nurture a robust analytics and AI ecosystem\nKyle Escosia - Passionately curious about data\nSandy C. Lauguico - Data Science, Engineering, and AI; Documenting journey to time-money-location freedom and intentional life\nAemyn Obinguar - Fractional Gen AI Engineer\nPower BI Pilipinas - Official page of the Power BI Pilipinas Community\n\n\n\n\n\nJosh Dev - Tech-related content\nKuya Dev - Tech Career Advice Podcast\nDev Stuff with JP - Software Development content in Filipino\nProf. Bob S. - Programming techniques via video\nDanielle Meer - Competitive programmer, Esports scholar, Machine Learning Engineer\nAtcha Abe - Learn, Grow, and Empower\nThe Agile Geek - Educational resources, Tech tools, and Beyond\nAlex Gamboa - Data Analyst, BI Developer, Pythonista, and ConTech Creator\nFurtim Dev - Full-stack Developer | Talks about Web Development, Technology, and everything in between\nWokeTech - Microsoft Applications and Web Development\nBotnie Data - Aspiring Data Engineer\nDAX Jutsu - Elevated Power BI skills"
-  },
-  {
-    "objectID": "community.html#people-and-pages",
-    "href": "community.html#people-and-pages",
-    "title": "Community Content",
-    "section": "",
-    "text": "As a community, we want to support our homegrown content creators and experts. Please check them out as they champion data advocacy:\n\n\n\nDoc Ligot - Prompt responsible adoption of artificial intelligence\nSherwin Pelayo - Strategic national initiatives to nurture a robust analytics and AI ecosystem\nKyle Escosia - Passionately curious about data\nSandy C. Lauguico - Data Science, Engineering, and AI; Documenting journey to time-money-location freedom and intentional life\nAemyn Obinguar - Fractional Gen AI Engineer\nPower BI Pilipinas - Official page of the Power BI Pilipinas Community\n\n\n\n\n\nJosh Dev - Tech-related content\nKuya Dev - Tech Career Advice Podcast\nDev Stuff with JP - Software Development content in Filipino\nProf. Bob S. - Programming techniques via video\nDanielle Meer - Competitive programmer, Esports scholar, Machine Learning Engineer\nAtcha Abe - Learn, Grow, and Empower\nThe Agile Geek - Educational resources, Tech tools, and Beyond\nAlex Gamboa - Data Analyst, BI Developer, Pythonista, and ConTech Creator\nFurtim Dev - Full-stack Developer | Talks about Web Development, Technology, and everything in between\nWokeTech - Microsoft Applications and Web Development\nBotnie Data - Aspiring Data Engineer\nDAX Jutsu - Elevated Power BI skills"
-  },
-  {
-    "objectID": "community.html#articles",
-    "href": "community.html#articles",
-    "title": "Community Content",
-    "section": "Articles",
-    "text": "Articles\nHere are some blogs and intructionals created by our community members. Let’s continue to grow this!\n\nBig Data and Cloud\n\nSnowflake in the Philippines - Insights on Snowflake’s rise in the Philippines\nUPSERTS and DELETS using AWS Glue and Delta Lake - Guide on using AWS Glue with Delta Lake for data operations\n\n\n\nData Engineering\n\nTable Indexes - Importance and implementation of table indexes\nData Manipulation with Pandas Library - Data manipulation with Pandas Library\nContainerization - Exploration of containerization in data engineering"
-  },
-  {
-    "objectID": "community.html#projects",
-    "href": "community.html#projects",
-    "title": "Community Content",
-    "section": "Projects",
-    "text": "Projects\nPortfolio development is a critical part of career path in tech. Projects help not only validate but show case as well the learnings and capabilities of the talent. Here are a few contributions from the community.\n\nEnd-to-End Data Projects\n\nBUILDING YOUR FIRSTEND-TO-END DATA PORTFOLIO by Josh Dev - Data pipeline, dashboard, and machine learning pipeline\n\n\n\nData Challenges\n\nExcel Challenges playlist by WokeTech - Different Excel challenges\nData Challenges Megapost by Power BI Pilipinas - 11 Data Challenges from different websites\n\n\n\nETL Projects\n\nBasic ETL project - Basic ETL project\nETL Sales - ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database\nETL Project with Azure Databricks - ETL project using Azure Databricks"
-  },
-  {
-    "objectID": "community.html#videos-and-presentations",
-    "href": "community.html#videos-and-presentations",
-    "title": "Community Content",
-    "section": "Videos and Presentations",
-    "text": "Videos and Presentations\n\nA brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.\n An introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.\n\nA discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.\n\nA video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.\n An online event with key thought leaders and content creators in the Filipino tech community.\n\nA panel discussion hosted by R User’s Group Philippines on transitioning to a career in data.\n Kyle Escosia’s talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.\n A session by Kyle Escosia on creating a serverless data lake in AWS.\n\nThe “Kwentuhan Meetup” is an online event for members of the Data Engineering Pilipinas group, hosted on Discord.\n\nHow I Got Into Data Science WITHOUT a Computer Science Degree | Tips on Working in Tech Philippines\n\nA PL-300 training session for the Power BI Pilipinas community."
-  },
-  {
-    "objectID": "community.html#doc-ligot-interviews",
-    "href": "community.html#doc-ligot-interviews",
-    "title": "Community Content",
-    "section": "Doc Ligot Interviews",
-    "text": "Doc Ligot Interviews\n\nKuya Dev\n\n\n\nJosh V.\n\n\n\nSherwin Pelayo\n\n\n\nGerard\n\n\n\nXavier Puspus\n\n\n\nNoemi\n\n\n\nAemy Obinguar\n\n\n\nSandy Lauguico\n\n\n\nNeil Bacon’s Transition: Discover how Leoneil Bacon moved from Biology to Data.\n\n\n\nTrisha Nicdao’s Journey: Insights into Trisha’s shift from ESG to Data Analytics, touching on sustainability and GenZ perspectives.\n\n\n\nAngel Felismino’s Career Path: From Computer Science to leading in tech talent acquisition.\n\n\n\nEmmanuel Irog-Irog’s Innovations: Discussing RAG and LLMs with a focus on recent projects.\n\n\n\nJerel John Velarde’s Vision: Using data for enhancing democracy in AI startups."
-  },
-  {
-    "objectID": "community.html#mentoring-program-2024",
-    "href": "community.html#mentoring-program-2024",
-    "title": "Community Content",
-    "section": "Mentoring Program 2024",
-    "text": "Mentoring Program 2024\n\nObjective\nTo create a network of mentors and mentees within the DE Pilipinas community, focusing on personalized advice and skill development in data engineering.\n\n\nThree Easy Steps\n\n\nSign Up & Share: Fill out a quick form to tell us about your skills, interests, and what you’re looking for—whether you want to mentor, learn, or both!\nPick Your Match: Browse profiles to find your perfect mentor or mentee. Start the conversation to see if you click, and set up a call to seal the deal.\nLearn & Grow Together: Dive into your mentorship journey, set goals, and check in regularly. Your feedback helps us make the experience even better for everyone.\n\n\n\nData Collection\n\nUtilize forms to collect information from potential mentors and mentees, including areas of expertise or interest, preferred contact methods, and availability.\nInformation to be updated regularly to ensure it reflects current details.\nParticipants must give consent for their information to be shared for pairing purposes.\nMentors register here.\nMentees register here.\n\n\n\nPairing Mechanism\n\nSelf-Initiated Pairing: Mentors and mentees can select their pairs based on the information provided in the forms.\nBoth mentors and mentees are urged to initiate contact, ideally outlining why they believe a partnership would be beneficial and providing relevant information to help the other party determine if there’s a mentor-mentee fit.\nOnce both parties initially agree to the pairing, they are encouraged to conduct a needs assessment call to confirm compatibility before officially commencing the program.\nA mentor can have multiple mentees, but a mentee can have one mentor at a time. One can be both a mentor and a mentee.\nTo find a mentor and/or a mentee, click here.\n\n\n\nMentor Commitment\n\nOur program places a strong emphasis on supporting our mentors. We believe that by taking good care of our experts, they in turn will be better equipped to nurture their mentees.\nMentors can specify the number of mentees they are willing to take on and their preferred mentoring strategy: some mentors may prefer a hands-on approach, actively guiding mentees through specific technical stacks. Others may opt for a more advisory role, providing strategic guidance and holding regular check-ins. This allows for a personalized mentorship experience that caters to the unique learning styles and objectives of each mentee.\nOptions for mentor involvement levels help prevent burnout and ensure a productive mentoring relationship.\n\n\n\nMentee Engagement\n\nMentees can identify their career stage and the type of help they need, allowing mentors to select mentees based on their expertise and interest areas.\nMentees play an active role in this mentorship program. They are expected to demonstrate a strong desire for learning and growth, as the value of the mentorship relationship is directly proportional to their commitment and engagement. Mentees are encouraged to take the initiative in following up, setting up meetings, and driving their learning journey. A balanced approach is expected, one that involves proactive engagement from the mentees while ensuring that the mentor’s time is respected.\n\n\n\nFeedback and Improvement\n\nRegular follow-ups and feedback collection from both mentors and mentees to assess the effectiveness of the mentorship and make necessary adjustments.\nConsider running polls within the group for additional feedback and suggestions.\n\n\n\nFAQs\nCan I participate if I’m not from the Philippines?\nYes.\nIs the mentoring program free?\nYes.\nIs there a certification or recognition at the end of the program?\nNone. [maybe in the future recognition for mentors, for mentees, the mentoring is the benefit :D]\nCan the mentor-mentee match be changed?\nYes, as long as both parties are both informed."
-  },
-  {
-    "objectID": "content/Cloud-Free-Tier-Comparison/LICENSE.html",
-    "href": "content/Cloud-Free-Tier-Comparison/LICENSE.html",
+    "objectID": "content/projects/pipeline_basic/readme.html",
+    "href": "content/projects/pipeline_basic/readme.html",
     "title": "Data Engineering Pilipinas",
     "section": "",
-    "text": "MIT License\nCopyright (c) 2020 Cloud Study Network.\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    "text": "This is a basic ETL project"
   },
   {
-    "objectID": "content/projects/ETL-SALES/readme.html",
-    "href": "content/projects/ETL-SALES/readme.html",
-    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
+    "objectID": "content/projects/pipeline_basic/readme.html#basic-etl-project",
+    "href": "content/projects/pipeline_basic/readme.html#basic-etl-project",
+    "title": "Data Engineering Pilipinas",
     "section": "",
-    "text": "This project is an Extract, Transform, Load (ETL) package designed to merge data from various sources, including CSV files, Excel spreadsheets, and a PostgreSQL database, into a single destination database. The ETL process involves cleaning, transforming, and loading data to facilitate efficient analysis and reporting.\n\n\n\n\nExtracts data from CSV files, Excel spreadsheets, and a PostgreSQL database.\nApplies customizable transformations to clean and format the data.\nLoads the transformed data into a single destination database.\n\n\n\n\nRun the ETL pipeline: python PIPELINE_EXEC.py\n\n\n\n420171277_408831038167542_8129673976330505678_n\n\n\ndata set from link : DATA_SOURCE\nI separate csv files into different file sources to demonstrate extracting from different file sources.\nplease see below:\n\n\njanuary to april sales as excel (Sales_January_April_2019)\n\n\n\nmay to august sales as csv(sales_csv folder)\n\n\n\nseptember to december as database (sales_db)"
+    "text": "This is a basic ETL project"
   },
   {
-    "objectID": "content/projects/ETL-SALES/readme.html#overview",
-    "href": "content/projects/ETL-SALES/readme.html#overview",
-    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
+    "objectID": "content/table_index/rmd/create_table.html",
+    "href": "content/table_index/rmd/create_table.html",
+    "title": "Create and populate table",
     "section": "",
-    "text": "This project is an Extract, Transform, Load (ETL) package designed to merge data from various sources, including CSV files, Excel spreadsheets, and a PostgreSQL database, into a single destination database. The ETL process involves cleaning, transforming, and loading data to facilitate efficient analysis and reporting."
+    "text": "For our sample table, we will use a simple 4-column table that is a simulated result of an ETL process from some OLTP DB. We have the following values: - date value: You can think of this as an entry date, or a purchase date - numeric value: You can think of this as quantity of items, or a monetary value - descriptive value: You can think of this as a category code, or a branch code\nWe will then populate our table with 50 million rows randomly generated. These will be inserted in date order ascending. Why 50 million? So that we give the DB a little bit of a workout. A DB will not break a sweat with hundred-thousand-row tables."
   },
   {
-    "objectID": "content/projects/ETL-SALES/readme.html#features",
-    "href": "content/projects/ETL-SALES/readme.html#features",
-    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
+    "objectID": "content/table_index/rmd/create_table.html#create-our-sample-table",
+    "href": "content/table_index/rmd/create_table.html#create-our-sample-table",
+    "title": "Create and populate table",
+    "section": "Create our sample table",
+    "text": "Create our sample table\nFirst, we create our table in our database with the following DDL:\nTake note that at this point, other than the primary key, we do not have any indexes defined.\n\n\n\nField\nData Type\nDescription\n\n\n\n\nid\nINT\nA simple unsigned primary key\n\n\nfk_id\nINT\nA simulated foreign key ID\n\n\narbitrary_value\nINT\nA value we can use aggregate functions on\n\n\nentry_date\nDATETIME\nA datetime value"
+  },
+  {
+    "objectID": "content/table_index/rmd/create_table.html#populate-our-table",
+    "href": "content/table_index/rmd/create_table.html#populate-our-table",
+    "title": "Create and populate table",
+    "section": "Populate our table",
+    "text": "Populate our table\n\nGenerate data\nWe will now generate data for our table. To do this we use fixtuRes. We provide a YML configuration file:\n# sample_table.yml\nsample_table:\n  columns:\n    fk_id:\n      type: integer\n      min: 1\n      max: 100\n    arbitrary_value:\n      type: integer\n      min: 0\n      max: 50\n    entry_date:\n      type: date\n      min: 1973-01-01\n      max: 2023-12-31\n  arrange: entry_date\nWe use MockDataGenerator to create our data. This will produce a table ordered by entry_date. Then we add a sequential id column to have the id in the same order as entry_date.\nThe following is a sample output if we used size = 20:\n\n\nConnect to DB\nWe now establish a connection to our MySQL database server. The RMySQL library has been deprecated in favor of the RMariaDB library.\nIt is always good practice to keep your connection credentials like usernames, passwords, API tokens in your environment variables. Never hard-coded in source code. And never commit your environment variable file to the repo.\n\n\nWrite our data to the DB\nWhile there is a function we can use to write our mock_data to the DB table (dbWriteTable(conn, \"sample_table\", mock_data)), remember that we have 50 million rows. When mock_data is written to a CSV file, it results in a 1.3 GB file. Writing this to the DB will take some time. To avoid hitting the connection time-out constraint we will write the data by batches of date.\nLet’s take a look at what we have.\nDont’ leave any DB connections open!\nNow, we have a 50 million row DB table we can play around with."
+  },
+  {
+    "objectID": "content/table_index/rmd/indexed_table.html",
+    "href": "content/table_index/rmd/indexed_table.html",
+    "title": "Indexed table",
     "section": "",
-    "text": "Extracts data from CSV files, Excel spreadsheets, and a PostgreSQL database.\nApplies customizable transformations to clean and format the data.\nLoads the transformed data into a single destination database."
+    "text": "In the previous chapter, we saw that an SQL DB parses through the whole table to retrieve rows. Because it does not know where the rows that match the provided conditions are, it has to check every row. This is why it does not matter where in the table the rows are located. This is where INDEXes come in."
   },
   {
-    "objectID": "content/projects/ETL-SALES/readme.html#usage",
-    "href": "content/projects/ETL-SALES/readme.html#usage",
-    "title": "ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database",
-    "section": "",
-    "text": "Run the ETL pipeline: python PIPELINE_EXEC.py\n\n\n\n420171277_408831038167542_8129673976330505678_n\n\n\ndata set from link : DATA_SOURCE\nI separate csv files into different file sources to demonstrate extracting from different file sources.\nplease see below:\n\n\njanuary to april sales as excel (Sales_January_April_2019)\n\n\n\nmay to august sales as csv(sales_csv folder)\n\n\n\nseptember to december as database (sales_db)"
+    "objectID": "content/table_index/rmd/indexed_table.html#duplicate-our-table",
+    "href": "content/table_index/rmd/indexed_table.html#duplicate-our-table",
+    "title": "Indexed table",
+    "section": "Duplicate our table",
+    "text": "Duplicate our table\nWe want to keep our non-indexed table so that we can still run non-indexed queries later.\nIt takes about 15 minutes to make a copy.\nThen we add the primary key and indexes for fk_id and entry_date.\nIt takes about 20 minutes to add these indices."
   },
   {
-    "objectID": "content/table_index/readme.html",
-    "href": "content/table_index/readme.html",
-    "title": "Table Indexes",
-    "section": "",
-    "text": "Create and populate table\nHow an RDBMS retrieves data\nIndexed table\n[TODO] Filter by year\n[TODO] Group by year\n\n\n\n\n\nUnraid 6.11.5\nDocker 20.10.21\ni7-4770S 4C/8T\n16GB DDR3\n500GB Crucial MX500 SSD\nOther hardware exist but are not used in this demonstration\n\n\n\n\nThe RDBMS used for this demonstration is MySQL 8.1.0. It is running as a Docker container on top of an Unraid 6.11.5 server. The container instance is running un-constrained. It has full access to the CPU and memory resources. The MySQL data files reside on the SSD. Only the MySQL container will be running during the query executions.\nThe principles and (relative) results will be largely the same when other RDBMS are used. The syntax may be different, however.\n\n\nQuickest RDBMS for me to set up and tear down.\n\n\n\n\nThe raw source documents are written in R Markdown using R 4.3.2. R Markdown is similar in structure and function to a .ipynb Python notebook you may be familiar with.\n\n\nAs data engineers, you will have to support a variety of languages/environments/platforms used by different data-end-users. This is a way to expose you to a language other than Python.\n\n\n\n\n\nNone of the code presented are production-ready. It is advisable to use error-tolerant practices such as tryCatch() and DB transactions when working with DBs.\nAll queries are run only once. Ideally, each should be run at least 5 times, then the mean of each run is taken."
+    "objectID": "content/table_index/rmd/indexed_table.html#database-connection",
+    "href": "content/table_index/rmd/indexed_table.html#database-connection",
+    "title": "Indexed table",
+    "section": "Database Connection",
+    "text": "Database Connection\nIn the background, we set up our environment, connect to the database, and turn on profiling.\nA quick check of our tables:\nOur tables are the same except for the indexes."
   },
   {
-    "objectID": "content/table_index/readme.html#toc",
-    "href": "content/table_index/readme.html#toc",
-    "title": "Table Indexes",
-    "section": "",
-    "text": "Create and populate table\nHow an RDBMS retrieves data\nIndexed table\n[TODO] Filter by year\n[TODO] Group by year"
+    "objectID": "content/table_index/rmd/indexed_table.html#show-profile-function",
+    "href": "content/table_index/rmd/indexed_table.html#show-profile-function",
+    "title": "Indexed table",
+    "section": "Show Profile function",
+    "text": "Show Profile function\nBecause we will run profiling repeatedly, it makes sense to write it into a function."
   },
   {
-    "objectID": "content/table_index/readme.html#server-platform",
-    "href": "content/table_index/readme.html#server-platform",
-    "title": "Table Indexes",
-    "section": "",
-    "text": "Unraid 6.11.5\nDocker 20.10.21\ni7-4770S 4C/8T\n16GB DDR3\n500GB Crucial MX500 SSD\nOther hardware exist but are not used in this demonstration"
+    "objectID": "content/table_index/rmd/indexed_table.html#query-6-run-the-first-day-query-with-the-benefit-of-an-index",
+    "href": "content/table_index/rmd/indexed_table.html#query-6-run-the-first-day-query-with-the-benefit-of-an-index",
+    "title": "Indexed table",
+    "section": "Query 6: Run the “first day” query with the benefit of an index",
+    "text": "Query 6: Run the “first day” query with the benefit of an index\nFrom 17 seconds, we are now down to below 0.007 seconds."
   },
   {
-    "objectID": "content/table_index/readme.html#mysql-rdbms",
-    "href": "content/table_index/readme.html#mysql-rdbms",
-    "title": "Table Indexes",
-    "section": "",
-    "text": "The RDBMS used for this demonstration is MySQL 8.1.0. It is running as a Docker container on top of an Unraid 6.11.5 server. The container instance is running un-constrained. It has full access to the CPU and memory resources. The MySQL data files reside on the SSD. Only the MySQL container will be running during the query executions.\nThe principles and (relative) results will be largely the same when other RDBMS are used. The syntax may be different, however.\n\n\nQuickest RDBMS for me to set up and tear down."
+    "objectID": "content/table_index/rmd/indexed_table.html#query-7-run-the-last-day-query-with-the-benefit-of-an-index",
+    "href": "content/table_index/rmd/indexed_table.html#query-7-run-the-last-day-query-with-the-benefit-of-an-index",
+    "title": "Indexed table",
+    "section": "Query 7: Run the “last day” query with the benefit of an index",
+    "text": "Query 7: Run the “last day” query with the benefit of an index\nIt is the same for our “last day” query. Below 0.007 seconds. The DB is not parsing the entire table anymore.\nBut, this is a little bit of a cheat. Remember that entry_date is already sorted. Rows with the same entry_dates are together. How much difference is there if the needles are scattered all over the table?"
   },
   {
-    "objectID": "content/table_index/readme.html#r-markdown",
-    "href": "content/table_index/readme.html#r-markdown",
-    "title": "Table Indexes",
-    "section": "",
-    "text": "The raw source documents are written in R Markdown using R 4.3.2. R Markdown is similar in structure and function to a .ipynb Python notebook you may be familiar with.\n\n\nAs data engineers, you will have to support a variety of languages/environments/platforms used by different data-end-users. This is a way to expose you to a language other than Python."
+    "objectID": "content/table_index/rmd/indexed_table.html#query-8-retrieve-all-fk_id-45",
+    "href": "content/table_index/rmd/indexed_table.html#query-8-retrieve-all-fk_id-45",
+    "title": "Indexed table",
+    "section": "Query 8: Retrieve all fk_id = 45",
+    "text": "Query 8: Retrieve all fk_id = 45\nWe have a different column we can filter on. fk_id is not sorted. It is randomly distributed across the entire table. Let’s run a baseline on the non-indexed table.\nAs expected, we get about 17 seconds."
   },
   {
-    "objectID": "content/table_index/readme.html#disclaimers",
-    "href": "content/table_index/readme.html#disclaimers",
-    "title": "Table Indexes",
-    "section": "",
-    "text": "None of the code presented are production-ready. It is advisable to use error-tolerant practices such as tryCatch() and DB transactions when working with DBs.\nAll queries are run only once. Ideally, each should be run at least 5 times, then the mean of each run is taken."
+    "objectID": "content/table_index/rmd/indexed_table.html#query-9-retrieve-all-fk_id-45-with-the-help-of-an-index",
+    "href": "content/table_index/rmd/indexed_table.html#query-9-retrieve-all-fk_id-45-with-the-help-of-an-index",
+    "title": "Indexed table",
+    "section": "Query 9: Retrieve all fk_id = 45 with the help of an index",
+    "text": "Query 9: Retrieve all fk_id = 45 with the help of an index\nThen the same query from the indexed table.\nWe have a substantial improvement from 17 seconds to less than 5 seconds."
   },
   {
-    "objectID": "content/table_index/rmd/how_db_works.html",
-    "href": "content/table_index/rmd/how_db_works.html",
-    "title": "How SQL DB server works",
-    "section": "",
-    "text": "In the previous chapter, we set up our sandbox table sample_table with 4 columns and 50 million rows. Now, we will execute a few queries to understand how SQL databases retrieve the rows we request."
-  },
-  {
-    "objectID": "content/table_index/rmd/how_db_works.html#connect-to-the-db",
-    "href": "content/table_index/rmd/how_db_works.html#connect-to-the-db",
-    "title": "How SQL DB server works",
-    "section": "Connect to the DB",
-    "text": "Connect to the DB"
-  },
-  {
-    "objectID": "content/table_index/rmd/how_db_works.html#initial-exploration",
-    "href": "content/table_index/rmd/how_db_works.html#initial-exploration",
-    "title": "How SQL DB server works",
-    "section": "Initial exploration",
-    "text": "Initial exploration\nLet’s take a look at what we are dealing with. We know we have entry_date in the table sorted in ascending order."
-  },
-  {
-    "objectID": "content/table_index/rmd/how_db_works.html#start-mysql-profiling",
-    "href": "content/table_index/rmd/how_db_works.html#start-mysql-profiling",
-    "title": "How SQL DB server works",
-    "section": "Start MySQL profiling",
-    "text": "Start MySQL profiling"
-  },
-  {
-    "objectID": "content/table_index/rmd/how_db_works.html#query-1-retrieve-just-the-first-day",
-    "href": "content/table_index/rmd/how_db_works.html#query-1-retrieve-just-the-first-day",
-    "title": "How SQL DB server works",
-    "section": "Query 1: Retrieve just the first day",
-    "text": "Query 1: Retrieve just the first day\nWe know that the first day we have data for is at the top of the table.\nIt takes around 17 seconds.\nThe DBI library performed commit DB commands after the query, and again, after the SHOW PROFILES command.\nIf you are using a GUI client to connect to your DB, it may show a time for the query to execute. In MySQL Workbench, this would be shown as Duration/Fetch. And for this query, MySQL Workbench shows 0.029 sec / 17.224 sec. The sum of these is roughly the same as the duration shown in the profiles result.\nThe majority of the time is spent in executing."
-  },
-  {
-    "objectID": "content/table_index/rmd/how_db_works.html#query-2-retrieve-just-the-last-day",
-    "href": "content/table_index/rmd/how_db_works.html#query-2-retrieve-just-the-last-day",
-    "title": "How SQL DB server works",
-    "section": "Query 2: Retrieve just the last day",
-    "text": "Query 2: Retrieve just the last day\nLet’s do the same for the last day we have, 2023-12-31. We know that the last day of the data we have is at the end of the table."
+    "objectID": "content/table_index/rmd/indexed_table.html#questions",
+    "href": "content/table_index/rmd/indexed_table.html#questions",
+    "title": "Indexed table",
+    "section": "Questions",
+    "text": "Questions\n\nWhat if we need to filter by year? Or by year-month?"
   },
   {
     "objectID": "datasets.html",
