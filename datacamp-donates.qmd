@@ -6,6 +6,11 @@ description: |
 
 **Scholarship Application Now Open!**
 
+
+<p align="center">
+<img align="center"  height="200" src="images/images/DATA%20ENGINEERING%20-1-modified.png"><img align="center"  height="100" src="images/DC_Donates_logo_regular.png">
+</p>
+
 We’re thrilled to announce that Data Engineering Pilipinas is now a proud partner of DataCamp Donates! Thanks to this partnership, we’re offering exclusive scholarships for free premium access to DataCamp’s top-tier data science courses and resources.
 
 **What to Expect:**
@@ -45,9 +50,7 @@ We’re excited to support your learning journey and can’t wait to see the inc
 
 **Q1: Who is eligible for the DataCamp sponsorship?**
 
-- A1: The DataCamp sponsorship is available to all members of Data Engineering Pilipinas.
-
-If your application has issues that are not covered with the items discussed below, it might take time as we might be getting clearance from DataCamp. So please be patient and make sure to review your compliance to the mechanics.
+- A1: The DataCamp sponsorship is available to all Filipino members of Data Engineering Pilipinas.
 
 **Q2: Why was my application declined or not approved yet?**
 

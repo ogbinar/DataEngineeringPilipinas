@@ -4,101 +4,218 @@ description: |
     Explore a rich collection of community-driven content, featuring insightful videos, blogs, and articles from data engineering experts. These resources offer valuable perspectives on various aspects of data engineering and analytics.
 ---
 
+## Community Content
+
+Explore a rich collection of community-driven content, featuring insightful videos, blogs, and articles from data engineering experts. These resources offer valuable perspectives on various aspects of data engineering and analytics.
+
 ## People and Pages
 
 As a community, we want to support our homegrown content creators and experts. Please check them out as they champion data advocacy:
 
-- [Doc Ligot](https://docligot.com/)
-- [Sherwin Pelayo](https://www.linkedin.com/in/sherwinpelayo/)
-- [Kyle Escosia](https://linktr.ee/klescosia)
-- [Sandy C. Lauguico](https://www.facebook.com/sandy.c.lauguico)
-- [Josh Dev](https://www.facebook.com/profile.php?id=100087019650476)
-- [Kuya Dev](https://www.facebook.com/KuyaDevDotCom)
-- [Dev Stuff with JP](https://www.facebook.com/devstuffwithjp)
-- [Power BI Pilipinas](https://www.facebook.com/powerbipilipinas)
-- [Alex Gamboa](https://www.facebook.com/alexgamboa34/)
-- [Aemyn Obinguar](https://www.facebook.com/aemyn.obinguar)
-- [Furtim Dev](https://www.facebook.com/furtimdev)
-- [Prof. Bob S.](https://www.youtube.com/@thetechedhelpphil4499)
-- [Danielle Meer](https://www.linkedin.com/in/danielle-meer-7b7891209)
-- [Atcha Abe](https://www.facebook.com/athenaaliafe)
-- [The Agile Geek](https://theagilegeek.bio.link/)
+### Data Advocates and Experts
 
-## Blogs and Articles
+- [Doc Ligot](https://docligot.com/) - Prompt responsible adoption of artificial intelligence
+- [Sherwin Pelayo](https://www.linkedin.com/in/sherwinpelayo/) - Strategic national initiatives to nurture a robust analytics and AI ecosystem
+- [Kyle Escosia](https://linktr.ee/klescosia) - Passionately curious about data
+- [Sandy C. Lauguico](https://www.facebook.com/sandy.c.lauguico) - Data Science, Engineering, and AI; Documenting journey to time-money-location freedom and intentional life
+- [Aemyn Obinguar](https://www.facebook.com/aemyn.obinguar) - Fractional Gen AI Engineer
+- [Power BI Pilipinas](https://www.facebook.com/powerbipilipinas) - Official page of the Power BI Pilipinas Community
 
-- [Snowflake in the Philippines](https://medium.com/@kyle.escosia/the-rise-of-snowflake-in-the-philippines-why-its-the-hottest-thing-in-big-data-right-now-9b9d09c11e89) - Kyle Escosia's insights on Snowflake's rise in the Philippines.
-- [UPSERTS and DELETS using AWS Glue and Delta Lake](https://dev.to/awscommunity-asean/sql-based-inserts-deletes-and-upserts-in-s3-using-aws-glue-3-0-and-delta-lake-42f0) - A guide on using AWS Glue with Delta Lake for data operations.
-- [Table Indexes](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/table_index) - An educational piece on the importance and implementation of table indexes.
+### Tech Content Creators
+
+- [Josh Dev](https://www.facebook.com/profile.php?id=100087019650476) - Tech-related content
+- [Kuya Dev](https://www.facebook.com/KuyaDevDotCom) - Tech Career Advice Podcast
+- [Dev Stuff with JP](https://www.facebook.com/devstuffwithjp) - Software Development content in Filipino
+- [Prof. Bob S.](https://www.youtube.com/@thetechedhelpphil4499) - Programming techniques via video
+- [Danielle Meer](https://www.linkedin.com/in/danielle-meer-7b7891209) - Competitive programmer, Esports scholar, Machine Learning Engineer
+- [Atcha Abe](https://www.facebook.com/athenaaliafe) - Learn, Grow, and Empower
+- [The Agile Geek](https://theagilegeek.bio.link/) - Educational resources, Tech tools, and Beyond
+- [Alex Gamboa](https://www.facebook.com/alexgamboa34/) - Data Analyst, BI Developer, Pythonista, and ConTech Creator
+- [Furtim Dev](https://www.facebook.com/furtimdev) - Full-stack Developer | Talks about Web Development, Technology, and everything in between
+- [WokeTech](https://www.facebook.com/WokeTechFB) - Microsoft Applications and Web Development
+- [Botnie Data](https://www.facebook.com/botnie.data) - Aspiring Data Engineer
+- [DAX Jutsu](https://www.facebook.com/DAXJutsuPBI) - Elevated Power BI skills
+
+## Articles
+
+Here are some blogs and instructionals created by our community members. Let’s continue to grow this!
+
+### Big Data and Cloud
+
+- [Snowflake in the Philippines](https://medium.com/@kyle.escosia/the-rise-of-snowflake-in-the-philippines-why-its-the-hottest-thing-in-big-data-right-now-9b9d09c11e89) - Insights on Snowflake’s rise in the Philippines
+- [UPSERTS and DELETES using AWS Glue and Delta Lake](https://dev.to/awscommunity-asean/sql-based-inserts-deletes-and-upserts-in-s3-using-aws-glue-3-0-and-delta-lake-42f0) - Guide on using AWS Glue with Delta Lake for data operations
+
+### Data Engineering
+
+- [Table Indexes](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/table_index) - Importance and implementation of table indexes
+- [Data Manipulation with Pandas Library](https://shell-okra-bc8.notion.site/Data-Manipulation-with-Pandas-Library-d632385aefa94cba90a4529e21f7ba28) - Data manipulation with Pandas Library
+- [Containerization](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/containerization) - Exploration of containerization in data engineering
 
 ## Projects
-- [BUILDING YOUR FIRSTEND-TO-END DATA PORTFOLIO by Josh Dev](https://www.youtube.com/playlist?list=PLtomnyC4qhTwqcZ3DzBhewMNjM_4rHqnO) - Gagawa tayo ng end-to-end data project that involves data pipeline, dashboard, and machine learning pipeline to experience every main data role: data engineer, data analyst, and data scientist. 
-- [Basic ETL project](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/pipeline_basic)
-- [ETL Sales](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-SALES)
-- [ETL Project with Azure Databricks](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-Databricks-code) - A walkthrough of an ETL project using Azure Databricks.
-- [Containerization](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/containerization) - An exploration of containerization in data engineering.
 
+Portfolio development is a critical part of career path in tech. Projects help not only validate but showcase as well the learnings and capabilities of the talent. Here are a few contributions from the community.
+
+### End-to-End Data Projects
+
+- [BUILDING YOUR FIRST END-TO-END DATA PORTFOLIO by Josh Dev](https://www.youtube.com/playlist?list=PLtomnyC4qhTwqcZ3DzBhewMNjM_4rHqnO) - Data pipeline, dashboard, and machine learning pipeline
+
+### Data Challenges
+
+- [Excel Challenges playlist by WokeTech](https://www.facebook.com/watch/100064289431875/410641671673973/) - Different Excel challenges
+- [Data Challenges Megapost by Power BI Pilipinas](https://www.facebook.com/powerbipilipinas/posts/pfbid0vDBSzhuw5ew5zAJPTzvxYXh8ZxVCZYHDUtBFWNYiu5wwzmR3bHQcpkrsa3vbE7Dil) - 11 Data Challenges from different websites
+
+### ETL Projects
+
+- [Basic ETL project](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/pipeline_basic) - Basic ETL project
+- [ETL Sales](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-SALES) - ETL Package: Data Integration from CSV, Excel, and PostgreSQL to a Single Database
+- [ETL Project with Azure Databricks](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/projects/ETL-Databricks-code) - ETL project using Azure Databricks
 
 ## Videos and Presentations
 
-{{< video https://youtu.be/XsvrumL0ILc title="What is Data Engineering Pilipinas?" >}}
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/XsvrumL0ILc" title="What is Data Engineering Pilipinas?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 A brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.
 
-[![Getting Started with Data Engineering](images/video-placeholder.png){width=100%}](https://www.facebook.com/studevph/videos/165090273259790)
-An introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.
+[Getting Started with Data Engineering](https://www.facebook.com/studevph/videos/165090273259790) An introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.
 
-{{< video https://youtu.be/pzxFTFB8f6s title="Building a Career in PH Tech Startups" >}}
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/pzxFTFB8f6s" title="Building a Career in PH Tech Startups" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 A discussion on career opportunities in Philippine Tech Startups, hosted by FWDP Founder David Genesis Pedeglorio, featuring Andoy Montiel, CDO of Packworks.
 
-{{< video https://www.youtube.com/watch?v=_CjsYi9ivlc title="Philippine Skills Framework for AI and Analytics" >}}
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_CjsYi9ivlc" title="Philippine Skills Framework for AI and Analytics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 A video exploring career paths in Analytics in the Philippines, hosted by Doc Ligot and featuring Sherwin Pelayo.
 
-[![TechSync 2023: Synchronizing Filipino Tech Communities](images/video-placeholder.png){width=100%}](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1043806640102969)
-An online event with key thought leaders and content creators in the Filipino tech community.
+[TechSync 2023: Synchronizing Filipino Tech Communities](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1043806640102969) An online event with key thought leaders and content creators in the Filipino tech community.
 
-{{< video https://youtu.be/ivzmUPRqxQ8?si=c_OdyC4FvqOJv6Bq title="Shifting to a Career in Data | RUG-PH 120" >}}
-A panel discussion hosted by R User's Group Philippines on transitioning to a career in data.
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ivzmUPRqxQ8?si=c_OdyC4FvqOJv6Bq" title="Shifting to a Career in Data | RUG-PH 120" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+A panel discussion hosted by R User’s Group Philippines on transitioning to a career in data.
 
-[![Introduction to Big Data and Analytics](images/video-placeholder.png){width=100%}](https://www.facebook.com/watch/live/?ref=search&v=2388014311349277)
-Kyle Escosia's talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.
+[Introduction to Big Data and Analytics](https://www.facebook.com/watch/live/?ref=search&v=2388014311349277) Kyle Escosia’s talk on Big Data and Analytics, recorded live at an AWS Siklab Pilipinas event.
 
-[![Building a Serverless Data Lake in AWS](images/video-placeholder.png){width=100%}](https://www.facebook.com/watch/live/?ref=watch_permalink&v=684903669389073)
-A session by Kyle Escosia on creating a serverless data lake in AWS.
+[Building a Serverless Data Lake in AWS](https://www.facebook.com/watch/live/?ref=watch_permalink&v=684903669389073) A session by Kyle Escosia on creating a serverless data lake in AWS.
 
-{{< video https://www.youtube.com/watch?v=Y9060t-BG0g title="Kwentuhan Nights (February 8, 2024)" >}}
-The "Kwentuhan Meetup" is an online event for members of the Data Engineering Pilipinas group, hosted on Discord. 
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Y9060t-BG0g" title="Kwentuhan Nights (February 8, 2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+The “Kwentuhan Meetup” is an online event for members of the Data Engineering Pilipinas group,
+
+ hosted on Discord.
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/qiKGdaqalT4" title="How I Got Into Data Science WITHOUT a Computer Science Degree | Tips on Working in Tech Philippines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+How I Got Into Data Science WITHOUT a Computer Science Degree | Tips on Working in Tech Philippines
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/zxTGyC7JqY0" title="A PL-300 training session for the Power BI Pilipinas community." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+A PL-300 training session for the Power BI Pilipinas community.
 
 ## Doc Ligot Interviews
 
 ### Kuya Dev
-{{< video https://www.youtube.com/watch?v=QlM6wjRwVZA title="Unlocking the Future: Discussing Shifting into Tech with Kuya Dev" >}}
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/QlM6wjRwVZA" title="Unlocking the Future: Discussing Shifting into Tech with Kuya Dev" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 ### Josh V.
-{{< video https://www.youtube.com/watch?v=w9dtGJz4N-g title="Unlocking Data Engineering with Josh Valdeleon" >}}
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/w9dtGJz4N-g" title="Unlocking Data Engineering with Josh Valdeleon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 ### Sherwin Pelayo
-{{< video https://www.youtube.com/watch?v=_CjsYi9ivlc title="Unlocking Career Opportunities: Philippine Skills Framework for AI and Analytics with Sherwin Pelayo" >}}
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_CjsYi9ivlc" title="Unlocking Career Opportunities: Philippine Skills Framework for AI and Analytics with Sherwin Pelayo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 ### Gerard
-{{< video https://www.youtube.com/watch?v=vaptzZRVVkc title="Discussion on Data Engineering and Analytics with Gerard" >}}
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/vaptzZRVVkc" title="Discussion on Data Engineering and Analytics with Gerard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 ### Xavier Puspus
-{{< video https://www.youtube.com/watch?v=YVC5DjjvGO4 title="Xavier Puspus talks about minting AI engineers through education" >}}
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/YVC5DjjvGO4" title="Xavier Puspus talks about minting AI engineers through education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 ### Noemi
-{{< video https://www.youtube.com/watch?v=FqmFvP9N6Gw title="Discussing Tech and Data Careers with Noemi" >}}
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/FqmFvP9N6Gw" title="Discussing Tech and Data Careers with Noemi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 ### Aemy Obinguar
-{{< video https://www.youtube.com/watch?v=GZcYyILg3kc title="From Dropout to Tech Star: Aemy Obinguar's Inspirational Tale" >}}
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/GZcYyILg3kc" title="From Dropout to Tech Star: Aemy Obinguar's Inspirational Tale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
 ### Sandy Lauguico
-{{< video https://www.youtube.com/watch?v=8pJMFi3kIfQ title="Exclusive Interview: Sandy Lauguico's Data Engineering Transition" >}}
 
-### Neil Bacon's Transition: Discover how Leoneil Bacon moved from Biology to Data.
-{{< video https://www.youtube.com/watch?v=Qq6hbQuf-1I title="Breaking Barriers: How Leoneil Bacon Switched from Biology to Data" >}}
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/8pJMFi3kIfQ" title="Exclusive Interview: Sandy Lauguico's Data Engineering Transition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-### Trisha Nicdao's Journey: Insights into Trisha's shift from ESG to Data Analytics, touching on sustainability and GenZ perspectives.
-{{< video https://www.youtube.com/watch?v=dViAWAVGGSA title="Empowering Change: Trisha Nicdao's Transition from ESG to Data Analytics" >}}
+### Neil Bacon’s Transition: Discover how Leoneil Bacon moved from Biology to Data.
 
-### Angel Felismino's Career Path: From Computer Science to leading in tech talent acquisition.
-{{< video https://www.youtube.com/watch?v=XR4KNGA_Ipc title="From Code to Careers: Angel Felismino's Tech Talent Recruitment Journey" >}}
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Qq6hbQuf-1I" title="Breaking Barriers: How Leoneil Bacon Switched from Biology to Data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-### Emmanuel Irog-Irog's Innovations: Discussing RAG and LLMs with a focus on recent projects.
-{{< video https://www.youtube.com/watch?v=DydcJGyt7Xc title="The Core: Emmanuel Irog-Irog Explores Retrieval Augmented Generation" >}}
+### Trisha Nicdao’s Journey: Insights into Trisha’s shift from ESG to Data Analytics, touching on sustainability and GenZ perspectives.
 
-### Jerel John Velarde's Vision: Using data for enhancing democracy in AI startups.
-{{< video https://www.youtube.com/watch?v=O1JXjUYwWc8 title="Jerel John Velarde's Mission in AI Startups for Democracy" >}}
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/dViAWAVGGSA" title="Empowering Change: Trisha Nicdao's Transition from ESG to Data Analytics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
+### Angel Felismino’s Career Path: From Computer Science to leading in tech talent acquisition.
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/XR4KNGA_Ipc" title="From Code to Careers: Angel Felismino's Tech Talent Recruitment Journey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+### Emmanuel Irog-Irog’s Innovations: Discussing RAG and LLMs with a focus on recent projects.
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/DydcJGyt7Xc" title="The Core: Emmanuel Irog-Irog Explores Retrieval Augmented Generation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+### Jerel John Velarde’s Vision: Using data for enhancing democracy in AI startups.
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/O1JXjUYwWc8" title="Jerel John Velarde's Mission in AI Startups for Democracy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+## Mentoring Program 2024
+
+### Objective
+
+To create a network of mentors and mentees within the DE Pilipinas community, focusing on personalized advice and skill development in data engineering.
+
+### Three Easy Steps
+
+![Mentoring Program - pubmat2](images/DEP - Mentoring Program - pubmat2.png)
+
+1. **Sign Up & Share**: Fill out a quick form to tell us about your skills, interests, and what you’re looking for—whether you want to mentor, learn, or both!
+2. **Pick Your Match**: Browse profiles to find your perfect mentor or mentee. Start the conversation to see if you click, and set up a call to seal the deal.
+3. **Learn & Grow Together**: Dive into your mentorship journey, set goals, and check in regularly. Your feedback helps us make the experience even better for everyone.
+
+### Data Collection
+
+- Utilize forms to collect information from potential mentors and mentees, including areas of expertise or interest, preferred contact methods, and availability.
+- Information to be updated regularly to ensure it reflects current details.
+- Participants must give consent for their information to be shared for pairing purposes.
+- Mentors [register here](https://docs.google.com/forms/d/e/1FAIpQLScaFU5DEu99s0e4CW3400GUIb6jOHf08Ab6eHl1uYF18dN5XA/viewform).
+- Mentees [register here](https://docs.google.com/forms/d/e/1FAIpQLSdU-7wRgeWZ1-qqFzkeUb-GHG3b5Ot7ZSSf56OCWA_pbpSHiw/viewform).
+
+### Pairing Mechanism
+
+- **Self-Initiated Pairing**: Mentors and mentees can select their pairs based on the information provided in the forms.
+- Both mentors and mentees are urged to initiate contact, ideally outlining why they believe a partnership would be beneficial and providing relevant information to help the other party determine if there’s a mentor-mentee fit.
+- Once both parties initially agree to the pairing, they are encouraged to conduct a needs assessment call to confirm compatibility before officially commencing the program.
+- A mentor can have multiple mentees, but a mentee can have one mentor at a time. One can be both a mentor and a mentee.
+- To find a mentor and/or a mentee, [click here](https://docs.google.com/spreadsheets/d/1RVuhgRbFO-TtNYGmTHNWY8oe33MxMrLZ7VSSNGahC64/edit?usp=sharing).
+
+### Mentor Commitment
+
+- Our program places a strong emphasis on supporting our mentors. We believe that by taking good care of our experts, they in turn will be
+
+ better equipped to nurture their mentees.
+- Mentors can specify the number of mentees they are willing to take on and their preferred mentoring strategy: some mentors may prefer a hands-on approach, actively guiding mentees through specific technical stacks. Others may opt for a more advisory role, providing strategic guidance and holding regular check-ins. This allows for a personalized mentorship experience that caters to the unique learning styles and objectives of each mentee.
+- Options for mentor involvement levels help prevent burnout and ensure a productive mentoring relationship.
+
+### Mentee Engagement
+
+- Mentees can identify their career stage and the type of help they need, allowing mentors to select mentees based on their expertise and interest areas.
+- Mentees play an active role in this mentorship program. They are expected to demonstrate a strong desire for learning and growth, as the value of the mentorship relationship is directly proportional to their commitment and engagement. Mentees are encouraged to take the initiative in following up, setting up meetings, and driving their learning journey. A balanced approach is expected, one that involves proactive engagement from the mentees while ensuring that the mentor’s time is respected.
+
+### Feedback and Improvement
+
+- Regular follow-ups and feedback collection from both mentors and mentees to assess the effectiveness of the mentorship and make necessary adjustments.
+- Consider running polls within the group for additional feedback and suggestions.
+
+### FAQs
+
+**Can I participate if I’m not from the Philippines?**
+Yes.
+
+**Is the mentoring program free?**
+Yes.
+
+**Is there a certification or recognition at the end of the program?**
+None. [Maybe in the future recognition for mentors, for mentees, the mentoring is the benefit :D]
+
+**Can the mentor-mentee match be changed?**
+Yes, as long as both parties are informed.
 
