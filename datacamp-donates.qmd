@@ -1,0 +1,103 @@
+---
+title: "DataCamp Donates Application Process"
+description: |
+  Data Engineering Pilipinas is an official DataCamp Donates Partner. Members of the community can avail of FREE DataCamp Access through a scholarship application process.
+---
+
+**Scholarship Application Now Open!**
+
+We’re thrilled to announce that Data Engineering Pilipinas is now a proud partner of DataCamp Donates! Thanks to this partnership, we’re offering exclusive scholarships for free premium access to DataCamp’s top-tier data science courses and resources.
+
+**What to Expect:**
+
+- **Premium Access:** Unlock top-tier data science courses from DataCamp.
+- **Learning Journey:** Enhance your skills and advance your career with cutting-edge content.
+- **Community Support:** Join a network of like-minded learners and grow together.
+
+**Important Dates:**
+
+- **Application Deadline:** July 12, 2024
+
+**Rules and Expectations:**
+
+- **Monthly Assignments:** 4,000 XP (roughly 3 hours of learning per month)
+- **Use Hashtags:** Tag @DataCamp and use #dcdonates in your posts to keep the community updated.
+- **Engage with Content:** Actively participate in the courses and engage with other learners.
+- **Share Success Stories:** We’d love to hear and share your success stories! Let us know how the courses are helping you grow.
+
+**What You Need to Do:**
+
+- **Apply Now:** Submit your application for the scholarship.
+- **Engage:** Plan to actively participate and complete courses.
+- **Finish Monthly Assignment:** 4,000 XP, failed to do so will have your access revoked.
+
+We’re excited to support your learning journey and can’t wait to see the incredible progress you make. Apply today and take the first step towards mastering data science!
+
+#DataCampDonates #Scholarship #DataEngineeringPilipinas #DataAnalysis #DataScience #DataEngineering #MachineLearning #ArtificialIntelligence #DataLiteracy #ApplyNow #dcdonates
+
+**Start Your Application:**
+
+- [APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSeY42PZsUjEI81_1i_P6hPWGanXW8QxMhgGg44gKsZMrZfPvA/viewform)
+
+---
+
+**DEP x DC Donates - Frequently Asked Questions**
+
+**Q1: Who is eligible for the DataCamp sponsorship?**
+
+- A1: The DataCamp sponsorship is available to all members of Data Engineering Pilipinas.
+
+If your application has issues that are not covered with the items discussed below, it might take time as we might be getting clearance from DataCamp. So please be patient and make sure to review your compliance to the mechanics.
+
+**Q2: Why was my application declined or not approved yet?**
+
+- A2: Applications may be declined or not approved yet for several reasons, including:
+  - Each application is reviewed comprehensively to ensure that only genuine applicants receive approval.
+  - **Incomplete Information:** Your application may be missing critical details such as full name, correct birthday, city, country, or other required information.
+  - **Incorrect Information:** Provided details might be inaccurate or unverifiable.
+  - **Pending Review:** Your application might still be under review; please allow some time for the process.
+
+To address these issues, ensure all information provided is complete and accurate.
+
+**Q3: How can I avoid common mistakes in my application?**
+
+- A3: To avoid common mistakes:
+  - **Carefully Read Instructions:** Follow all instructions on the application form.
+  - **Provide Accurate Information:** Ensure personal details like full name, birthday, city, and country are correct.
+  - **Complete All Sections:** Fill out every section of the form completely.
+
+**Q4: What should I do if my application is incomplete?**
+
+- A4: If you suspect your application is incomplete:
+  - **Double-check Personal Details:** Ensure full name, correct birthday, city, country, and other required information are accurately filled.
+  - **Complete the Form:** Fill out all sections of the form.
+
+If it has been a while since submission without a response, review and complete your application.
+
+**Q5: How will I know if my application has been approved?**
+
+- A5: If approved, you will receive a confirmation email with next steps. If no confirmation is received within the expected timeframe, your application may still be under review.
+
+**Q6: Is there a chance that my access will be revoked?**
+
+- A6: There are a few mechanics that will entail removal of DataCamp access.
+  - **Non-Acceptance:** If you have been invited but do not accept after a few reminders, your invitation will be withdrawn.
+  - **Non-Usage:** Accounts are being monitored and if they are not being used, we will revoke your access.
+
+We only have limited slots for the partnership and we want to prioritize access to those that need and will use the platform.
+
+**Q7: I really like this initiative, how do I support it?**
+
+- A7: You can support it through the following:
+  - Invite your friends that are interested in data to join our community.
+  - Invite people to apply to our [DEP x DC Scholarship Program](https://www.facebook.com/groups/dataengineeringpilipinas/posts/1402204577082272/).
+  - Post about your journey and successes and follow the posting rules in social media found [here](https://dataengineering.ph/datacamp-donates.html#rules-and-expectations).
+  - Help other learners in the Data Engineering Community by answering their questions, sharing your thoughts and best practices, and promoting the program.
+  - Share your milestones and success stories to DataCamp [here](https://docs.google.com/forms/d/e/1FAIpQLSc3d-ApKJDxLztekpShKK3GCVdhWWyj7B_voYcT1nt3DreuSg/viewform).
+
+**Q8: Who can I contact if I have questions about my application?**
+
+- A8: Kindly review the DATACAMP DONATES x DEP Partnership mechanics for further guidance or ask the community. Visit [Data Engineering Pilipinas](https://dataengineering.ph/) and join the different DEP communities to connect with other members.
+
+---
+
