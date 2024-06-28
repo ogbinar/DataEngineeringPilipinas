@@ -2,19 +2,25 @@
 title: "Study Roadmap for Beginners"
 description: |
     Embark on your journey in data engineering with our specially curated study roadmap for beginners. The following are different guides written by people to help learners out. They  provide a structured path for newcomers, covering foundational concepts, essential tools, and key technologies in the field. Ideal for those starting out, these roadmaps are your first step towards mastering data engineering and other data roles. Good luck!
+toc: true
 ---
 
-### Data Engineering - by Sandy
+## Roadmaps
+
+### Data Engineering by Sandy
+
 - [DataEngineerRoadmap_Notion](https://shadow-blue-572.notion.site/b880b4ef0b1445aabec127442b97c79f?v=0a45fb3e2b5946d59708797eeea16671) - Data Engineering roadmap with a variety of course options from free to paid.
 
 ### Roadmap.sh
+
 - [SQL Roadmap](https://roadmap.sh/sql) - A guide for becoming proficient in SQL.
 - [PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql-dba) - A roadmap for those aspiring to become PostgreSQL Database Administrators.
 - [Python Roadmap](https://roadmap.sh/python) - A detailed path for learning Python programming.
 - [Backend Development Roadmap](https://roadmap.sh/backend) - A guide for becoming a Backend Developer.
 - [AI & Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist) - A comprehensive path for aspiring AI and Data Scientists.
 
-### I.AM.AI Roadmaps
+### I.AM.AI
+
 - [Fundamentals Roadmap](https://i.am.ai/roadmap/#fundamentals) - A guide for understanding the fundamentals necessary in AI and machine learning.
 - [Data Science Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - A comprehensive guide to becoming a Data Scientist.
 - [Machine Learning Roadmap](https://i.am.ai/roadmap/#machine-learning-roadmap) - A detailed pathway for learning Machine Learning.
@@ -22,85 +28,351 @@ description: |
 - [Data Engineer Roadmap](https://i.am.ai/roadmap/#data-engineer-roadmap) - A roadmap for becoming a Data Engineer.
 - [Big Data Engineer Roadmap](https://i.am.ai/roadmap/#big-data-engineer-roadmap) - A guide for those looking to specialize in Big Data Engineering.
 
-### Surfalytics Roadmap
-- [Ultimate Data Analytics Career Roadmap](https://blog.surfalytics.com/p/ultimate-data-analytics-career-roadmap) - From Data Analyst to Data Engineer as Individual Contributed (IC)
+### Surfalytics
 
-### Data Camp Roadmaps By Nicksy 
+- [Ultimate Data Analytics Career Roadmap](https://blog.surfalytics.com/p/ultimate-data-analytics-career-roadmap) - From Data Analyst to Data Engineer as Individual Contributor (IC).
+
+### Data Camp Roadmaps By Nicksy
+
 These are specific courses from Data Camp curated by Nicksy.
 
 #### Data Engineering
-![Data Engineering](images/DataCamp%20-%20Data%20Engineer%20Track.png)
 
-- **Foundational Data Engineering Skills**
-  - Understanding Data Engineering (Beginner)
-  - Introduction to Data Visualization (Beginner)
-  - Understanding Cloud Computing (Beginner)
-  - Introduction to Git (Beginner)
-  - Introduction to Shell (Beginner)
-  - Project: Designing a Bank Marketing Database (Project)
+![Data Engineering](images/DataCamp - Data Engineer Track.png)
 
-- **SQL Data Management**
-  - Introduction to SQL (Beginner)
-  - Intermediate SQL (Intermediate)
-  - Joining Data in SQL (Intermediate)
-  - Introduction to Relational Databases in SQL (Intermediate)
-  - Database Design (Advanced)
-  - Streamlined Data Ingestion with pandas (Intermediate)
+**Foundational Data Engineering Skills**
 
-- **Python Programming and Data Handling**
-  - Introduction to Python (Beginner)
-  - Intermediate Python (Intermediate)
-  - Introduction to Importing Data in Python (Intermediate)
-  - Data Manipulation with pandas (Intermediate)
-  - Joining Data with pandas (Intermediate)
-  - Python Data Science Toolbox (Part 1) (Intermediate)
-  - Python Data Science Toolbox (Part 2) (Intermediate)
-  - Software Engineering Principles in Python (Intermediate)
-  - Cleaning Data in Python (Intermediate)
-  - Data Types for Data Science in Python (Intermediate)
-  - Writing Efficient Python Code (Advanced)
+- Understanding Data Engineering (Beginner)
+- Introduction to Data Visualization (Beginner)
+- Understanding Cloud Computing (Beginner)
+- Introduction to Git (Beginner)
+- Introduction to Shell (Beginner)
+- Project: Designing a Bank Marketing Database (Project)
+
+**SQL Data Management**
+
+- Introduction to SQL (Beginner)
+- Intermediate SQL (Intermediate)
+- Joining Data in SQL (Intermediate)
+- Introduction to Relational Databases in SQL (Intermediate)
+- Database Design (Advanced)
+- Streamlined Data Ingestion with pandas (Intermediate)
+
+**Python Programming and Data Handling**
+
+- Introduction to Python (Beginner)
+- Intermediate Python (Intermediate)
+- Introduction to Importing Data in Python (Intermediate)
+- Data Manipulation with pandas (Intermediate)
+- Joining Data with pandas (Intermediate)
+- Python Data Science Toolbox (Part 1) (Intermediate)
+- Python Data Science Toolbox (Part 2) (Intermediate)
+- Software Engineering Principles in Python (Intermediate)
+- Cleaning Data in Python (Intermediate)
+- Data Types for Data Science in Python (Intermediate)
+- Writing Efficient Python Code (Advanced)
 
 #### Data Analyst
-![Data Analyst](images/DataCamp%20-%20Data%20Analyst%20Track.png)
 
-- **Data Analyst in SQL Path**
-  - Introduction to SQL (Beginner)
-  - Intermediate SQL (Intermediate)
-  - Joining Data in SQL (Intermediate)
-  - Data Manipulation in SQL (Intermediate)
-  - PostgreSQL Summary Stats and Window Functions (Advanced)
-  - Functions for Manipulating Data in PostgreSQL (Advanced)
-  - Data-Driven Decision Making in SQL (Advanced)
-  - Exploratory Data Analysis in SQL (Advanced)
-  - Project: When Was the Golden Age of Video Games? (Project)
+![Data Analyst](images/DataCamp - Data Analyst Track.png)
 
-- **Data Analyst in Python Path**
-  - Introduction to Python (Beginner)
-  - Intermediate Python (Intermediate)
-  - Data Manipulation with pandas (Intermediate)
-  - Introduction to Data Science in Python (Intermediate)
-  - Introduction to Data Visualization with Seaborn (Intermediate)
-  - Introduction to Statistics in Python (Intermediate)
-  - Joining Data with pandas (Intermediate)
-  - Sampling in Python (Advanced)
-  - Hypothesis Testing in Python (Advanced)
-  - Exploratory Data Analysis in Python (Advanced)
+**Data Analyst in SQL Path**
 
-- **Data Analyst in R Path**
-  - Introduction to R (Beginner)
-  - Intermediate R (Intermediate)
-  - Introduction to the Tidyverse (Intermediate)
-  - Data Manipulation with dplyr (Intermediate)
-  - Introduction to Data Visualization with ggplot2 (Intermediate)
-  - Introduction to Statistics in R (Intermediate)
-  - Joining Data with dplyr (Intermediate)
-  - Sampling in R (Advanced)
-  - Hypothesis Testing in R (Advanced)
-  - Exploratory Data Analysis in R (Advanced)
+- Introduction to SQL (Beginner)
+- Intermediate SQL (Intermediate)
+- Joining Data in SQL (Intermediate)
+- Data Manipulation in SQL (Intermediate)
+- PostgreSQL Summary Stats and Window Functions (Advanced)
+- Functions for Manipulating Data in PostgreSQL (Advanced)
+- Data-Driven Decision Making in SQL (Advanced)
+- Exploratory Data Analysis in SQL (Advanced)
+- Project: When Was the Golden Age of Video Games? (Project)
 
-### <a href="content/data-engineering-101.qmd">Read more about Data Engineering 101</a>
+**Data Analyst in Python Path**
 
-## What does a career in data look like? 
+- Introduction to Python (Beginner)
+- Intermediate Python (Intermediate)
+- Data Manipulation with pandas (Intermediate)
+- Introduction to Data Science in Python (Intermediate)
+- Introduction to Data Visualization with Seaborn (Intermediate)
+- Introduction to Statistics in Python (Intermediate)
+- Joining Data with pandas (Intermediate)
+- Sampling in Python (Advanced)
+- Hypothesis Testing in Python (Advanced)
+- Exploratory Data Analysis in Python (Advanced)
+
+**Data Analyst in R Path**
+
+- Introduction to R (Beginner)
+- Intermediate R (Intermediate)
+- Introduction to the Tidyverse (Intermediate)
+- Data Manipulation with dplyr (Intermediate)
+- Introduction to Data Visualization with ggplot2 (Intermediate)
+- Introduction to Statistics in R (Intermediate)
+- Joining Data with dplyr (Intermediate)
+- Sampling in R (Advanced)
+- Hypothesis Testing in R (Advanced)
+- Exploratory Data Analysis in R (Advanced)
+
+### Globe.engineer
+
+- You can use [this](https://explorer.globe.engineer/) to generate your own custom study roadmap.
+
+### Data Engineering 101
+
+- Check this to [Read more about Data Engineering 101](content/data-engineering-101.qmd).
+
+### Philippines Skills Framework
+
 Below is an on-going project to propose a professional skills framework for data, analytics, and AI careers in the Philippines.
 
-- [Proposed Professional Skills Framework ANALYTICS & ARTIFICIAL INTELLIGENCE](https://psf-aai.vercel.app/)
+- [Proposed Professional Skills Framework ANALYTICS & ARTIFICIAL INTELLIGENCE](https://psf-aai.vercel.app/).
+
+## Formal and Continuing Education
+
+This list provides options for formal education in the Philippines with respect to data and technology programs.
+
+### Recommended Traditional Degrees
+
+Here are a few recommended degrees that serve as good foundation for these type of work. Note that this is not a critical requirement as anyone can career shift to any role given enough time and upskilling. Please don’t treat this as a restriction but more of a guide on the relevant skillsets or learning outcomes that you would want when taking on these roles.
+
+#### 1. Data Analyst
+
+1. **Bachelor of Science in Statistics** - Central to understanding data analysis, this degree equips students with essential skills in data interpretation, probability, and statistical analysis.
+2. **Bachelor of Science in Mathematics** - Provides comprehensive training in analytical thinking and problem-solving, which are critical for analyzing and deriving insights from data.
+3. **Bachelor of Science in Computer Science** - Teaches programming, algorithms, and data structures, which are crucial for data manipulation and analysis.
+
+#### 2. Data Engineer
+
+1. **Bachelor of Science in Computer Science** - Offers essential knowledge in software development, algorithms, and systems design necessary for building and optimizing data systems.
+2. **Bachelor of Science in Electrical Engineering** - Includes training in digital systems and circuit design, which can be crucial for understanding the hardware aspect of data processing and storage.
+3. **Bachelor of Science in Information Technology** - Focuses on database management, system administration, and networking, foundational for maintaining robust data pipelines and architectures.
+
+#### 3. Data Steward
+
+1. **Bachelor of Science in Information Systems** - Emphasizes the management of information systems and data governance, which align well with the responsibilities of data stewardship.
+2. **Bachelor of Science in Business Administration** - With a focus on management information systems, this degree helps in understanding the business implications of data management.
+3. **Bachelor of Science in Library Science** - Although less common, this degree covers data curation and management, critical for overseeing data lifecycle management and governance.
+
+#### 4. Data Scientist
+
+1. **Bachelor of Science in Statistics** - Provides a strong statistical background necessary for data modeling, statistical testing, and data-driven decision-making.
+2. **Bachelor of Science in Mathematics** - Essential for understanding the underlying algorithms used in data science, including linear algebra and numerical methods.
+3. **Bachelor of Science in Computer Science** - Helps in mastering the technical and computational skills needed to handle large datasets and perform complex data analysis.
+
+#### 5. AI / ML Engineer
+
+1. **Bachelor of Science in Computer Science** - Fundamental for understanding algorithms, machine learning, and software development, which are core to AI/ML engineering.
+2. **Bachelor of Science in Mathematics** - Key for developing algorithms and models in AI and ML, especially through courses in statistics, probability, and abstract math.
+3. **Bachelor of Science in Cognitive Science** - Offers interdisciplinary insights into how the human mind works, which can be invaluable in developing AI that mimics human decision-making processes.
+
+### Graduate Programs in Data Science and Related Fields in the Philippines
+
+These are the more traditional universities with data programs in the Philippines.
+
+- [UPD Department of Statistics](http://www.stat.upd.edu.ph/uploads/2021/03/03/PMDSA_Info.pdf)
+- [UPD College of Science](https://sites.google.com/science.upd.edu.ph/upd-data-science/)
+- [UPD College
+
+ of Engineering](https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/)
+- [TIP Graduate Programs](https://www.tip.edu.ph/what-we-offer/graduate-programs/tip-manila/professional-science-masters-psm-degrees/professional-science-masters-degree-in-data-science/)
+- [DLSU Data Science Institute](https://altdsi.dlsu.edu.ph/programs/masters)
+- [MSAI Program](https://batstate-u.edu.ph/wp-content/uploads/2021/06/Master-of-Science-in-Artificial-Intelligence-MSAI.pdf)
+- [Mapua Institute of Technology](http://it.mapua.edu.ph/content/master-business-analytics)
+- [ADMU Global](https://global.ateneo.edu/designingtomorrow/data-science/master-science-data-science)
+- [AIM MSc in Data Science](https://asite.aim.edu/programs/master-of-science-in-data-science/)
+- [UA&P Graduate Programs](https://uap.asia/graduate-programs/applied-business-analytics)
+
+### Open Universities
+
+An open university is a university with an open-door academic policy, with minimal or no entry requirements. Open universities may employ specific teaching methods, such as open supported learning or distance education.
+
+- [Cap College E-Learning](https://elearning.capcollege.com.ph/)
+- [PUP Open University](https://www.pup.edu.ph/ous/)
+- [UP Open University](https://www.upou.edu.ph/home/)
+- [Mapua Malayan Digital College](https://www.mmdc.mcl.edu.ph/)
+
+### Expanded Tertiary Education Equivalency and Accreditation(ETEEAP)
+
+The ETEEAP is a comprehensive educational assessment program at the tertiary level that recognizes, accredits and gives equivalencies to knowledge, skills, attitudes and values gained by individuals from relevant work.
+
+- [What is ETEEAP?](https://eteeap.org/what-is-eteeap)
+- [CHED Program Information](https://ched.gov.ph/expanded-tertiary-education-equivalency-accreditationeteeap/)
+- [ETEEAP, panukalang gawing mas accessible - VIDEO](https://www.youtube.com/watch?v=8bRlgTx7uOw)
+- [ETEEAP, Program Details - VIDEO](https://www.youtube.com/watch?v=S7Bn3SQOl7M)
+- [List of schools and programs that are part of ETEEAP](https://eteeap.org/dhei-2022/)
+
+## Internships and Work Opportunities in the Philippines
+
+This list provides curated links to sites offering internship and work opportunities in the Philippines, focusing on various sectors and fields.
+
+### Internships in the Philippines
+
+Here are some valuable resources for finding internships across a wide range of industries:
+
+- [Prosple Philippines](https://ph.prosple.com/)
+- [KadaKareer](https://www.kadakareer.com/)
+- [Startup Philippines Internships (Facebook Group)](https://www.facebook.com/groups/startupphilippinesinternships/)
+- [Indeed Internships in the Philippines](https://ph.indeed.com/q-internship-philippines-jobs.html)
+- [Google Search: Philippines Internship Jobs](https://www.google.com/search?q=philippines+jobs+internship)
+
+### Work in the Philippines
+
+Explore these links for career opportunities and job postings in the Philippines, particularly for startup and technology-related positions:
+
+- [LinkedIn Jobs](https://www.linkedin.com/jobs)
+- [JobStreet Philippines](https://www.jobstreet.com.ph/)
+- [Indeed Philippines](https://ph.indeed.com/)
+- [Y Combinator Jobs in Manila](https://www.ycombinator.com/jobs/location/manila)
+- [Startup PH Jobs (Facebook Group)](https://www.facebook.com/groups/startupphjobs/)
+- [Remote Work Jobs in PH](https://www.shepherdcareers.com/)
+
+### Finding Creative Work Experience
+
+For individuals interested in data-related fields, finding the right internships and experience-building opportunities can greatly enhance their career prospects.
+
+1. **Hackathons and Data Competitions**: Engage in local hackathons or online data competitions focused on Filipino concerns or sponsored by local companies. Try to start [here](https://www.facebook.com/groups/philhacks/) and [here](https://www.facebook.com/groups/philippinehackathons/).
+2. **Volunteering for Nonprofits**: Offer your data analysis skills to local nonprofits in the Philippines, this includes NGOs, Churches, and Community Orgs. You can start [here](https://en.wikipedia.org/wiki/Category:Non-profit_organizations_based_in_the_Philippines).
+3. **University Research Projects**: If you’re a student or have connections with educational institutions, consider joining research projects at universities which frequently conduct studies requiring significant data analysis. You can start [here](https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_the_Philippines).
+4. **Freelance Projects**: Filipino data enthusiasts can find freelance data gigs on platforms like Onlinejobs.ph and Freelancer.ph, which cater to local freelancers and often have postings for data analysis projects. I suggest connecting with the [r/buhaydigital](https://www.reddit.com/r/buhaydigital) group and starting with their list [here](https://www.reddit.com/r/buhaydigital/comments/nsizxz/the_mega_list_for_finding_online_work/).
+5. **Open Source Project Contributions**: Contributing to open source projects that benefit the local community or address specific Filipino issues can be particularly rewarding. This not only builds your portfolio but also helps address local challenges through technology. You can start by joining their group [here](https://www.facebook.com/groups/1124056441604702).
+6. **Industry Conferences and Meetups**: Participate in industry conferences or meetups in major cities like Manila, Cebu, or Davao. Events that provide networking opportunities with data professionals and can lead to internship offers. Orgs such as [AAP](https://aap.ph/) and [DEVCON](https://devcon.ph/) are great places to start.
+7. **Online Internship Platforms Specific to Tech**: Utilize platforms like [kalibrr.com](https://kalibrr.com) and [jobstreet.com.ph](https://jobstreet.com.ph), which frequently list internships and entry-level positions in tech-focused roles within the Philippines.
+8. **Government and Public Data Initiatives**: Get involved with projects sponsored by the Philippine government. Places to start are [PSA](https://psa.gov.ph/career), [DOSTA-ASTI](https://asti.dost.gov.ph/transparency/careers/), and [DICT](https://dict.gov.ph/dictcareers/).
+9. **Corporate Summer Trainee Programs**: Look into summer trainee programs in companies which have data-intensive roles focusing on business intelligence and customer data analytics. A place to start is this [list](https://ph.prosple.com/top-employers).
+10. **Social Media Groups and Online Communities**: Join local groups on social media such as [r/TechCareerShifter](https://www.reddit.com/r/TechCareerShifter/), [Linkedin Filipino Professionals](https://www.linkedin.com/groups/21601/), and [Data Analyst Job Hiring Philippines in Facebook](https://www.facebook.com/groups/dataanalystjobsphilippines).
+
+## Build A Portfolio
+
+Building a professional portfolio is crucial for showcasing your skills and projects to potential employers or clients. Here are some valuable resources to help you create and enhance your portfolio:
+
+- [Data Engineer Portfolio Project Ideas](https://weclouddata.com/career-guides/data-engineer/data-engineer-portfolio-project/) - Provides a range of project ideas and guidance on building a portfolio that stands out for data engineering roles.
+- [Data Engineering Projects for Beginners - Simplilearn](https://www.simplilearn.com/tutorials/big-data-tutorial/data-engineering-projects) - Offers tutorials and project ideas for beginners in data engineering, helping you to start building your portfolio with practical experience.
+
+### Data Engineering Projects
+
+This list provides a selection of data engineering projects suitable for beginners to advanced learners, offering practical experience and skills development in various aspects of data engineering. We do not advise doing all of them but try to do AT LEAST ONE.
+
+#### Beginner Projects
+
+Start your data engineering journey with these projects, which are designed for those new to the field.
+
+- [Data Engineering Project for Beginners - Batch Edition](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/)
+- [Data Engineering Projects with Free Template](https://www.startdataengineering.com/post/data-engineering-projects-with-free-template/)
+- [Reddit API Pipeline](https://github.com/ABZ-Aaron/Reddit-API-Pipeline)
+
+#### Intermediate Projects
+
+These projects are designed for those who have some foundational knowledge and are looking to tackle more complex tasks.
+
+- [Data Engineering Project to Impress Hiring Managers](https://www.startdataengineering.com/post/data-engineering-project-to-impress-hiring-managers/)
+- [Audiophile E2E Pipeline](https://github.com/ris-tlp/audiophile-e2e-pipeline)
+- [Surf Dash](https://github.com/andrem8/surf_dash)
+- [Finnhub Streaming Data Pipeline](https://github.com/RSKriegs/finnhub-streaming-data-pipeline)
+- [Streamify](https://github.com/ankurchavda/streamify)
+
+#### Advanced Projects
+
+For those ready to challenge themselves, these advanced projects require a solid understanding of data systems and engineering principles.
+
+- [Data Engineering Project E2E](https://www.startdataengineering.com/post/data-engineering-project-e2e/)
+- [Data Engineering Best Practices](https://www.startdataengineering.com
+
+/post/de_best_practices/)
+- [Trino Getting Started with Hive and MinIO](https://github.com/bitsondatadev/trino-getting-started/tree/main/hive/trino-minio)
+- [Magic The Gathering Data Project](https://github.com/VincenzoGalante/magic-the-gathering)
+
+### Data Analysis and Visualization Projects
+
+- [Adventure Works](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks) - Create your own version of the AdventureWorks analysis, use any tool for the analysis and visualization. The dataset is also available on the internet, an example is in [Kaggle](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables).
+- [Northwind Traders](https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs) - Create your own version of the Northwind Traders analysis, use any tool for the analysis and visualization. The dataset is also available on the internet, an example is in [Kaggle](https://www.kaggle.com/datasets/jeetahirwar/northwind-traders).
+- [Wide World Importers](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0) - Create your own version of the Wide World Importers analysis, use any tool for the analysis and visualization. The dataset is also available on the internet, an example is in [Kaggle](https://www.kaggle.com/datasets/pauloviniciusornelas/wwimporters).
+
+### Data Science Projects
+
+- [Ordinary Least Squares using Statsmodels](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html)
+- [Classification with Titanic Dataset](https://www.kaggle.com/code/samsonqian/titanic-guide-with-sklearn-and-eda)
+- [KMeans Clustering with Customer Data](https://www.kaggle.com/code/heeraldedhia/kmeans-clustering-for-customer-data)
+- [Regression and House Prices](https://www.kaggle.com/code/auxeno/linear-regression-masterclass-ml)
+
+### Project Guides From Community
+
+You can check project suggestions and guides from the community [here](community.qmd#projects).
+
+## Getting Certificates
+
+One of the common ways professionals use to validate their knowledge is thru the presentation of certs. Just know that experience and actual projects are still better than certificates! In general Certs != Jobs okay? Let’s get on by looking at the two kinds:
+
+| **Aspect**       | **Certificate**                                                      | **Certification**                                                        |
+| ---------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Definition**   | A document awarded after completing a specific course or program.    | A credential awarded after passing an exam, showing proficiency in a field. |
+| **Scope**        | Focused on a specific subject or skill.                              | Covers a comprehensive range of skills or knowledge in a professional field. |
+| **Duration**     | Short-term, ranging from a few hours to several months.              | Often requires ongoing education and re-certification to maintain validity. |
+| **Issued By**    | Educational institutions, online platforms, or professional training bodies. | Professional organizations or certification bodies that set industry standards. |
+| **Purpose**      | Educational, aimed at broadening skills and knowledge for personal or career development. | Validates professional expertise and typically required for certain jobs or career advancement. |
+
+### Paid Certifications
+
+Here are some examples of PAID certifications. These things cost time and money, but are pretty much industry standards and fairly popular and are usually supported by large vendors and companies.
+
+#### Cloud and Platform Specific Certifications
+
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?trk_ref=articleProductCard)
+- [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals?trk_ref=articleProductCard)
+- [AWS Certified Database – Specialty exam (DBS-C01)](https://aws.amazon.com/certification/certified-database-specialty/)
+- [Professional Cloud Database Engineer - Google](https://cloud.google.com/certification/cloud-database-engineer)
+- [Professional Data Engineer - Google](https://cloud.google.com/certification/data-engineer)
+
+#### Microsoft Certifications
+
+- [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst?trk_ref=articleProductCard)
+- [Microsoft Azure Data Fundamentals - DP-900](https://learn.microsoft.com/en-us/certifications/exams/dp-900)
+- [Data Engineering on Microsoft Azure - DP-203](https://learn.microsoft.com/en-us/certifications/exams/dp-203)
+- [Administering Microsoft Azure SQL Solutions - DP-300](https://learn.microsoft.com/en-us/certifications/exams/dp-300)
+- [Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB - DP-420](https://learn.microsoft.com/en-us/certifications/exams/dp-420)
+- [Microsoft Access Expert (Office 2019) - MO-500](https://learn.microsoft.com/en-us/certifications/exams/mo-500)
+
+#### Oracle and MySQL Certifications
+
+- [Oracle Database SQL Certified Associate Certification (1Z0-071)](https://education.oracle.com/oracle-database-sql-certified-associate/trackp_457)
+- [Oracle Database PL/SQL Developer Certified Professional (1Z0-149)](https://education.oracle.com/oracle-database-pl-sql-developer-certified-professional/trackp_OCPPLSQL19C)
+- [MySQL 8.0 Database Developer Oracle Certified Professional (1Z0-909)](https://education.oracle.com/mysql-80-database-developer-oracle-certified-professional/trackp_MYSQLPRG80OCP)
+
+#### Open Source and Other Databases
+
+- [MariaDB Certification Exam](https://mariadb.com/wp-content/uploads/2019/02/mariadb-certification-exam_datasheet_1005.pdf)
+- [PostgreSQL 12 Associate Certification](https://www.enterprisedb.com/course/postgresql-12-associate-certification)
+- [PostgreSQL 12 Professional Certification](https://www.enterprisedb.com/training/postgres-certification)
+- [MongoDB Associate Developer Exam](https://learn.mongodb.com/pages/mongodb-associate-developer-exam?_ga=2.155876411.143515463.1668790358-1726176162.1668790358)
+- [SAP Certified Development Associate – SAP HANA 2.0 SPS05](https://training.sap.com/certification/c_hanadev_17-sap-certified-development-associate---sap-hana-20-sps05-g/)
+- [SingleStoreDB Certified Developer Exam](https://www.singlestore.com/certification/#singlestoredb-certified-developer-exam)
+
+#### Specialty and Advanced Certifications
+
+- [Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)
+- [Databricks Certified Data Engineer Professional](https://www.databricks.com/learn/certification/data-engineer-professional)
+- [SnowPro® Core Certification – Snowflake](https://learn.snowflake.com/en/certifications/snowpro-core/)
+- [SnowPro® Advanced Data Engineer – Snowflake](https://learn.snowflake.com/en/certifications/snowpro-advanced-dataengineer/)
+- [SnowPro® Advanced Data Analyst – Snowflake](https://learn.snowflake.com/en/certifications/snowpro-advanced-dataanalyst/)
+- [SnowPro® Advanced Data Scientist – Snowflake](https://learn.snowflake.com/en/certifications/snowpro-advanced-datascientist/)
+- [SnowPro® Advanced Architect – Snowflake](https://learn.snowflake.com/en/certifications/snowpro-advanced-architect/)
+- [SnowPro® Advanced Administrator – Snowflake](https://learn.snowflake.com/en/certifications/snowpro-advanced-administrator/)
+- [Vantage Certified Associate Exam 2.3 TDVAN1 - Teradata](https://www.teradata.com/University/Certification/Vantage-Certifications/Associate-Exam-2-3)
+- [Vantage Data Engineering Exam (TDVAN4) - Teradata](https://www.teradata.com/University/Certification/Vantage-Certifications/Data-Engineering-Exam)
+- [dbt Analytics Engineering Certification Exam](https://www.getdbt.com/certifications/analytics-engineer-certification-exam/)
+- [Airflow Certification](https://www.astronomer.io/certification/)
+
+### Certificates for Government Work
+
+1. **Civil Service Eligibility**: This is usually required for government jobs. If you’ve graduated with honors or passed professional board exams, you might not need to take the general eligibility exam. Here are the [qualifications](https://csc.gov.ph/special-eligibilities) and you can look for more information how to take the exam [here](https://csc.gov.ph/).
+2. **EDPSE Certification**: If you’re in IT, this certification is tailored for tech roles in the government and can replace the general eligibility exam. You can check the qualifications [here](https://csc.gov.ph/special-eligibilities/electronic-data-processing-specialist-eligibility) and you can also take a look at the **ICT Proficiency examination** which can be found [here](https://learnict.dict.gov.ph/ict-proficiency/).
+3. **Advanced Degrees**: Earning a Master’s or Doctorate can really
+
+ help if you’re aiming for higher positions. You can check our recommended data related graduate programs [here](#graduate-programs-in-data-science-and-related-fields-in-the-philippines).
+4. **Webinars and Courses**: Look out for free webinars and courses offered by [TESDA](https://www.tesda.gov.ph/) some of which you can find [here](https://e-tesda.gov.ph/course/). In addition to this, [DICT](https://dict.gov.ph/) also has similar offerings found [here](https://dict.coursebank.ph/).
+
+### Free Certificates
+
+There are options for free certificates, which merely represent your participation and completion of training courses and programs. You can find our curated list [here](free-certificates.qmd) which we have filtered to those that are FREE and relevant to data careers.
+
+---
