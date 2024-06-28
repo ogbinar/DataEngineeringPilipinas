@@ -4,11 +4,11 @@ description: |
   Data Engineering Pilipinas is an official DataCamp Donates Partner. Members of the community can avail of FREE DataCamp Access through a scholarship application process.
 ---
 
-**Scholarship Application Now Open!**
+# DEP x DataCamp Donates Scholarship Application Now Open!
 
 
 <p align="center">
-<img align="center"  height="200" src="images/images/DATA%20ENGINEERING%20-1-modified.png"><img align="center"  height="100" src="images/DC_Donates_logo_regular.png">
+<img align="center"  height="200" src="images/DATA%20ENGINEERING%20-1-modified.png"><img align="center"  height="100" src="images/DC_Donates_logo_regular.png">
 </p>
 
 We’re thrilled to announce that Data Engineering Pilipinas is now a proud partner of DataCamp Donates! Thanks to this partnership, we’re offering exclusive scholarships for free premium access to DataCamp’s top-tier data science courses and resources.
@@ -46,7 +46,7 @@ We’re excited to support your learning journey and can’t wait to see the inc
 
 ---
 
-**DEP x DC Donates - Frequently Asked Questions**
+# DEP x DC Donates - Frequently Asked Questions
 
 **Q1: Who is eligible for the DataCamp sponsorship?**
 
