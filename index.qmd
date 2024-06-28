@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Data Engineering Pilipinas"
 description: |
@@ -48,3 +49,55 @@ Not familiar with [DataCamp](https://docs.google.com/presentation/d/17aR8J-k-KRb
 - [VIEW SCHOLARSHIP MECHANICS](datacamp-donates.qmd)
 
 ---
+=======
+---
+title: "Data Engineering Pilipinas"
+description: |
+  Welcome to the Awesome Data Engineering Repository from the Philippines!
+---
+
+<p align="center">
+<img align="center" width="250" height="250" src="images/DATA%20ENGINEERING%20-1-modified.png">
+</p>
+
+<p align="center">
+Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a <a href="https://pydata.org/">PyData group</a>.</p>
+
+<p align="center">
+This page serves as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of.
+</p>
+
+## Getting Started with Data Engineering
+{{< video https://youtu.be/jIGFrn6es0w >}}
+ 
+<a href="content/data-engineering-101.qmd">Read more about Data Engineering 101</a>
+
+## Join Our Growing Community
+
+Connect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:
+ 
+<center>
+[{{< fa brands facebook size=2xl >}}](https://facebook.com/groups/dataengineeringpilipinas/)
+[{{< fa brands facebook-f size=2xl >}}](https://www.facebook.com/DataEngineeringPilipinas/)
+[{{< fa brands facebook-messenger size=2xl >}}](https://m.me/cm/AbbnRPVsIMd34APj)
+[{{< fa brands discord size=2xl >}}](https://discord.com/invite/buDgydz7J9)
+[{{< fa brands meetup size=2xl >}}](https://www.meetup.com/data-engineering-pilipinas/)
+[{{< fa brands linkedin size=2xl >}}](https://www.linkedin.com/company/97217550/)
+[{{< fa brands reddit size=2xl >}}](https://www.reddit.com/r/DataEngineeringPH/)
+[{{< fa brands youtube size=2xl >}}](https://www.youtube.com/@DataEngineeringPilipinas)
+</center>
+
+## Official DataCamp Donates Partner
+
+<p align="center">
+<img align="center"  height="100" src="images/DC_Donates_logo_regular.png">
+</p>
+
+Data Engineering Pilipinas is an official partner for [DataCamp Donates](https://sl.datacamp.com/t/100925/sc/3951db09-4e1d-4b51-9bc6-fb5da29540ff/NB2HI4DTHIXS653XO4XGIYLUMFRWC3LQFZRW63JPMRXW4YLUMVZT65LUNVPXG33VOJRWKPLEN5XGC5DFOMTHK5DNL5WWKZDJOVWT24DBOJ2G4ZLSEZ2XI3K7MNQW24DBNFTW4PJQGAYDAMBQL4YS22LOORSXE3TBNRPTELLOMFPTGLLHNRXWEYLML42C23TBL42S23TBL43C24TFOF2WS4TFNVSW45DTL43S2ZDPL44C24DUNZZC24DOL44S23TBL4YTALLOMFPTCMJNNRXWO3ZGNZXVI4TBMNVT25DSOVSQ====/GNRTKMRTGZTGGMBRMJQTINLEGQ2DCNRRGBTDKNRYHE3WIYZYGRTDOM3EG5STMOBT/www-datacamp-com-donates), offering our community members the chance to learn essential data skills, from basics to advanced data engineering, data science, and machine learning.
+
+Not familiar with [DataCamp](https://docs.google.com/presentation/d/17aR8J-k-KRbf5CMdukKca8znL8d8wKuO407Cu12qY7E/edit#slide=id.p)? Check out this [video](https://datacamp-1.wistia.com/medias/e70gnqx3fc). It’s a simple way to learn at your own pace. The program is free for Data Engineering Pilipinas community members, but licenses are limited. Please apply only if you’re committed to learning data skills.
+
+- [VIEW SCHOLARSHIP MECHANICS](datacamp-donates.qmd)
+
+---
+>>>>>>> 38e900b8479fc2e757d5469b4df86830ee31212a
