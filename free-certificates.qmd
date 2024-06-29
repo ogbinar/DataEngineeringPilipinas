@@ -1,7 +1,7 @@
 ---
 title: "Data Engineering Pilipinas"
 description: |
-  A curated list of IT, computer science, and business courses with certificates & digital badges to earn upon completion. Each course on the list is free to take, along with the badge and certificate.
+    "A curated list of IT, computer science, and business courses with certificates & digital badges to earn upon completion. Each course on the list is free to take, along with the badge and certificate."
 ---
 
 The list is organized as follows:

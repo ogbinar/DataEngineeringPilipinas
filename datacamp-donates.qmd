@@ -1,7 +1,7 @@
 ---
 title: "DataCamp Donates Application Process"
 description: |
-  Data Engineering Pilipinas is an official DataCamp Donates Partner. Members of the community can avail of FREE DataCamp Access through a scholarship application process.
+    "Data Engineering Pilipinas is an official DataCamp Donates Partner. Members of the community can avail of FREE DataCamp Access through a scholarship application process."
 ---
 
 # DEP x DataCamp Donates Scholarship Application Now Open!

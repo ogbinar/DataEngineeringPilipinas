@@ -1,7 +1,7 @@
 ---
 title: "Data Engineering Pilipinas"
 description: |
-  Welcome to the Awesome Data Engineering Repository from the Philippines!
+    "Welcome to the Awesome Data Engineering Repository from the Philippines!"
 ---
 
 <p align="center">

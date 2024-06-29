@@ -1,7 +1,7 @@
 ---
 title: "Study Roadmap for Beginners"
 description: |
-    Embark on your journey in data engineering with our specially curated study roadmap for beginners. The following are different guides written by people to help learners out. They  provide a structured path for newcomers, covering foundational concepts, essential tools, and key technologies in the field. Ideal for those starting out, these roadmaps are your first step towards mastering data engineering and other data roles. Good luck!
+        "Embark on your journey in data engineering with our specially curated study roadmap for beginners. The following are different guides written by people to help learners out. They  provide a structured path for newcomers, covering foundational concepts, essential tools, and key technologies in the field. Ideal for those starting out, these roadmaps are your first step towards mastering data engineering and other data roles. Good luck!"
 ---
 
 ## Roadmaps

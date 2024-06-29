@@ -2,9 +2,6 @@ project:
   type: website
   render:
     - ./
-
-    
-
 resources:
   - CNAME
 
@@ -14,46 +11,45 @@ website:
   favicon: images/favicon-32x32.png
   image: images/DATA%20ENGINEERING%20-1-modified.png
   google-analytics: "G-KKX48FVTNV"
-  cookie-consent: true 
+  cookie-consent: true
 
-  page-footer: 
+  page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/), with theme from [vetiver](https://github.com/rstudio/vetiver.rstudio.com)"
     left: "&copy; CC-By Data Engineering Pilipinas"
- 
+
   navbar:
     logo: images/favicon-32x32.png
     href: https://dataengineering.ph/
     right:
-#    - text: "Home"
-#      href: index.qmd
-    - text: "About"
-      href: about.qmd
-    - text: "Study Roadmap"
-      href: study-roadmap.qmd
-    - text: "Community"
-      href: community.qmd   
-    - text: "Partnerships"
-      href: partners.qmd 
-    - text: "Knowledgebase"
-      href: https://github.com/igorbarinov/awesome-data-engineering
-    - text: "Resources"
-      href: resources.qmd
-    - text: "Datasets"
-      href: datasets.qmd
-    - icon: github
-      href: https://github.com/ogbinar/DataEngineeringPilipinas
-    - icon: facebook
-      href: https://www.facebook.com/groups/dataengineeringpilipinas
-    - icon: discord
-      href: https://discord.com/invite/buDgydz7J9
-      
+      #    - text: "Home"
+      #      href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Study Roadmap"
+        href: study-roadmap.qmd
+      - text: "Community"
+        href: community.qmd
+      - text: "Partnerships"
+        href: partners.qmd
+      - text: "Knowledgebase"
+        href: https://github.com/igorbarinov/awesome-data-engineering
+      - text: "Resources"
+        href: resources.qmd
+      - text: "Datasets"
+        href: datasets.qmd
+      - icon: github
+        href: https://github.com/ogbinar/DataEngineeringPilipinas
+      - icon: facebook
+        href: https://www.facebook.com/groups/dataengineeringpilipinas
+      - icon: discord
+        href: https://discord.com/invite/buDgydz7J9
+
 format:
   html:
-    theme: 
+    theme:
       light: [sandstone, custom.scss]
       dark: [sandstone, dark-custom.scss]
     css: styles.css
     toc: true
     toc-title: Contents
     toc-location: left
-

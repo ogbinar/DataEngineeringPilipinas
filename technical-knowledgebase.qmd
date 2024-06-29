@@ -1,7 +1,7 @@
 ---
 title: "Technical Knowledge Base"
 description: |
-    This section provides a comprehensive overview of various technologies and tools in the field of data engineering.
+    "This section provides a comprehensive overview of various technologies and tools in the field of data engineering."
 ---
 
 ## Relational Databases

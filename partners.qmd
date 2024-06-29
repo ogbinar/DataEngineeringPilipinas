@@ -1,7 +1,7 @@
 ---
 title: "Partnerships"
 description: |
-    We aim to connect and collaborate with like-minded communities that align with our values about tech, data, and community building.
+        "We aim to connect and collaborate with like-minded communities that align with our values about tech, data, and community building."
 ---
 
  

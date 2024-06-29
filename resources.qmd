@@ -1,7 +1,7 @@
 ---
 title: "Free Resources"
 description: |
-    A collection of free resources designed to aid your journey in data engineering, analytics, and AI.
+        "A collection of free resources designed to aid your journey in data engineering, analytics, and AI."
 ---
 
 ## Data Engineering Training

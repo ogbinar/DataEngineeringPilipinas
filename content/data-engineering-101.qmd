@@ -1,7 +1,7 @@
 ---
 title: "Data Engineering 101"
 description: |
-  Data engineering focuses on the practical aspects of data collection, data transformation, and data storage, preparing data for analytical or operational use.
+    "Data engineering focuses on the practical aspects of data collection, data transformation, and data storage, preparing data for analytical or operational use."
 ---
 
 ![Data Engineering Domain](../images/1692040311087.png)
