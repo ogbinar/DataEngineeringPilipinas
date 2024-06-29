@@ -1,6 +1,8 @@
-# Technical Knowledge Base
-
-This section provides a comprehensive overview of various technologies and tools in the field of data engineering.
+---
+title: "Technical Knowledge Base"
+description: |
+    This section provides a comprehensive overview of various technologies and tools in the field of data engineering.
+---
 
 ## Relational Databases
 - **[PostgreSQL](https://www.postgresql.org)**: An open-source object-relational database system known for its reliability and robust features.
