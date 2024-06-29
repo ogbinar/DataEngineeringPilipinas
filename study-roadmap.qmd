@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Study Roadmap for Beginners"
 description: |

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Open Data Sources"
 description: "A collection of Philippine & International data sources that can be freely used for projects."

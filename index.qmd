@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Data Engineering Pilipinas"
 description: |
