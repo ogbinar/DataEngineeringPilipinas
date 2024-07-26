@@ -4,10 +4,6 @@ description: |
         "Explore a rich collection of community-driven content, featuring insightful videos, blogs, and articles from data engineering experts. These resources offer valuable perspectives on various aspects of data engineering and analytics."
 ---
 
-## Community Content
-
-Explore a rich collection of community-driven content, featuring insightful videos, blogs, and articles from data engineering experts. These resources offer valuable perspectives on various aspects of data engineering and analytics.
-
 ## People and Pages
 
 As a community, we want to support our homegrown content creators and experts. Please check them out as they champion data advocacy:
