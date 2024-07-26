@@ -696,5 +696,3 @@ Here are a few playlists most of which are contributions by Jemar and Sandy Caba
 - [For The Women Foundation](https://www.ftwfoundation.org/) - FTW is a nonprofit organization providing free data science and technology training for women
 
 ---
-
->>>>>>> 38e900b8479fc2e757d5469b4df86830ee31212a

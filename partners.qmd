@@ -89,4 +89,3 @@ description: |
 - [Google Developer Student Clubs PLM](https://www.facebook.com/gdsc.haribon) - Google Developer Student Clubs PLM is a premiere student community of Haribons that shares a common interest in technology and innovation.
 - [The SYNTAX Org](https://www.facebook.com/syntax.stimalolos) - Community for explorers of the tech’s multiverse. Always #TowardsExcellence.
 - [Microsoft Student Community - TIP Manila](https://www.facebook.com/msctipmofficial) - Microsoft Student Community is a tech community in T.I.P. Manila driven by a passion for different technologies.
->>>>>>> 38e900b8479fc2e757d5469b4df86830ee31212a

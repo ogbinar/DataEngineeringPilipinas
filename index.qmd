@@ -99,4 +99,3 @@ Not familiar with [DataCamp](https://docs.google.com/presentation/d/17aR8J-k-KRb
 - [VIEW SCHOLARSHIP MECHANICS](datacamp-donates.qmd)
 
 ---
->>>>>>> 38e900b8479fc2e757d5469b4df86830ee31212a

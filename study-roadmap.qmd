@@ -754,4 +754,3 @@ Here are some examples of PAID certifications. These things cost time and money,
 There are options for free certificates, which merely represent your participation and completion of training courses and programs. You can find our curated list [here](free-certificates.qmd) which we have filtered to those that are FREE and relevant to data careers.
 
 ---
->>>>>>> 38e900b8479fc2e757d5469b4df86830ee31212a

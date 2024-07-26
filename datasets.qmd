@@ -144,4 +144,3 @@ description: "A collection of Philippine & International data sources that can b
 - [Kaggle](https://www.kaggle.com/) - Platform for data science competitions, hosting, publishing, and analyzing data.
 - [data.world](https://data.world/) - Social network for hosting and sharing data.
 - [Academic Torrents](http://academictorrents.com/) - BitTorrent-based platform for sharing large datasets in the academic community.
->>>>>>> 38e900b8479fc2e757d5469b4df86830ee31212a

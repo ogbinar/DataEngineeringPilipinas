@@ -209,6 +209,12 @@ We only have limited slots for the partnership and we want to prioritize access 
 
 - A8: Kindly review the DATACAMP DONATES x DEP Partnership mechanics for further guidance or ask the community. Visit [Data Engineering Pilipinas](https://dataengineering.ph/) and join the different DEP communities to connect with other members.
 
----
+**Q9: How long before you take a slot from someone?**
 
->>>>>>> 38e900b8479fc2e757d5469b4df86830ee31212a
+- A9: A Datacamp premium is around 29USD / month, So we want to maximize that for the community for the next 12 months. These are general guidelines, but the message is if you don't use it, you don't need it. You may get removed automatically without warning.
+  - if we send an invite and no acceptance after 2 weeks
+  - if accepted but no usage after 2 weeks
+  - if 4K XP monthly assignment is not completed within 4 weeks
+  - the principle is, if you are using it you shouldn't worry.
+
+---
