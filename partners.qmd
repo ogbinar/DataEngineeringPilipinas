@@ -1,0 +1,91 @@
+---
+title: "Partnerships"
+description: |
+        "We aim to connect and collaborate with like-minded communities that align with our values about tech, data, and community building."
+---
+
+ 
+# Partnerships
+
+## Data Science and Analytics
+
+- [Power BI Pilipinas](https://taplink.cc/powerbipilipinas) - A hub for Power BI users in the Philippines.
+- [R Users Group - Philippines](https://www.facebook.com/rugph) - Facebook page for R programming language users.
+- [Analytics Association of the Philippines](https://aap.ph/) - The official website for the Analytics Association of the Philippines.
+- [DataSense Analytics Group](https://www.facebook.com/groups/dataanalyticsph) - World-class training and development programs developed by top teachers and industry practitioners.
+
+## Artificial Intelligence and Machine Learning
+
+- [Practical AI Philippines Meetup](https://www.meetup.com/practical-ai-philippines/) - A Meetup group for practical AI discussions.
+- [Gen AI Philippines](https://www.facebook.com/profile.php?id=61557661591929) - Advancing the Filipino Community with AI Innovation.
+
+## Software Development, Open Source, & Innovation
+
+- [Python Philippines](https://www.facebook.com/groups/570524223003384) - A community for Python enthusiasts in the Philippines.
+- [Open Source Software PH](https://www.facebook.com/ossph.org) - Open Source Software Philippines or OSSPH is a developer-led initiative to grow the community of developers building open source software across the Philippines.
+- [Arduino Day Philippines](https://www.facebook.com/arduinodayph) - Official Facebook Page of Arduino Day Philippines.
+- [DEVCON](https://devcon.ph) - DEVCON Philippines is the largest community of software developers, geeks, and tech future makers.
+- [Filipino Web Development Peers](https://www.facebook.com/groups/fwdpeers) - A group for forward-thinking individuals in various fields.
+- [Java User Group Philippines](https://linktr.ee/jugph) - Java User Group Philippines - A community for Java developers, students, and enthusiasts in the Philippines to connect, share, and grow.
+
+## Career Transition and Volunteer Opportunities
+
+- [Eudoxyz](https://discord.gg/XX7stU5u) - Eudoxyz is an online community dedicated to cater professionals and aspirants in their respective journey.
+- [Tech Career Shifter](https://www.facebook.com/groups/techcareershifter) - A community for those looking to shift their careers into tech.
+- [Tech Opportunities Philippines](https://www.facebook.com/groups/techopportunitiesphilippines) - This group is a hub for tech enthusiasts and like-minded individuals passionate about sharing exciting opportunities.
+- [Code.Sydney](https://www.code.sydney/) - Code.Sydney is a volunteering organisation that supports beginner developers transition to gain paid employment while helping non-profit and charity organisations with their app needs. Below are some of our projects.
+
+## Student Organizations
+
+- [Student Developers Philippines](https://www.facebook.com/groups/studevph/) - A space for student developers in the Philippines to collaborate and share knowledge.
+- [UP Data Science Society](https://www.facebook.com/updatasciencesociety/) - The UP Data Science Society is a system-wide organization dedicated to empowering data enthusiasts.
+- [RTU Organization of Statistics Students](https://www.facebook.com/rtu.oss) - The Official Page of the Organization of Statistics Students in Rizal Technological University - Boni.
+- [Google Developer Student Clubs PLM](https://www.facebook.com/gdsc.haribon) - Google Developer Student Clubs PLM is a premiere student community of Haribons that shares a common interest in technology and innovation.
+- [The SYNTAX Org](https://www.facebook.com/syntax.stimalolos) - Community for explorers of the tech’s multiverse. Always #TowardsExcellence.
+- [Microsoft Student Community - TIP Manila](https://www.facebook.com/msctipmofficial) - Microsoft Student Community is a tech community in T.I.P. Manila driven by a passion for different technologies.
+=======
+---
+title: "Partnerships"
+description: |
+    We aim to connect and collaborate with like-minded communities that align with our values about tech, data, and community building.
+---
+
+ 
+# Partnerships
+
+## Data Science and Analytics
+
+- [Power BI Pilipinas](https://taplink.cc/powerbipilipinas) - A hub for Power BI users in the Philippines.
+- [R Users Group - Philippines](https://www.facebook.com/rugph) - Facebook page for R programming language users.
+- [Analytics Association of the Philippines](https://aap.ph/) - The official website for the Analytics Association of the Philippines.
+- [DataSense Analytics Group](https://www.facebook.com/groups/dataanalyticsph) - World-class training and development programs developed by top teachers and industry practitioners.
+
+## Artificial Intelligence and Machine Learning
+
+- [Practical AI Philippines Meetup](https://www.meetup.com/practical-ai-philippines/) - A Meetup group for practical AI discussions.
+- [Gen AI Philippines](https://www.facebook.com/profile.php?id=61557661591929) - Advancing the Filipino Community with AI Innovation.
+
+## Software Development, Open Source, & Innovation
+
+- [Python Philippines](https://www.facebook.com/groups/570524223003384) - A community for Python enthusiasts in the Philippines.
+- [Open Source Software PH](https://www.facebook.com/ossph.org) - Open Source Software Philippines or OSSPH is a developer-led initiative to grow the community of developers building open source software across the Philippines.
+- [Arduino Day Philippines](https://www.facebook.com/arduinodayph) - Official Facebook Page of Arduino Day Philippines.
+- [DEVCON](https://devcon.ph) - DEVCON Philippines is the largest community of software developers, geeks, and tech future makers.
+- [Filipino Web Development Peers](https://www.facebook.com/groups/fwdpeers) - A group for forward-thinking individuals in various fields.
+- [Java User Group Philippines](https://linktr.ee/jugph) - Java User Group Philippines - A community for Java developers, students, and enthusiasts in the Philippines to connect, share, and grow.
+
+## Career Transition and Volunteer Opportunities
+
+- [Eudoxyz](https://discord.gg/XX7stU5u) - Eudoxyz is an online community dedicated to cater professionals and aspirants in their respective journey.
+- [Tech Career Shifter](https://www.facebook.com/groups/techcareershifter) - A community for those looking to shift their careers into tech.
+- [Tech Opportunities Philippines](https://www.facebook.com/groups/techopportunitiesphilippines) - This group is a hub for tech enthusiasts and like-minded individuals passionate about sharing exciting opportunities.
+- [Code.Sydney](https://www.code.sydney/) - Code.Sydney is a volunteering organisation that supports beginner developers transition to gain paid employment while helping non-profit and charity organisations with their app needs. Below are some of our projects.
+
+## Student Organizations
+
+- [Student Developers Philippines](https://www.facebook.com/groups/studevph/) - A space for student developers in the Philippines to collaborate and share knowledge.
+- [UP Data Science Society](https://www.facebook.com/updatasciencesociety/) - The UP Data Science Society is a system-wide organization dedicated to empowering data enthusiasts.
+- [RTU Organization of Statistics Students](https://www.facebook.com/rtu.oss) - The Official Page of the Organization of Statistics Students in Rizal Technological University - Boni.
+- [Google Developer Student Clubs PLM](https://www.facebook.com/gdsc.haribon) - Google Developer Student Clubs PLM is a premiere student community of Haribons that shares a common interest in technology and innovation.
+- [The SYNTAX Org](https://www.facebook.com/syntax.stimalolos) - Community for explorers of the tech’s multiverse. Always #TowardsExcellence.
+- [Microsoft Student Community - TIP Manila](https://www.facebook.com/msctipmofficial) - Microsoft Student Community is a tech community in T.I.P. Manila driven by a passion for different technologies.
