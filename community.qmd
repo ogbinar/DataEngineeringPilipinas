@@ -72,8 +72,8 @@ Portfolio development is a critical part of career path in tech. Projects help n
 
 ## Videos and Presentations
 
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/XsvrumL0ILc" title="What is Data Engineering Pilipinas?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-A brief 5-minute presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/jIGFrn6es0w" title="What is Data Engineering Pilipinas?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+A brief presentation that introduces you to the Data Engineering Pilipinas community and the benefits of joining.
 
 [Getting Started with Data Engineering](https://www.facebook.com/studevph/videos/165090273259790) An introductory video on Data Engineering, in collaboration with StudevPH featuring guest speaker, Josh Dev.
 
@@ -106,8 +106,11 @@ A PL-300 training session for the Power BI Pilipinas community.
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Y-t1B2rUMc0" title="Practice answering Data Engineering general interview questions. Organized by Sandy Cabanes, Phil Gerard Soto, Ayesha Ricafort, with special guest Nina Comia." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 Practice answering Data Engineering general interview questions. Organized by Sandy Cabanes, Phil Gerard Soto, Ayesha Ricafort, with special guest Nina Comia.
 
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/watch?v=l_MJWuIi-KU" title="A Panel Discussion for the Class of 2025 | RUG PH 126" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-Selected panelists give advice and answer questions on how to start a career in data after graduation. We discuss skills and competencies required when starting data-related roles, including those that were gained while studying for a degree.
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/-jcsjnQO_tg" title="Using the Philippine Skills Framework for Analytics & AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+This webinar introduced the Philippine Skills Framework for Analytics & AI (PSF-AAI) and presented use cases where academic programs and corporate organizations align with it.
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/l_MJWuIi-KU" title="A Panel Discussion for the Class of 2025 | RUG PH 126" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+Selected panelists give advice and answer questions on how to start a career in data after graduation. We discuss skills and competencies required when starting data-related roles, including those that were gained while studying for a degree. 
 
 ## Doc Ligot Interviews
 
