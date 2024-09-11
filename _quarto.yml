@@ -27,12 +27,12 @@ website:
         href: about.qmd
       - text: "Study Roadmap"
         href: study-roadmap.qmd
+      - text: "Programs"
+        href: programs.qmd
       - text: "Community"
         href: community.qmd
       - text: "Partnerships"
         href: partners.qmd
-      - text: "Knowledgebase"
-        href: https://github.com/igorbarinov/awesome-data-engineering
       - text: "Resources"
         href: resources.qmd
       - text: "Datasets"

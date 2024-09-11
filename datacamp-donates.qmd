@@ -19,10 +19,6 @@ We’re thrilled to announce that Data Engineering Pilipinas is now a proud part
 - **Learning Journey:** Enhance your skills and advance your career with cutting-edge content.
 - **Community Support:** Join a network of like-minded learners and grow together.
 
-**Important Dates:**
-
-- **Application Deadline:** July 12, 2024
-
 **Rules and Expectations:**
 
 - **Monthly Assignments:** 4,000 XP (roughly 3 hours of learning per month)
@@ -109,5 +105,20 @@ We only have limited slots for the partnership and we want to prioritize access 
   - if accepted but no usage after 2 weeks
   - if 4K XP monthly assignment is not completed within 4 weeks
   - the principle is, if you are using it you shouldn't worry.
+
+**Q10: Why is my application not yet approved?**
+
+- A10: Here are common reasons why your application may not be approved. In essence, it suggests a lack of sincerity or authenticity in your intention to apply for the scholarship. While we want to provide access to everyone, we have limited scholarship slots as well as volunteer resources to review applications. We aim to filter out individuals who may take the opportunity but not make use of it. Please help us by being as honest as possible in your application.
+
+![](images/notapproved.png)
+
+| **Reason for Non-approval**                 | **Description**                                                                                                                                                                            | **Examples**                                                                                               |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Incomplete Information**               | Applications missing essential details such as name, last name, gender, birthdate, or address may be not approved. These details are crucial for verifying the applicant's identity and ensuring proper communication. Without complete information, the application cannot be properly reviewed or processed. | No name, last name, gender, birthday, etc.                                                                  |
+| **Did Not Answer Required Questions**    | Certain questions in the application are mandatory and are designed to assess the applicant's qualifications, goals, or suitability for the scholarship. Failing to answer these required questions indicates an incomplete application, which cannot be considered for evaluation. | Required questions were answered with ??????                                                                 |
+| **Incorrect Details**                    | Providing incorrect information, such as an inaccurate address or wrong birthdate, may lead to disqualification. Accurate details are essential for validating the applicant's eligibility and ensuring that all provided data is truthful and up to date. Errors in basic information can reflect a lack of attention to detail. | Birthday listed as 2024, country as 8, age listed as 23 years, wrong spelling of "Philippines."              |
+| **Not Taking the Application Seriously** | Comments or answers that lack seriousness or are inappropriate may lead to non-approval. The application process is designed to evaluate candidates' commitment and sincerity toward the scholarship. Submissions that appear careless or disrespectful indicate a lack of seriousness and can result in disqualification. | All answers are just "yes" to all questions, inappropriate responses such as "ChatGPT said this and that." |
+
+We have a lot of [FREE LEARNING RESOURCES](resources.qmd) which you can utilize if you wish for alternatives.
 
 ---
