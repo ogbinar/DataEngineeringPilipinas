@@ -1,0 +1,698 @@
+---
+title: "Free Resources"
+description: |
+        "A collection of free resources designed to aid your journey in data engineering, analytics, and AI."
+---
+
+## Data Engineering Training
+
+- [IBM Data Engineering Basics for Everyone on edX](https://www.edx.org/learn/data-engineering/ibm-data-engineering-basics-for-everyone) - An introductory course to data engineering principles offered by IBM on edX.
+- [Google Cloud Data Engineering Path](https://www.cloudskillsboost.google/paths/16) - A learning path designed to master data engineering on the Google Cloud Platform.
+- [Meta Database Engineer Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/meta-database-engineer) - A professional certification program by Meta on Coursera, focusing on database engineering.
+- [Big Data Specialization by UC San Diego on Coursera](https://www.coursera.org/specializations/big-data) - A series of courses by UC San Diego on Coursera, covering big data analysis techniques and tools.
+- [Data Engineering Zoomcamp on GitHub](https://github.com/DataTalksClub/data-engineering-zoomcamp) - A free, self-paced data engineering bootcamp hosted on GitHub, covering a range of tools and practices.
+
+## Data Engineering Books
+
+- [Fundamentals of Data Engineering](https://redpanda.com/guides/fundamentals-of-data-engineering) - A guide by Redpanda to the basics of data engineering, covering essential concepts and practices.
+- [Database Technology Overview](https://halvorsen.blog/documents/technology/database/database.php) - An overview of database technology fundamentals.
+- [Erwin in Database Design](https://halvorsen.blog/documents/technology/database/erwin.php) - Insights into using Erwin for database design.
+- [Modern Data Engineering Playbook](https://www.thoughtworks.com/en-cl/what-we-do/data-and-ai/modern-data-engineering-playbook) - ThoughtWorks presents strategies for modern data engineering, focusing on scalable, efficient solutions.
+- [The Data Engineering Cookbook](https://github.com/project303/The-Data-Engineering-Cookbook-) - A comprehensive guide for data engineering practices.
+- [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/about-this-book.html) - An exploration of convergent evolution in data engineering, emphasizing design patterns for data systems.
+
+## SQL Tutorials and Courses
+
+- [W3 Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp) - A comprehensive tutorial for SQL beginners.
+- [SQLBolt](https://www.sqlbolt.com/) - Practice with real-world datasets and challenging SQL problems to deepen your skills.
+
+## Interactive SQL Learning Games
+
+- [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a captivating murder case using your SQL skills in this immersive game-like environment. Suitable for beginners.
+- [SQL Island](https://sql-island.informatik.uni-kl.de/) - Navigate through an adventure on SQL Island to learn SQL commands. Remember to change the language to English via the hamburger icon.
+- [SchemaVerse](https://schemaverse.com/) - A space-based strategy game where you use SQL commands to control your fleet and conquer the universe.
+- [Lost at SQL - The SQL Learning Game](https://lost-at-sql.therobinlord.com/) - Enhance your SQL skills through this engaging learning game.
+
+## SQL Practice and Challenges
+
+- [8 Week SQL Challenge](https://8weeksqlchallenge.com/) - Intermediate/Advanced SQL challenges through interactive projects.
+- [HackerRank SQL Challenges](https://www.hackerrank.com/domains/sql/) - Test your mettle against others in coding challenges that push your SQL boundaries. Suitable for Intermediate-Advanced learners.
+- [Codewars SQL Kata](https://www.codewars.com/collections/sql) - Hone your understanding with kata-style SQL exercises, practicing diverse concepts.
+- [SQLZoo](https://sqlzoo.net/) - Practice with a wide range of exercises at different difficulty levels, mastering SQL fundamentals.
+
+## Spreadsheets for Data Analysis
+
+### Excel Basics and Advanced Techniques
+
+- [Essential Spreadsheets Book 1 - University of York](https://www.york.ac.uk/it-services/coursefiles/booklets/Essential%20spreadsheets_Book-1.pdf) - Introduction to Excel.
+- [Essential Spreadsheets Book 2 - University of York](https://www.york.ac.uk/it-services/coursefiles/booklets/Essential%20spreadsheets_Book-2.pdf) - Advanced Excel techniques.
+- [Excel Video Training - Microsoft](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?ui=en-us&rs=en-us&ad=us) - Official tutorials from Microsoft.
+
+### Google Sheets for Analysis
+
+- [Google Sheets Training & Help](https://support.google.com/a/users/answer/9282959) - Official Google Sheets guide.
+- [Data Analysis in Google Sheets - Measure School](https://measureschool.com/data-analysis-google-sheets/) - Analyzing data using Google Sheets.
+- [How to Analyze Data in Google Sheets](https://sheetsformarketers.com/how-to-analyze-data-in-google-sheets/) - Data analysis techniques in Google Sheets.
+
+### Comprehensive Data Analysis with Excel
+
+- [Data Analysis Excel - Simplilearn](https://www.simplilearn.com/tutorials/excel-tutorial/data-analysis-excel) - Simplilearn’s guide on Excel data analysis.
+- [Excel Data Analysis - TutorialsPoint](https://www.tutorialspoint.com/excel_data_analysis/index.htm) - Detailed tutorials on Excel data analysis.
+
+## Learn Python
+
+Python is a versatile and powerful programming language that’s great for beginners and professionals alike. Here are some resources to get started or enhance your Python skills:
+
+- [Python Official Getting Started Guide](https://www.python.org/about/gettingstarted/) - Official Python documentation and guide on getting started with Python.
+- [Learnpython.org](https://www.learnpython.org/) - A free interactive Python tutorial for people who want to learn Python, starting from the basics.
+- [OpenClassrooms - Learn Programming with Python](https://openclassrooms.com/en/courses/6900856-learn-programming-with-python) - A course designed to introduce you to programming using Python.
+- [Principles of Computation with Python - Carnegie Mellon University](https://oli.cmu.edu/courses/principles-of-computation-with-python-open-free/) - An open & free course by CMU focusing on computational principles using Python.
+- [Codecademy Python Course](https://www.codecademy.com/catalog/language/python) - Interactive Python programming courses for all levels.
+- [MIT OpenCourseWare - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - A course by MIT that introduces the fundamental ideas of computing using Python.
+- [Harvard University - Python Programming](https://pll.harvard.edu/subject/python) - Various Python programming courses offered by Harvard University.
+- [freeCodeCamp - Learn Python](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/) - A collection of free Python courses for beginners to help learn Python programming.
+- [Google Cloud - Python on Google Cloud](https://cloud.google.com/python/) - Learn how to use Python with Google Cloud services for building and deploying applications.
+
+## Learn R
+
+R is a programming language and environment commonly used for statistical computing and graphics. The following resources provide comprehensive guides, tutorials, and courses for beginners to advanced users interested in learning R:
+
+- [Codecademy - Learn R](https://www.codecademy.com/learn/learn-r) - An interactive platform offering a course designed to get you started with R programming.
+- [W3Schools R Tutorial](https://www.w3schools.com/r/) - Provides a quick and easy understanding of R, covering basics to advanced topics.
+- [RStudio Education - Learn R](https://education.rstudio.com/learn/beginner/) - Beginner resources compiled by RStudio, aiming to make learning R easier and more effective.
+- [Programiz - Learn R Programming](https://www.programiz.com/r) - Offers R tutorials for beginners to learn R programming online.
+- [Codecademy - R Catalog](https://www.codecademy.com/catalog/language/r) - Discover more R courses offered by Codecademy to deepen your understanding and skills.
+- [Swirl - Learn R, in R](https://swirlstats.com/) - A platform that offers interactive R programming lessons directly within the R console.
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) - Teaches how to perform data analysis with R through practical examples, covering basics to more advanced topics.
+
+## Web Scraping with Python
+
+Web scraping is a method used to extract data from websites. Python offers several libraries and tools for web scraping. Here are some essential resources to get started or enhance your web scraping skills:
+
+- [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Official documentation for Beautiful Soup, a Python library designed for quick turnaround projects like screen-scraping.
+- [Python Requests Library](https://docs.python-requests.org/en/latest/) - Official documentation for Requests, a simple HTTP library for Python, used to send HTTP requests easily.
+- [Scrape Quotes](https://quotes.toscrape.com/) - A practice website designed for scraping quotes from famous authors.
+- [Scrape This Site](https://www.scrapethissite.com/) - A website that offers lessons and challenges for web scraping practices.
+- [freeCodeCamp Web Scraping Python Tutorial](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/) - A comprehensive guide on how to scrape data from a website using Python.
+- [GeeksforGeeks Python Web Scraping Tutorial](https://www.geeksforgeeks.org/python-web-scraping-tutorial/) - Offers a tutorial on web scraping using Python, covering basics to advanced topics.
+- [Beautiful Soup Web Scraper Python - Real Python](https://realpython.com/beautiful-soup-web-scraper-python/) - A tutorial that explains how to use Beautiful Soup for web scraping effectively.
+- [Python Web Scraping - A Practical Introduction - Real Python](https://realpython.com/python-web-scraping-practical-introduction/) - Provides a practical introduction to web scraping using Python, including setting up your environment and parsing HTML.
+- [Fullstack Python](https://www.fullstackpython.com/) - Provides free tutorials and guides on how to do both front end and back end in Python.
+
+## Database and Data Processing Technologies
+
+Enhance your knowledge in various database technologies and data processing frameworks through these tutorials and courses.
+
+- [MySQL Tutorial](https://www.mysqltutorial.org/) - Comprehensive tutorials for beginners to advanced users of MySQL.
+- [MongoDB Python Developer Learning Path](https://learn.mongodb.com/learning-paths/mongodb-python-developer-path) - A structured learning path for Python developers focusing on MongoDB.
+- [PySpark Tutorial](https://sparkbyexamples.com/pyspark-tutorial/) - Tutorials to learn PySpark for big data processing.
+- [Apache NiFi Tutorial](https://www.javatpoint.com/apache-nifi) - Learn about Apache NiFi for data routing and transformation.
+- [Debezium Tutorial](https://hevodata.com/learn/debezium-tutorial/) - Introduction and advanced concepts for using Debezium for data capture.
+
+## Streaming and Integration
+
+Courses that focus on streaming data platforms and event streaming architectures.
+
+- [Confluent Kafka Fundamentals](https://developer.confluent.io/courses/#fundamentals) - Free courses on Apache Kafka fundamentals provided by Confluent.
+
+## Data Warehousing
+
+Courses and tutorials to deepen understanding of data warehousing concepts and technologies.
+
+- [Data Warehousing Tutorial](https://www.guru99.com/data-warehousing-tutorial.html) - Basics to advanced concepts in data warehousing.
+- [Introduction to Snowflake Cloud Data Warehouse](https://www.udemy.com/course/introduction-to-snowflake-cloud-data-warehouse-analytics/) - A beginner’s course on using Snowflake for data warehousing and analytics.
+- [DBT Fundamentals](https://courses.getdbt.com/courses/fundamentals) - Learn how to transform data in your warehouse using dbt (data build tool).
+
+## DevOps and CI/CD
+
+Learn about continuous integration and continuous deployment, crucial for modern software development practices.
+
+- [CI/CD Pipeline Tutorial](https://www.guru99.com/ci-cd-pipeline.html) - An overview of CI/CD concepts and how to implement them.
+
+## Foundational Data Science Courses
+
+- [The Open Source Data Science Masters](http://datasciencemasters.org/) - A comprehensive curriculum for self-study in data science.
+- [Data Science Essentials- Microsoft](https://www.edx.org/course/data-science-essentials) - Foundation course on edX covering essential data science concepts.
+- [Harvard CS109 Data Science](http://cs109.github.io/2015/) - In-depth course covering data science methodologies and Python.
+- [Data Science Fundamentals – IBM](https://cognitiveclass.ai/learn/data-science/) - Covers fundamentals of data science through hands-on practice on the Cognitive Class platform.
+
+## Introduction to Data Science
+
+- [Introduction to Data Science by Jeff Hammerbacher at UC, Berkeley](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwi3o8mFsv7iAhURKKwKHSwcDioQFjAAegQIARAC&url=https%3A%2F%2Fbcourses.berkeley.edu%2Fcourses%2F1377158%2Ffiles%2F60058588%2Fdownload%3Fverifier%3DYO4WZaBmrQ8gIzvvOBcbVwFr0GQ9DEKab1AFSe5v%26wrap%3D1&usg=AOvVaw2qEGjVVDPNlzFkBaBXWLg2) - Lectures and materials on the introduction to data science.
+- [Introduction to Data Science](https://www.coursera.org/course/datasci) - Offers a broad introduction to data science through Coursera.
+- [Introduction to Data Science](https://www.coursera.org/course/datasci) - Another Coursera course providing foundational knowledge in data science.
+- [Data Science for Beginners by Microsoft](https://github.com/microsoft/Data-Science-For-Beginners/tree/main) - Beginner-friendly data science materials hosted on GitHub.
+
+## Specialized Topics in Data Science
+
+- [Learning from Data – California Institute of Technology & UCBerkeley](http://work.caltech.edu/telecourse) - Focus on machine learning and data analysis.
+- [Process Mining - Data Science in Action](https://www.coursera.org/course/procmin) - Specialized course on process mining techniques.
+- [Pattern Discovery in Data Mining](https://www.coursera.org/course/patterndiscovery) - Course on discovering patterns in datasets.
+- [Introduction to Data Mining](http://ocw.mit.edu/courses/sloan-school-of-management/15-062-data-mining-spring-2003/lecture-notes/) - Lecture notes and materials on data mining concepts.
+- [Mining Massive Datasets](https://www.coursera.org/course/mmds) - Advanced course on dealing with massive datasets.
+
+## Statistical Analysis and Data Wrangling
+
+- [Statistical Thinking and Data Analysis](https://www.coursera.org/course/statistics) - Courses focused on statistical thinking and data analysis techniques.
+- [Open intro to Statistics](https://www.openintro.org/stat/?stat_book=os) - Provides a solid introduction to statistics.
+- [Regression Analysis](https://sta210-s22.github.io/website/course-overview.html) - Learn approaches for analyzing multivariate data sets, emphasizing analysis of variance, linear regression, and logistic regression.
+- [Introduction to Data Wrangling at the School of Data](http://schoolofdata.org/) - Focuses on data cleaning and preparation techniques.
+- [Elements of Statistical Learning by Hastie, Tibshirani, and Friedman](https://hastie.su.domains/ElemStatLearn/)
+- [Pattern Recognition and Machine Learning by Bishop](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+- [Mathematics for Machine Learning by Deisenroth, Faisal, Soon Ong](https://mml-book.github.io/)
+- [Machine Learning - a Probabilistic Perspective by Murphy](https://probml.github.io/pml-book/book0.html)
+- [Probabilistic Machine Learning - An Introduction by Murphy](https://probml.github.io/pml-book/book1.html)
+
+## Programming for Data Science
+
+- [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science/) - Course by Cognitive Class on using Python for data science tasks.
+- [Data Science - R Basics - Harvard University](https://online-learning.harvard.edu/course/data-science-r-basics) - Introduction to using R for data science.
+
+## Online Learning Platforms and Resources
+
+- [Cognitive Class](https://cognitiveclass.ai/learn) - Interactive platform offering courses on data science and AI.
+- [Jovian](https://jovian.com/) - For sharing and collaborating on Jupyter notebooks.
+- [DataPen](https://www.datapen.io/?ref=stats_red) - Interactive tutorials on data science and machine learning.
+- [Data Analytics Educational Resources](https://datastoryteller.gumroad.com/p/data-analytics-educational-resources) - Collection of learning materials for data analytics.
+- [Executive Levels Data Software Training](https://www.executivelevels.com/data-software-training/) - Offers training on various data software tools.
+- [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial) - Interactive SQL tutorials for hands-on learning.
+
+## YouTube Learning Playlists
+
+Here are a few playlists most of which are contributions by Jemar and Sandy Cabanes.
+
+### Statistics and Data Analysis
+
+- [CrashCourse Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) - Quick statistics overview.
+- [StatQuest - Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) - Fundamental statistics concepts.
+- [Statistics Course for Data Science](https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa) - Statistics tutorials tailored for data science.
+- [Tile Stats](https://youtu.be/S51bTyIwxFs?si=6D4cROiFtPeKwMu_) - Detailed statistical analysis and education.
+- [Tina Huang](https://youtu.be/Q2mF-1yyz3g?si=ZESy1IAC5wxVRod1) - Data science tutorials, including R and Python programming.
+- [Data Analyst Bootcamp by Alex](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) - Comprehensive bootcamp for becoming a data analyst.
+
+### Data Visualization and Business Intelligence
+
+- [Tableau Dashboard](https://www.youtube.com/playlist?list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_) - Tutorials on creating dashboards using Tableau.
+- [Power BI](https://www.youtube.com/playlist?list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX) - Training sessions on using Power BI for data analysis and visualization.
+- [Mo Chen](https://youtu.be/Z9g0y8fv1Q4?si=8KTTDwvRwVPgoMjf) - Business intelligence and analytics techniques.
+
+### Professional Development and Storytelling
+
+- [Presentation and Storytelling](https://www.youtube.com/playlist?list=PLWMF3jNPJ-yFop-yNtr7LyccsMsZuwvhm) - Improve your presentation skills and learn the art of storytelling.
+- [Create a Portfolio Website with AlexTheAnalyst](https://youtu.be/ocdwh0KYeUs) - A comprehensive tutorial on creating and hosting a portfolio using GitHub Pages.
+
+### Google Analytics
+
+- [Google Analytics for Beginners](https://www.youtube.com/watch?v=94P3gPFR060) - Learn how to track your portfolio or website visitors.
+- [Advanced Google Analytics](https://www.youtube.com/watch?v=XPuWgkd3RCs) - Dive deeper into Google Analytics for complex tracking and analysis.
+
+### Data Engineering
+
+- [YouTube Playlist on Data Engineering Projects](https://www.youtube.com/playlist?list=PLXRKPZRrlvE4ttHhis2CLRnOR58ojfFSS) - A curated list of video tutorials and project ideas for aspiring data engineers.
+- [Data Professor](https://youtu.be/ZZ4B0QUHuNc?si=Du6eupNNMn6NsOB5) - Insights and tutorials on data engineering practices.
+- [TechTFQ](https://youtu.be/r2QbEueaFR8?si=BJ5VO_obfvJc4Cen) - Technology-focused tutorials including data engineering topics.
+
+### Programming and Software Tutorials
+
+- [Kevin Stratvert](https://youtu.be/tRZGeaHPoaw?si=qJJBdQIrjgEnVMSw) - Guides and tips on using software tools effectively.
+- [Tech with Tim](https://youtu.be/NpmFbWO6HPU?si=jaCbs7R-bDK0xoFs) - Programming tutorials, especially in Python and web development.
+- [Socratica](https://youtu.be/25ovCm9jKfA?si=3szTWzBAiUXoMm6X) - Educational videos on programming and computer science.
+- [Harvard CS50’s Introduction to Programming with Python](https://youtu.be/nLRL_NcnK-4) - Full university course on programming with Python.
+
+### Miscellaneous
+
+- [MS Fabric](https://www.youtube.com/playlist?list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39) - Explore Microsoft’s design framework.
+
+## Additional Learning Resources
+
+- [Learn Git Branching](https://learngitbranching.js.org/) - Learn about Git
+- [GitHub](https://github.com) - Platform for code sharing and collaboration.
+- [PLURALSIGHT](https://www.pluralsight.com/) - Offers video courses on a wide range of tech topics, including data science.
+- [hackerRank](https://www.hackerrank.com/) - Platform for practicing coding and data science skills.
+- [World Quant](https://www.worldquant.com/) - Provides resources for quantitative analysis.
+- [Real World Data Science Use Cases](https://realworlddatascience.net/) - A showcase for data science in action
+- [SeattleDataGuy’s Newsletter](https://seattledataguy.substack.com/) - Learn About End-To-End Data Flows (Data Engineering, MLOps, and Data Science)
+- [Git Expert in 4 Hours](https://www.udemy.com/course/git-expert-4-hours/) - A concise course to become proficient in Git.
+- [Azure Storage Blog](https://azure.microsoft.com/en-us/blog/category/storage/) - Updates and articles on Azure storage solutions.
+- [Databricks Free Training](https://docs.databricks.com/en/getting-started/free-training.html) - Free training resources for learning Databricks Unified Analytics Platform.
+
+## Training and Internships
+
+- [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/) - A remote one-month internship in Data Science and Business Analytics.
+- [For The Women Foundation](https://www.ftwfoundation.org/) - FTW is a nonprofit organization providing free data science and technology training for women
+
+## Online Learning Platforms
+
+- [Dataquest](https://www.datacamp.com) - An interactive learning platform focusing on data science and analytics skills.
+- [Datacamp](https://www.dataquest.io) - Offers hands-on courses on data science, Python, R, and SQL among others.
+- [Codecademy](https://www.codecademy.com) - Provides interactive programming courses across many different technology areas.
+- [SoloLearn](https://www.sololearn.com) - A mobile-first platform offering courses on a wide array of programming languages.
+- [W3Schools](https://www.w3schools.com) - A comprehensive resource for learning web development technologies and languages.
+- [Khan Academy](https://www.khanacademy.org) - Free online courses in various subjects, including computer programming.
+- [Coursera](https://www.coursera.org) - Online courses, specializations, and degrees from universities and educational institutions.
+- [edX](https://www.edx.org) - Access to online university-level courses in a wide range of disciplines.
+- [freeCodeCamp](https://www.freecodecamp.org) - An open-source community providing free coding bootcamp and certifications.
+- [Udacity](https://www.udacity.com) - Specializes in technology courses that offer Nanodegrees and certifications.
+- [The Odin Project](https://www.theodinproject.com) - A free coding curriculum that provides a complete path to web development.
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org) - Documentation and learning resources for web developers by Mozilla.
+- [Kaggle](https://www.kaggle.com) - A platform for predictive modelling and analytics competitions and datasets.
+
+## Cloud Resources
+
+- [AWS Training and Certification](https://aws.amazon.com/training/) - Training and certification resources for Amazon Web Services.
+- [Google Cloud Training](https://cloud.google.com/training) - Training resources for Google Cloud Platform.
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Learning resources for Microsoft technologies, including Azure.
+- [Cloud Free Tier Comparison](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/Cloud-Free-Tier-Comparison) - Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.
+
+## Open Courseware
+
+- [Data Analysis with R](https://andrewproctor.github.io/rcourse/) - Comprehensive R course for data analysis.
+- [Data Engineering Zoomcamp](https://dezoomcamp.streamlit.app/) - Free, self-paced online course on data engineering.
+- [Data Science in a Box w/ R](https://datasciencebox.org/) - Curriculum for teaching and learning data science using R.
+- [The Open Source Data Science Masters](https://datasciencemasters.org/) - Curriculum for a self-taught education in data science.
+- [Fast.ai Courses](https://course.fast.ai/) - Practical deep learning for coders, taught by fast.ai.
+- [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions.
+- [GIS Programming Roadmap on GitHub](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - A roadmap for learning GIS programming.
+- [Intel Machine Learning Course](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-machine-learning.html) - This course provides an overview of machine learning fundamentals on modern Intel architecture.
+- [Intel Deep Learning Course](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-deep-learning.html) - This course provides an introduction to deep learning on modern Intel architecture.
+
+## Open Books
+
+### Data Science and R Programming
+
+- [R for Data Science](https://r4ds.had.co.nz/) - Learn data science with R.
+- [Data Science - R Basics](https://rafalab.dfci.harvard.edu/dsbook/) - Foundation of data science in R.
+- [R Graphics Cookbook](https://ggplot2-book.org/index.html) - Data visualization with ggplot2 in R.
+- [Geocomputation with R](https://r-spatial.org/book/) - Spatial data analysis with R.
+- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) - Techniques for EDA using R.
+- [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/) - The process
+
+ of data analysis.
+- [R for Data Science (Second Edition)](https://r4ds.hadley.nz/) - Updated guide for data science with R.
+- [R Packages](https://r-pkgs.org/) - Creating R packages.
+- [R datasciencebook](https://datasciencebook.ca/) - R datasciencebook.
+
+### Python Programming
+
+- [Python for Everybody](https://books.trinket.io/pfe/index.html) - Introduction to programming using Python.
+- [Modern Polars](https://kevinheavey.github.io/modern-polars/) - Using Polars library in Python for data manipulation.
+- [Python datasciencebook](https://python.datasciencebook.ca/) - Python datasciencebook.
+
+### Visualization and Web Scraping
+
+- [Data Visualization - A Practical Introduction](https://socviz.co/index.html?#preface) - Introduction to data visualization.
+- [Web Scraping with R](https://steviep42.github.io/webscraping/book/) - Techniques for web scraping using R.
+- [Interactive Data Visualization](https://jjallaire.github.io/visualization-curriculum/) - Learning interactive data visualization.
+
+### Advanced Topics and Specialized Areas
+
+- [Telling Stories with Data](https://tellingstorieswithdata.com/) - Narrative techniques in data communication.
+- [Spatial Data Science](https://www.paulamoraga.com/book-spatial/index.html) - Spatial data analysis.
+- [Hands-On Programming with R](https://jjallaire.github.io/hopr/) - Practical programming with R.
+- [Python Geospatial Analysis](https://py.geocompx.org/) - Geospatial analysis with Python.
+- [Time Series Analysis with R](https://vlyubchich.github.io/tsar/) - Time series analysis techniques.
+- [Forecasting: Principles and Practice with R](https://otexts.com/fpp2/) - This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly.
+- [Cookbook for R Polars](https://ddotta.github.io/cookbook-rpolars/) - Using Polars package in R for data frames.
+- [NFL Analytics with R](https://bradcongelio.com/nfl-analytics-with-r-book/) - Analyzing NFL data with R.
+- [Data Management in R](https://dmbook.org/) - Strategies for data management with R.
+- [mlr3book](https://mlr3book.mlr-org.com/) - Machine learning in R with mlr3.
+- [Python for Geocomputation](https://py.geocompx.org/) - Geocomputational analysis with Python.
+- [Raps with R](https://raps-with-r.dev/) - Music and analysis with R.
+
+### Miscellaneous
+
+- [Open Books by Open UMN](https://open.umn.edu/opentextbooks) - Free educational textbooks, including data science and statistics.
+- [Pandas for Everyone](https://wesmckinney.com/book/) - Comprehensive guide to using Pandas for data analysis.
+- [Saylor Academy](https://saylor.org) - Free and open online courses for people everywhere.
+- [Goalkicker - Programming Notes for Professionals](https://goalkicker.com/) - Free programming books on various topics.
+- [Python Programming Tutorials](https://pythonprogramming.net/) - Comprehensive resource for learning Python.
+- [Scratch - Imagine, Program, Share](https://scratch.mit.edu/) - Create stories, games, and animations.
+- [Waggle Dance](https://electrichive.github.io/waggledance/) - An interactive Python tutorial.
+- [Invent with Python](https://inventwithpython.com/) - Books for learning Python with a focus on making things.
+- [Open Source Society University - Computer Science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science.
+- [Learn Python the Hard Way - Free eBook Download](https://learntocodetogether.com/learn-python-the-hard-way-free-ebook-download/) - A book for learning Python programming.
+- [Data Analysis with Python - Spring 2020](https://csmastersuh.github.io/data_analysis_with_python_spring_2020/) - University of Helsinki’s course on Python for data analysis.
+- [Exercism](https://exercism.org/) - Code practice and mentorship for everyone.
+- [Git and GitHub Tutorial for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - Introduction to Git and GitHub.
+- [RStudio - Books](https://www.rstudio.com/resources/books/) - Resources for learning R programming.
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - This list is an attempt to bring to light those awesome CS courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
+- [Books](https://github.com/learn-anything/books) - Learn Anything is collecting all material with focus on Computer Science but you’ll find other topics ranging from neuro science to philosophy.
+- [Learn to Program](https://github.com/karlhorky/learn-to-program) - This list aims to be a curated set of high quality educational resources with focus on foundations of web developement.
+- [awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) - A curated list of awesome data visualization libraries and resources.
+
+## Training and Internships
+
+- [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/) - A remote one-month internship in Data Science and Business Analytics.
+- [For The Women Foundation](https://www.ftwfoundation.org/) - FTW is a nonprofit organization providing free data science and technology training for women
+
+---
+
+=======
+---
+title: "Free Resources"
+description: |
+    A collection of free resources designed to aid your journey in data engineering, analytics, and AI.
+---
+
+## Data Engineering Training
+
+- [IBM Data Engineering Basics for Everyone on edX](https://www.edx.org/learn/data-engineering/ibm-data-engineering-basics-for-everyone) - An introductory course to data engineering principles offered by IBM on edX.
+- [Google Cloud Data Engineering Path](https://www.cloudskillsboost.google/paths/16) - A learning path designed to master data engineering on the Google Cloud Platform.
+- [Meta Database Engineer Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/meta-database-engineer) - A professional certification program by Meta on Coursera, focusing on database engineering.
+- [Big Data Specialization by UC San Diego on Coursera](https://www.coursera.org/specializations/big-data) - A series of courses by UC San Diego on Coursera, covering big data analysis techniques and tools.
+- [Data Engineering Zoomcamp on GitHub](https://github.com/DataTalksClub/data-engineering-zoomcamp) - A free, self-paced data engineering bootcamp hosted on GitHub, covering a range of tools and practices.
+
+## Data Engineering Books
+
+- [Fundamentals of Data Engineering](https://redpanda.com/guides/fundamentals-of-data-engineering) - A guide by Redpanda to the basics of data engineering, covering essential concepts and practices.
+- [Database Technology Overview](https://halvorsen.blog/documents/technology/database/database.php) - An overview of database technology fundamentals.
+- [Erwin in Database Design](https://halvorsen.blog/documents/technology/database/erwin.php) - Insights into using Erwin for database design.
+- [Modern Data Engineering Playbook](https://www.thoughtworks.com/en-cl/what-we-do/data-and-ai/modern-data-engineering-playbook) - ThoughtWorks presents strategies for modern data engineering, focusing on scalable, efficient solutions.
+- [The Data Engineering Cookbook](https://github.com/project303/The-Data-Engineering-Cookbook-) - A comprehensive guide for data engineering practices.
+- [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/about-this-book.html) - An exploration of convergent evolution in data engineering, emphasizing design patterns for data systems.
+
+## SQL Tutorials and Courses
+
+- [W3 Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp) - A comprehensive tutorial for SQL beginners.
+- [SQLBolt](https://www.sqlbolt.com/) - Practice with real-world datasets and challenging SQL problems to deepen your skills.
+
+## Interactive SQL Learning Games
+
+- [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a captivating murder case using your SQL skills in this immersive game-like environment. Suitable for beginners.
+- [SQL Island](https://sql-island.informatik.uni-kl.de/) - Navigate through an adventure on SQL Island to learn SQL commands. Remember to change the language to English via the hamburger icon.
+- [SchemaVerse](https://schemaverse.com/) - A space-based strategy game where you use SQL commands to control your fleet and conquer the universe.
+- [Lost at SQL - The SQL Learning Game](https://lost-at-sql.therobinlord.com/) - Enhance your SQL skills through this engaging learning game.
+
+## SQL Practice and Challenges
+
+- [8 Week SQL Challenge](https://8weeksqlchallenge.com/) - Intermediate/Advanced SQL challenges through interactive projects.
+- [HackerRank SQL Challenges](https://www.hackerrank.com/domains/sql/) - Test your mettle against others in coding challenges that push your SQL boundaries. Suitable for Intermediate-Advanced learners.
+- [Codewars SQL Kata](https://www.codewars.com/collections/sql) - Hone your understanding with kata-style SQL exercises, practicing diverse concepts.
+- [SQLZoo](https://sqlzoo.net/) - Practice with a wide range of exercises at different difficulty levels, mastering SQL fundamentals.
+
+## Spreadsheets for Data Analysis
+
+### Excel Basics and Advanced Techniques
+
+- [Essential Spreadsheets Book 1 - University of York](https://www.york.ac.uk/it-services/coursefiles/booklets/Essential%20spreadsheets_Book-1.pdf) - Introduction to Excel.
+- [Essential Spreadsheets Book 2 - University of York](https://www.york.ac.uk/it-services/coursefiles/booklets/Essential%20spreadsheets_Book-2.pdf) - Advanced Excel techniques.
+- [Excel Video Training - Microsoft](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?ui=en-us&rs=en-us&ad=us) - Official tutorials from Microsoft.
+
+### Google Sheets for Analysis
+
+- [Google Sheets Training & Help](https://support.google.com/a/users/answer/9282959) - Official Google Sheets guide.
+- [Data Analysis in Google Sheets - Measure School](https://measureschool.com/data-analysis-google-sheets/) - Analyzing data using Google Sheets.
+- [How to Analyze Data in Google Sheets](https://sheetsformarketers.com/how-to-analyze-data-in-google-sheets/) - Data analysis techniques in Google Sheets.
+
+### Comprehensive Data Analysis with Excel
+
+- [Data Analysis Excel - Simplilearn](https://www.simplilearn.com/tutorials/excel-tutorial/data-analysis-excel) - Simplilearn’s guide on Excel data analysis.
+- [Excel Data Analysis - TutorialsPoint](https://www.tutorialspoint.com/excel_data_analysis/index.htm) - Detailed tutorials on Excel data analysis.
+
+## Learn Python
+
+Python is a versatile and powerful programming language that’s great for beginners and professionals alike. Here are some resources to get started or enhance your Python skills:
+
+- [Python Official Getting Started Guide](https://www.python.org/about/gettingstarted/) - Official Python documentation and guide on getting started with Python.
+- [Learnpython.org](https://www.learnpython.org/) - A free interactive Python tutorial for people who want to learn Python, starting from the basics.
+- [OpenClassrooms - Learn Programming with Python](https://openclassrooms.com/en/courses/6900856-learn-programming-with-python) - A course designed to introduce you to programming using Python.
+- [Principles of Computation with Python - Carnegie Mellon University](https://oli.cmu.edu/courses/principles-of-computation-with-python-open-free/) - An open & free course by CMU focusing on computational principles using Python.
+- [Codecademy Python Course](https://www.codecademy.com/catalog/language/python) - Interactive Python programming courses for all levels.
+- [MIT OpenCourseWare - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - A course by MIT that introduces the fundamental ideas of computing using Python.
+- [Harvard University - Python Programming](https://pll.harvard.edu/subject/python) - Various Python programming courses offered by Harvard University.
+- [freeCodeCamp - Learn Python](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/) - A collection of free Python courses for beginners to help learn Python programming.
+- [Google Cloud - Python on Google Cloud](https://cloud.google.com/python/) - Learn how to use Python with Google Cloud services for building and deploying applications.
+
+## Learn R
+
+R is a programming language and environment commonly used for statistical computing and graphics. The following resources provide comprehensive guides, tutorials, and courses for beginners to advanced users interested in learning R:
+
+- [Codecademy - Learn R](https://www.codecademy.com/learn/learn-r) - An interactive platform offering a course designed to get you started with R programming.
+- [W3Schools R Tutorial](https://www.w3schools.com/r/) - Provides a quick and easy understanding of R, covering basics to advanced topics.
+- [RStudio Education - Learn R](https://education.rstudio.com/learn/beginner/) - Beginner resources compiled by RStudio, aiming to make learning R easier and more effective.
+- [Programiz - Learn R Programming](https://www.programiz.com/r) - Offers R tutorials for beginners to learn R programming online.
+- [Codecademy - R Catalog](https://www.codecademy.com/catalog/language/r) - Discover more R courses offered by Codecademy to deepen your understanding and skills.
+- [Swirl - Learn R, in R](https://swirlstats.com/) - A platform that offers interactive R programming lessons directly within the R console.
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) - Teaches how to perform data analysis with R through practical examples, covering basics to more advanced topics.
+
+## Web Scraping with Python
+
+Web scraping is a method used to extract data from websites. Python offers several libraries and tools for web scraping. Here are some essential resources to get started or enhance your web scraping skills:
+
+- [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Official documentation for Beautiful Soup, a Python library designed for quick turnaround projects like screen-scraping.
+- [Python Requests Library](https://docs.python-requests.org/en/latest/) - Official documentation for Requests, a simple HTTP library for Python, used to send HTTP requests easily.
+- [Scrape Quotes](https://quotes.toscrape.com/) - A practice website designed for scraping quotes from famous authors.
+- [Scrape This Site](https://www.scrapethissite.com/) - A website that offers lessons and challenges for web scraping practices.
+- [freeCodeCamp Web Scraping Python Tutorial](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/) - A comprehensive guide on how to scrape data from a website using Python.
+- [GeeksforGeeks Python Web Scraping Tutorial](https://www.geeksforgeeks.org/python-web-scraping-tutorial/) - Offers a tutorial on web scraping using Python, covering basics to advanced topics.
+- [Beautiful Soup Web Scraper Python - Real Python](https://realpython.com/beautiful-soup-web-scraper-python/) - A tutorial that explains how to use Beautiful Soup for web scraping effectively.
+- [Python Web Scraping - A Practical Introduction - Real Python](https://realpython.com/python-web-scraping-practical-introduction/) - Provides a practical introduction to web scraping using Python, including setting up your environment and parsing HTML.
+- [Fullstack Python](https://www.fullstackpython.com/) - Provides free tutorials and guides on how to do both front end and back end in Python.
+
+## Database and Data Processing Technologies
+
+Enhance your knowledge in various database technologies and data processing frameworks through these tutorials and courses.
+
+- [MySQL Tutorial](https://www.mysqltutorial.org/) - Comprehensive tutorials for beginners to advanced users of MySQL.
+- [MongoDB Python Developer Learning Path](https://learn.mongodb.com/learning-paths/mongodb-python-developer-path) - A structured learning path for Python developers focusing on MongoDB.
+- [PySpark Tutorial](https://sparkbyexamples.com/pyspark-tutorial/) - Tutorials to learn PySpark for big data processing.
+- [Apache NiFi Tutorial](https://www.javatpoint.com/apache-nifi) - Learn about Apache NiFi for data routing and transformation.
+- [Debezium Tutorial](https://hevodata.com/learn/debezium-tutorial/) - Introduction and advanced concepts for using Debezium for data capture.
+
+## Streaming and Integration
+
+Courses that focus on streaming data platforms and event streaming architectures.
+
+- [Confluent Kafka Fundamentals](https://developer.confluent.io/courses/#fundamentals) - Free courses on Apache Kafka fundamentals provided by Confluent.
+
+## Data Warehousing
+
+Courses and tutorials to deepen understanding of data warehousing concepts and technologies.
+
+- [Data Warehousing Tutorial](https://www.guru99.com/data-warehousing-tutorial.html) - Basics to advanced concepts in data warehousing.
+- [Introduction to Snowflake Cloud Data Warehouse](https://www.udemy.com/course/introduction-to-snowflake-cloud-data-warehouse-analytics/) - A beginner’s course on using Snowflake for data warehousing and analytics.
+- [DBT Fundamentals](https://courses.getdbt.com/courses/fundamentals) - Learn how to transform data in your warehouse using dbt (data build tool).
+
+## DevOps and CI/CD
+
+Learn about continuous integration and continuous deployment, crucial for modern software development practices.
+
+- [CI/CD Pipeline Tutorial](https://www.guru99.com/ci-cd-pipeline.html) - An overview of CI/CD concepts and how to implement them.
+
+## Foundational Data Science Courses
+
+- [The Open Source Data Science Masters](http://datasciencemasters.org/) - A comprehensive curriculum for self-study in data science.
+- [Data Science Essentials- Microsoft](https://www.edx.org/course/data-science-essentials) - Foundation course on edX covering essential data science concepts.
+- [Harvard CS109 Data Science](http://cs109.github.io/2015/) - In-depth course covering data science methodologies and Python.
+- [Data Science Fundamentals – IBM](https://cognitiveclass.ai/learn/data-science/) - Covers fundamentals of data science through hands-on practice on the Cognitive Class platform.
+
+## Introduction to Data Science
+
+- [Introduction to Data Science by Jeff Hammerbacher at UC, Berkeley](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwi3o8mFsv7iAhURKKwKHSwcDioQFjAAegQIARAC&url=https%3A%2F%2Fbcourses.berkeley.edu%2Fcourses%2F1377158%2Ffiles%2F60058588%2Fdownload%3Fverifier%3DYO4WZaBmrQ8gIzvvOBcbVwFr0GQ9DEKab1AFSe5v%26wrap%3D1&usg=AOvVaw2qEGjVVDPNlzFkBaBXWLg2) - Lectures and materials on the introduction to data science.
+- [Introduction to Data Science](https://www.coursera.org/course/datasci) - Offers a broad introduction to data science through Coursera.
+- [Introduction to Data Science](https://www.coursera.org/course/datasci) - Another Coursera course providing foundational knowledge in data science.
+- [Data Science for Beginners by Microsoft](https://github.com/microsoft/Data-Science-For-Beginners/tree/main) - Beginner-friendly data science materials hosted on GitHub.
+
+## Specialized Topics in Data Science
+
+- [Learning from Data – California Institute of Technology & UCBerkeley](http://work.caltech.edu/telecourse) - Focus on machine learning and data analysis.
+- [Process Mining - Data Science in Action](https://www.coursera.org/course/procmin) - Specialized course on process mining techniques.
+- [Pattern Discovery in Data Mining](https://www.coursera.org/course/patterndiscovery) - Course on discovering patterns in datasets.
+- [Introduction to Data Mining](http://ocw.mit.edu/courses/sloan-school-of-management/15-062-data-mining-spring-2003/lecture-notes/) - Lecture notes and materials on data mining concepts.
+- [Mining Massive Datasets](https://www.coursera.org/course/mmds) - Advanced course on dealing with massive datasets.
+
+## Statistical Analysis and Data Wrangling
+
+- [Statistical Thinking and Data Analysis](https://www.coursera.org/course/statistics) - Courses focused on statistical thinking and data analysis techniques.
+- [Open intro to Statistics](https://www.openintro.org/stat/?stat_book=os) - Provides a solid introduction to statistics.
+- [Regression Analysis](https://sta210-s22.github.io/website/course-overview.html) - Learn approaches for analyzing multivariate data sets, emphasizing analysis of variance, linear regression, and logistic regression.
+- [Introduction to Data Wrangling at the School of Data](http://schoolofdata.org/) - Focuses on data cleaning and preparation techniques.
+- [Elements of Statistical Learning by Hastie, Tibshirani, and Friedman](https://hastie.su.domains/ElemStatLearn/)
+- [Pattern Recognition and Machine Learning by Bishop](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+- [Mathematics for Machine Learning by Deisenroth, Faisal, Soon Ong](https://mml-book.github.io/)
+- [Machine Learning - a Probabilistic Perspective by Murphy](https://probml.github.io/pml-book/book0.html)
+- [Probabilistic Machine Learning - An Introduction by Murphy](https://probml.github.io/pml-book/book1.html)
+
+## Programming for Data Science
+
+- [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science/) - Course by Cognitive Class on using Python for data science tasks.
+- [Data Science - R Basics - Harvard University](https://online-learning.harvard.edu/course/data-science-r-basics) - Introduction to using R for data science.
+
+## Online Learning Platforms and Resources
+
+- [Cognitive Class](https://cognitiveclass.ai/learn) - Interactive platform offering courses on data science and AI.
+- [Jovian](https://jovian.com/) - For sharing and collaborating on Jupyter notebooks.
+- [DataPen](https://www.datapen.io/?ref=stats_red) - Interactive tutorials on data science and machine learning.
+- [Data Analytics Educational Resources](https://datastoryteller.gumroad.com/p/data-analytics-educational-resources) - Collection of learning materials for data analytics.
+- [Executive Levels Data Software Training](https://www.executivelevels.com/data-software-training/) - Offers training on various data software tools.
+- [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial) - Interactive SQL tutorials for hands-on learning.
+
+## YouTube Learning Playlists
+
+Here are a few playlists most of which are contributions by Jemar and Sandy Cabanes.
+
+### Statistics and Data Analysis
+
+- [CrashCourse Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) - Quick statistics overview.
+- [StatQuest - Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) - Fundamental statistics concepts.
+- [Statistics Course for Data Science](https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa) - Statistics tutorials tailored for data science.
+- [Tile Stats](https://youtu.be/S51bTyIwxFs?si=6D4cROiFtPeKwMu_) - Detailed statistical analysis and education.
+- [Tina Huang](https://youtu.be/Q2mF-1yyz3g?si=ZESy1IAC5wxVRod1) - Data science tutorials, including R and Python programming.
+- [Data Analyst Bootcamp by Alex](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) - Comprehensive bootcamp for becoming a data analyst.
+
+### Data Visualization and Business Intelligence
+
+- [Tableau Dashboard](https://www.youtube.com/playlist?list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_) - Tutorials on creating dashboards using Tableau.
+- [Power BI](https://www.youtube.com/playlist?list=PL6Omre3duO-OGTAMuFuDOS8wMuuxmyaiX) - Training sessions on using Power BI for data analysis and visualization.
+- [Mo Chen](https://youtu.be/Z9g0y8fv1Q4?si=8KTTDwvRwVPgoMjf) - Business intelligence and analytics techniques.
+
+### Professional Development and Storytelling
+
+- [Presentation and Storytelling](https://www.youtube.com/playlist?list=PLWMF3jNPJ-yFop-yNtr7LyccsMsZuwvhm) - Improve your presentation skills and learn the art of storytelling.
+- [Create a Portfolio Website with AlexTheAnalyst](https://youtu.be/ocdwh0KYeUs) - A comprehensive tutorial on creating and hosting a portfolio using GitHub Pages.
+
+### Google Analytics
+
+- [Google Analytics for Beginners](https://www.youtube.com/watch?v=94P3gPFR060) - Learn how to track your portfolio or website visitors.
+- [Advanced Google Analytics](https://www.youtube.com/watch?v=XPuWgkd3RCs) - Dive deeper into Google Analytics for complex tracking and analysis.
+
+### Data Engineering
+
+- [YouTube Playlist on Data Engineering Projects](https://www.youtube.com/playlist?list=PLXRKPZRrlvE4ttHhis2CLRnOR58ojfFSS) - A curated list of video tutorials and project ideas for aspiring data engineers.
+- [Data Professor](https://youtu.be/ZZ4B0QUHuNc?si=Du6eupNNMn6NsOB5) - Insights and tutorials on data engineering practices.
+- [TechTFQ](https://youtu.be/r2QbEueaFR8?si=BJ5VO_obfvJc4Cen) - Technology-focused tutorials including data engineering topics.
+
+### Programming and Software Tutorials
+
+- [Kevin Stratvert](https://youtu.be/tRZGeaHPoaw?si=qJJBdQIrjgEnVMSw) - Guides and tips on using software tools effectively.
+- [Tech with Tim](https://youtu.be/NpmFbWO6HPU?si=jaCbs7R-bDK0xoFs) - Programming tutorials, especially in Python and web development.
+- [Socratica](https://youtu.be/25ovCm9jKfA?si=3szTWzBAiUXoMm6X) - Educational videos on programming and computer science.
+- [Harvard CS50’s Introduction to Programming with Python](https://youtu.be/nLRL_NcnK-4) - Full university course on programming with Python.
+
+### Miscellaneous
+
+- [MS Fabric](https://www.youtube.com/playlist?list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39) - Explore Microsoft’s design framework.
+
+## Additional Learning Resources
+
+- [Learn Git Branching](https://learngitbranching.js.org/) - Learn about Git
+- [GitHub](https://github.com) - Platform for code sharing and collaboration.
+- [PLURALSIGHT](https://www.pluralsight.com/) - Offers video courses on a wide range of tech topics, including data science.
+- [hackerRank](https://www.hackerrank.com/) - Platform for practicing coding and data science skills.
+- [World Quant](https://www.worldquant.com/) - Provides resources for quantitative analysis.
+- [Real World Data Science Use Cases](https://realworlddatascience.net/) - A showcase for data science in action
+- [SeattleDataGuy’s Newsletter](https://seattledataguy.substack.com/) - Learn About End-To-End Data Flows (Data Engineering, MLOps, and Data Science)
+- [Git Expert in 4 Hours](https://www.udemy.com/course/git-expert-4-hours/) - A concise course to become proficient in Git.
+- [Azure Storage Blog](https://azure.microsoft.com/en-us/blog/category/storage/) - Updates and articles on Azure storage solutions.
+- [Databricks Free Training](https://docs.databricks.com/en/getting-started/free-training.html) - Free training resources for learning Databricks Unified Analytics Platform.
+
+## Training and Internships
+
+- [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/) - A remote one-month internship in Data Science and Business Analytics.
+- [For The Women Foundation](https://www.ftwfoundation.org/) - FTW is a nonprofit organization providing free data science and technology training for women
+
+## Online Learning Platforms
+
+- [Dataquest](https://www.datacamp.com) - An interactive learning platform focusing on data science and analytics skills.
+- [Datacamp](https://www.dataquest.io) - Offers hands-on courses on data science, Python, R, and SQL among others.
+- [Codecademy](https://www.codecademy.com) - Provides interactive programming courses across many different technology areas.
+- [SoloLearn](https://www.sololearn.com) - A mobile-first platform offering courses on a wide array of programming languages.
+- [W3Schools](https://www.w3schools.com) - A comprehensive resource for learning web development technologies and languages.
+- [Khan Academy](https://www.khanacademy.org) - Free online courses in various subjects, including computer programming.
+- [Coursera](https://www.coursera.org) - Online courses, specializations, and degrees from universities and educational institutions.
+- [edX](https://www.edx.org) - Access to online university-level courses in a wide range of disciplines.
+- [freeCodeCamp](https://www.freecodecamp.org) - An open-source community providing free coding bootcamp and certifications.
+- [Udacity](https://www.udacity.com) - Specializes in technology courses that offer Nanodegrees and certifications.
+- [The Odin Project](https://www.theodinproject.com) - A free coding curriculum that provides a complete path to web development.
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org) - Documentation and learning resources for web developers by Mozilla.
+- [Kaggle](https://www.kaggle.com) - A platform for predictive modelling and analytics competitions and datasets.
+
+## Cloud Resources
+
+- [AWS Training and Certification](https://aws.amazon.com/training/) - Training and certification resources for Amazon Web Services.
+- [Google Cloud Training](https://cloud.google.com/training) - Training resources for Google Cloud Platform.
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Learning resources for Microsoft technologies, including Azure.
+- [Cloud Free Tier Comparison](https://github.com/ogbinar/DataEngineeringPilipinas/tree/main/content/Cloud-Free-Tier-Comparison) - Articles comparing free tier offers from AWS, Azure, GCP, and Oracle Cloud.
+
+## Open Courseware
+
+- [Data Analysis with R](https://andrewproctor.github.io/rcourse/) - Comprehensive R course for data analysis.
+- [Data Engineering Zoomcamp](https://dezoomcamp.streamlit.app/) - Free, self-paced online course on data engineering.
+- [Data Science in a Box w/ R](https://datasciencebox.org/) - Curriculum for teaching and learning data science using R.
+- [The Open Source Data Science Masters](https://datasciencemasters.org/) - Curriculum for a self-taught education in data science.
+- [Fast.ai Courses](https://course.fast.ai/) - Practical deep learning for coders, taught by fast.ai.
+- [Dive into Deep Learning](https://d2l.ai/index.html) - An interactive deep learning book with code, math, and discussions.
+- [GIS Programming Roadmap on GitHub](https://github.com/petedannemann/GIS-Programming-Roadmap/blob/master/README.md) - A roadmap for learning GIS programming.
+- [Intel Machine Learning Course](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-machine-learning.html) - This course provides an overview of machine learning fundamentals on modern Intel architecture.
+- [Intel Deep Learning Course](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-deep-learning.html) - This course provides an introduction to deep learning on modern Intel architecture.
+
+## Open Books
+
+### Data Science and R Programming
+
+- [R for Data Science](https://r4ds.had.co.nz/) - Learn data science with R.
+- [Data Science - R Basics](https://rafalab.dfci.harvard.edu/dsbook/) - Foundation of data science in R.
+- [R Graphics Cookbook](https://ggplot2-book.org/index.html) - Data visualization with ggplot2 in R.
+- [Geocomputation with R](https://r-spatial.org/book/) - Spatial data analysis with R.
+- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) - Techniques for EDA using R.
+- [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/) - The process
+
+ of data analysis.
+- [R for Data Science (Second Edition)](https://r4ds.hadley.nz/) - Updated guide for data science with R.
+- [R Packages](https://r-pkgs.org/) - Creating R packages.
+- [R datasciencebook](https://datasciencebook.ca/) - R datasciencebook.
+
+### Python Programming
+
+- [Python for Everybody](https://books.trinket.io/pfe/index.html) - Introduction to programming using Python.
+- [Modern Polars](https://kevinheavey.github.io/modern-polars/) - Using Polars library in Python for data manipulation.
+- [Python datasciencebook](https://python.datasciencebook.ca/) - Python datasciencebook.
+
+### Visualization and Web Scraping
+
+- [Data Visualization - A Practical Introduction](https://socviz.co/index.html?#preface) - Introduction to data visualization.
+- [Web Scraping with R](https://steviep42.github.io/webscraping/book/) - Techniques for web scraping using R.
+- [Interactive Data Visualization](https://jjallaire.github.io/visualization-curriculum/) - Learning interactive data visualization.
+
+### Advanced Topics and Specialized Areas
+
+- [Telling Stories with Data](https://tellingstorieswithdata.com/) - Narrative techniques in data communication.
+- [Spatial Data Science](https://www.paulamoraga.com/book-spatial/index.html) - Spatial data analysis.
+- [Hands-On Programming with R](https://jjallaire.github.io/hopr/) - Practical programming with R.
+- [Python Geospatial Analysis](https://py.geocompx.org/) - Geospatial analysis with Python.
+- [Time Series Analysis with R](https://vlyubchich.github.io/tsar/) - Time series analysis techniques.
+- [Forecasting: Principles and Practice with R](https://otexts.com/fpp2/) - This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly.
+- [Cookbook for R Polars](https://ddotta.github.io/cookbook-rpolars/) - Using Polars package in R for data frames.
+- [NFL Analytics with R](https://bradcongelio.com/nfl-analytics-with-r-book/) - Analyzing NFL data with R.
+- [Data Management in R](https://dmbook.org/) - Strategies for data management with R.
+- [mlr3book](https://mlr3book.mlr-org.com/) - Machine learning in R with mlr3.
+- [Python for Geocomputation](https://py.geocompx.org/) - Geocomputational analysis with Python.
+- [Raps with R](https://raps-with-r.dev/) - Music and analysis with R.
+
+### Miscellaneous
+
+- [Open Books by Open UMN](https://open.umn.edu/opentextbooks) - Free educational textbooks, including data science and statistics.
+- [Pandas for Everyone](https://wesmckinney.com/book/) - Comprehensive guide to using Pandas for data analysis.
+- [Saylor Academy](https://saylor.org) - Free and open online courses for people everywhere.
+- [Goalkicker - Programming Notes for Professionals](https://goalkicker.com/) - Free programming books on various topics.
+- [Python Programming Tutorials](https://pythonprogramming.net/) - Comprehensive resource for learning Python.
+- [Scratch - Imagine, Program, Share](https://scratch.mit.edu/) - Create stories, games, and animations.
+- [Waggle Dance](https://electrichive.github.io/waggledance/) - An interactive Python tutorial.
+- [Invent with Python](https://inventwithpython.com/) - Books for learning Python with a focus on making things.
+- [Open Source Society University - Computer Science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science.
+- [Learn Python the Hard Way - Free eBook Download](https://learntocodetogether.com/learn-python-the-hard-way-free-ebook-download/) - A book for learning Python programming.
+- [Data Analysis with Python - Spring 2020](https://csmastersuh.github.io/data_analysis_with_python_spring_2020/) - University of Helsinki’s course on Python for data analysis.
+- [Exercism](https://exercism.org/) - Code practice and mentorship for everyone.
+- [Git and GitHub Tutorial for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - Introduction to Git and GitHub.
+- [RStudio - Books](https://www.rstudio.com/resources/books/) - Resources for learning R programming.
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - This list is an attempt to bring to light those awesome CS courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
+- [Books](https://github.com/learn-anything/books) - Learn Anything is collecting all material with focus on Computer Science but you’ll find other topics ranging from neuro science to philosophy.
+- [Learn to Program](https://github.com/karlhorky/learn-to-program) - This list aims to be a curated set of high quality educational resources with focus on foundations of web developement.
+- [awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) - A curated list of awesome data visualization libraries and resources.
+
+## Training and Internships
+
+- [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/) - A remote one-month internship in Data Science and Business Analytics.
+- [For The Women Foundation](https://www.ftwfoundation.org/) - FTW is a nonprofit organization providing free data science and technology training for women
+
+---
