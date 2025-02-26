@@ -9,8 +9,8 @@ description: |
 |----|----------------------------------|------------------------------------------------------|-----------------------------|
 | 1  | [DEP Website](https://dataengineering.ph/)                      | Website for Data Engineering Pilipinas               | Myk Ogbinar                 |
 | 2  | [Project Challenges](community.qmd#official-datacamp-donates-partner)               | Leading complex projects within the community        | Josh Valdeleon, Chris Formoso|
-| 3  | [Data Masters & Presenters Online](https://m.me/ch/Abb-DouVSULyIWfm/) | Organizing online presentations and webinars         | Sandy Cabanes               |
-| 4  | [Community Survey](https://docs.google.com/forms/d/e/1FAIpQLSeHlv5pmUZpjvHu7tquIUe6yjx2jBMCOsjcPXeQ0mnpg-i2YA/viewform)                 | Gathering feedback and insights from community members | Sandy Cabanes               |
+| 3  | [Data Masters & Presenters Online](https://m.me/ch/Abb-DouVSULyIWfm/) | Organizing online presentations and webinars         | [Sandy Cabanes] (https://www.linkedin.com/in/sandygcabanes)               |
+| 4  | [Community Survey](https://docs.google.com/forms/d/e/1FAIpQLSeHlv5pmUZpjvHu7tquIUe6yjx2jBMCOsjcPXeQ0mnpg-i2YA/viewform)                 | Gathering feedback and insights from community members | [Sandy Cabanes] (https://www.linkedin.com/in/sandygcabanes)                 |
 | 5  | [Mentorship Program](community.qmd#mentoring-program-2024)               | Connecting mentors and mentees within the community  | Phil Gerard Soto            |
 | 6  | [FREE Python Beginners Course](https://citizendev.code.sydney/)                 | Introductory courses and resources for learning Python | Engramar Bollas             |
 | 7  | [DataCamp Donates Scholarship](index.qmd#official-datacamp-donates-partner)     | Distributing scholarships for DataCamp courses to members | Mike Bellen                 |
