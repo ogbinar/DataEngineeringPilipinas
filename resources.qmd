@@ -278,45 +278,11 @@ Here are a few playlists most of which are contributions by Jemar and Sandy Caba
 
 ## Open Books
 
-### Data Science and R Programming
+- [Learn Data Pilipinas](https://learndata.ph/) - Our online reference for open source technical books
 
-- [R for Data Science](https://r4ds.had.co.nz/) - Learn data science with R.
-- [Data Science - R Basics](https://rafalab.dfci.harvard.edu/dsbook/) - Foundation of data science in R.
+### Data Science and R Programming
 - [R Graphics Cookbook](https://ggplot2-book.org/index.html) - Data visualization with ggplot2 in R.
 - [Geocomputation with R](https://r-spatial.org/book/) - Spatial data analysis with R.
-- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) - Techniques for EDA using R.
-- [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/) - The process
-
- of data analysis.
-- [R for Data Science (Second Edition)](https://r4ds.hadley.nz/) - Updated guide for data science with R.
-- [R Packages](https://r-pkgs.org/) - Creating R packages.
-- [R datasciencebook](https://datasciencebook.ca/) - R datasciencebook.
-
-### Python Programming
-
-- [Python for Everybody](https://books.trinket.io/pfe/index.html) - Introduction to programming using Python.
-- [Modern Polars](https://kevinheavey.github.io/modern-polars/) - Using Polars library in Python for data manipulation.
-- [Python datasciencebook](https://python.datasciencebook.ca/) - Python datasciencebook.
-
-### Visualization and Web Scraping
-
-- [Data Visualization - A Practical Introduction](https://socviz.co/index.html?#preface) - Introduction to data visualization.
-- [Web Scraping with R](https://steviep42.github.io/webscraping/book/) - Techniques for web scraping using R.
-- [Interactive Data Visualization](https://jjallaire.github.io/visualization-curriculum/) - Learning interactive data visualization.
-
-### Advanced Topics and Specialized Areas
-
-- [Telling Stories with Data](https://tellingstorieswithdata.com/) - Narrative techniques in data communication.
-- [Spatial Data Science](https://www.paulamoraga.com/book-spatial/index.html) - Spatial data analysis.
-- [Hands-On Programming with R](https://jjallaire.github.io/hopr/) - Practical programming with R.
-- [Python Geospatial Analysis](https://py.geocompx.org/) - Geospatial analysis with Python.
-- [Time Series Analysis with R](https://vlyubchich.github.io/tsar/) - Time series analysis techniques.
-- [Forecasting: Principles and Practice with R](https://otexts.com/fpp2/) - This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly.
-- [Cookbook for R Polars](https://ddotta.github.io/cookbook-rpolars/) - Using Polars package in R for data frames.
-- [NFL Analytics with R](https://bradcongelio.com/nfl-analytics-with-r-book/) - Analyzing NFL data with R.
-- [Data Management in R](https://dmbook.org/) - Strategies for data management with R.
-- [mlr3book](https://mlr3book.mlr-org.com/) - Machine learning in R with mlr3.
-- [Python for Geocomputation](https://py.geocompx.org/) - Geocomputational analysis with Python.
 - [Raps with R](https://raps-with-r.dev/) - Music and analysis with R.
 
 ### Miscellaneous
