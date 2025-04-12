@@ -280,10 +280,28 @@ Here are a few playlists most of which are contributions by Jemar and Sandy Caba
 
 - [Learn Data Pilipinas](https://learndata.ph/) - Our online reference for open source technical books
 
-### Data Science and R Programming
+### Data Science and Programming
+- [Dive into Python](https://diveintopython.org/) - Python is an open-source, high-level programming language that is widely used in the field of artificial intelligence and machine learning.
 - [R Graphics Cookbook](https://ggplot2-book.org/index.html) - Data visualization with ggplot2 in R.
 - [Geocomputation with R](https://r-spatial.org/book/) - Spatial data analysis with R.
 - [Raps with R](https://raps-with-r.dev/) - Music and analysis with R.
+
+### Theoretical Books
+- [homotopytypetheory](https://homotopytypetheory.org/book/)
+- [The TeXbook](https://visualmatheditor.equatheque.net/doc/texbook.pdf)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [How to Design Programs](https://htdp.org/2024-11-6/Book/index.html)
+- [The Architecture of Open Source Applications](https://aosabook.org/en/)
+- [Mathematics for Computer Science](https://www.cs.princeton.edu/courses/archive/spr10/cos433/mathcs.pdf)
+- [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/#book)
+- [A Programmer's Introduction to Mathematics](https://pimbook.org/)
+- [Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html)
+- [Think Bayes](https://allendowney.github.io/ThinkBayes2/index.html)
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+
+### Computer Vision
+- [Computer Vision: Algorithms and Applications, 2nd ed.](https://szeliski.org/Book/)
+- [Foundations of Computer Vision](https://visionbook.mit.edu/)
 
 ### Miscellaneous
 
