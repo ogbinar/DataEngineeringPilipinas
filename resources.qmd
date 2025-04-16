@@ -243,8 +243,8 @@ Here are a few playlists most of which are contributions by Jemar and Sandy Caba
 
 ## Online Learning Platforms
 
-- [Dataquest](https://www.datacamp.com) - An interactive learning platform focusing on data science and analytics skills.
-- [Datacamp](https://www.dataquest.io) - Offers hands-on courses on data science, Python, R, and SQL among others.
+- [Dataquest](https://www.dataquest.io) - An interactive learning platform focusing on data science and analytics skills.
+- [Datacamp](https://www.datacamp.com) - Offers hands-on courses on data science, Python, R, and SQL among others.
 - [Codecademy](https://www.codecademy.com) - Provides interactive programming courses across many different technology areas.
 - [SoloLearn](https://www.sololearn.com) - A mobile-first platform offering courses on a wide array of programming languages.
 - [W3Schools](https://www.w3schools.com) - A comprehensive resource for learning web development technologies and languages.
