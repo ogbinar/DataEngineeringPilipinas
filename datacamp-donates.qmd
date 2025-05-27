@@ -46,7 +46,7 @@ We’re excited to support your learning journey and can’t wait to see the inc
 
 **Q1: Who is eligible for the DataCamp sponsorship?**
 
-- A1: The DataCamp sponsorship is available to all Filipino members of Data Engineering Pilipinas.
+- A1: The DataCamp sponsorship is available to all Filipino members of Data Engineering Pilipinas. The scholarship includes 12 months of unlimited premium access to Datacamp.
 
 **Q2: Why was my application declined or not approved yet?**
 
@@ -111,6 +111,18 @@ We only have limited slots for the partnership and we want to prioritize access 
 - A10: Here are common reasons why your application may not be approved. In essence, it suggests a lack of sincerity or authenticity in your intention to apply for the scholarship. While we want to provide access to everyone, we have limited scholarship slots as well as volunteer resources to review applications. We aim to filter out individuals who may take the opportunity but not make use of it. Please help us by being as honest as possible in your application.
 
 ![](images/notapproved.png)
+
+**Q11: Can I share my success story?**
+- A11: We are currently ALWAYS in the processing of promoting the Data Engineering Pilipinas x Datacamp Donates partnership. If you’ve benefited from this scholarship and would love to see it continue, we’d greatly appreciate your support. Sharing your success story—how access to DataCamp has helped your learning or career journey—can make a big difference in demonstrating the impact of this initiative. Your testimonial will help strengthen our case to keep this valuable opportunity alive for future scholars.
+
+SUBMIT YOUR SUCCESS STORY: https://docs.google.com/forms/d/e/1FAIpQLSeZK-3tP6zzzhOn5LpejKmzAf9Wu0rZzQ2EQ_g2sYxvLPMlfA/viewform
+
+**Q11: What happens if it expires?**
+- A11: There are two things that might expire, one is your scholarship, the other is the partnership.
+
+Scholarship - The scholarship expires after 12 months. It can also expire if you do not use it for a long time (in terms of XP earned). You can re-apply again on the form if you'd like to renew your access.
+
+Partnership - DEP's partnership with Datacamp Donates is worth 12 months as well. So make sure to submit success stories (see above) to keep promoting the impact of our community thru Datacamp and we can continue to renew the partnership.
 
 | **Reason for Non-approval**                 | **Description**                                                                                                                                                                            | **Examples**                                                                                               |
 |------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
