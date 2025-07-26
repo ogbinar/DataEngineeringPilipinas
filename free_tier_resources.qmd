@@ -1,0 +1,13 @@
+---
+title: "Free Tier Resources for Personal Projects"
+description: |
+  "A concise list of free tier resources for personal projects."
+---
+
+- [Free Tier Resources For Personal Projects](#free-tier-resources-for-personal-projects)
+
+<h2 id="free-tier-resources-for-personal-projects">Free Tier Resources For Personal Projects</h2>
+
+- [Free-for.dev](https://free-for.dev/#/?id=free-fordev) - A curated list of free tiers for developers.
+- [LowEndBox - Free VPS](https://lowendbox.com/blog/free-vps-word-is-spreading-fast-so-jump-on-this-now-if-you-want-it/) - Information on free Virtual Private Servers.
+- [Techweirdo - Free Tier VM, CDN, and Other Cloud Services](https://www.techweirdo.net/free-tier-vm-cdn-and-other-cloud-services-that-actually-works-for-free/#3-flyio-free-tier) - A guide to various free tier cloud services including VM and CDN.

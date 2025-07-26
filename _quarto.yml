@@ -35,6 +35,8 @@ website:
         href: partners.qmd
       - text: "Resources"
         href: resources.qmd
+      - text: "Free Tier Resources for Personal Projects"
+        href: free_tier_resources.qmd
       - text: "Datasets"
         href: datasets.qmd
       - icon: github
