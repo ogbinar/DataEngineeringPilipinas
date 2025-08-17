@@ -1,0 +1,76 @@
+---
+title: "Free Tier Resources for Personal Projects"
+description: |
+  "Links to lists of free tier resources you can use for your personal projects."
+---
+
+<h2 id="free-tier-resources-for-personal-projects">Free Tier Resources For Personal Projects</h2>
+
+- [Free-for.dev](https://free-for.dev/#/?id=free-fordev) - A curated list of free tiers for developers.  Webpage Note: "This list is only for as-a-Service offerings, not for self-hosted software. To be eligible, a service must offer a free tier, not just a free trial. The free tier must be for at least a year if it is time-bucketed..." Go to the site for actual links to the contents.
+
+"Table of Contents"
+Major Cloud Providers' Always-Free Limits
+Cloud management solutions
+Analytics, Events, and Statistics
+APIs, Data and ML
+Artifact Repos
+BaaS
+Low-code Platform
+CDN and Protection
+CI and CD
+CMS
+Code Generation
+Code Quality
+Code Search and Browsing
+Crash and Exception Handling
+Data Visualization on Maps
+Managed Data Services
+Design and UI
+Design Inspiration
+Dev Blogging Sites
+DNS
+Docker Related
+Domain
+Education and Career Development
+Email
+Feature Toggles Management Platforms
+Font
+Forms
+Generative AI
+IaaS
+IDE and Code Editing
+International Mobile Number Verification API and SDK
+Issue Tracking and Project Management
+Log Management
+Mobile App Distribution and Feedback
+Management Systems
+Messaging and Streaming
+Miscellaneous
+Monitoring
+PaaS
+Package Build System
+Payment and Billing Integration
+Privacy Management
+Screenshot APIs
+Flutter Related and Building IOS Apps without Mac
+Search
+Security and PKI
+Authentication, Authorization, and User Management
+Source Code Repos
+Storage and Media Processing
+Tunneling, WebRTC, Web Socket Servers and Other Routers
+Testing
+Tools for Teams and Collaboration
+Translation Management
+Vagrant Related
+Visitor Session Recording
+Web Hosting
+Commenting Platforms
+Browser based hardware emulation
+Remote Desktop Tools
+Game Development
+Other Free Resources
+
+- [LowEndBox - Free VPS](https://lowendbox.com/blog/free-vps-word-is-spreading-fast-so-jump-on-this-now-if-you-want-it/) - Information on free Virtual Private Servers.
+
+- [Techweirdo - Free Tier VM, CDN, and Other Cloud Services](https://www.techweirdo.net/free-tier-vm-cdn-and-other-cloud-services-that-actually-works-for-free/#3-flyio-free-tier) - A guide to various free tier cloud services including VM and CDN.
