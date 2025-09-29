@@ -21,6 +21,7 @@ description: |
 - [World Bank Philippines Data](https://data.worldbank.org/country/PH) - Economic data and indicators for the Philippines from the World Bank.
 - [Awesome Data Philippines by BNHR](https://github.com/benhur07b/awesome-data-philippines) - Curated collection of Philippine data resources.
 - [Philippines - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-phl) - Data on administrative boundaries within the Philippines.
+- [Department of Education Open Data](https://www.deped.gov.ph/machine-ready-files/) - Data on school characteristics and assessment outcomes at school- and division-level.
 
 ## Environmental, Geographic, and Natural Resources Data
 
