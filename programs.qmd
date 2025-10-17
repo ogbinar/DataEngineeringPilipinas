@@ -24,7 +24,7 @@ Programs focused on learning, mentorship, and collective study — helping membe
 | 5  | [The Puso Project](https://www.thepusoproject.ph/) | Free Python training, hands-on projects, and web development | [Engramar Bollas](https://www.linkedin.com/in/engramarbollas/) |
 | 6  | [DataCamp Donates Scholarship](index.qmd#official-datacamp-donates-partner) | Distributing scholarships for DataCamp courses | [Mike Bellen](https://www.linkedin.com/in/mikebellen/) |
 | 7  | [Mentorship Program](community.qmd#mentoring-program-2024) | Connecting mentors and mentees within the community | [Phil Gerard Soto](https://www.linkedin.com/in/philgerardsoto/) |
-| 8  | [AI Study Group](https://m.me/ch/Abak0pTtr5t_-dqk/) | Collaborative study group on AI topics and trends | [Vanessa Althea Bermudez](https://www.linkedin.com/in/vaniebermudez/) |
+| 8  | [AI Study Group](https://m.me/ch/Abak0pTtr5t_-dqk/) | Collaborative study group on AI topics and trends | [Vanessa Althea Bermudez](https://www.linkedin.com/in/vaniebermudez/), [Allan Tan](https://www.linkedin.com/in/allanctan)  |
 
 ---
 
