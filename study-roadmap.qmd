@@ -273,9 +273,7 @@ These projects are designed for those who have some foundational knowledge and a
 For those ready to challenge themselves, these advanced projects require a solid understanding of data systems and engineering principles.
 
 - [Data Engineering Project E2E](https://www.startdataengineering.com/post/data-engineering-project-e2e/)
-- [Data Engineering Best Practices](https://www.startdataengineering.com
-
-/post/de_best_practices/)
+- [Data Engineering Best Practices](https://www.startdataengineering.com/post/de_best_practices/)
 - [Trino Getting Started with Hive and MinIO](https://github.com/bitsondatadev/trino-getting-started/tree/main/hive/trino-minio)
 - [Magic The Gathering Data Project](https://github.com/VincenzoGalante/magic-the-gathering)
 

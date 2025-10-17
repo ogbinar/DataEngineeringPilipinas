@@ -27,7 +27,7 @@ Connect with Data Engineering Pilipinas on various platforms. Like, follow, and 
 <center>
 [{{< fa brands facebook size=2xl >}}](https://facebook.com/groups/dataengineeringpilipinas/)
 [{{< fa brands facebook-f size=2xl >}}](https://www.facebook.com/DataEngineeringPilipinas/)
-[{{< fa brands facebook-messenger size=2xl >}}](https://m.me/cm/AbbnRPVsIMd34APj)
+[{{< fa brands facebook-messenger size=2xl >}}](https://m.me/cm/AbY9BspCWeoJw6ml)
 [{{< fa brands discord size=2xl >}}](https://discord.com/invite/buDgydz7J9)
 [{{< fa brands meetup size=2xl >}}](https://www.meetup.com/data-engineering-pilipinas/)
 [{{< fa brands linkedin size=2xl >}}](https://www.linkedin.com/company/97217550/)

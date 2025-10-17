@@ -4,14 +4,35 @@ description: |
         "The following are core programs being driven by Data Engineering Pilipinas to push its mission."
 ---
 
- 
-| #  | Project                          | Description                                          | Lead/s                        |
-|----|----------------------------------|------------------------------------------------------|-----------------------------|
-| 1  | [DEP Website](https://dataengineering.ph/)                      | Website for Data Engineering Pilipinas               | [Myk Ogbinar](https://www.linkedin.com/in/ogbinar/)                 |
-| 2  | [Project Challenges](community.qmd#official-datacamp-donates-partner) & [Data Hub](https://github.com/dataengineeringpilipinas/datahub)              | Leading complex projects within the community        | [Josh Valdeleon](https://www.linkedin.com/in/josh-valdeleon/),  [Chris Formoso](https://www.linkedin.com/in/chris-formoso/)|
-| 3  | [Data Masters & Presenters Online](https://m.me/ch/Abb-DouVSULyIWfm/) | Organizing online presentations and webinars         | [Katherine Bulac](https://www.linkedin.com/in/katherinebulac/), [Kristine Cristobal](https://www.linkedin.com/in/kristine-cristobal-71507113/), [Sandy Cabanes](https://www.linkedin.com/in/sandygcabanes)               |
-| 4  | [Community Survey](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home)                 | Gathering feedback and insights from community members | [Sandy Cabanes](https://www.linkedin.com/in/sandygcabanes)                 |
-| 5  | [Mentorship Program](community.qmd#mentoring-program-2024)               | Connecting mentors and mentees within the community  | [Phil Gerard Soto](https://www.linkedin.com/in/philgerardsoto/)            |
-| 6  | [The Puso Project](https://www.thepusoproject.ph/)                 | Free Python Training, Projects, & Web Development | [Engramar Bollas](https://www.linkedin.com/in/engramarbollas/)             |
-| 7  | [DataCamp Donates Scholarship](index.qmd#official-datacamp-donates-partner)     | Distributing scholarships for DataCamp courses to members | [Mike Bellen](https://www.linkedin.com/in/mikebellen/)                 |
-| 8  | [Learn Data Pilipinas](https://learndata.ph/)     | Online & Open source technical books | [Myk Ogbinar](https://www.linkedin.com/in/ogbinar/)  |
+## 🏗️ 1. Building the Ecosystem  
+Programs that establish the digital and organizational foundation of the community — from platforms to projects that strengthen DEP’s long-term presence.
+
+| #  | Project | Description | Lead/s |
+|----|----------|--------------|--------|
+| 1  | [DEP Website](https://dataengineering.ph/) | Official website and information hub for Data Engineering Pilipinas | [Myk Ogbinar](https://www.linkedin.com/in/ogbinar/) |
+| 2  | [Data Hub](https://github.com/dataengineeringpilipinas/datahub) | Repository of open datasets and collaborative projects | [Josh Valdeleon](https://www.linkedin.com/in/josh-valdeleon/), [Chris Formoso](https://www.linkedin.com/in/chris-formoso/) |
+| 3  | [Learn Data Pilipinas](https://learndata.ph/) | Open-source platform for technical books and learning resources | [Myk Ogbinar](https://www.linkedin.com/in/ogbinar/) |
+| 4  | [Community Leadership](https://docs.google.com/forms/d/e/1FAIpQLSdegMDXcjSdirb2vg40LrCXIGXGJUZuMhSLOIF5e03wlvHEQw/viewform) | Leadership development program for community volunteers | [Myk Ogbinar](https://www.linkedin.com/in/ogbinar/), [Katherine Bulac](https://www.linkedin.com/in/katherinebulac/) |
+
+---
+
+## 📚 2. Growing Skills and Knowledge  
+Programs focused on learning, mentorship, and collective study — helping members strengthen their technical and professional capabilities.
+
+| #  | Project | Description | Lead/s |
+|----|----------|--------------|--------|
+| 5  | [The Puso Project](https://www.thepusoproject.ph/) | Free Python training, hands-on projects, and web development | [Engramar Bollas](https://www.linkedin.com/in/engramarbollas/) |
+| 6  | [DataCamp Donates Scholarship](index.qmd#official-datacamp-donates-partner) | Distributing scholarships for DataCamp courses | [Mike Bellen](https://www.linkedin.com/in/mikebellen/) |
+| 7  | [Mentorship Program](community.qmd#mentoring-program-2024) | Connecting mentors and mentees within the community | [Phil Gerard Soto](https://www.linkedin.com/in/philgerardsoto/) |
+| 8  | [AI Study Group](https://m.me/ch/Abak0pTtr5t_-dqk/) | Collaborative study group on AI topics and trends | [Vanessa Althea Bermudez](https://www.linkedin.com/in/vaniebermudez/) |
+
+---
+
+## 💬 3. Empowering the Community  
+Programs that promote engagement, research, and shared experiences — turning data learning into collective impact.
+
+| #  | Project | Description | Lead/s |
+|----|----------|--------------|--------|
+| 9  | [Project Challenges](community.qmd#official-datacamp-donates-partner) | Leading complex data projects within the community | [Josh Valdeleon](https://www.linkedin.com/in/josh-valdeleon/), [Chris Formoso](https://www.linkedin.com/in/chris-formoso/) |
+| 10 | [Data Masters & Presenters Online](https://m.me/ch/AbYHrfjvGi3qao7m/) | Organizing online presentations and webinars | [Katherine Bulac](https://www.linkedin.com/in/katherinebulac/), [Kristine Cristobal](https://www.linkedin.com/in/kristine-cristobal-71507113/), [Sandy Cabanes](https://www.linkedin.com/in/sandygcabanes) |
+| 11 | [Community Survey](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home) | Gathering insights and feedback from members | [Sandy Cabanes](https://www.linkedin.com/in/sandygcabanes) |
