@@ -366,6 +366,10 @@ Here are some examples of PAID certifications. These things cost time and money,
  help if you’re aiming for higher positions. You can check our recommended data related graduate programs [here](#graduate-programs-in-data-science-and-related-fields-in-the-philippines).
 4. **Webinars and Courses**: Look out for free webinars and courses offered by [TESDA](https://www.tesda.gov.ph/) some of which you can find [here](https://e-tesda.gov.ph/course/). In addition to this, [DICT](https://dict.gov.ph/) also has similar offerings found [here](https://dict.coursebank.ph/).
 
+### Are there FREE certifications? Yes
+
+Here are a list of [free certifications](https://github.com/cloudcommunity/Free-Certifications) that can be found on the net.
+
 ### Free Certificates
 
 There are options for free certificates, which merely represent your participation and completion of training courses and programs. You can find our curated list [here](free-certificates.qmd) which we have filtered to those that are FREE and relevant to data careers.
