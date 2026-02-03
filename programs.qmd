@@ -11,8 +11,8 @@ Programs that establish the digital and organizational foundation of the communi
 |----|----------|--------------|--------|
 | 1  | [DEP Website](https://dataengineering.ph/) | Official website and information hub for Data Engineering Pilipinas | [Myk Ogbinar](https://www.linkedin.com/in/ogbinar/) |
 | 2  | [Data Hub](https://github.com/dataengineeringpilipinas/datahub) | Repository of open datasets and collaborative projects | [Josh Valdeleon](https://www.linkedin.com/in/josh-valdeleon/), [Chris Formoso](https://www.linkedin.com/in/chris-formoso/) |
-| 3  | [Learn Data Pilipinas](https://learndata.ph/) | Open-source platform for technical books and learning resources | [Myk Ogbinar](https://www.linkedin.com/in/ogbinar/) |
-| 4  | [Community Leadership](https://docs.google.com/forms/d/e/1FAIpQLSdegMDXcjSdirb2vg40LrCXIGXGJUZuMhSLOIF5e03wlvHEQw/viewform) | Leadership development program for community volunteers | [Myk Ogbinar](https://www.linkedin.com/in/ogbinar/), [Katherine Bulac](https://www.linkedin.com/in/katherinebulac/) |
+| 3  | [Learn Data Pilipinas](https://learn.dataengineering.ph) | Open-source platform for technical books and learning resources | [Myk Ogbinar](https://www.linkedin.com/in/ogbinar/) |
+| 4  | [Community Leadership](https://docs.google.com/forms/d/e/1FAIpQLScfMT6QRaSx_G-P3wQ3u1enuB6MaehnCI3l8dGIkz62hWfBSg/viewform) | Leadership development program for community volunteers | [Myk Ogbinar](https://www.linkedin.com/in/ogbinar/), [Katherine Bulac](https://www.linkedin.com/in/katherinebulac/) |
 
 ---
 
@@ -21,7 +21,7 @@ Programs focused on learning, mentorship, and collective study — helping membe
 
 | #  | Project | Description | Lead/s |
 |----|----------|--------------|--------|
-| 5  | [The Puso Project](https://www.thepusoproject.ph/) | Free Python training, hands-on projects, and web development | [Engramar Bollas](https://www.linkedin.com/in/engramarbollas/) |
+| 5  | [The Puso Project](https://tpp.dataengineering.ph) | Free Python training, hands-on projects, and web development | [Engramar Bollas](https://www.linkedin.com/in/engramarbollas/) |
 | 6  | [DataCamp Donates Scholarship](index.qmd#official-datacamp-donates-partner) | Distributing scholarships for DataCamp courses | [Mike Bellen](https://www.linkedin.com/in/mikebellen/) |
 | 7  | [Mentorship Program](community.qmd#mentoring-program-2024) | Connecting mentors and mentees within the community | [Phil Gerard Soto](https://www.linkedin.com/in/philgerardsoto/) |
 | 8  | [AI Study Group](https://m.me/ch/Abak0pTtr5t_-dqk/) | Collaborative study group on AI topics and trends | [Vanessa Althea Bermudez](https://www.linkedin.com/in/vaniebermudez/), [Allan Tan](https://www.linkedin.com/in/allanctan)  |
@@ -35,4 +35,4 @@ Programs that promote engagement, research, and shared experiences — turning d
 |----|----------|--------------|--------|
 | 9  | [Project Challenges](community.qmd#official-datacamp-donates-partner) | Leading complex data projects within the community | [Josh Valdeleon](https://www.linkedin.com/in/josh-valdeleon/), [Chris Formoso](https://www.linkedin.com/in/chris-formoso/) |
 | 10 | [Data Masters & Presenters Online](https://m.me/ch/AbYHrfjvGi3qao7m/) | Organizing online presentations and webinars | [Katherine Bulac](https://www.linkedin.com/in/katherinebulac/), [Kristine Cristobal](https://www.linkedin.com/in/kristine-cristobal-71507113/), [Sandy Cabanes](https://www.linkedin.com/in/sandygcabanes) |
-| 11 | [Community Survey](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home) | Gathering insights and feedback from members | [Sandy Cabanes](https://www.linkedin.com/in/sandygcabanes) |
+| 11 | [Community Survey](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home) [Answer Here](https://docs.google.com/forms/d/e/1FAIpQLSfnzuXmGtS7y30bSyZy5JoREzJ0ljKTXr9BDfEB7rb4X_ilcQ/viewform)| Gathering insights and feedback from members | [Sandy Cabanes](https://www.linkedin.com/in/sandygcabanes) |
