@@ -45,84 +45,121 @@ We’re excited to support your learning journey and can’t wait to see the inc
 # DEP x DC Donates - Frequently Asked Questions
 
 **Q1: Who is eligible for the DataCamp sponsorship?**
-
 - A1: The DataCamp sponsorship is available to all Filipino members of Data Engineering Pilipinas. The scholarship includes 12 months of unlimited premium access to Datacamp.
 
-**Q2: Why was my application declined or not approved yet?**
+**Q2: How will I know the status of my application? Please check our Status Checker**
 
-- A2: Applications may be declined or not approved yet for several reasons, including:
-  - Each application is reviewed comprehensively to ensure that only genuine applicants receive approval.
-  - **Incomplete Information:** Your application may be missing critical details such as full name, correct birthday, city, country, or other required information.
-  - **Incorrect Information:** Provided details might be inaccurate or unverifiable.
-  - **Pending Review:** Your application might still be under review; please allow some time for the process.
+**Application Status: Action Required**
+- A2.1: If your application status shows “Action Required,” it may be due to one or more of the following:
+Incomplete Information 
+  - Some required details (e.g., full name, correct birthdate, or other required fields) may be missing.
+Incorrect Information 
+  - Certain details provided may be inaccurate or cannot be verified.
+Response Needs Clarification 
+  - One or more answers may require further explanation or do not fully meet the evaluation criteria.
 
-To address these issues, ensure all information provided is complete and accurate.
+**What should you do?**
+
+Please double-check all the information you submitted and review your responses carefully. If edits are allowed, update your application accordingly. Otherwise, please wait for further instructions from our team.
+
+*To address these issues, ensure all information provided is complete and accurate.*
+
+**Application Status: Pending Review**
+- A2.2 If your application status shows “Pending Review,” it means your submission has not yet been evaluated.
+
+*Our team reviews applications by batch, and all administrators are volunteers. We appreciate your patience as we carefully assess each application.*
+
+**What should you do?**
+
+ No action is needed at this time. Please wait for further updates once your batch is scheduled for review.
+
+**Application Status: Email Not Found**
+
+If your status shows “Email Not Found,” we were unable to locate your email address in our application records.
+
+This may happen if:
+
+- The email address entered was incorrect or misspelled
+- The application form was not successfully submitted
+- A different email address was used during submission
+
+**What should you do?**
+
+ Please double-check the email address you provided and review your confirmation (if any). You may also revisit the Google Form to ensure your application was successfully submitted. If needed, you can submit a new application using the correct email address.
+
+If you do not receive a confirmation email within the expected timeframe, your application may still be under review. We appreciate your patience as our team processes applications in batches.
 
 **Q3: How can I avoid common mistakes in my application?**
-
 - A3: To avoid common mistakes:
-  - **Carefully Read Instructions:** Follow all instructions on the application form.
-  - **Provide Accurate Information:** Ensure personal details like full name, birthday, city, and country are correct.
-  - **Complete All Sections:** Fill out every section of the form completely.
+  - Carefully Read Instructions: Follow all instructions on the application form.
+  - Provide Accurate Information: Ensure personal details like full name, birthday, city, and country are correct.
+  - Complete All Sections: Fill out every section of the form completely.
 
 **Q4: What should I do if my application is incomplete?**
-
 - A4: If you suspect your application is incomplete:
-  - **Double-check Personal Details:** Ensure full name, correct birthday, city, country, and other required information are accurately filled.
-  - **Complete the Form:** Fill out all sections of the form.
 
-If it has been a while since submission without a response, review and complete your application.
+  - Double-check Personal Details: Ensure full name, correct birthday, and other required information are accurately filled.
+  - Complete the Form: Fill out all sections of the form.
+  - If it has been a while since submission without a response, review and complete your application.
 
-**Q5: How will I know if my application has been approved?**
+**Q5: Is there a chance that my access will be revoked?**
+- A5: There are a few mechanics that will entail removal of DataCamp access.
+  - Non-Acceptance: If you have been invited but do not accept after a few reminders, your invitation will be withdrawn.
+  - Non-Usage: Accounts are being monitored and if they are not being used, we will revoke your access.
+  - We only have limited slots for the partnership and we want to prioritize access to those that need and will use the platform.
 
-- A5: If approved, you will receive a confirmation email with next steps. If no confirmation is received within the expected timeframe, your application may still be under review.
+**Q6: I really like this initiative. How can I support it?**
 
-**Q6: Is there a chance that my access will be revoked?**
+- A6: We appreciate your support! You can help grow the DEP x DataCamp initiative in many ways:
+  - Invite your friends and colleagues who are interested in data to join the community.
+  - Encourage others to apply to the [DEP x DC Scholarship Program](https://dataengineering.ph/#official-datacamp-donates-partner).
+  - Share your learning journey and milestones on social media please follow the official posting [guidelines](https://dataengineering.ph/about.html#official-community-guidelines); [Facebook](https://www.facebook.com/groups/dataengineeringpilipinas), [Discord](https://discord.com/invite/buDgydz7J9), and [Linkedin](https://www.linkedin.com/company/dataengineeringpilipinas).
+  - Help fellow learners in the Data Engineering community by answering questions, sharing best practices, and offering guidance.
+  - Join the official [DataCamp GC](https://m.me/ch/AbaaFmzyN7tstTS9/) and actively participate in discussions.
+Participate in DEP surveys and community initiatives to help us improve the program.
+  - Share your milestones and success stories directly with DataCamp through the official submission link.
 
-- A6: There are a few mechanics that will entail removal of DataCamp access.
-  - **Non-Acceptance:** If you have been invited but do not accept after a few reminders, your invitation will be withdrawn.
-  - **Non-Usage:** Accounts are being monitored and if they are not being used, we will revoke your access.
+*At the heart of this initiative is community. Let’s continue supporting one another and grow together one dataset at a time.
+Tell your success here story to motivate others*
 
-We only have limited slots for the partnership and we want to prioritize access to those that need and will use the platform.
+**Q7: Who can I contact if I have questions about my application?**
+- A7: Kindly review the DATACAMP DONATES x DEP Partnership mechanics for further guidance or ask the community. Visit Data Engineering Pilipinas and join the different DEP communities to connect with other members.
 
-**Q7: I really like this initiative, how do I support it?**
-
-- A7: You can support it through the following:
-  - Invite your friends that are interested in data to join our community.
-  - Invite people to apply to our [DEP x DC Scholarship Program](https://www.facebook.com/groups/dataengineeringpilipinas/posts/1402204577082272/).
-  - Post about your journey and successes and follow the posting rules in social media found [here](https://dataengineering.ph/datacamp-donates.html#rules-and-expectations).
-  - Help other learners in the Data Engineering Community by answering their questions, sharing your thoughts and best practices, and promoting the program.
-  - Share your milestones and success stories to DataCamp [here](https://docs.google.com/forms/d/e/1FAIpQLSc3d-ApKJDxLztekpShKK3GCVdhWWyj7B_voYcT1nt3DreuSg/viewform).
-
-**Q8: Who can I contact if I have questions about my application?**
-
-- A8: Kindly review the DATACAMP DONATES x DEP Partnership mechanics for further guidance or ask the community. Visit [Data Engineering Pilipinas](https://dataengineering.ph/) and join the different DEP communities to connect with other members.
-
-**Q9: How long before you take a slot from someone?**
-
-- A9: A Datacamp premium is around 29USD / month, So we want to maximize that for the community for the next 12 months. These are general guidelines, but the message is if you don't use it, you don't need it. You may get removed automatically without warning.
+**Q8: How long before you take a slot from someone?**
+- A8: A Datacamp premium is around 29USD / month, So we want to maximize that for the community for the next 12 months. These are general guidelines, but the message is if you don’t use it, you don’t need it. You may get removed automatically without warning.
   - if we send an invite and no acceptance after 2 weeks
   - if accepted but no usage after 2 weeks
   - if 4K XP monthly assignment is not completed within 4 weeks
-  - the principle is, if you are using it you shouldn't worry.
+  - The principle is, if you are using it you shouldn’t worry.
 
-**Q10: Why is my application not yet approved?**
+**Q9: Why is my application not yet approved?**
+- A9: Common reasons why applications are not approved include providing incomplete or incorrect information, or failing to answer the questions thoughtfully and seriously. These issues may suggest a lack of sincerity or genuine intent in applying for the scholarship.
 
-- A10: Here are common reasons why your application may not be approved. In essence, it suggests a lack of sincerity or authenticity in your intention to apply for the scholarship. While we want to provide access to everyone, we have limited scholarship slots as well as volunteer resources to review applications. We aim to filter out individuals who may take the opportunity but not make use of it. Please help us by being as honest as possible in your application.
+While we aim to make the opportunity accessible to as many individuals as possible, we have limited scholarship slots and volunteer resources to review applications. As such, we prioritize applicants who demonstrate honesty, care, and a clear intention to fully utilize the opportunity.
 
-![](images/notapproved.png)
+We kindly ask applicants to complete all sections accurately and respond to questions with genuine effort and reflection.
 
-**Q11: Can I share my success story?**
-- A11: We are currently ALWAYS in the processing of promoting the Data Engineering Pilipinas x Datacamp Donates partnership. If you’ve benefited from this scholarship and would love to see it continue, we’d greatly appreciate your support. Sharing your success story—how access to DataCamp has helped your learning or career journey—can make a big difference in demonstrating the impact of this initiative. Your testimonial will help strengthen our case to keep this valuable opportunity alive for future scholars.
+**Q10: Are there curated tracks by DEP?**
 
-SUBMIT YOUR SUCCESS STORY: https://docs.google.com/forms/d/e/1FAIpQLSeZK-3tP6zzzhOn5LpejKmzAf9Wu0rZzQ2EQ_g2sYxvLPMlfA/viewform
+- A10: DEP does not provide its own curated tracks. However, DataCamp offers extensive learning tracks that you can choose from based on your interests and goals. For guidance on which tracks to follow, please refer to the [DEP Roadmaps](https://dataengineering.ph/study-roadmap.html).
 
-**Q11: What happens if it expires?**
-- A11: There are two things that might expire, one is your scholarship, the other is the partnership.
+**Q11: Do we have teams?**
+- A11: As of now, we don’t have teams. All learners participate individually.
 
-Scholarship - The scholarship expires after 12 months. It can also expire if you do not use it for a long time (in terms of XP earned). You can re-apply again on the form if you'd like to renew your access.
+**Q12: Can I share my success story?**
 
-Partnership - DEP's partnership with Datacamp Donates is worth 12 months as well. So make sure to submit success stories (see above) to keep promoting the impact of our community thru Datacamp and we can continue to renew the partnership.
+- A12: We are currently ALWAYS in the processing of promoting the Data Engineering Pilipinas x Datacamp Donates partnership. If you’ve benefited from this scholarship and would love to see it continue, we’d greatly appreciate your support. Sharing your success story—how access to DataCamp has helped your learning or career journey can make a big difference in demonstrating the impact of this initiative. Your testimonial will help strengthen our case to keep this valuable opportunity alive for future scholars.
+SUBMIT YOUR SUCCESS STORY: [here](https://docs.google.com/forms/d/e/1FAIpQLSeZK-3tP6zzzhOn5LpejKmzAf9Wu0rZzQ2EQ_g2sYxvLPMlfA/viewform)
+
+**Q13: What happens if it expires?**
+- A13: There are two things that might expire, one is your scholarship, the other is the partnership.
+  - Scholarship - The scholarship expires after 12 months. It can also expire if you do not use it for a long time (in terms of XP earned). You can re-apply again on the form if you’d like to renew your access.
+  - Partnership - DEP’s partnership with Datacamp Donates is worth 12 months as well. So make sure to submit success stories (see above) to keep promoting the impact of our community through Datacamp and we can continue to renew the partnership.
+
+**Q14: What if my DataCamp account is not registered using Gmail?**
+- A14: If your DataCamp account is not registered using Gmail, you have two options:
+  - Option 1: Create a new DataCamp account using the Gmail address you used during registration.
+  - Option 2: Update your existing DataCamp account email to the same Gmail address you used during registration.
 
 | **Reason for Non-approval**                 | **Description**                                                                                                                                                                            | **Examples**                                                                                               |
 |------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
