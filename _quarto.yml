@@ -29,6 +29,8 @@ website:
         href: study-roadmap.qmd
       - text: "Programs"
         href: programs.qmd
+      - text: "Community Leaders"
+        href: leaders.qmd
       - text: "Community"
         href: community.qmd
       - text: "Partnerships"
