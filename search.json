@@ -322,251 +322,6 @@
     "text": "Student Developers Philippines - A space for student developers in the Philippines to collaborate and share knowledge.\nUP Data Science Society - The UP Data Science Society is a system-wide organization dedicated to empowering data enthusiasts.\nRTU Organization of Statistics Students - The Official Page of the Organization of Statistics Students in Rizal Technological University - Boni.\nGoogle Developer Student Clubs PLM - Google Developer Student Clubs PLM is a premiere student community of Haribons that shares a common interest in technology and innovation.\nThe SYNTAX Org - Community for explorers of the tech’s multiverse. Always #TowardsExcellence.\nMicrosoft Student Community - TIP Manila - Microsoft Student Community is a tech community in T.I.P. Manila driven by a passion for different technologies."
   },
   {
-    "objectID": "free-certificates.html",
-    "href": "free-certificates.html",
-    "title": "Data Engineering Pilipinas",
-    "section": "",
-    "text": "The list is organized as follows:"
-  },
-  {
-    "objectID": "free-certificates.html#database-and-back-end",
-    "href": "free-certificates.html#database-and-back-end",
-    "title": "Data Engineering Pilipinas",
-    "section": "Database and Back-end",
-    "text": "Database and Back-end\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nBack End Development and APIs Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nCS403: Introduction to Modern Database Systems\nSaylor Academy\nProfessional\n42\n🏆\n\n\nREST API\nHackerRank\nIntermediate\n1.5\n🏆\n\n\nMongoDB Basics\nMongoDB\nBeginner\n8.5\n🏆\n\n\nMongoDB for SQL Pros\nMongoDB\nBeginner\n2\n🏆\n\n\nMongoDB Cluster Administration\nMongoDB\nBeginner\n9.5\n🏆\n\n\nMongoDB Aggregation Framework\nMongoDB\nBeginner\n1.5\n🏆\n\n\nMongoDB Performance\nMongoDB\nIntermediate\n7\n🏆\n\n\nMongoDB for Java Developers\nMongoDB\nIntermediate\n7.5\n🏆\n\n\nMongoDB for JavaScript Developers\nMongoDB\nIntermediate\n6.5\n🏆\n\n\nMongoDB for .NET Developers\nMongoDB\nIntermediate\n6.5\n🏆\n\n\nMongoDB for Python Developers\nMongoDB\nIntermediate\n6.5\n🏆\n\n\nDiagnostics and Debugging for MongoDB\nMongoDB\nProfessional\n6.5\n🏆\n\n\nMongoDB Data Modeling\nMongoDB\nProfessional\n7\n🏆\n\n\nIntro to SQL\nKaggle\nBeginner\n3\n🏆\n\n\nAdvanced SQL\nKaggle\nIntermediate\n4\n🏆"
-  },
-  {
-    "objectID": "free-certificates.html#data-analysis-and-visualization",
-    "href": "free-certificates.html#data-analysis-and-visualization",
-    "title": "Data Engineering Pilipinas",
-    "section": "Data Analysis and Visualization",
-    "text": "Data Analysis and Visualization\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nData Analysis with Python\nIBM / Cognitive Class\nIntermediate\n3\n🏅\n\n\nData Analysis with Python Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nData Visualization with Python\nIBM / Cognitive Class\nIntermediate\n3\n🏅\n\n\nData Visualization with R\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nData Visualization Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nData Visualization\nKaggle\nBeginner\n4\n🏆\n\n\nData Cleaning\nKaggle\nIntermediate\n4\n🏆\n\n\nData Visualisation in Tableau\nGreat Learning\nBeginner\n1\n🏆\n\n\nData Visualization With Power BI\nGreat Learning\nBeginner\n2\n🏆"
-  },
-  {
-    "objectID": "free-certificates.html#statistics",
-    "href": "free-certificates.html#statistics",
-    "title": "Data Engineering Pilipinas",
-    "section": "Statistics",
-    "text": "Statistics\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nStatistics 101\nIBM / Cognitive Class\nBeginner\n3\n🏅"
-  },
-  {
-    "objectID": "free-certificates.html#data-science",
-    "href": "free-certificates.html#data-science",
-    "title": "Data Engineering Pilipinas",
-    "section": "Data Science",
-    "text": "Data Science\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nData Science Methodologies\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nData Science 101\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nData Science Tools\nIBM / Cognitive Class\nBeginner\n4\n🏅\n\n\nPython for Data Science\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nPopular Applications of Data Science\nGreat Learning\nBeginner\n1\n🏆\n\n\nCareer in Data Science\nGreat Learning\nBeginner\n1\n🏆\n\n\nIntroduction to Data Science\nGreat Learning\nBeginner\n1\n🏆\n\n\nData Science Mathematics\nGreat Learning\nBeginner\n1\n🏆\n\n\nR for Data Science\nGreat Learning\nBeginner\n2\n🏆\n\n\nStatistical Methods for Data Science\nGreat Learning\nBeginner\n2\n🏆\n\n\nProbability for Data Science\nGreat Learning\nBeginner\n2\n🏆\n\n\nData Preprocessing\nGreat Learning\nBeginner\n2\n🏆\n\n\nSQL for Data Science\nGreat Learning\n\n\n\n\n\n\n     | Beginner   | 3       | 🏆        |"
-  },
-  {
-    "objectID": "free-certificates.html#big-data",
-    "href": "free-certificates.html#big-data",
-    "title": "Data Engineering Pilipinas",
-    "section": "Big Data",
-    "text": "Big Data\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nBig Data Foundations - Level 1\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nHadoop Foundations - Level 1\nIBM / Cognitive Class\nBeginner\n4\n🏅\n\n\nSpark Fundamentals I\nIBM / Cognitive Class\nBeginner\n5\n🏅"
-  },
-  {
-    "objectID": "free-certificates.html#machine-and-deep-learning",
-    "href": "free-certificates.html#machine-and-deep-learning",
-    "title": "Data Engineering Pilipinas",
-    "section": "Machine and Deep Learning",
-    "text": "Machine and Deep Learning\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nDeep Learning Fundamentals\nIBM / Cognitive Class\nIntermediate\n3\n🏅\n\n\nDeep Learning with TensorFlow\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nMachine Learning with Python\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nMachine Learning with Python Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nIntro to Machine Learning\nKaggle\nBeginner\n3\n🏆\n\n\nIntermediate Machine Learning\nKaggle\nIntermediate\n4\n🏆\n\n\nMachine Learning Explainability\nKaggle\nIntermediate\n4\n🏆\n\n\nIntro to Deep Learning\nKaggle\nIntermediate\n4\n🏆\n\n\nTime Series\nKaggle\nIntermediate\n5\n🏆\n\n\nFeature Engineering\nKaggle\nIntermediate\n5\n🏆\n\n\nComputer Vision\nKaggle\nIntermediate\n4\n🏆"
-  },
-  {
-    "objectID": "free-certificates.html#artificial-intelligence",
-    "href": "free-certificates.html#artificial-intelligence",
-    "title": "Data Engineering Pilipinas",
-    "section": "Artificial Intelligence",
-    "text": "Artificial Intelligence\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nElements of AI\nUniversity of Helsinki\nBeginner\n30\n🏆\n\n\nIntro to AI Ethics\nKaggle\nIntermediate\n4\n🏆\n\n\nIntro to Game AI and Reinforcement Learning\nKaggle\nIntermediate\n4\n🏆\n\n\nIntroduction to Generative AI\nGoogle Cloud Skills Boost\nIntermediate\n0.75\n🏆\n\n\nIntroduction to Artificial Intelligence\nGreat Learning\nBeginner\n1.5\n🏆\n\n\nFoundations of Prompt Engineering\nAmazon\nIntermediate\n4\n🏆\n\n\nGenerative AI for Decision Makers\nAmazon\nBeginner\n3\n🏆\n\n\nGenerative AI Fundamentals\nData Bricks\nBeginner\n0.5\n🏅\n\n\nCareer Essentials in Generative AI\nLinkedIn & Microsoft\nBeginner\n4.5\n🏆"
-  },
-  {
-    "objectID": "free-certificates.html#networking",
-    "href": "free-certificates.html#networking",
-    "title": "Data Engineering Pilipinas",
-    "section": "Networking",
-    "text": "Networking\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nNetworking Essentials\nCisco Networking Academy\nIntermediate\n70\n🏅\n\n\nCS402: Computer Communications and Networks\nSaylor Academy\nIntermediate\n60\n🏆"
-  },
-  {
-    "objectID": "free-certificates.html#operating-systems",
-    "href": "free-certificates.html#operating-systems",
-    "title": "Data Engineering Pilipinas",
-    "section": "Operating Systems",
-    "text": "Operating Systems\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nNDG Linux Unhatched\nCisco Networking Academy\nBeginner\n8\n🏆\n\n\nNDG Linux Essentials\nCisco Networking Academy\nIntermediate\n70\n🏆\n\n\nCS401: Operating Systems\nSaylor Academy\nProfessional\n120\n🏆"
-  },
-  {
-    "objectID": "free-certificates.html#robotics-and-iot",
-    "href": "free-certificates.html#robotics-and-iot",
-    "title": "Data Engineering Pilipinas",
-    "section": "Robotics and IoT",
-    "text": "Robotics and IoT\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nIntroduction to IoT\nCisco Networking Academy\nBeginner\n20\n🏅\n\n\nBuilding Robots with TJBot\nIBM / Cognitive Class\nBeginner\n3\n🏅"
-  },
-  {
-    "objectID": "free-certificates.html#chatbots",
-    "href": "free-certificates.html#chatbots",
-    "title": "Data Engineering Pilipinas",
-    "section": "Chatbots",
-    "text": "Chatbots\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nHow to Build Chatbots\nIBM / Cognitive Class\nBeginner\n5\n🏅\n\n\nChatGPT for Beginners\nGreat Learning\nBeginner\n2\n🏆\n\n\nGetting Started with Bard\nGreat Learning\nBeginner\n1\n🏆"
-  },
-  {
-    "objectID": "free-certificates.html#devops",
-    "href": "free-certificates.html#devops",
-    "title": "Data Engineering Pilipinas",
-    "section": "DevOps",
-    "text": "DevOps\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nContainers, K8s and Istio on IBM cloud\nIBM / Cognitive Class\nBeginner\n9\n🏅\n\n\nDocker Essentials\nIBM / Cognitive Class\nBeginner\n4\n🏅\n\n\n[IBM Cloud Essentials](https://cognitiveclass.ai/courses/ibm-cloud\n\n\n\n\n\n\n\n-essentials) | IBM / Cognitive Class | Beginner | 4 | 🏅 | | Introduction to Containers, Kubernetes, and OpenShift | IBM / Cognitive Class | Beginner | 3 | 🏅 | | Introduction to Kubernetes | Great Learning | Beginner | 1.5 | 🏆 |"
-  },
-  {
-    "objectID": "free-certificates.html#programming-languages",
-    "href": "free-certificates.html#programming-languages",
-    "title": "Data Engineering Pilipinas",
-    "section": "Programming Languages",
-    "text": "Programming Languages\n\nJava\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nJava\nHackerRank\nBeginner\n1\n🏆\n\n\n\n\n\nJavaScript\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nJavaScript Algorithms and Data Structures Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nJavaScript\nHackerRank\nBeginner\n1.5\n🏆\n\n\n\n\n\nR\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nR 101\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nUsing R with Databases\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nR\nHackerRank\nBeginner\n1.5\n🏆\n\n\n\n\n\nPython\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nProgramming Essentials In Python\nCisco Networking Academy\nIntermediate\n70\n🏆\n\n\nScientific Computing with Python Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nPython\nHackerRank\nBeginner\n1.5\n🏆\n\n\nIntro to Graph Analytics in Python free course\nMemgraph\nIntermediate\n3\n🏅\n\n\nPython\nKaggle\nBeginner\n5\n🏆\n\n\nPandas\nKaggle\nBeginner\n4\n🏆\n\n\nIntro to Programming\nKaggle\nBeginner\n5\n🏆\n\n\nPython for Machine Learning and Data Science\nGreat Learning\nBeginner\n3\n🏆"
-  },
-  {
-    "objectID": "free-certificates.html#theories-and-concepts",
-    "href": "free-certificates.html#theories-and-concepts",
-    "title": "Data Engineering Pilipinas",
-    "section": "Theories and Concepts",
-    "text": "Theories and Concepts\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nQuality Assurance Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nCS101: Introduction to Computer Science I\nSaylor Academy\nProfessional\n52\n🏆\n\n\nCS102: Introduction to Computer Science II\nSaylor Academy\nProfessional\n42\n🏆\n\n\nCS201: Elementary Data Structures\nSaylor Academy\nProfessional\n38\n🏆\n\n\nCS202: Discrete Structures\nSaylor Academy\nProfessional\n44\n🏆\n\n\nCS301: Computer Architecture\nSaylor Academy\nProfessional\n48\n🏆\n\n\nCS302: Software Engineering\nSaylor Academy\nProfessional\n45\n🏆\n\n\nProblem Solving\nHackerRank\nBeginner\n1.5\n🏆\n\n\nProblem Solving\nHackerRank\nIntermediate\n1.5\n🏆\n\n\nGraph Modeling Email Course\nMemgraph\nBeginner\n1\n🏅\n\n\nGeospatial Analysis\nKaggle\nIntermediate\n4\n🏆"
-  },
-  {
-    "objectID": "free-certificates.html#business",
-    "href": "free-certificates.html#business",
-    "title": "Data Engineering Pilipinas",
-    "section": "Business",
-    "text": "Business\n\nMarketing\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nDigital Marketing\nGoogle\nBeginner\n40\n🏅\n\n\nEmail Marketing\nSendinBlue\nBeginner\n4\n🏅\n\n\n\n\n\nProject Management\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nKICKOFF\nProject Management Institute\nBeginner\n0.75\n🏅\n\n\nProject Management Essentials\nManagement and Strategy Institute\nBeginner\n0.75\n🏅\n\n\nProject Management Essentials\nDisaster Ready\nBeginner\n5\n🏅\n\n\n\n\n\nSupport\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nCustomer Relationship Management\nGreat Learning\nBeginner\n1\n🏆"
-  },
-  {
-    "objectID": "free-certificates.html#want-more-certifications",
-    "href": "free-certificates.html#want-more-certifications",
-    "title": "Data Engineering Pilipinas",
-    "section": "Want More Certifications?",
-    "text": "Want More Certifications?\nThe original list can be found here."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Engineering Pilipinas",
-    "section": "",
-    "text": "Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.\nThis page serves as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of."
-  },
-  {
-    "objectID": "index.html#getting-started-with-data-engineering",
-    "href": "index.html#getting-started-with-data-engineering",
-    "title": "Data Engineering Pilipinas",
-    "section": "Getting Started with Data Engineering",
-    "text": "Getting Started with Data Engineering\n\nRead more about Data Engineering 101"
-  },
-  {
-    "objectID": "index.html#join-our-growing-community",
-    "href": "index.html#join-our-growing-community",
-    "title": "Data Engineering Pilipinas",
-    "section": "Join Our Growing Community",
-    "text": "Join Our Growing Community\nConnect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:"
-  },
-  {
-    "objectID": "index.html#official-datacamp-donates-partner",
-    "href": "index.html#official-datacamp-donates-partner",
-    "title": "Data Engineering Pilipinas",
-    "section": "Official DataCamp Donates Partner",
-    "text": "Official DataCamp Donates Partner\n\n\n\nData Engineering Pilipinas is an official partner for DataCamp Donates, offering our community members the chance to learn essential data skills, from basics to advanced data engineering, data science, and machine learning.\nNot familiar with DataCamp? Check out this video. It’s a simple way to learn at your own pace. The program is free for Data Engineering Pilipinas community members, but licenses are limited. Please apply only if you’re committed to learning data skills.\n\nVIEW SCHOLARSHIP MECHANICS"
-  },
-  {
-    "objectID": "technical-knowledgebase.html",
-    "href": "technical-knowledgebase.html",
-    "title": "Technical Knowledge Base",
-    "section": "",
-    "text": "PostgreSQL: An open-source object-relational database system known for its reliability and robust features.\nMySQL: The most popular open-source SQL database management system, developed by Oracle Corporation.\nAmazon Relational Database System (RDS): A managed service for setting up and scaling databases in the cloud, supporting multiple database engines."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#relational-databases",
-    "href": "technical-knowledgebase.html#relational-databases",
-    "title": "Technical Knowledge Base",
-    "section": "",
-    "text": "PostgreSQL: An open-source object-relational database system known for its reliability and robust features.\nMySQL: The most popular open-source SQL database management system, developed by Oracle Corporation.\nAmazon Relational Database System (RDS): A managed service for setting up and scaling databases in the cloud, supporting multiple database engines."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#columnar-databases",
-    "href": "technical-knowledgebase.html#columnar-databases",
-    "title": "Technical Knowledge Base",
-    "section": "Columnar Databases",
-    "text": "Columnar Databases\n\nAmazon Redshift: A cloud data warehouse known for its fast performance, available in both provisioned and serverless configurations.\nGoogle BigQuery: A serverless enterprise data warehouse that offers high scalability and cost-effectiveness."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#key-value-stores",
-    "href": "technical-knowledgebase.html#key-value-stores",
-    "title": "Technical Knowledge Base",
-    "section": "Key-value Stores",
-    "text": "Key-value Stores\n\nRedis: An open-source, in-memory key-value store known for its versatility and performance.\nAmazon DynamoDB: A fully managed, serverless NoSQL database designed for modern applications."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#object-storage",
-    "href": "technical-knowledgebase.html#object-storage",
-    "title": "Technical Knowledge Base",
-    "section": "Object Storage",
-    "text": "Object Storage\n\nAmazon S3: Offers scalable and secure object storage services.\nAzure Blob Storage: Ideal for storing large-scale cloud-native workloads, archives, and data lakes.\nGoogle Cloud Storage: A flexible service for storing and retrieving any amount of data."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#data-ingestion",
-    "href": "technical-knowledgebase.html#data-ingestion",
-    "title": "Technical Knowledge Base",
-    "section": "Data Ingestion",
-    "text": "Data Ingestion\n\nApache Kafka: A distributed event streaming platform with various implementations:\n\nConfluent’s Apache Kafka: A fully managed service with expert support.\nAmazon MSK: Amazon’s fully managed Kafka service.\n\nAWS SDK for pandas (AWS Wrangler): Extends pandas library to AWS, allowing seamless integration with AWS data services.\nAWS Kinesis: A cloud-based service for real-time data processing.\nAirbyte: An open-source data integration platform for ELT pipelines.\nPentaho Data Integration (Kettle): Includes both a core data integration engine and a graphical user interface for defining jobs and transformations."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#data-formats",
-    "href": "technical-knowledgebase.html#data-formats",
-    "title": "Technical Knowledge Base",
-    "section": "Data Formats",
-    "text": "Data Formats\n\nApache Avro: A serialization format ideal for streaming data pipelines.\nApache Parquet: An open-source columnar data file format.\nApache ORC: Optimized for Hadoop workloads."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#data-storage-framework",
-    "href": "technical-knowledgebase.html#data-storage-framework",
-    "title": "Technical Knowledge Base",
-    "section": "Data Storage Framework",
-    "text": "Data Storage Framework\n\nDelta Lake: An open-source storage framework by Databricks for building Lakehouse architecture.\nApache Iceberg: An open table format for huge analytical datasets, developed by Netflix.\nApache Hudi: A framework for managing large analytical datasets, created by Uber."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#batch-processing",
-    "href": "technical-knowledgebase.html#batch-processing",
-    "title": "Technical Knowledge Base",
-    "section": "Batch Processing",
-    "text": "Batch Processing\n\nFrameworks and Libraries\n\nApache Spark: A versatile engine for big data processing, available in various languages like Python (PySpark), Scala, Java, and R.\n\n\n\nSQL Engines\n\nPresto: A distributed SQL query engine for big data.\nApache Hive: Built on Hadoop, it facilitates reading, writing, and managing large datasets.\nApache Drill: An open-source SQL query engine.\nTrino: A SQL query engine designed for large data sets.\n\n\n\nManaged Services (Cloud)\n\nAWS Elastic MapReduce (EMR): A cloud big data platform for processing large datasets.\nAWS Glue: A serverless data integration service."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#stream-processing",
-    "href": "technical-knowledgebase.html#stream-processing",
-    "title": "Technical Knowledge Base",
-    "section": "Stream Processing",
-    "text": "Stream Processing\n\nSpark Streaming: A part of Apache Spark for processing live data streams.\nSpark Structured Streaming: A stream processing engine built on Spark SQL.\nApache Flink: A framework for stateful computations over data streams.\nApache Storm: A system for processing streaming data in real-time.\n\n\nData Stores\n\nApache Druid: A high-performance real-time analytics database.\nApache Pinot: A real-time distributed OLAP datastore."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#workflow-orchestration",
-    "href": "technical-knowledgebase.html#workflow-orchestration",
-    "title": "Technical Knowledge Base",
-    "section": "Workflow Orchestration",
-    "text": "Workflow Orchestration\n\nApache Airflow: An open-source platform for managing complex computational workflows and data processing pipelines.\nMage: A modern replacement for Airflow for transforming and integrating data.\nDagster: An orchestration platform for data assets.\nPrefect: A workflow orchestration tool for data pipelines.\nKestra: An orchestrator for both scheduled and event-driven workflows.\nAWS Step Functions: Coordinates components of distributed applications."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#data-transformation",
-    "href": "technical-knowledgebase.html#data-transformation",
-    "title": "Technical Knowledge Base",
-    "section": "Data Transformation",
-    "text": "Data Transformation\n\nFrameworks\n\nData Build Tool (dbt): A transformation workflow that follows software engineering best practices.\nSQLMesh: An open-source data transformation framework for SQL and Python."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#data-governance",
-    "href": "technical-knowledgebase.html#data-governance",
-    "title": "Technical Knowledge Base",
-    "section": "Data Governance",
-    "text": "Data Governance\n\nEnterprise Data Catalog\n\nDataHub Project: An extensible metadata platform by LinkedIn.\nOpenMetadata: A platform for discovering, collaborating, and managing data.\nApache Atlas: An open-source metadata and governance framework.\nAmundsen: A data discovery and metadata engine by Lyft.\n\n\n\nData Quality/Observability\n\nGreat Expectations: A platform for data quality and observability."
-  },
-  {
-    "objectID": "technical-knowledgebase.html#data-platforms",
-    "href": "technical-knowledgebase.html#data-platforms",
-    "title": "Technical Knowledge Base",
-    "section": "Data Platforms",
-    "text": "Data Platforms\n\nDatabricks: Offers a unified Data Lakehouse platform.\nSnowflake: A cloud-native data warehouse platform."
-  },
-  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Free Resources",
@@ -754,6 +509,293 @@
     "title": "Free Resources",
     "section": "Open Books",
     "text": "Open Books\n\nLearn Data Pilipinas - Our online reference for open source technical books\n\n\nData Science and Programming\n\nDive into Python - Python is an open-source, high-level programming language that is widely used in the field of artificial intelligence and machine learning.\nR Graphics Cookbook - Data visualization with ggplot2 in R.\nGeocomputation with R - Spatial data analysis with R.\nRaps with R - Music and analysis with R.\n\n\n\nTheoretical Books\n\nhomotopytypetheory\nThe TeXbook\nMarkdown Guide\nHow to Design Programs\nThe Architecture of Open Source Applications\nMathematics for Computer Science\nAlgorithms\nA Programmer’s Introduction to Mathematics\nFoundations of Computer Science\nThink Bayes\nIntroduction to Information Retrieval\n\n\n\nComputer Vision\n\nComputer Vision: Algorithms and Applications, 2nd ed.\nFoundations of Computer Vision\n\n\n\nMiscellaneous\n\nOpen Books by Open UMN - Free educational textbooks, including data science and statistics.\nPandas for Everyone - Comprehensive guide to using Pandas for data analysis.\nSaylor Academy - Free and open online courses for people everywhere.\nGoalkicker - Programming Notes for Professionals - Free programming books on various topics.\nPython Programming Tutorials - Comprehensive resource for learning Python.\nScratch - Imagine, Program, Share - Create stories, games, and animations.\nWaggle Dance - An interactive Python tutorial.\nInvent with Python - Books for learning Python with a focus on making things.\nOpen Source Society University - Computer Science - Path to a free self-taught education in Computer Science.\nLearn Python the Hard Way - Free eBook Download - A book for learning Python programming.\nData Analysis with Python - Spring 2020 - University of Helsinki’s course on Python for data analysis.\nExercism - Code practice and mentorship for everyone.\nGit and GitHub Tutorial for Beginners - Introduction to Git and GitHub.\nRStudio - Books - Resources for learning R programming.\nAwesome Courses - This list is an attempt to bring to light those awesome CS courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.\nBooks - Learn Anything is collecting all material with focus on Computer Science but you’ll find other topics ranging from neuro science to philosophy.\nLearn to Program - This list aims to be a curated set of high quality educational resources with focus on foundations of web developement.\nawesome-dataviz - A curated list of awesome data visualization libraries and resources."
+  },
+  {
+    "objectID": "technical-knowledgebase.html",
+    "href": "technical-knowledgebase.html",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "PostgreSQL: An open-source object-relational database system known for its reliability and robust features.\nMySQL: The most popular open-source SQL database management system, developed by Oracle Corporation.\nAmazon Relational Database System (RDS): A managed service for setting up and scaling databases in the cloud, supporting multiple database engines."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#relational-databases",
+    "href": "technical-knowledgebase.html#relational-databases",
+    "title": "Technical Knowledge Base",
+    "section": "",
+    "text": "PostgreSQL: An open-source object-relational database system known for its reliability and robust features.\nMySQL: The most popular open-source SQL database management system, developed by Oracle Corporation.\nAmazon Relational Database System (RDS): A managed service for setting up and scaling databases in the cloud, supporting multiple database engines."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#columnar-databases",
+    "href": "technical-knowledgebase.html#columnar-databases",
+    "title": "Technical Knowledge Base",
+    "section": "Columnar Databases",
+    "text": "Columnar Databases\n\nAmazon Redshift: A cloud data warehouse known for its fast performance, available in both provisioned and serverless configurations.\nGoogle BigQuery: A serverless enterprise data warehouse that offers high scalability and cost-effectiveness."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#key-value-stores",
+    "href": "technical-knowledgebase.html#key-value-stores",
+    "title": "Technical Knowledge Base",
+    "section": "Key-value Stores",
+    "text": "Key-value Stores\n\nRedis: An open-source, in-memory key-value store known for its versatility and performance.\nAmazon DynamoDB: A fully managed, serverless NoSQL database designed for modern applications."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#object-storage",
+    "href": "technical-knowledgebase.html#object-storage",
+    "title": "Technical Knowledge Base",
+    "section": "Object Storage",
+    "text": "Object Storage\n\nAmazon S3: Offers scalable and secure object storage services.\nAzure Blob Storage: Ideal for storing large-scale cloud-native workloads, archives, and data lakes.\nGoogle Cloud Storage: A flexible service for storing and retrieving any amount of data."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-ingestion",
+    "href": "technical-knowledgebase.html#data-ingestion",
+    "title": "Technical Knowledge Base",
+    "section": "Data Ingestion",
+    "text": "Data Ingestion\n\nApache Kafka: A distributed event streaming platform with various implementations:\n\nConfluent’s Apache Kafka: A fully managed service with expert support.\nAmazon MSK: Amazon’s fully managed Kafka service.\n\nAWS SDK for pandas (AWS Wrangler): Extends pandas library to AWS, allowing seamless integration with AWS data services.\nAWS Kinesis: A cloud-based service for real-time data processing.\nAirbyte: An open-source data integration platform for ELT pipelines.\nPentaho Data Integration (Kettle): Includes both a core data integration engine and a graphical user interface for defining jobs and transformations."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-formats",
+    "href": "technical-knowledgebase.html#data-formats",
+    "title": "Technical Knowledge Base",
+    "section": "Data Formats",
+    "text": "Data Formats\n\nApache Avro: A serialization format ideal for streaming data pipelines.\nApache Parquet: An open-source columnar data file format.\nApache ORC: Optimized for Hadoop workloads."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-storage-framework",
+    "href": "technical-knowledgebase.html#data-storage-framework",
+    "title": "Technical Knowledge Base",
+    "section": "Data Storage Framework",
+    "text": "Data Storage Framework\n\nDelta Lake: An open-source storage framework by Databricks for building Lakehouse architecture.\nApache Iceberg: An open table format for huge analytical datasets, developed by Netflix.\nApache Hudi: A framework for managing large analytical datasets, created by Uber."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#batch-processing",
+    "href": "technical-knowledgebase.html#batch-processing",
+    "title": "Technical Knowledge Base",
+    "section": "Batch Processing",
+    "text": "Batch Processing\n\nFrameworks and Libraries\n\nApache Spark: A versatile engine for big data processing, available in various languages like Python (PySpark), Scala, Java, and R.\n\n\n\nSQL Engines\n\nPresto: A distributed SQL query engine for big data.\nApache Hive: Built on Hadoop, it facilitates reading, writing, and managing large datasets.\nApache Drill: An open-source SQL query engine.\nTrino: A SQL query engine designed for large data sets.\n\n\n\nManaged Services (Cloud)\n\nAWS Elastic MapReduce (EMR): A cloud big data platform for processing large datasets.\nAWS Glue: A serverless data integration service."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#stream-processing",
+    "href": "technical-knowledgebase.html#stream-processing",
+    "title": "Technical Knowledge Base",
+    "section": "Stream Processing",
+    "text": "Stream Processing\n\nSpark Streaming: A part of Apache Spark for processing live data streams.\nSpark Structured Streaming: A stream processing engine built on Spark SQL.\nApache Flink: A framework for stateful computations over data streams.\nApache Storm: A system for processing streaming data in real-time.\n\n\nData Stores\n\nApache Druid: A high-performance real-time analytics database.\nApache Pinot: A real-time distributed OLAP datastore."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#workflow-orchestration",
+    "href": "technical-knowledgebase.html#workflow-orchestration",
+    "title": "Technical Knowledge Base",
+    "section": "Workflow Orchestration",
+    "text": "Workflow Orchestration\n\nApache Airflow: An open-source platform for managing complex computational workflows and data processing pipelines.\nMage: A modern replacement for Airflow for transforming and integrating data.\nDagster: An orchestration platform for data assets.\nPrefect: A workflow orchestration tool for data pipelines.\nKestra: An orchestrator for both scheduled and event-driven workflows.\nAWS Step Functions: Coordinates components of distributed applications."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-transformation",
+    "href": "technical-knowledgebase.html#data-transformation",
+    "title": "Technical Knowledge Base",
+    "section": "Data Transformation",
+    "text": "Data Transformation\n\nFrameworks\n\nData Build Tool (dbt): A transformation workflow that follows software engineering best practices.\nSQLMesh: An open-source data transformation framework for SQL and Python."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-governance",
+    "href": "technical-knowledgebase.html#data-governance",
+    "title": "Technical Knowledge Base",
+    "section": "Data Governance",
+    "text": "Data Governance\n\nEnterprise Data Catalog\n\nDataHub Project: An extensible metadata platform by LinkedIn.\nOpenMetadata: A platform for discovering, collaborating, and managing data.\nApache Atlas: An open-source metadata and governance framework.\nAmundsen: A data discovery and metadata engine by Lyft.\n\n\n\nData Quality/Observability\n\nGreat Expectations: A platform for data quality and observability."
+  },
+  {
+    "objectID": "technical-knowledgebase.html#data-platforms",
+    "href": "technical-knowledgebase.html#data-platforms",
+    "title": "Technical Knowledge Base",
+    "section": "Data Platforms",
+    "text": "Data Platforms\n\nDatabricks: Offers a unified Data Lakehouse platform.\nSnowflake: A cloud-native data warehouse platform."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Engineering Pilipinas",
+    "section": "",
+    "text": "Data Engineering Pilipinas is a community for data engineers, data analysts, data scientists, developers, AI / ML engineers, and users of closed and open source data tools and methods / techniques in the Philippines. Data Engineering Pilipinas is a PyData group.\nThis page serves as a repository of notes, thoughts, ideas, plans, dreams, datasets, analyses, and whatever else we think of."
+  },
+  {
+    "objectID": "index.html#getting-started-with-data-engineering",
+    "href": "index.html#getting-started-with-data-engineering",
+    "title": "Data Engineering Pilipinas",
+    "section": "Getting Started with Data Engineering",
+    "text": "Getting Started with Data Engineering\n\nRead more about Data Engineering 101"
+  },
+  {
+    "objectID": "index.html#join-our-growing-community",
+    "href": "index.html#join-our-growing-community",
+    "title": "Data Engineering Pilipinas",
+    "section": "Join Our Growing Community",
+    "text": "Join Our Growing Community\nConnect with Data Engineering Pilipinas on various platforms. Like, follow, and join our groups and pages to stay updated and engage with our community:"
+  },
+  {
+    "objectID": "index.html#official-datacamp-donates-partner",
+    "href": "index.html#official-datacamp-donates-partner",
+    "title": "Data Engineering Pilipinas",
+    "section": "Official DataCamp Donates Partner",
+    "text": "Official DataCamp Donates Partner\n\n\n\nData Engineering Pilipinas is an official partner for DataCamp Donates, offering our community members the chance to learn essential data skills, from basics to advanced data engineering, data science, and machine learning.\nNot familiar with DataCamp? Check out this video. It’s a simple way to learn at your own pace. The program is free for Data Engineering Pilipinas community members, but licenses are limited. Please apply only if you’re committed to learning data skills.\n\nVIEW SCHOLARSHIP MECHANICS"
+  },
+  {
+    "objectID": "free-certificates.html",
+    "href": "free-certificates.html",
+    "title": "Data Engineering Pilipinas",
+    "section": "",
+    "text": "The list is organized as follows:"
+  },
+  {
+    "objectID": "free-certificates.html#database-and-back-end",
+    "href": "free-certificates.html#database-and-back-end",
+    "title": "Data Engineering Pilipinas",
+    "section": "Database and Back-end",
+    "text": "Database and Back-end\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nBack End Development and APIs Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nCS403: Introduction to Modern Database Systems\nSaylor Academy\nProfessional\n42\n🏆\n\n\nREST API\nHackerRank\nIntermediate\n1.5\n🏆\n\n\nMongoDB Basics\nMongoDB\nBeginner\n8.5\n🏆\n\n\nMongoDB for SQL Pros\nMongoDB\nBeginner\n2\n🏆\n\n\nMongoDB Cluster Administration\nMongoDB\nBeginner\n9.5\n🏆\n\n\nMongoDB Aggregation Framework\nMongoDB\nBeginner\n1.5\n🏆\n\n\nMongoDB Performance\nMongoDB\nIntermediate\n7\n🏆\n\n\nMongoDB for Java Developers\nMongoDB\nIntermediate\n7.5\n🏆\n\n\nMongoDB for JavaScript Developers\nMongoDB\nIntermediate\n6.5\n🏆\n\n\nMongoDB for .NET Developers\nMongoDB\nIntermediate\n6.5\n🏆\n\n\nMongoDB for Python Developers\nMongoDB\nIntermediate\n6.5\n🏆\n\n\nDiagnostics and Debugging for MongoDB\nMongoDB\nProfessional\n6.5\n🏆\n\n\nMongoDB Data Modeling\nMongoDB\nProfessional\n7\n🏆\n\n\nIntro to SQL\nKaggle\nBeginner\n3\n🏆\n\n\nAdvanced SQL\nKaggle\nIntermediate\n4\n🏆"
+  },
+  {
+    "objectID": "free-certificates.html#data-analysis-and-visualization",
+    "href": "free-certificates.html#data-analysis-and-visualization",
+    "title": "Data Engineering Pilipinas",
+    "section": "Data Analysis and Visualization",
+    "text": "Data Analysis and Visualization\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nData Analysis with Python\nIBM / Cognitive Class\nIntermediate\n3\n🏅\n\n\nData Analysis with Python Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nData Visualization with Python\nIBM / Cognitive Class\nIntermediate\n3\n🏅\n\n\nData Visualization with R\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nData Visualization Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nData Visualization\nKaggle\nBeginner\n4\n🏆\n\n\nData Cleaning\nKaggle\nIntermediate\n4\n🏆\n\n\nData Visualisation in Tableau\nGreat Learning\nBeginner\n1\n🏆\n\n\nData Visualization With Power BI\nGreat Learning\nBeginner\n2\n🏆"
+  },
+  {
+    "objectID": "free-certificates.html#statistics",
+    "href": "free-certificates.html#statistics",
+    "title": "Data Engineering Pilipinas",
+    "section": "Statistics",
+    "text": "Statistics\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nStatistics 101\nIBM / Cognitive Class\nBeginner\n3\n🏅"
+  },
+  {
+    "objectID": "free-certificates.html#data-science",
+    "href": "free-certificates.html#data-science",
+    "title": "Data Engineering Pilipinas",
+    "section": "Data Science",
+    "text": "Data Science\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nData Science Methodologies\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nData Science 101\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nData Science Tools\nIBM / Cognitive Class\nBeginner\n4\n🏅\n\n\nPython for Data Science\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nPopular Applications of Data Science\nGreat Learning\nBeginner\n1\n🏆\n\n\nCareer in Data Science\nGreat Learning\nBeginner\n1\n🏆\n\n\nIntroduction to Data Science\nGreat Learning\nBeginner\n1\n🏆\n\n\nData Science Mathematics\nGreat Learning\nBeginner\n1\n🏆\n\n\nR for Data Science\nGreat Learning\nBeginner\n2\n🏆\n\n\nStatistical Methods for Data Science\nGreat Learning\nBeginner\n2\n🏆\n\n\nProbability for Data Science\nGreat Learning\nBeginner\n2\n🏆\n\n\nData Preprocessing\nGreat Learning\nBeginner\n2\n🏆\n\n\nSQL for Data Science\nGreat Learning\n\n\n\n\n\n\n     | Beginner   | 3       | 🏆        |"
+  },
+  {
+    "objectID": "free-certificates.html#big-data",
+    "href": "free-certificates.html#big-data",
+    "title": "Data Engineering Pilipinas",
+    "section": "Big Data",
+    "text": "Big Data\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nBig Data Foundations - Level 1\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nHadoop Foundations - Level 1\nIBM / Cognitive Class\nBeginner\n4\n🏅\n\n\nSpark Fundamentals I\nIBM / Cognitive Class\nBeginner\n5\n🏅"
+  },
+  {
+    "objectID": "free-certificates.html#machine-and-deep-learning",
+    "href": "free-certificates.html#machine-and-deep-learning",
+    "title": "Data Engineering Pilipinas",
+    "section": "Machine and Deep Learning",
+    "text": "Machine and Deep Learning\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nDeep Learning Fundamentals\nIBM / Cognitive Class\nIntermediate\n3\n🏅\n\n\nDeep Learning with TensorFlow\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nMachine Learning with Python\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nMachine Learning with Python Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nIntro to Machine Learning\nKaggle\nBeginner\n3\n🏆\n\n\nIntermediate Machine Learning\nKaggle\nIntermediate\n4\n🏆\n\n\nMachine Learning Explainability\nKaggle\nIntermediate\n4\n🏆\n\n\nIntro to Deep Learning\nKaggle\nIntermediate\n4\n🏆\n\n\nTime Series\nKaggle\nIntermediate\n5\n🏆\n\n\nFeature Engineering\nKaggle\nIntermediate\n5\n🏆\n\n\nComputer Vision\nKaggle\nIntermediate\n4\n🏆"
+  },
+  {
+    "objectID": "free-certificates.html#artificial-intelligence",
+    "href": "free-certificates.html#artificial-intelligence",
+    "title": "Data Engineering Pilipinas",
+    "section": "Artificial Intelligence",
+    "text": "Artificial Intelligence\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nElements of AI\nUniversity of Helsinki\nBeginner\n30\n🏆\n\n\nIntro to AI Ethics\nKaggle\nIntermediate\n4\n🏆\n\n\nIntro to Game AI and Reinforcement Learning\nKaggle\nIntermediate\n4\n🏆\n\n\nIntroduction to Generative AI\nGoogle Cloud Skills Boost\nIntermediate\n0.75\n🏆\n\n\nIntroduction to Artificial Intelligence\nGreat Learning\nBeginner\n1.5\n🏆\n\n\nFoundations of Prompt Engineering\nAmazon\nIntermediate\n4\n🏆\n\n\nGenerative AI for Decision Makers\nAmazon\nBeginner\n3\n🏆\n\n\nGenerative AI Fundamentals\nData Bricks\nBeginner\n0.5\n🏅\n\n\nCareer Essentials in Generative AI\nLinkedIn & Microsoft\nBeginner\n4.5\n🏆"
+  },
+  {
+    "objectID": "free-certificates.html#networking",
+    "href": "free-certificates.html#networking",
+    "title": "Data Engineering Pilipinas",
+    "section": "Networking",
+    "text": "Networking\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nNetworking Essentials\nCisco Networking Academy\nIntermediate\n70\n🏅\n\n\nCS402: Computer Communications and Networks\nSaylor Academy\nIntermediate\n60\n🏆"
+  },
+  {
+    "objectID": "free-certificates.html#operating-systems",
+    "href": "free-certificates.html#operating-systems",
+    "title": "Data Engineering Pilipinas",
+    "section": "Operating Systems",
+    "text": "Operating Systems\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nNDG Linux Unhatched\nCisco Networking Academy\nBeginner\n8\n🏆\n\n\nNDG Linux Essentials\nCisco Networking Academy\nIntermediate\n70\n🏆\n\n\nCS401: Operating Systems\nSaylor Academy\nProfessional\n120\n🏆"
+  },
+  {
+    "objectID": "free-certificates.html#robotics-and-iot",
+    "href": "free-certificates.html#robotics-and-iot",
+    "title": "Data Engineering Pilipinas",
+    "section": "Robotics and IoT",
+    "text": "Robotics and IoT\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nIntroduction to IoT\nCisco Networking Academy\nBeginner\n20\n🏅\n\n\nBuilding Robots with TJBot\nIBM / Cognitive Class\nBeginner\n3\n🏅"
+  },
+  {
+    "objectID": "free-certificates.html#chatbots",
+    "href": "free-certificates.html#chatbots",
+    "title": "Data Engineering Pilipinas",
+    "section": "Chatbots",
+    "text": "Chatbots\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nHow to Build Chatbots\nIBM / Cognitive Class\nBeginner\n5\n🏅\n\n\nChatGPT for Beginners\nGreat Learning\nBeginner\n2\n🏆\n\n\nGetting Started with Bard\nGreat Learning\nBeginner\n1\n🏆"
+  },
+  {
+    "objectID": "free-certificates.html#devops",
+    "href": "free-certificates.html#devops",
+    "title": "Data Engineering Pilipinas",
+    "section": "DevOps",
+    "text": "DevOps\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nContainers, K8s and Istio on IBM cloud\nIBM / Cognitive Class\nBeginner\n9\n🏅\n\n\nDocker Essentials\nIBM / Cognitive Class\nBeginner\n4\n🏅\n\n\n[IBM Cloud Essentials](https://cognitiveclass.ai/courses/ibm-cloud\n\n\n\n\n\n\n\n-essentials) | IBM / Cognitive Class | Beginner | 4 | 🏅 | | Introduction to Containers, Kubernetes, and OpenShift | IBM / Cognitive Class | Beginner | 3 | 🏅 | | Introduction to Kubernetes | Great Learning | Beginner | 1.5 | 🏆 |"
+  },
+  {
+    "objectID": "free-certificates.html#programming-languages",
+    "href": "free-certificates.html#programming-languages",
+    "title": "Data Engineering Pilipinas",
+    "section": "Programming Languages",
+    "text": "Programming Languages\n\nJava\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nJava\nHackerRank\nBeginner\n1\n🏆\n\n\n\n\n\nJavaScript\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nJavaScript Algorithms and Data Structures Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nJavaScript\nHackerRank\nBeginner\n1.5\n🏆\n\n\n\n\n\nR\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nR 101\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nUsing R with Databases\nIBM / Cognitive Class\nBeginner\n3\n🏅\n\n\nR\nHackerRank\nBeginner\n1.5\n🏆\n\n\n\n\n\nPython\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nProgramming Essentials In Python\nCisco Networking Academy\nIntermediate\n70\n🏆\n\n\nScientific Computing with Python Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nPython\nHackerRank\nBeginner\n1.5\n🏆\n\n\nIntro to Graph Analytics in Python free course\nMemgraph\nIntermediate\n3\n🏅\n\n\nPython\nKaggle\nBeginner\n5\n🏆\n\n\nPandas\nKaggle\nBeginner\n4\n🏆\n\n\nIntro to Programming\nKaggle\nBeginner\n5\n🏆\n\n\nPython for Machine Learning and Data Science\nGreat Learning\nBeginner\n3\n🏆"
+  },
+  {
+    "objectID": "free-certificates.html#theories-and-concepts",
+    "href": "free-certificates.html#theories-and-concepts",
+    "title": "Data Engineering Pilipinas",
+    "section": "Theories and Concepts",
+    "text": "Theories and Concepts\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nQuality Assurance Certification\nFreeCodeCamp\nProfessional\n300\n🏆\n\n\nCS101: Introduction to Computer Science I\nSaylor Academy\nProfessional\n52\n🏆\n\n\nCS102: Introduction to Computer Science II\nSaylor Academy\nProfessional\n42\n🏆\n\n\nCS201: Elementary Data Structures\nSaylor Academy\nProfessional\n38\n🏆\n\n\nCS202: Discrete Structures\nSaylor Academy\nProfessional\n44\n🏆\n\n\nCS301: Computer Architecture\nSaylor Academy\nProfessional\n48\n🏆\n\n\nCS302: Software Engineering\nSaylor Academy\nProfessional\n45\n🏆\n\n\nProblem Solving\nHackerRank\nBeginner\n1.5\n🏆\n\n\nProblem Solving\nHackerRank\nIntermediate\n1.5\n🏆\n\n\nGraph Modeling Email Course\nMemgraph\nBeginner\n1\n🏅\n\n\nGeospatial Analysis\nKaggle\nIntermediate\n4\n🏆"
+  },
+  {
+    "objectID": "free-certificates.html#business",
+    "href": "free-certificates.html#business",
+    "title": "Data Engineering Pilipinas",
+    "section": "Business",
+    "text": "Business\n\nMarketing\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nDigital Marketing\nGoogle\nBeginner\n40\n🏅\n\n\nEmail Marketing\nSendinBlue\nBeginner\n4\n🏅\n\n\n\n\n\nProject Management\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nKICKOFF\nProject Management Institute\nBeginner\n0.75\n🏅\n\n\nProject Management Essentials\nManagement and Strategy Institute\nBeginner\n0.75\n🏅\n\n\nProject Management Essentials\nDisaster Ready\nBeginner\n5\n🏅\n\n\n\n\n\nSupport\n\n\n\nCourse Name\nCourse Provider\nLevel\nHour(s)\nReward\n\n\n\n\nCustomer Relationship Management\nGreat Learning\nBeginner\n1\n🏆"
+  },
+  {
+    "objectID": "free-certificates.html#want-more-certifications",
+    "href": "free-certificates.html#want-more-certifications",
+    "title": "Data Engineering Pilipinas",
+    "section": "Want More Certifications?",
+    "text": "Want More Certifications?\nThe original list can be found here."
+  },
+  {
+    "objectID": "leaders.html#leaders-volunteers-of-data-engineering-pilipinas",
+    "href": "leaders.html#leaders-volunteers-of-data-engineering-pilipinas",
+    "title": "Leaders & Volunteers",
+    "section": "Leaders & Volunteers of Data Engineering Pilipinas",
+    "text": "Leaders & Volunteers of Data Engineering Pilipinas\nData Engineering Pilipinas is powered not only by its members, but also by the leaders, moderators, and volunteers who continuously give their time, ideas, and energy to help the community grow.\nThis page recognizes the people who contribute to DEP through programs, events, study groups, mentorship, moderation, content, partnerships, and community-building initiatives. Their efforts help make DEP a welcoming, volunteer-driven, and impact-oriented community for aspiring and practicing data professionals in the Philippines.\nWe thank each of them for helping move the community forward."
+  },
+  {
+    "objectID": "leaders.html#what-community-leadership-means-in-dep",
+    "href": "leaders.html#what-community-leadership-means-in-dep",
+    "title": "Leaders & Volunteers",
+    "section": "What Community Leadership Means in DEP",
+    "text": "What Community Leadership Means in DEP\nCommunity leadership in DEP can take many forms, including:\n\nModerating discussions and helping maintain a safe, respectful environment\nOrganizing or supporting programs, events, and study groups\nLeading initiatives such as mentorship, podcast, meetup, Discord, YouTube, and project activities\nHelping members learn, connect, and grow through shared experiences\nContributing behind the scenes to strengthen the DEP ecosystem"
+  },
+  {
+    "objectID": "leaders.html#moderators",
+    "href": "leaders.html#moderators",
+    "title": "Leaders & Volunteers",
+    "section": "Moderators",
+    "text": "Moderators\n\n\n\nName\nRole\nProjects / Programs\nLinkedIn\n\n\n\n\nBea Lambitco\nModerator\nHumans of DEP, Programs\nLinkedIn\n\n\nDanielle Bagaforo Meer\nModerator\nAI Study 2025, AI Study 2026, The Puso Project 2025, The Puso Project 2026, Paper Review Club 2026, Discord\nLinkedIn\n\n\nEngramar Bollas\nModerator\nThe Puso Project 2025, The Puso Project 2026\nLinkedIn\n\n\nJonald Tenio\nModerator\nPrograms, Podcast\nLinkedIn\n\n\nJosh Valdeleon\nModerator\nPrograms, DataMasters 2025, YouTube, Meetup, Discord, Mentorship, Project Challenges, Podcast\nLinkedIn\n\n\nKatherine Bulac\nModerator\nDataCamp 2026, DataMasters 2025, AI Study 2025, The Puso Project 2025, The Puso Project 2026, YouTube, Meetup, Discord\nLinkedIn\n\n\nKristine Cristobal\nModerator\nDataMasters 2025, AI Study 2025, YouTube, Meetup, Discord, Podcast\nLinkedIn\n\n\nMike Bellen\nModerator\nDataCamp 2024, DataCamp 2025, DataCamp 2026, DataMasters 2024, The Puso Project 2025, The Puso Project 2026, Podcast\nLinkedIn\n\n\nNina Comia\nModerator\nPrograms, DataMasters 2025, Mentorship, Podcast\nLinkedIn\n\n\nRenan Matthew Arana Fajardo\nModerator\nDataCamp 2026, DataMasters 2025, DataMasters 2026\nLinkedIn\n\n\nRenzi Vidal\nModerator\nAI Study 2025, AI Study 2026\nLinkedIn\n\n\nSandy Lauguico\nModerator\nMeetup, Mentorship\nLinkedIn\n\n\nSandy Cabanes\nModerator\nDataMasters 2024, State of the Community Survey 2024, State of the Community Survey 2025\nLinkedIn\n\n\nVanessa Althea Bermudez\nModerator\nAI Study 2026, DataMasters 2025, YouTube, Meetup\nLinkedIn\n\n\nYui Otsuka\nModerator\nDataMasters 2025, DataMasters 2026, YouTube, Meetup, Discord\nLinkedIn\n\n\nLouise Guerrero\nModerator\nDiscord, Reddit\nLinkedIn\n\n\nPhil Gerard Soto\nModerator\nPrograms, DataMasters 2024, Mentorship, Project Challenges\nLinkedIn\n\n\nKeila Toledo\nModerator\nReddit\nLinkedIn\n\n\nJohn Benedict Lopez\nModerator\nDataCamp 2026, Meetup, Programs\nLinkedIn\n\n\nEthan Dreiz Baltazar\nModerator\nMeetup, Programs\nLinkedIn"
+  },
+  {
+    "objectID": "leaders.html#leaders-volunteers",
+    "href": "leaders.html#leaders-volunteers",
+    "title": "Leaders & Volunteers",
+    "section": "Leaders / Volunteers",
+    "text": "Leaders / Volunteers\n\n\n\nName\nRole\nProjects / Programs\nLinkedIn\n\n\n\n\nAnam Iqbal\nLeader / Volunteer\nMeetup\nLinkedIn\n\n\nMacky Sunga\nLeader / Volunteer\nPaper Review Club 2026, DataCamp 2025, AI Study 2026\n\n\n\nJoms Kee\nLeader / Volunteer\nDataCamp 2025, DataCamp 2026, The Puso Project 2025\nLinkedIn\n\n\nSimonee Ezekiel Mariquit\nLeader / Volunteer\nDiscord, DataMasters 2025, DataCamp 2026\nLinkedIn\n\n\nChico Andre Olaguer\nLeader / Volunteer\nAI Study 2026, Paper Review Club 2026\nLinkedIn\n\n\nChristian Ortiz\nLeader / Volunteer\nPrograms\n\n\n\nKeith Tidon\nLeader / Volunteer\nPrograms\nLinkedIn\n\n\nRainer Alano\nLeader / Volunteer\nPrograms\nLinkedIn\n\n\nMarc Sandrino\nLeader / Volunteer\nMeetup, Programs, AI Study 2026, DataMasters 2026\nLinkedIn"
+  },
+  {
+    "objectID": "leaders.html#acknowledgment",
+    "href": "leaders.html#acknowledgment",
+    "title": "Leaders & Volunteers",
+    "section": "Acknowledgment",
+    "text": "Acknowledgment\nDEP is a community-driven effort. Every initiative, event, study group, resource, and interaction is made stronger by people who choose to contribute beyond themselves.\nTo all active leaders, moderators, and volunteers: thank you for helping Data Engineering Pilipinas become a more welcoming, accessible, and meaningful community for learning, practice, and growth."
+  },
+  {
+    "objectID": "leaders.html#interested-in-contributing",
+    "href": "leaders.html#interested-in-contributing",
+    "title": "Leaders & Volunteers",
+    "section": "Interested in Contributing?",
+    "text": "Interested in Contributing?\nIf you are a DEP member who wants to help through programs, moderation, events, content, mentorship, research, or community support, we welcome contributors who believe in open learning, collaboration, and service.\nCommunity-building is one of the most meaningful ways to grow together."
   },
   {
     "objectID": "study-roadmap.html",
