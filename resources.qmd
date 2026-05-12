@@ -240,6 +240,7 @@ Here are a few playlists most of which are contributions by Jemar and Sandy Caba
 
 - [The Sparks Foundation](https://www.linkedin.com/company/the-sparks-foundation/) - A remote one-month internship in Data Science and Business Analytics.
 - [For The Women Foundation](https://www.ftwfoundation.org/) - FTW is a nonprofit organization providing free data science and technology training for women
+- [GCash Fintech Engineer Cadetship Program](https://www.gcashfintechcadetship.xyz//) - The GCash FinTech Engineer Cadetship Program (FECP) is a training program that aims to build a new generation of fintech industry experts through technical training, immersion, and professional development. 
 
 ## Online Learning Platforms
 
