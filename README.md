@@ -1,6 +1,35 @@
 # dataengineering.ph
 
 Landing page for dataengineering.ph
+
+## Local Setup and Preview
+
+1. **Install Quarto** (macOS):
+
+    ```
+    brew install quarto
+    ```
+
+2. **Install R dependencies** (required for .Rmd files):
+
+    ```
+    R -e 'install.packages(c("knitr","rmarkdown"), repos="https://cloud.r-project.org")'
+    ```
+
+    If you are using the R project under `content/table_index/` with `renv/`, you can also run:
+
+    ```
+    R -e 'renv::restore()'
+    ```
+
+3. **Run the site locally**:
+
+    ```
+    quarto preview
+    ```
+
+    The preview server runs at `http://localhost:5548`.
+
 # Contribution Guidelines for Data Engineering Pilipinas Quarto Website
 
 Welcome to the Data Engineering Pilipinas Quarto website project! We're excited to have you contribute to our growing repository of data engineering resources. To ensure a smooth contribution process for everyone, please follow these guidelines.
