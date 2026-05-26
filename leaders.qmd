@@ -24,6 +24,148 @@ Community leadership in DEP can take many forms, including:
 - Helping members learn, connect, and grow through shared experiences
 - Contributing behind the scenes to strengthen the DEP ecosystem
 
+---
+
+## The Leadership Program
+
+Data Engineering Pilipinas believes that strong communities are not built by a few permanent figures, but by a continuous pipeline of empowered, mission-driven individuals who lead, contribute, and eventually pass the torch.
+
+This section captures the core mindset, structure, and expectations of the DEP Leadership Program — not as a rigid rulebook, but as a shared compass for everyone who steps into a leadership role within DEP.
+
+---
+
+### The Leadership Mindset
+
+> *"Lead well, contribute meaningfully, then help someone else rise."*
+
+At the heart of this program is a simple but powerful idea: **leadership in DEP is a season, not a lifetime appointment.**
+
+The working mindset — held by the core team — is that a leader's active term spans roughly **1 to 2 years**. During this period, a leader is expected to:
+
+- Drive initiatives and take ownership of community programs
+- Contribute consistently to the growth and direction of DEP
+- Build genuine relationships within and beyond the community
+- Identify, mentor, and prepare the next generation of leaders
+
+This is not a hard rule or a term limit. It is a cultural commitment — a recognition that communities flourish when leadership is shared, rotated, and renewed.
+
+---
+
+### The Leadership Cycle
+
+The DEP leadership model follows a three-phase cycle:
+
+#### Phase 1: Lead & Contribute *(Year 1 – Year 2)*
+
+A community leader steps into an active role with clear responsibilities. This phase is about doing — running events, driving engagement, building programs, and showing up for the community consistently.
+
+**Key responsibilities during this phase:**
+
+- Own and execute at least one recurring community initiative
+- Collaborate with fellow leaders and the core team
+- Represent DEP in external engagements, partnerships, or speaking opportunities when applicable
+- Document learnings and processes to support continuity
+
+#### Phase 2: Identify & Develop Successors *(Concurrent with Phase 1, intentional by Year 2)*
+
+Leadership succession is not an afterthought — it is part of the job. By the second year of an active term, a leader should be actively looking for individuals who demonstrate the potential, passion, and reliability to lead.
+
+**What to look for in future leaders:**
+
+- Consistent and voluntary contribution to community activities
+- Initiative and ownership over small tasks or projects
+- Alignment with DEP's values and mission
+- A genuine interest in growing the data engineering community in the Philippines
+
+**How to develop them:**
+
+- Involve them in planning and decision-making early
+- Delegate meaningful responsibilities with appropriate guidance
+- Provide honest feedback and encouragement
+- Introduce them to the broader network and community stakeholders
+
+#### Phase 3: Transition & Continued Engagement *(Post-active term)*
+
+When a leader's active season concludes, the goal is a graceful and intentional handover — not an abrupt exit. Former leaders remain valuable to DEP as mentors, advisors, and community members.
+
+**Transition responsibilities:**
+
+- Conduct a proper handover of ongoing initiatives, contacts, and institutional knowledge
+- Brief and support the incoming leader during the onboarding period
+- Document key learnings, what worked, and what can be improved
+
+**Continued engagement (encouraged, not required):**
+
+- Serve as a mentor or advisor to new leaders
+- Remain active in the community as a member and advocate
+- Return as a resource person for events, discussions, or special programs
+
+---
+
+### Core Values of DEP Leadership
+
+All leaders are expected to embody the following values throughout their term:
+
+| Value | What It Means in Practice |
+|---|---|
+| **Service** | Leading is about the community first, personal recognition second |
+| **Intentionality** | Every initiative should have a clear purpose and impact |
+| **Continuity** | Always thinking about what happens after you |
+| **Collaboration** | No leader succeeds alone; leverage the team |
+| **Transparency** | Communicate openly with co-leaders and the community |
+
+---
+
+### Who This Applies To
+
+This framework applies to anyone who takes on a formal leadership role within Data Engineering Pilipinas, including but not limited to:
+
+- Core Team Members
+- Chapter Leads (if applicable)
+- Program or Event Leads
+- Working Group Coordinators
+
+Community contributors and members who are on a path toward leadership are also encouraged to understand this framework as they grow within DEP.
+
+---
+
+### Important Clarifications
+
+- **This is a mindset document, not a policy.** There are no penalties for leading beyond two years, and no automatic term limits enforced.
+- **Context matters.** Transitions should be timed thoughtfully — not forced mid-program or during a critical period.
+- **Stepping back is not stepping out.** Former leaders remain part of the DEP family and their continued engagement is deeply valued.
+- **The 1–2 year guideline is a starting conversation**, not a ceiling. If a leader is thriving and no successor is ready, the community comes first.
+
+---
+
+### Frequently Asked Questions
+
+**Q: Does the 1–2 year guideline mean I have to step down after two years?**
+
+No. The guideline is a mindset, not a rule. It exists to encourage leaders to think about succession early — not to force anyone out. If you're still contributing meaningfully and no successor is ready, the community comes first.
+
+**Q: What if I want to continue leading beyond two years?**
+
+That's a conversation to have openly with the core team. The important thing is that by year two, you've already been actively developing someone who could step up when the time is right.
+
+**Q: What if no one is ready to take over when my term naturally ends?**
+
+Transitions should never be forced. If succession isn't ready, extend your active involvement while intensifying your mentorship efforts. The goal is a smooth handover, not an abrupt one.
+
+**Q: Can I return to an active leadership role after stepping back?**
+
+Yes, absolutely. DEP values continuity of institutional knowledge, and returning leaders bring perspective that new leaders benefit from greatly.
+
+**Q: What's the difference between a community contributor and a leader?**
+
+Contributors participate and support initiatives. Leaders own them — they take accountability for outcomes, develop others, and actively shape the direction of the community.
+
+**Q: Is there a formal selection process for new leaders?**
+
+This document does not prescribe a fixed selection process, as DEP's approach is relationship-driven. Current leaders identify and develop potential leaders organically, then introduce them to the core team for alignment.
+
+---
+
 ## Moderators
 
 | Name | Role | Projects / Programs | LinkedIn |
@@ -65,12 +207,18 @@ Community leadership in DEP can take many forms, including:
 
 ## Acknowledgment
 
-DEP is a community-driven effort. Every initiative, event, study group, resource, and interaction is made stronger by people who choose to contribute beyond themselves.
+The Data Engineering Pilipinas community exists because people chose to invest their time, skills, and passion into something bigger than themselves. The Leadership Program is our way of ensuring that investment compounds — that every leader who comes through DEP leaves it stronger than they found it, and that no single person becomes the bottleneck for what this community can become.
 
 To all active leaders, moderators, and volunteers: thank you for helping Data Engineering Pilipinas become a more welcoming, accessible, and meaningful community for learning, practice, and growth.
+
+Lead well. Develop others. Pass the torch with pride.
 
 ## Interested in Contributing?
 
 If you are a DEP member who wants to help through programs, moderation, events, content, mentorship, research, or community support, we welcome contributors who believe in open learning, collaboration, and service.
 
 Community-building is one of the most meaningful ways to grow together.
+
+---
+
+*This document is a living reference. Suggestions and revisions are welcome from all current and past community leaders.*
