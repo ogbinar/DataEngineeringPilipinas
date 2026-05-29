@@ -1,177 +1,221 @@
 ---
-title: "DataCamp Donates Application Process"
-description: |
-    "Data Engineering Pilipinas is an official DataCamp Donates Partner. Members of the community can avail of FREE DataCamp Access through a scholarship application process."
+title: "DataCamp Donates Scholarship"
 ---
-
-# DEP x DataCamp Donates Scholarship Application Now Open!
-
-
 <p align="center">
 <img align="center"  height="200" src="images/DATA%20ENGINEERING%20-1-modified.png"><img align="center"  height="100" src="images/DC_Donates_logo_regular.png">
 </p>
 
-We’re thrilled to announce that Data Engineering Pilipinas is now a proud partner of DataCamp Donates! Thanks to this partnership, we’re offering exclusive scholarships for free premium access to DataCamp’s top-tier data science courses and resources.
-
-**What to Expect:**
-
-- **Premium Access:** Unlock top-tier data science courses from DataCamp.
-- **Learning Journey:** Enhance your skills and advance your career with cutting-edge content.
-- **Community Support:** Join a network of like-minded learners and grow together.
-
-**Rules and Expectations:**
-
-- **Monthly Assignments:** 4,000 XP (roughly 3 hours of learning per month)
-- **Use Hashtags:** Tag @DataCamp and use #dcdonates in your posts to keep the community updated.
-- **Engage with Content:** Actively participate in the courses and engage with other learners.
-- **Share Success Stories:** We’d love to hear and share your success stories! Let us know how the courses are helping you grow.
-
-**What You Need to Do:**
-
-- **Apply Now:** Submit your application for the scholarship.
-- **Engage:** Plan to actively participate and complete courses.
-- **Finish Monthly Assignment:** 4,000 XP, failed to do so will have your access revoked.
-
-We’re excited to support your learning journey and can’t wait to see the incredible progress you make. Apply today and take the first step towards mastering data science!
-
-#DataCampDonates #Scholarship #DataEngineeringPilipinas #DataAnalysis #DataScience #DataEngineering #MachineLearning #ArtificialIntelligence #DataLiteracy #ApplyNow #dcdonates
-
-**Start Your Application:**
-
-- [APPLY NOW](https://forms.gle/a9sjVvcZNfG6PZXD7)
+> **Data Engineering Pilipinas is an official DataCamp Donates Partner.**
+> Members of the community can avail of **FREE DataCamp Premium access** through our scholarship application process.
 
 ---
 
-# DEP x DC Donates - Frequently Asked Questions
+## About the Partnership
 
-**Q1: Who is eligible for the DataCamp sponsorship?**
+We're proud to partner with DataCamp Donates to offer exclusive scholarships for free premium access to DataCamp's top-tier **Data Science**, **Data Engineering**, and **AI courses**.
 
-- A1: The DataCamp sponsorship is available to all Filipino members of Data Engineering Pilipinas. The scholarship includes 12 months of unlimited premium access to Datacamp.
+**What you get:**
 
-**Q2: How will I know the status of my application? Please check our Status Checker**
+- **Premium Access** — Unlock top-tier courses from DataCamp, normally valued at $399 USD per year, at no cost to you.
+- **Learning Journey** — Enhance your skills and advance your career with cutting-edge, industry-trusted content.
+- **Community Support** — Join a network of like-minded Filipino learners and grow together.
 
-**Application Status: Action Required**
+::: {.callout-tip}
+## Check Your Application Status
+Already applied? Track the status of your application using our **[Scholarship Status Checker](https://sites.google.com/view/depdatacampstatus/home)**.
+:::
 
-- A2.1: If your application status shows “Action Required,” it may be due to one or more of the following:
-Incomplete Information 
-  - Some required details (e.g., full name, correct birthdate, or other required fields) may be missing.
-Incorrect Information 
-  - Certain details provided may be inaccurate or cannot be verified.
-Response Needs Clarification 
-  - One or more answers may require further explanation or do not fully meet the evaluation criteria.
+::: {.callout-note}
+## Apply Now
+Ready to join? **[Submit your application here](https://forms.gle/wEG2mehXhdAHehjk8)** and take the first step toward mastering data skills for free.
+:::
 
-**What should you do?**
+---
 
-Please double-check all the information you submitted and review your responses carefully. If edits are allowed, update your application accordingly. Otherwise, please wait for further instructions from our team.
+## Scholar Responsibilities at a Glance
 
-*To address these issues, ensure all information provided is complete and accurate.*
+Once accepted, scholars are expected to uphold the following commitments to keep their access active:
 
-**Application Status: Pending Review**
+| Responsibility | Details |
+|---|---|
+| **Monthly XP Requirement** | Earn at least **4,000 XP per month** (roughly 3 hours of learning) |
+| **Accept Invitation Promptly** | Accept your DataCamp invitation within **2 weeks** of receiving it |
+| **Active Usage** | Begin using the platform within **2 weeks** of accepting the invitation |
+| **Social Sharing** | Tag **@DataCamp** and use **#dcdonates** when sharing progress on social media |
+| **Community Engagement** | Actively participate in courses and engage with fellow DEP learners |
+| **Share Your Story** | Submit your success story to help sustain the partnership for future scholars |
 
-- A2.2 If your application status shows “Pending Review,” it means your submission has not yet been evaluated.
+::: {.callout-warning}
+## Access Revocation Policy
+Slots are limited and managed by volunteer administrators. Access may be revoked **without warning** if any of the above commitments are not met. The principle is simple: if you are actively using it, you have nothing to worry about.
+:::
 
-*Our team reviews applications by batch, and all administrators are volunteers. We appreciate your patience as we carefully assess each application.*
+---
 
-**What should you do?**
+## What to Expect After Applying
 
- No action is needed at this time. Please wait for further updates once your batch is scheduled for review.
+1. **Submission** — Complete and submit the application form with accurate information.
+2. **Batch Review** — Applications are reviewed in batches by volunteer administrators. This may take some time; patience is appreciated.
+3. **Status Update** — Check your status anytime via the [Scholarship Status Checker](https://sites.google.com/view/depdatacampstatus/home).
+4. **Invitation** — Approved applicants will receive a DataCamp invitation via email. Accept within 2 weeks.
+5. **Onboarding** — Join the [official DataCamp GC](https://m.me/ch/AbaaFmzyN7tstTS9/) and start learning!
 
-**Application Status: Email Not Found**
+---
 
-If your status shows “Email Not Found,” we were unable to locate your email address in our application records.
+## Frequently Asked Questions
 
-This may happen if:
+**Q1: Who is eligible for the DataCamp scholarship?**
 
-- The email address entered was incorrect or misspelled
-- The application form was not successfully submitted
-- A different email address was used during submission
+The scholarship is available to all Filipino members of Data Engineering Pilipinas. It includes 12 months of unlimited premium access to DataCamp.
 
-**What should you do?**
+---
 
- Please double-check the email address you provided and review your confirmation (if any). You may also revisit the Google Form to ensure your application was successfully submitted. If needed, you can submit a new application using the correct email address.
+**Q2: How will I know the status of my application?**
 
-If you do not receive a confirmation email within the expected timeframe, your application may still be under review. We appreciate your patience as our team processes applications in batches.
+Check your application status anytime using the [Scholarship Status Checker](https://sites.google.com/view/depdatacampstatus/home). Here's what each status means:
+
+**Accepted**
+Your DataCamp application has been approved. Please wait for the official acceptance email.
+
+**Action Required**
+Your application is pending for approval due to incorrect entry of your birthday. Please edit your response in the application form.
+
+**Invite Sent**
+Please check your email (including spam/junk folder) for your scholarship access details.
+
+**Follow up sent**
+Your DataCamp Scholarship application has been approved but not yet accepted. Please take action or access will be removed.
+
+**Invite Withdrawn**
+The invitation could not be sent because the email address is invalid or unavailable.
+
+**Referred to country of residence**
+Hi, your application has been declined due to limited slots. 
+
+**Access Removed**
+Your DataCamp access has been removed. Please reach out if there has been a mistake, re-apply otherwise.
+
+**Enrolled**
+Welcome to DataCamp! DEP is excited to support you on your learning journey. Learn at your own pace and enjoy the process.
+
+**Already Enrolled**
+You're already enrolled in DataCamp. Please check your DataCamp access by logging in using the email address you used in the application.
+
+**Pending Review**
+Your application is still on-process. Thank you for your patience.
+
+**Declined - Underage**
+Thank you for applying... applicants must be at least 15 years and 9 months old...
+
+**Declined**
+Your DataCamp application has been declined. Please reapply on the next scholarship roll-out.
+
+---
 
 **Q3: How can I avoid common mistakes in my application?**
 
-- A3: To avoid common mistakes:
-  - Carefully Read Instructions: Follow all instructions on the application form.
-  - Provide Accurate Information: Ensure personal details like full name, birthday, city, and country are correct.
-  - Complete All Sections: Fill out every section of the form completely.
+- Read all instructions carefully before filling out the form.
+- Provide accurate personal details: full name, birthday, city, and country.
+- Complete every section of the form — do not leave fields blank.
+- Answer questions thoughtfully and sincerely; incomplete or insincere responses are common reasons for rejection.
+
+---
 
 **Q4: What should I do if my application is incomplete?**
 
-- A4: If you suspect your application is incomplete:
-  - Double-check Personal Details: Ensure full name, correct birthday, and other required information are accurately filled.
-  - Complete the Form: Fill out all sections of the form.
-  - If it has been a while since submission without a response, review and complete your application.
+Double-check your personal details and ensure all sections are filled out completely. If it has been a while since submission without a response, review your answers and resubmit if necessary.
 
-**Q5: Is there a chance that my access will be revoked?**
+---
 
-- A5: There are a few mechanics that will entail removal of DataCamp access.
-  - Non-Acceptance: If you have been invited but do not accept after a few reminders, your invitation will be withdrawn.
-  - Non-Usage: Accounts are being monitored and if they are not being used, we will revoke your access.
-  - We only have limited slots for the partnership and we want to prioritize access to those that need and will use the platform.
+**Q5: Why is my application not yet approved?**
 
-**Q6: I really like this initiative. How can I support it?**
+Common reasons include incomplete information, inaccurate details, or answers that do not demonstrate genuine intent to use the scholarship. We have limited slots and volunteer resources, so we prioritize applicants who are honest, careful, and clearly committed to using the opportunity.
 
-- A6: We appreciate your support! You can help grow the DEP x DataCamp initiative in many ways:
-  - Invite your friends and colleagues who are interested in data to join the community.
-  - Encourage others to apply to the [DEP x DC Scholarship Program](https://dataengineering.ph/#official-datacamp-donates-partner).
-  - Share your learning journey and milestones on social media please follow the official posting [guidelines](https://dataengineering.ph/about.html#official-community-guidelines); [Facebook](https://www.facebook.com/groups/dataengineeringpilipinas), [Discord](https://discord.com/invite/buDgydz7J9), and [Linkedin](https://www.linkedin.com/company/dataengineeringpilipinas).
-  - Help fellow learners in the Data Engineering community by answering questions, sharing best practices, and offering guidance.
-  - Join the official [DataCamp GC](https://m.me/ch/AbaaFmzyN7tstTS9/) and actively participate in discussions.
-Participate in DEP surveys and community initiatives to help us improve the program.
-  - Share your milestones and success stories directly with DataCamp through the official submission link.
+---
 
-*At the heart of this initiative is community. Let’s continue supporting one another and grow together one dataset at a time.
-Tell your success here story to motivate others*
+**Q6: Is there a chance my access will be revoked?**
 
-**Q7: Who can I contact if I have questions about my application?**
+Yes. Access may be revoked in any of the following situations:
 
-- A7: Kindly review the DATACAMP DONATES x DEP Partnership mechanics for further guidance or ask the community. Visit Data Engineering Pilipinas and join the different DEP communities to connect with other members.
+- Invitation not accepted within 2 weeks of being sent
+- No usage within 2 weeks of accepting the invitation
+- Monthly 4,000 XP assignment not completed within 4 weeks
 
-**Q8: How long before you take a slot from someone?**
+We only have limited slots and want to prioritize access for those who will genuinely use the platform.
 
-- A8: A Datacamp premium is around 29USD / month, So we want to maximize that for the community for the next 12 months. These are general guidelines, but the message is if you don’t use it, you don’t need it. You may get removed automatically without warning.
-  - if we send an invite and no acceptance after 2 weeks
-  - if accepted but no usage after 2 weeks
-  - if 4K XP monthly assignment is not completed within 4 weeks
-  - The principle is, if you are using it you shouldn’t worry.
+---
 
-**Q9: Why is my application not yet approved?**
+**Q7: How long does it take before an unused slot is reassigned?**
 
-- A9: Common reasons why applications are not approved include providing incomplete or incorrect information, or failing to answer the questions thoughtfully and seriously. These issues may suggest a lack of sincerity or genuine intent in applying for the scholarship.
+- No acceptance within **2 weeks** of invitation → invitation withdrawn
+- No usage within **2 weeks** of acceptance → access revoked
+- Monthly 4,000 XP not completed within **4 weeks** → access revoked
 
-While we aim to make the opportunity accessible to as many individuals as possible, we have limited scholarship slots and volunteer resources to review applications. As such, we prioritize applicants who demonstrate honesty, care, and a clear intention to fully utilize the opportunity.
+DataCamp Premium costs approximately $29 USD per month. We want to maximize every slot for the community over the full 12-month period.
 
-We kindly ask applicants to complete all sections accurately and respond to questions with genuine effort and reflection.
+---
 
-**Q10: Are there curated tracks by DEP?**
+**Q8: I really like this initiative. How can I support it?**
 
-- A10: DEP does not provide its own curated tracks. However, DataCamp offers extensive learning tracks that you can choose from based on your interests and goals. For guidance on which tracks to follow, please refer to the [DEP Roadmaps](https://dataengineering.ph/study-roadmap.html).
+We appreciate your support! Here are some ways to help:
 
-**Q11: Do we have teams?**
+- Invite friends and colleagues who are interested in data to join the DEP community.
+- Encourage others to apply to the [DEP x DC Scholarship Program](https://dataengineering.ph/#official-datacamp-donates-partner).
+- Share your learning journey and milestones on social media following the official [community guidelines](https://dataengineering.ph/about.html#official-community-guidelines) on [Facebook](https://www.facebook.com/groups/dataengineeringpilipinas), [Discord](https://discord.com/invite/buDgydz7J9), and [LinkedIn](https://www.linkedin.com/company/dataengineeringpilipinas).
+- Help fellow learners by answering questions, sharing best practices, and offering guidance.
+- Join the official [DataCamp GC](https://m.me/ch/AbaaFmzyN7tstTS9/) and actively participate in discussions.
+- Submit your success story (see Q12 below) to help sustain the partnership.
 
-- A11: As of now, we don’t have teams. All learners participate individually.
+---
+
+**Q9: Who can I contact if I have questions about my application?**
+
+For questions not covered in this FAQ, visit Data Engineering Pilipinas and ask in the community via [Facebook](https://www.facebook.com/groups/dataengineeringpilipinas) or [Discord](https://discord.com/invite/buDgydz7J9). Our volunteer team monitors these channels regularly.
+
+---
+
+**Q10: Are there curated learning tracks by DEP?**
+
+DEP does not provide its own curated tracks. DataCamp offers extensive learning paths you can choose from based on your interests and goals. For guidance, refer to the [DEP Study Roadmaps](https://dataengineering.ph/study-roadmap.html).
+
+---
+
+**Q11: Do we have teams or group learning?**
+
+As of now, all learners participate individually. There are no formal team structures within the scholarship program.
+
+---
 
 **Q12: Can I share my success story?**
 
-- A12: We are currently ALWAYS in the processing of promoting the Data Engineering Pilipinas x Datacamp Donates partnership. If you’ve benefited from this scholarship and would love to see it continue, we’d greatly appreciate your support. Sharing your success story—how access to DataCamp has helped your learning or career journey can make a big difference in demonstrating the impact of this initiative. Your testimonial will help strengthen our case to keep this valuable opportunity alive for future scholars.
-SUBMIT YOUR SUCCESS STORY: [here](https://docs.google.com/forms/d/e/1FAIpQLSeZK-3tP6zzzhOn5LpejKmzAf9Wu0rZzQ2EQ_g2sYxvLPMlfA/viewform)
+Yes — and we strongly encourage it! Sharing how DataCamp has helped your learning or career journey helps demonstrate the impact of the initiative and supports the renewal of the partnership for future scholars.
 
-**Q13: What happens if it expires?**
+[**Submit your success story here**](https://docs.google.com/forms/d/e/1FAIpQLSeZK-3tP6zzzhOn5LpejKmzAf9Wu0rZzQ2EQ_g2sYxvLPMlfA/viewform)
 
-- A13: There are two things that might expire, one is your scholarship, the other is the partnership.
-  - Scholarship - The scholarship expires after 12 months. It can also expire if you do not use it for a long time (in terms of XP earned). You can re-apply again on the form if you’d like to renew your access.
-  - Partnership - DEP’s partnership with Datacamp Donates is worth 12 months as well. So make sure to submit success stories (see above) to keep promoting the impact of our community through Datacamp and we can continue to renew the partnership.
+---
+
+**Q13: What happens when my scholarship expires?**
+
+There are two types of expiration to be aware of:
+
+- **Scholarship expiry** — The scholarship lasts 12 months. It may also expire earlier due to inactivity. You can re-apply using the same [application form](https://forms.gle/wEG2mehXhdAHehjk8) to renew your access.
+- **Partnership expiry** — DEP's partnership with DataCamp Donates is also renewed annually. Submitting success stories (see Q12) helps demonstrate community impact and supports renewal of the partnership.
+
+---
 
 **Q14: What if my DataCamp account is not registered using Gmail?**
 
-- A14: If your DataCamp account is not registered using Gmail, you have two options:
-  - Option 1: Create a new DataCamp account using the Gmail address you used during registration.
-  - Option 2: Update your existing DataCamp account email to the same Gmail address you used during registration.
+You have two options:
+
+- **Option 1** — Create a new DataCamp account using the Gmail address you provided in your application.
+- **Option 2** — Update your existing DataCamp account email to match the Gmail address used during registration.
+
+---
 
 **Q15: Where can I check the status of my scholarship application?**
 
-- A15: You can check the status of your scholarship application using our [Scholarship Status Checker](https://sites.google.com/view/depdatacampstatus/home). Please enter the required details in the status checker to view the latest update on your application.
+Use the [Scholarship Status Checker](https://sites.google.com/view/depdatacampstatus/home) and enter your details to view the latest update on your application.
+
+---
+
+*This page is maintained by the DEP Core Team. For updates and announcements, follow us on [Facebook](https://www.facebook.com/groups/dataengineeringpilipinas), [Discord](https://discord.com/invite/buDgydz7J9), and [LinkedIn](https://www.linkedin.com/company/dataengineeringpilipinas).*
