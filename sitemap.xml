@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dataengineering.ph/about.html</loc>
-    <lastmod>2026-05-27T09:13:30.192Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/content/data-engineering-101.html</loc>
-    <lastmod>2026-05-27T09:13:30.194Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/content/table_index/rmd/indexed_table.html</loc>
-    <lastmod>2026-05-27T09:13:30.205Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/content/table_index/rmd/create_table.html</loc>
-    <lastmod>2026-05-27T09:13:30.205Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/content/Cloud-Free-Tier-Comparison/LICENSE.html</loc>
-    <lastmod>2026-05-27T09:13:30.194Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/content/projects/ETL-SALES/readme.html</loc>
-    <lastmod>2026-05-27T09:13:30.194Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/leaders.html</loc>
-    <lastmod>2026-05-27T09:13:30.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/technical-knowledgebase.html</loc>
-    <lastmod>2026-05-27T09:13:30.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/study-roadmap.html</loc>
-    <lastmod>2026-05-27T09:13:30.249Z</lastmod>
-  </url>
-  <url>
     <loc>https://dataengineering.ph/free-certificates.html</loc>
-    <lastmod>2026-05-27T09:13:30.205Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/community.html</loc>
-    <lastmod>2026-05-27T09:13:30.193Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/projects_free_resources.html</loc>
-    <lastmod>2026-05-27T09:13:30.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/partners.html</loc>
-    <lastmod>2026-05-27T09:13:30.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/index.html</loc>
-    <lastmod>2026-05-27T09:13:30.249Z</lastmod>
+    <lastmod>2026-05-29T09:45:33.205Z</lastmod>
   </url>
   <url>
     <loc>https://dataengineering.ph/datasets.html</loc>
-    <lastmod>2026-05-27T09:13:30.205Z</lastmod>
+    <lastmod>2026-05-29T09:45:33.205Z</lastmod>
   </url>
   <url>
-    <loc>https://dataengineering.ph/resources.html</loc>
-    <lastmod>2026-05-27T09:13:30.249Z</lastmod>
+    <loc>https://dataengineering.ph/index.html</loc>
+    <lastmod>2026-05-29T09:45:33.247Z</lastmod>
   </url>
   <url>
-    <loc>https://dataengineering.ph/programs.html</loc>
-    <lastmod>2026-05-27T09:13:30.249Z</lastmod>
+    <loc>https://dataengineering.ph/study-roadmap.html</loc>
+    <lastmod>2026-05-29T09:45:33.247Z</lastmod>
   </url>
   <url>
-    <loc>https://dataengineering.ph/content/projects/pipeline_basic/readme.html</loc>
-    <lastmod>2026-05-27T09:13:30.198Z</lastmod>
+    <loc>https://dataengineering.ph/content/projects/ETL-SALES/readme.html</loc>
+    <lastmod>2026-05-29T09:45:33.194Z</lastmod>
   </url>
   <url>
     <loc>https://dataengineering.ph/content/Cloud-Free-Tier-Comparison/Articles.html</loc>
-    <lastmod>2026-05-27T09:13:30.194Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dataengineering.ph/content/table_index/rmd/how_db_works.html</loc>
-    <lastmod>2026-05-27T09:13:30.205Z</lastmod>
+    <lastmod>2026-05-29T09:45:33.193Z</lastmod>
   </url>
   <url>
     <loc>https://dataengineering.ph/content/table_index/readme.html</loc>
-    <lastmod>2026-05-27T09:13:30.204Z</lastmod>
+    <lastmod>2026-05-29T09:45:33.203Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/content/table_index/rmd/indexed_table.html</loc>
+    <lastmod>2026-05-29T09:45:33.205Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/community.html</loc>
+    <lastmod>2026-05-29T09:45:33.192Z</lastmod>
   </url>
   <url>
     <loc>https://dataengineering.ph/datacamp-donates.html</loc>
-    <lastmod>2026-05-27T09:13:30.205Z</lastmod>
+    <lastmod>2026-05-29T09:45:33.205Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/programs.html</loc>
+    <lastmod>2026-05-29T09:45:33.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/partners.html</loc>
+    <lastmod>2026-05-29T09:45:33.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/about.html</loc>
+    <lastmod>2026-05-29T09:45:33.192Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/resources.html</loc>
+    <lastmod>2026-05-29T09:45:33.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/content/table_index/rmd/how_db_works.html</loc>
+    <lastmod>2026-05-29T09:45:33.205Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/content/table_index/rmd/create_table.html</loc>
+    <lastmod>2026-05-29T09:45:33.204Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/content/data-engineering-101.html</loc>
+    <lastmod>2026-05-29T09:45:33.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/content/Cloud-Free-Tier-Comparison/LICENSE.html</loc>
+    <lastmod>2026-05-29T09:45:33.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/content/projects/pipeline_basic/readme.html</loc>
+    <lastmod>2026-05-29T09:45:33.198Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/projects_free_resources.html</loc>
+    <lastmod>2026-05-29T09:45:33.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/leaders.html</loc>
+    <lastmod>2026-05-29T09:45:33.247Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataengineering.ph/technical-knowledgebase.html</loc>
+    <lastmod>2026-05-29T09:45:33.248Z</lastmod>
   </url>
 </urlset>
