@@ -1,46 +1,97 @@
 ---
 title: "Partnerships"
-description: |
-        "We aim to connect and collaborate with like-minded communities that align with our values about tech, data, and community building."
+description: "We aim to connect and collaborate with like-minded communities that align with our values about tech, data, and community building."
 ---
 
- 
-# Partnerships
+> *"We aim to connect and collaborate with like-minded communities that align with our values about tech, data, and community building."*
 
-## Data Science and Analytics
+---
 
-- [Power BI Pilipinas](https://taplink.cc/powerbipilipinas) - A hub for Power BI users in the Philippines.
-- [R Users Group - Philippines](https://www.facebook.com/rugph) - Facebook page for R programming language users.
-- [Analytics Association of the Philippines](https://aap.ph/) - The official website for the Analytics Association of the Philippines.
-- [DataSense Analytics Group](https://www.facebook.com/groups/dataanalyticsph) - World-class training and development programs developed by top teachers and industry practitioners.
+## Featured Partner
 
-## Artificial Intelligence and Machine Learning
+### DataCamp Donates
 
-- [Practical AI Philippines Meetup](https://www.meetup.com/practical-ai-philippines/) - A Meetup group for practical AI discussions.
-- [Gen AI Philippines](https://www.facebook.com/profile.php?id=61557661591929) - Advancing the Filipino Community with AI Innovation.
+![](images/DC_Donates_logo_regular.png){width=250}
 
-## Software Development, Open Source, & Innovation
+Data Engineering Pilipinas is an official **DataCamp Donates Partner** — one of a select group of community organizations worldwide chosen by DataCamp to receive donated premium licenses for their members.
 
-- [Python Philippines](https://www.facebook.com/groups/570524223003384) - A community for Python enthusiasts in the Philippines.
-- [Open Source Software PH](https://www.facebook.com/ossph.org) - Open Source Software Philippines or OSSPH is a developer-led initiative to grow the community of developers building open source software across the Philippines.
-- [Arduino Day Philippines](https://www.facebook.com/arduinodayph) - Official Facebook Page of Arduino Day Philippines.
-- [DEVCON](https://devcon.ph) - DEVCON Philippines is the largest community of software developers, geeks, and tech future makers.
-- [Filipino Web Development Peers](https://www.facebook.com/groups/fwdpeers) - A group for forward-thinking individuals in various fields.
-- [Java User Group Philippines](https://linktr.ee/jugph) - Java User Group Philippines - A community for Java developers, students, and enthusiasts in the Philippines to connect, share, and grow.
+#### About the Partnership
 
-## Career Transition and Volunteer Opportunities
+[DataCamp Donates](https://www.datacamp.com/donates) is DataCamp's global initiative to make data education accessible to underserved communities. Through this program, DataCamp provides free premium access — normally valued at $399 USD per year — to community members who are committed to building their data skills but may not have the means to pay for it.
 
-- [Eudoxyz](https://discord.gg/XX7stU5u) - Eudoxyz is an online community dedicated to cater professionals and aspirants in their respective journey.
-- [Tech Career Shifter](https://www.facebook.com/groups/techcareershifter) - A community for those looking to shift their careers into tech.
-- [Tech Opportunities Philippines](https://www.facebook.com/groups/techopportunitiesphilippines) - This group is a hub for tech enthusiasts and like-minded individuals passionate about sharing exciting opportunities.
-- [Code.Sydney](https://www.code.sydney/) - Code.Sydney is a volunteering organisation that supports beginner developers transition to gain paid employment while helping non-profit and charity organisations with their app needs. Below are some of our projects.
-- [eHeads](https://eheads.org/) - eHeads is a fellowship for engineering leaders. Open to all technology leaders (especially new ones)!
+**Data Engineering Pilipinas** applied for and was accepted into this program as a recognized community with a clear mission: **to grow the Philippine data engineering ecosystem by empowering Filipino learners regardless of background or resources**.
 
-## Student Organizations
+#### What This Partnership Means for DEP
 
-- [Student Developers Philippines](https://www.facebook.com/groups/studevph/) - A space for student developers in the Philippines to collaborate and share knowledge.
-- [UP Data Science Society](https://www.facebook.com/updatasciencesociety/) - The UP Data Science Society is a system-wide organization dedicated to empowering data enthusiasts.
-- [RTU Organization of Statistics Students](https://www.facebook.com/rtu.oss) - The Official Page of the Organization of Statistics Students in Rizal Technological University - Boni.
-- [Google Developer Student Clubs PLM](https://www.facebook.com/gdsc.haribon) - Google Developer Student Clubs PLM is a premiere student community of Haribons that shares a common interest in technology and innovation.
-- [The SYNTAX Org](https://www.facebook.com/syntax.stimalolos) - Community for explorers of the tech’s multiverse. Always #TowardsExcellence.
-- [Microsoft Student Community - TIP Manila](https://www.facebook.com/msctipmofficial) - Microsoft Student Community is a tech community in T.I.P. Manila driven by a passion for different technologies.
+This is not a sponsorship or an advertising arrangement. It is a mission-aligned partnership built on a shared belief that access to quality data education should not be a privilege.
+
+For DEP, this means:
+
+- **Direct community impact** — members receive real, tangible value through free premium learning access
+- **Accountability and trust** — DEP manages scholarship distribution responsibly, ensuring slots go to committed learners
+- **Sustained renewal** — the partnership is renewed annually, and community engagement and success stories are key to maintaining it
+- **Recognition** — being a DataCamp Donates Partner signals DEP's credibility as a serious, organized community in the Philippine tech landscape
+
+#### How the Scholarship Works
+
+Approved scholars receive 12 months of free DataCamp Premium access, unlocking thousands of courses across data engineering, data science, analytics, and machine learning.
+
+Scholars are expected to:
+
+- Complete a minimum of **4,000 XP per month**
+- Accept their invitation within **2 weeks** of receiving it
+- Actively use the platform and engage with the DEP learning community
+- Share their success story to help sustain the partnership for future scholars
+
+::: {.callout-note}
+## Interested in the Scholarship?
+View the full mechanics and apply via the **[DataCamp Donates Scholarship page](datacamp-donates.html)**.
+:::
+
+---
+
+## Community Partners
+
+DEP actively connects and collaborates with like-minded communities across the Philippine tech ecosystem.
+
+### Data Science and Analytics
+
+- [Power BI Pilipinas](https://taplink.cc/powerbipilipinas) — A hub for Power BI users in the Philippines.
+- [R Users Group - Philippines](https://www.facebook.com/rugph) — Facebook page for R programming language users.
+- [Analytics Association of the Philippines](https://aap.ph/) — The official website for the Analytics Association of the Philippines.
+- [DataSense Analytics Group](https://www.facebook.com/groups/dataanalyticsph) — World-class training and development programs developed by top teachers and industry practitioners.
+
+### Artificial Intelligence and Machine Learning
+
+- [Practical AI Philippines Meetup](https://www.meetup.com/practical-ai-philippines/) — A Meetup group for practical AI discussions.
+- [Gen AI Philippines](https://www.facebook.com/profile.php?id=61557661591929) — Advancing the Filipino Community with AI Innovation.
+
+### Software Development, Open Source, & Innovation
+
+- [Python Philippines](https://www.facebook.com/groups/570524223003384) — A community for Python enthusiasts in the Philippines.
+- [Open Source Software PH](https://www.facebook.com/ossph.org) — Open Source Software Philippines, a developer-led initiative to grow the community of developers building open source software across the Philippines.
+- [Arduino Day Philippines](https://www.facebook.com/arduinodayph) — Official Facebook Page of Arduino Day Philippines.
+- [DEVCON](https://devcon.ph) — The largest community of software developers, geeks, and tech future makers in the Philippines.
+- [Filipino Web Development Peers](https://www.facebook.com/groups/fwdpeers) — A group for forward-thinking individuals in various fields.
+- [Java User Group Philippines](https://linktr.ee/jugph) — A community for Java developers, students, and enthusiasts in the Philippines to connect, share, and grow.
+
+### Career Transition and Volunteer Opportunities
+
+- [Eudoxyz](https://discord.gg/XX7stU5u) — An online community dedicated to supporting professionals and aspirants in their respective journeys.
+- [Tech Career Shifter](https://www.facebook.com/groups/techcareershifter) — A community for those looking to shift their careers into tech.
+- [Tech Opportunities Philippines](https://www.facebook.com/groups/techopportunitiesphilippines) — A hub for tech enthusiasts passionate about sharing exciting opportunities.
+- [Code.Sydney](https://www.code.sydney/) — A volunteering organisation that supports beginner developers in gaining paid employment while helping non-profit and charity organisations with their app needs.
+- [eHeads](https://eheads.org/) — A fellowship for engineering leaders, open to all technology leaders especially new ones.
+
+### Student Organizations
+
+- [Student Developers Philippines](https://www.facebook.com/groups/studevph/) — A space for student developers in the Philippines to collaborate and share knowledge.
+- [UP Data Science Society](https://www.facebook.com/updatasciencesociety/) — A system-wide organization dedicated to empowering data enthusiasts across the UP system.
+- [RTU Organization of Statistics Students](https://www.facebook.com/rtu.oss) — The Official Page of the Organization of Statistics Students in Rizal Technological University - Boni.
+- [Google Developer Student Clubs PLM](https://www.facebook.com/gdsc.haribon) — A premiere student community sharing a common interest in technology and innovation.
+- [The SYNTAX Org](https://www.facebook.com/syntax.stimalolos) — Community for explorers of the tech multiverse. Always #TowardsExcellence.
+- [Microsoft Student Community - TIP Manila](https://www.facebook.com/msctipmofficial) — A tech community in T.I.P. Manila driven by a passion for different technologies.
+
+---
+
+*Interested in partnering with Data Engineering Pilipinas? Reach out to us on [Facebook](https://www.facebook.com/groups/dataengineeringpilipinas), [Discord](https://discord.com/invite/buDgydz7J9), [LinkedIn](https://www.linkedin.com/company/dataengineeringpilipinas), or send us an email at **dataengineeringpilipinas@gmail.com**.*
