@@ -25,6 +25,7 @@ Programs focused on learning, mentorship, and collective study — helping membe
 | 6  | [DataCamp Donates Scholarship](index.qmd#official-datacamp-donates-partner) | Distributing scholarships for DataCamp courses | [Mike Bellen](https://www.linkedin.com/in/mikebellen/) |
 | 7  | [Mentorship Program](community.qmd#mentoring-program-2024) | Connecting mentors and mentees within the community | [Phil Gerard Soto](https://www.linkedin.com/in/philgerardsoto/) |
 | 8  | [AI Study Group](https://m.me/ch/Abak0pTtr5t_-dqk/) | Collaborative study group on AI topics and trends | [Vanessa Althea Bermudez](https://www.linkedin.com/in/vaniebermudez/), [Allan Tan](https://www.linkedin.com/in/allanctan)  |
+| 9  | [DEP Data Engineering Open Track](https://dataengineeringpilipinas.github.io/dep-data-engineering-open-track/) | Six-month, community-powered build sprint to ship a public data pipeline and deployable dashboard | [Katherine Bulac](https://www.linkedin.com/in/katherinebulac/), [Myk Ogbinar](https://www.linkedin.com/in/ogbinar/) |
 
 ---
 
@@ -33,6 +34,6 @@ Programs that promote engagement, research, and shared experiences — turning d
 
 | #  | Project | Description | Lead/s |
 |----|----------|--------------|--------|
-| 9  | [Project Challenges](community.qmd#official-datacamp-donates-partner) | Leading complex data projects within the community | [Josh Valdeleon](https://www.linkedin.com/in/josh-valdeleon/), [Chris Formoso](https://www.linkedin.com/in/chris-formoso/) |
-| 10 | [Data Masters & Presenters Online](https://m.me/ch/AbYHrfjvGi3qao7m/) | Organizing online presentations and webinars | [Katherine Bulac](https://www.linkedin.com/in/katherinebulac/), [Kristine Cristobal](https://www.linkedin.com/in/kristine-cristobal-71507113/), [Sandy Cabanes](https://www.linkedin.com/in/sandygcabanes) |
-| 11 | [Community Survey](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home) [Answer Here](https://docs.google.com/forms/d/e/1FAIpQLSfnzuXmGtS7y30bSyZy5JoREzJ0ljKTXr9BDfEB7rb4X_ilcQ/viewform)| Gathering insights and feedback from members | [Sandy Cabanes](https://www.linkedin.com/in/sandygcabanes) |
+| 10 | [Project Challenges](community.qmd#official-datacamp-donates-partner) | Leading complex data projects within the community | [Josh Valdeleon](https://www.linkedin.com/in/josh-valdeleon/), [Chris Formoso](https://www.linkedin.com/in/chris-formoso/) |
+| 11 | [Data Masters & Presenters Online](https://m.me/ch/AbYHrfjvGi3qao7m/) | Organizing online presentations and webinars | [Katherine Bulac](https://www.linkedin.com/in/katherinebulac/), [Kristine Cristobal](https://www.linkedin.com/in/kristine-cristobal-71507113/), [Sandy Cabanes](https://www.linkedin.com/in/sandygcabanes) |
+| 12 | [Community Survey](https://public.tableau.com/app/profile/sandy.g.cabanes/viz/survey0309/Home) [Answer Here](https://docs.google.com/forms/d/e/1FAIpQLSfnzuXmGtS7y30bSyZy5JoREzJ0ljKTXr9BDfEB7rb4X_ilcQ/viewform)| Gathering insights and feedback from members | [Sandy Cabanes](https://www.linkedin.com/in/sandygcabanes) |
