@@ -7,69 +7,144 @@ description: |
 # Philippine Data Sources
 
 ## Government, Public Administration, and Census Data
-
 - [Philippine Standard Geographic Code (PSGC)](https://psa.gov.ph/classification/psgc) - Comprehensive list of administrative divisions in the Philippines.
-- [COVID Data via DOH Data Drop](https://drive.google.com/drive/folders/1ZPPcVU4M7T-dtRyUceb0pMAd8ickYf8o) - Official Department of Health repository for COVID-19 data.
-- [Philippine Statistics Authority (PSA)](https://openstat.psa.gov.ph/Database) - Various statistical datasets provided by the Philippine Statistics Authority.
-- [PSA Annual Poverty Indicators Survey (API)](https://psa.gov.ph/content/annual-poverty-indicators-survey-apis) - Annual data on poverty indicators in the Philippines.
+- [Philippine Statistics Authority (PSA) OpenStat](https://openstat.psa.gov.ph/Database) - Various statistical datasets provided by the Philippine Statistics Authority.
+- [PSA Census of Population and Housing (CPH)](https://psa.gov.ph/content/2024-census-population-popcen-population-counts-declared-official-president) - Official population counts.
+- [PSA Annual Poverty Indicators Survey (APIS)](https://psa.gov.ph/statistics/income-expenditure/apis) - Annual data on poverty indicators in the Philippines.
 - [PSA Family Income and Expenditure Survey (FIES)](https://psa.gov.ph/statistics/income-expenditure/fies) - Information on family incomes and expenditures in the Philippines.
+- [PSA Poverty Statistics](https://psa.gov.ph/statistics/poverty) - Official poverty statistics and indices.
 - [Cities and Municipalities Competitiveness Index (CMCI)](https://cmci.dti.gov.ph/) - Data assessing the competitiveness of Philippine cities and municipalities.
-- [BSP Banks Directory](https://www.bsp.gov.ph/SitePages/FinancialStability/DirBanksFIList.aspx) - Directory of banks and financial institutions operating in the Philippines.
-- [BSP Financial Service Access Points](https://www.bsp.gov.ph/SitePages/InclusiveFinance/FinancialServiceAP.aspx) - Listing of financial service access points across the Philippines.
 - [Unified Accounts Code Structure (UACS)](https://www.uacs.gov.ph/) - Standard for government accounting in the Philippines.
 - [Open Data Philippines (beta)](https://data.gov.ph/index/home) - Official portal for various government datasets in the Philippines.
-- [World Bank Philippines Data](https://data.worldbank.org/country/PH) - Economic data and indicators for the Philippines from the World Bank.
-- [Awesome Data Philippines by BNHR](https://github.com/benhur07b/awesome-data-philippines) - Curated collection of Philippine data resources.
 - [Philippines - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-phl) - Data on administrative boundaries within the Philippines.
+- [Awesome Data Philippines by BNHR](https://github.com/benhur07b/awesome-data-philippines) - Curated collection of Philippine data resources.
+- [Philippines Population Projection 2020-2025 (Admin3)](https://data.humdata.org/dataset/philippines-population-projection-2020-2025-admin3) - Population projections at subnational levels.
+
+## Social Welfare (DSWD) & Inclusion
+- [Report on 4Ps DSWD Briefer](https://ictstatistics.dict.gov.ph/wp-content/uploads/2025/08/Report-on-4Ps-DSWD-Briefer.pdf) - Overview of the Pantawid Pamilyang Pilipino Program.
+- [DSWD Major Programs and Projects Beneficiaries (2020)](https://transparency.dswd.gov.ph/wp-content/uploads/2020/09/Major-Programs-and-Projects-Beneficiaries-2020.pdf) - Data on beneficiaries of DSWD programs.
+- [4Ps Fourth Quarter Accomplishment Report](https://pantawid.dswd.gov.ph/wp-content/uploads/2024/02/4Ps-Fourth-Quarter-Accomplishment-Report.pdf) - Recent performance and accomplishments of the 4Ps program.
+- [DSWD PDPB Statistics](https://pdpb.dswd.gov.ph/category/statistics/) - Policy Development and Planning Bureau statistical reports.
+
+## Economic, Finance, and Stock Market Data
+- [Economic and Social Database (PIDS)](https://econdb.pids.gov.ph/tablecategories/index/3) - Economic and social data provided by the Philippine Institute for Development Studies.
+- [World Bank Philippines Data](https://data.worldbank.org/country/PH) - Economic data and indicators for the Philippines from the World Bank.
+- [BSP Banks Directory](https://www.bsp.gov.ph/SitePages/FinancialStability/DirBanksFIList.aspx) - Directory of banks and financial institutions operating in the Philippines.
+- [BSP Financial Service Access Points](https://www.bsp.gov.ph/SitePages/InclusiveFinance/FinancialServiceAP.aspx) - Listing of financial service access points.
+- [Bangko Sentral ng Pilipinas (BSP) General Site](https://bsp.gov.ph) - Central bank data and financial policies.
+- [Trading Economics - Philippines Stock Market](https://tradingeconomics.com/philippines/stock-market) - Real-time and historical stock market data.
+- [Philippine Stock Exchange (PSE) Edge](https://edge.pse.com.ph) - Official disclosure portal of the PSE.
+- [Simply Wall St - Philippines](https://simplywall.st/markets/ph) - Philippine stock market analysis and insights.
+- [TradingView - PSEI](https://www.tradingview.com/symbols/PSE-PSEI/) - Charting and financial data for the PSE Composite Index.
+- [Investing.com - PSE Composite Historical Data](https://www.investing.com/indices/philippines-pse-composite-historical-data) - Historical financial metrics for the PSEi.
+- [Inquirer Business - Stock Market News Impact](https://business.inquirer.net/551507/corruption-woes-wiped-out-p1-7-trillion-wealth-in-stock-market-sec) - Example news data affecting market capitalization.
+
+## Infrastructure and Civil Works
+- [DPWH Infrastructure Projects](https://www.dpwh.gov.ph/dpwh/projects/infrastructure) - Database of Department of Public Works and Highways projects.
+- [BetterGov Flood Control Projects](https://bettergov.ph/flood-control-projects/table) - Tracking of flood control initiatives.
+- [Google Trends - Flood Control Project (PH)](https://trends.google.com/trends/explore?geo=PH&q=flood%20control%20project&hl=en) - Public search interest on flood control.
+
+## Public Health Data
+- [COVID Data via DOH Data Drop](https://drive.google.com/drive/folders/1ZPPcVU4M7T-dtRyUceb0pMAd8ickYf8o) - Official Department of Health repository for COVID-19 data.
+- [DOH Health Facilities Database](https://sites.google.com/view/doh-hfdb/facilities) - Official registry of health facilities in the Philippines.
+- [List of Hospitals in the Philippines (Wikipedia)](https://en.wikipedia.org/wiki/List_of_hospitals_in_the_Philippines) - Open-source compilation of PH hospitals.
+- [Dengue Cases in the Philippines (Kaggle)](https://www.kaggle.com/datasets/vincentgupo/dengue-cases-in-the-philippines) - Granular datasets regarding historical dengue outbreaks.
+- [WHO Immunization Data - Philippines](https://immunizationdata.who.int/dashboard/regions/western-pacific-region/PHL) - Vaccination coverage and statistics.
+
+## Education Data
 - [Department of Education Open Data](https://www.deped.gov.ph/machine-ready-files/) - Data on school characteristics and assessment outcomes at school- and division-level.
+- [List of Colleges and Universities in the Philippines](https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_the_Philippines) - Directory of higher education institutions.
+- [List of State Schools, Colleges and Universities](https://en.wikipedia.org/wiki/List_of_state_schools,_colleges_and_universities_in_the_Philippines) - Focus on publicly-funded higher education.
+- [Category: Lists of Universities and Colleges (PH)](https://en.wikipedia.org/wiki/Category:Lists_of_universities_and_colleges_in_the_Philippines) - Assorted localized lists of academic institutions.
 
-## Environmental, Geographic, and Natural Resources Data
+## OFW and Migration Data
+- [CFO: Statistical Profile of Registered Filipino Emigrants (1981-2020)](https://data.gov.ph/index/public/dataset/Commission%20of%20Filipino%20Overseas:%20Statistical%20Profile%20Of%20Registered%20Filipino%20Emigrants%20%5B1981-2020%5D/q8o5akrp-ers2-7hag-m3ds-h7eki6wqhqs9) - Long-term emigration data from the Commission on Filipinos Overseas.
+- [CFO: Statistical Profile of Spouses & Partners of Foreign Nationals (1989-2020)](https://data.gov.ph/index/public/dataset/Commission%20of%20Filipino%20Overseas:%20Statistical%20Profile%20Of%20Spouses%20And%20Other%20Partners%20Of%20Foreign%20Nationals%20%5B1989-2020%5D/7nvukvob-oa0n-ni1v-jqgi-ut6pf6ubq92a) - Data on CFO-registered marriage migrants.
 
+---
+
+# International & Global Data Sources
+
+## General, Multipurpose, and Governance
+- [World Bank Development Indicators](https://databank.worldbank.org/source/world-development-indicators) - Primary collection of development indicators compiled from officially-recognized international sources.
+- [Worldwide Governance Indicators](https://www.worldbank.org/en/publication/worldwide-governance-indicators) - Data on governance quality for over 200 countries.
+- [UN Statistics Division](https://unstats.un.org/UNSDWebsite/) - Global statistical databases and publications.
+- [CIA World Factbook](https://www.cia.gov/the-world-factbook/) - Essential global facts and demographics.
+- [GADM Data](https://gadm.org/data.html) - Detailed maps and data of administrative areas of countries (GIS).
+- [Google Datasets Cloud](https://cloud.google.com/datasets) & [Google Dataset Search](https://datasetsearch.research.google.com/) - Search engines and hosting for vast dataset arrays.
+- [BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data) - Large public datasets queryable via SQL.
+
+## Environment, Climate, and Geography
+- [Our World in Data (Philippines filtered)](https://ourworldindata.org/data?countries=Philippines) - Extensive global research and data, filterable by country.
+- [Open-Meteo](https://open-meteo.com/) - Open-source weather API and historical weather data.
+- [Berkeley Earth Policy Insights](https://berkeleyearth.org/policy-insights/) - Data on global temperature and climate change.
+- [Global Forest Watch](https://www.globalforestwatch.org/dashboards/global/) - Real-time data and tracking of global deforestation.
+- [EM-DAT International Disaster Database](https://public.emdat.be/) - Core database on global natural and technological disasters.
+- [NOAA Climate & Weather Data](https://www.ncei.noaa.gov/products) - Extensive datasets from the US National Oceanic and Atmospheric Administration.
 - [HydroSheds Data](https://www.hydrosheds.org/) - Hydrological data and high-resolution mapping.
-- [Earthquake Data](https://earthquake.usgs.gov/data/) - Seismic activity data from the United States Geological Survey.
-- [Hazard Data](https://wesr.unepgrid.ch/?project=MX-XVK-HPH-OGN-HVE-GGN&language=en) - Data from the World Environment Situation Room.
-- [Natural Resources Data](https://resourcewatch.org/) - Datasets related to the Earth’s natural resources.
-- [Typhoon Data](https://typhoon2000.ph/) - Tracking and information on typhoons affecting the Philippines.
-- [Climate Data](https://www.ncdc.noaa.gov/ibtracs/) - Climate datasets from the National Oceanic and Atmospheric Administration (NOAA).
-- [Land Cover by ESRI](https://livingatlas.arcgis.com/landcoverexplorer/) - Worldwide data on land cover from Esri.
-- [Marine Boundaries](https://www.marineregions.org/) - Detailed information on global marine regions.
-- [Coral Reefs](https://allencoralatlas.org/atlas/#4.12/8.7755/124.8789) - Data and mapping of coral reefs.
+- [Earthquake Data (USGS)](https://earthquake.usgs.gov/data/) - Seismic activity tracking.
+- [Typhoon Data (Typhoon2000)](https://typhoon2000.ph/) - Archival and tracking data for Western Pacific typhoons.
 
-## Economic and Social Data
+## Economy, Infrastructure & Competitiveness
+- [OECD Data Explorer](https://data-explorer.oecd.org/) - Indicators on economics, education, and environment from the OECD.
+- [World Bank GDP per Capita (PPP)](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD) - Economic comparative data.
+- [WEF Global Competitiveness Report](https://www.weforum.org/publications/the-global-competitiveness-report-2020/) - Assessment of the drivers of productivity and long-term economic growth.
+- [IEA Data and Statistics](https://www.iea.org/data-and-statistics) - Global energy market data.
+- [WASH Data (Household)](https://washdata.org/data/household) - Global metrics on water, sanitation, and hygiene.
+- [Numbeo Cost of Living](https://www.numbeo.com/cost-of-living/) - Global database of consumer prices and standard of living metrics.
 
-- [Economic and Social Database](https://econdb.pids.gov.ph/tablecategories/index/3) - Economic and social data provided by the Philippine Institute for Development Studies.
-
-## General and Multi-Purpose Data Sources
-
-- [Google Datasets](https://cloud.google.com/datasets) - Explore datasets offered by Google Cloud.
-- [Google Research Datasets](https://datasetsearch.research.google.com/) - Search engine for research datasets.
-- [BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data) - Access to various public datasets through Google BigQuery.
-- [Public API Lists for Data Engineering](https://github.com/public-api-lists/public-api-lists) - List of public APIs useful for data engineering projects.
-- [GADM Data](https://gadm.org/data.html) - Detailed maps and data of administrative areas of countries, useful for GIS and mapping projects.
-
-## Health and Life Sciences Data
-
-- [World Health Organization (WHO) Collections](https://www.who.int/data/collections) - Global health data from the World Health Organization.
-- [Healthcare Images](https://cloud.google.com/healthcare-api/docs/resources/public-datasets/idc) - Public datasets of healthcare images.
+## Public Health & Life Sciences
+- [WHO Global Health Collections](https://www.who.int/data/collections) - Global health statistics.
+- [WHO Triple Billion Dashboard](https://data.who.int/dashboards/global-progress/triple-billion?n=o) - Progress towards global health goals.
+- [Global Burden of Disease Data (IHME)](https://www.healthdata.org/research-analysis/gbd-data) - Comprehensive metrics on global mortality and disability.
+- [Our World in Data: Annual Deaths by Cause](https://ourworldindata.org/grapher/annual-number-of-deaths-by-cause) - Historical mortality data.
+- [Our World in Data: Global Vaccination Coverage](https://ourworldindata.org/grapher/global-vaccination-coverage?tab=chart&country=~PHL) - Immunization trends.
+- [Healthcare Images (Google Cloud)](https://cloud.google.com/healthcare-api/docs/resources/public-datasets/idc) - Medical imaging public datasets.
 - [Genome Datasets](https://www.internationalgenome.org/data) - Data from the International Genome project.
 
-## Climate and Earth Sciences Data
+## Education and Inequality
+- [UNESCO UIS Data Browser](https://databrowser.uis.unesco.org/) - Global education, science, and culture statistics.
+- [World Inequality Database on Education (WIDE)](https://www.education-inequalities.org/) - Highlights disparities in education across countries.
+- [Human Capital Index (Wikipedia)](https://en.wikipedia.org/wiki/Human_Capital_Index) - Summaries and sources for human capital rankings.
 
-- [NOAA Data Products](https://www.ncei.noaa.gov/products) - Datasets from the National Oceanic and Atmospheric Administration.
-- [Climate Data](https://www.climate.gov/maps-data/all) - Comprehensive climate datasets.
+## Graft, Corruption, and Human Rights
+- [Transparency International CPI](https://www.transparency.org/en/cpi/2024) - Corruption Perceptions Index ranking global public sector corruption.
+- [UNU-WIDER World Income Inequality Database](https://www.wider.unu.edu/data) - Comprehensive data on income inequality globally.
+- [V-Dem Human Rights Index (OWID)](https://ourworldindata.org/grapher/human-rights-index-vdem) - Varieties of Democracy project scores.
+- [UCDP (Uppsala Conflict Data Program)](https://ucdp.uu.se/) - Data on organized violence and armed conflict.
+- [ACLED Data](https://acleddata.com/) - Armed Conflict Location & Event Data Project.
+- [UNODC Data](https://dataunodc.un.org/) - United Nations Office on Drugs and Crime statistics.
 
-## Miscellaneous and Other Data Resources
+## Travel, Tourism, and Migration
+- [UN Tourism Statistics](https://www.untourism.int/tourism-statistics/tourism-statistics-database) - Global inbound, outbound, and domestic tourism data.
+- [World Bank Tourism Data](https://databank.worldbank.org/id/f1ddbc94) - International tourism metrics.
+- [OECD Tourism Receipts and Spending](https://www.oecd.org/en/data/indicators/tourism-receipts-and-spending.html) - Economic impact of tourism.
+- [World Tourism Rankings (Wikipedia)](https://en.wikipedia.org/wiki/World_Tourism_rankings) - Open aggregation of top tourist destinations.
+- [Henley Passport Index](https://www.henleyglobal.com/passport-index/ranking) - Global passport strength and visa-free access rankings.
+- [BetterGov Travel Visa Data](https://bettergov.ph/travel/visa?view=grid) - Requirements and visa statistics.
+- [World Migration Report (IOM)](https://worldmigrationreport.iom.int/what-we-do/world-migration-report-2024-chapter-2/international-migrants-numbers-and-trends) - Trends and numbers of international migrants.
+- [UN International Migrant Stock](https://www.un.org/development/desa/pd/content/international-migrant-stock) - Data on foreign-born populations globally.
 
-- [Unicef Data Collections](https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/) - Data on global child welfare from UNICEF.
-- [US Population Data](https://www.bls.gov/cps/tables.htm) - Population statistics from the US Bureau of Labor Statistics.
-- [Stanford Open Policing Project](https://openpolicing.stanford.edu/) - Data on police traffic stops in the United States.
-- [Scikit-Learn Datasets](https://scikit-learn.org/stable/datasets/toy_dataset.html) - Datasets available in the Scikit-Learn library for machine learning.
-- [PyTorch Datasets](https://pytorch.org/vision/stable/datasets.html) - Datasets available in the PyTorch library for machine learning.
-- [Huggingface Datasets](https://huggingface.co/datasets) - Hub for various machine learning datasets.
-- [Wikipedia ML Research Datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research) - List of datasets for machine learning research.
-- [OECD](https://data.oecd.org/) - Data from the Organisation for Economic Co-operation and Development.
-- [Datahub](https://awesomedataengineering.com/) - Free and open instance for hosting and sharing datasets.
-- [Kaggle](https://www.kaggle.com/) - Platform for data science competitions, hosting, publishing, and analyzing data.
-- [data.world](https://data.world/) - Social network for hosting and sharing data.
-- [Academic Torrents](http://academictorrents.com/) - BitTorrent-based platform for sharing large datasets in the academic community.
+## Entertainment, Movies, and Music
+- [IMDb Non-Commercial Datasets](https://developer.imdb.com/non-commercial-datasets/) - Bulk datasets containing movie, TV, and crew information.
+- [Box Office Mojo](https://www.boxofficemojo.com/date) - Box office tracking and historical gross data.
+- [The Numbers (Movie Budgets & Box Office)](https://www.the-numbers.com/) - Detailed financial data for the film industry.
+- [Rotten Tomatoes Movies Dataset (Reddit)](https://www.reddit.com/r/datasets/comments/1ecj6m2/dataset_for_rotten_tomatoes_movies_1970_2024/) - Community-shared dataset of movie ratings.
+- [OMDb API](https://www.omdbapi.com/) - Open Movie Database API for fetching film details.
+- [Wikidata SPARQL Queries](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples) - Queryable graph database containing vast entertainment metadata.
+- [GWI Music Streaming Around the World](https://www.gwi.com/reports/music-streaming-around-the-world) - Insights and reports on music consumption habits.
+- [Almost Million Songs Dataset (Kaggle)](https://www.kaggle.com/datasets/anantsinghal786/almost-million-songs-dataset-2025-16-features) - Large-scale dataset with audio features.
+- [Spotify Music Dataset (DataCamp)](https://www.datacamp.com/datalab/datasets/dataset-r-spotify-music) - Data for analyzing Spotify trends.
+- [Spotify Charts Dataset (Kaggle)](https://www.kaggle.com/datasets/dhruvildave/spotify-charts) - Historical ranking of top songs globally and regionally.
 
+## Machine Learning, Tech & Open Source
+- [Scikit-Learn Toy Datasets](https://scikit-learn.org/stable/datasets/toy_dataset.html) - Standard datasets included in Scikit-Learn for ML practice.
+- [PyTorch Datasets](https://pytorch.org/vision/stable/datasets.html) - Datasets readily available in the PyTorch vision library.
+- [Huggingface Datasets](https://huggingface.co/datasets) - Massive hub for NLP, Vision, and Audio datasets.
+- [Wikipedia ML Research Datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research) - Directory of common ML benchmarking datasets.
+- [Academic Torrents](http://academictorrents.com/) - BitTorrent-based platform for sharing extremely large research datasets.
+- [Kaggle Datasets Hub](https://www.kaggle.com/) - Thousands of user-uploaded datasets for data science.
+- [data.world](https://data.world/) - Collaborative data catalog and sharing platform.
+- [Datahub](https://awesomedataengineering.com/) - Resource and hosting instance for data engineering.
+- [Public API Lists for Data Engineering](https://github.com/public-api-lists/public-api-lists) - Directory of public APIs for building data pipelines.
+- [ITU Statistics](https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx) / [ITU-D](https://www.itu.int/itu-d/sites/statistics/) - Global data on telecommunication and ICT developments.
