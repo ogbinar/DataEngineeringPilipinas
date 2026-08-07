@@ -20,6 +20,9 @@ description: |
 - [Awesome Data Philippines by BNHR](https://github.com/benhur07b/awesome-data-philippines) - Curated collection of Philippine data resources.
 - [Philippines Population Projection 2020-2025 (Admin3)](https://data.humdata.org/dataset/philippines-population-projection-2020-2025-admin3) - Population projections at subnational levels.
 
+## Public Draw and Lottery Data
+- [LottoLens PH PCSO Historical Draw Results Dataset](https://lottolensph.com/research/pcso-results-data-coverage) - Independently compiled snapshot of 13,457 historical draw-result rows for nine Philippine digit and jackpot games, with row-level source URLs, methodology notes, a data dictionary, and a [direct CSV download](https://remo65588-boop.github.io/lottolens-ph-public-data/data/verified-pcso-draw-results-snapshot.csv). The dataset is for information and research, not prediction.
+
 ## Social Welfare (DSWD) & Inclusion
 - [Report on 4Ps DSWD Briefer](https://ictstatistics.dict.gov.ph/wp-content/uploads/2025/08/Report-on-4Ps-DSWD-Briefer.pdf) - Overview of the Pantawid Pamilyang Pilipino Program.
 - [DSWD Major Programs and Projects Beneficiaries (2020)](https://transparency.dswd.gov.ph/wp-content/uploads/2020/09/Major-Programs-and-Projects-Beneficiaries-2020.pdf) - Data on beneficiaries of DSWD programs.
