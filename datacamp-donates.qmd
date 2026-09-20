@@ -56,7 +56,7 @@ Slots are limited and managed by volunteer administrators. Access may be revoked
 
 1. **Submission** — Complete and submit the application form with accurate information.
 2. **Batch Review** — Applications are reviewed in batches by volunteer administrators. This may take some time; patience is appreciated.
-3. **Status Update** — Check your status anytime via the [Scholarship Status Checker](https://sites.google.com/view/depdatacampstatus/home).
+3. **Status Update** — Check your status anytime via the [Scholarship Status Checker](https://sites.google.com/view/depxdatacamp/home).
 4. **Invitation** — Approved applicants will receive a DataCamp invitation via email. Accept within 2 weeks.
 5. **Onboarding** — Join the [official DataCamp GC](https://m.me/ch/AbaaFmzyN7tstTS9/) and start learning!
 
@@ -72,7 +72,7 @@ The scholarship is available to all Filipino members of Data Engineering Pilipin
 
 **Q2: How will I know the status of my application?**
 
-Check your application status anytime using the [Scholarship Status Checker](https://sites.google.com/view/depdatacampstatus/home). Here's what each status means:
+Check your application status anytime using the [Scholarship Status Checker](https://sites.google.com/view/depxdatacamp/home). Here's what each status means:
 
 **Accepted**
 Your DataCamp application has been approved. Please wait for the official acceptance email.
@@ -214,7 +214,7 @@ You have two options:
 
 **Q15: Where can I check the status of my scholarship application?**
 
-Use the [Scholarship Status Checker](https://sites.google.com/view/depdatacampstatus/home) and enter your details to view the latest update on your application.
+Use the [Scholarship Status Checker](https://sites.google.com/view/depxdatacamp/home) and enter your details to view the latest update on your application.
 
 ---
 
