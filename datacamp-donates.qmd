@@ -22,7 +22,7 @@ We're proud to partner with DataCamp Donates to offer exclusive scholarships for
 
 ::: {.callout-tip}
 ## Check Your Application Status
-Already applied? Track the status of your application using our **[Scholarship Status Checker](https://sites.google.com/view/depdatacampstatus/home)**.
+Already applied? Track the status of your application using our **[Scholarship Status Checker](https://sites.google.com/view/depxdatacamp/home)**.
 :::
 
 ::: {.callout-note}
