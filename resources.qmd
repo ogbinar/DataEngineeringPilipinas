@@ -47,6 +47,7 @@ description: |
 - [Essential Spreadsheets Book 1 - University of York](https://www.york.ac.uk/it-services/coursefiles/booklets/Essential%20spreadsheets_Book-1.pdf) - Introduction to Excel.
 - [Essential Spreadsheets Book 2 - University of York](https://www.york.ac.uk/it-services/coursefiles/booklets/Essential%20spreadsheets_Book-2.pdf) - Advanced Excel techniques.
 - [Excel Video Training - Microsoft](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?ui=en-us&rs=en-us&ad=us) - Official tutorials from Microsoft.
+- [Excel Easy](https://www.excel-easy.com) - A free, step-by-step Excel tutorial covering basic to advanced topics like formulas, pivot tables, and VBA.
 
 ### Google Sheets for Analysis
 
