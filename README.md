@@ -4,13 +4,31 @@ Landing page for dataengineering.ph
 
 ## Local Setup and Preview
 
-1. **Install Quarto** (macOS):
+1. **Install Quarto**:
 
-    ```
-    brew install quarto
-    ```
+    - macOS:
 
-2. **Install R dependencies** (required for .Rmd files):
+        ```
+        brew install quarto
+        ```
+
+    - Linux / WSL (Debian or Ubuntu): download the `linux-amd64.deb` from the [Quarto releases](https://github.com/quarto-dev/quarto-cli/releases), then:
+
+        ```
+        sudo apt install ./quarto-<version>-linux-amd64.deb
+        ```
+
+    - Windows: run the installer from [quarto.org](https://quarto.org/docs/get-started/).
+
+    Check the install with `quarto check`.
+
+2. **Install R** (required for the .Rmd files under `content/table_index/`):
+
+    - macOS: `brew install r`
+    - Linux / WSL (Debian or Ubuntu): `sudo apt install r-base`
+    - Windows: run the installer from [CRAN](https://cloud.r-project.org/).
+
+3. **Install R dependencies**:
 
     ```
     R -e 'install.packages(c("knitr","rmarkdown"), repos="https://cloud.r-project.org")'
@@ -22,13 +40,24 @@ Landing page for dataengineering.ph
     R -e 'renv::restore()'
     ```
 
-3. **Run the site locally**:
+4. **Run the site locally**:
 
     ```
     quarto preview
     ```
 
     The preview server runs at `http://localhost:5548`.
+
+### Preview a single page without R
+
+`quarto preview` renders the whole site, including the .Rmd files, so it needs R. If you only changed one page, you can skip steps 2–3: render just that page into `_site/` and serve the folder:
+
+```
+quarto render partners.qmd
+python3 -m http.server 8000 -d _site
+```
+
+Then open `http://localhost:8000/partners.html`. Links to pages you haven't rendered won't work.
 
 # Contribution Guidelines for Data Engineering Pilipinas Quarto Website
 
