@@ -7,7 +7,7 @@ description: "We aim to connect and collaborate with like-minded communities tha
 
 ---
 
-## Featured Partner
+## Featured Partners
 
 ### DataCamp Donates
 
@@ -46,6 +46,25 @@ Scholars are expected to:
 ::: {.callout-note}
 ## Interested in the Scholarship?
 View the full mechanics and apply via the **[DataCamp Donates Scholarship page](datacamp-donates.html)**.
+:::
+
+### WorldQuant University
+
+![](images/wqu-lockup-one-color@2x.webp){width=250}
+
+Data Engineering Pilipinas partners with **WorldQuant University (WQU)** to help community members access free, credentialed education in data science, AI, and financial engineering.
+
+#### About WorldQuant University
+
+[WorldQuant University](https://www.wqu.edu/) offers completely free online academic programs in quantitative and technical fields, with students and alumni in over 150 countries. Its offerings include:
+
+- **Labs** — credentialed programs such as the Data Science Lab, Deep Learning Fundamentals Lab, and Computer Vision Lab
+- **Graduate certificate** — Applied AI Fundamentals
+- **Degree programs** — MSc in Financial Engineering and MSc in Strategic AI and Innovation
+
+::: {.callout-note}
+## Application Is Still Open
+DEP members can sign up through our community referral link: **[Apply to WorldQuant University](https://learn.wqu.edu/v2/signup?referral=DATAENGINEERING-PH)**.
 :::
 
 ---
