@@ -25,6 +25,7 @@ description: |
 
 - [W3 Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp) - A comprehensive tutorial for SQL beginners.
 - [SQLBolt](https://www.sqlbolt.com/) - Practice with real-world datasets and challenging SQL problems to deepen your skills.
+- [SQLMaxx Learn](https://sqlmaxx.com/learn-sql/) - A free SQL course with 66 lessons and 615 practice problems. The idea behind it: you learn SQL by writing it over and over, with an instant right-or-wrong, until the patterns become automatic. Your queries run on real PostgreSQL in the browser. Master all 66 lessons to earn a free certificate, with no exam. No account needed to start.
 
 ## Interactive SQL Learning Games
 
@@ -32,6 +33,7 @@ description: |
 - [SQL Island](https://sql-island.informatik.uni-kl.de/) - Navigate through an adventure on SQL Island to learn SQL commands. Remember to change the language to English via the hamburger icon.
 - [SchemaVerse](https://schemaverse.com/) - A space-based strategy game where you use SQL commands to control your fleet and conquer the universe.
 - [Lost at SQL - The SQL Learning Game](https://lost-at-sql.therobinlord.com/) - Enhance your SQL skills through this engaging learning game.
+- [SQL Block Game](https://sqlmaxx.com/sql-games/sql-block-game/) - Write the SQL query for each falling card before it lands. Real PostgreSQL in the browser, no signup. Best on a desktop.
 
 ## SQL Practice and Challenges
 
