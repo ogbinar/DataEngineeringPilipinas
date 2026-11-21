@@ -30,6 +30,7 @@ description: |
 - **[AWS Kinesis](https://aws.amazon.com/kinesis/)**: A cloud-based service for real-time data processing.
 - **[Airbyte](https://github.com/airbytehq/airbyte)**: An open-source data integration platform for ELT pipelines.
 - **[Pentaho Data Integration (Kettle)](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics.html)**: Includes both a core data integration engine and a graphical user interface for defining jobs and transformations.
+- **[Apache SeaTunnel](https://seatunnel.apache.org/)**: An open-source data integration tool for batch and streaming jobs. This [MySQL CDC to PostgreSQL lab](https://danielnadia.substack.com/p/mysql-cdc-to-postgresql-with-apache) shows how to check that inserts, updates, and deletes arrive in the target after the initial snapshot.
 
 ## Data Formats
 - **[Apache Avro](https://avro.apache.org)**: A serialization format ideal for streaming data pipelines.
